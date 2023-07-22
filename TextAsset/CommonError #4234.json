@@ -1,0 +1,21 @@
+{
+  "NormalError_Title": "錯誤",
+  "ErrorCode_Text": "錯誤代碼",
+  "BackToTitle_Message": "發生了錯誤。\n請從標題畫面重新開始遊戲。\n\n錯誤代碼：\u000e\u0002\u0005\u0004Ā촀",
+  "StringInputError_TooLong": "您輸入的用戶名稱太長。\n用戶名稱的字數上限為6個全形字\n或12個半形字。",
+  "StringInputError_CharNotAllowed": "用戶名稱中包含無法使用的文字。\n請輸入其他的用戶名稱。",
+  "StringInputError_CharSetNotAllowed": "這個用戶名無法使用。\n請輸入其他的用戶名稱。",
+  "StringInputError_NgWord": "這個用戶名無法使用。\n請輸入其他的用戶名稱。",
+  "CommonError_NickNameTooLongPopup_Text": "您輸入的暱稱太長。\n暱稱的字數上限為6個全形字\n或12個半形字。",
+  "CommonError_NickNameCharNotAllowedPopup_Text": "暱稱中包含無法使用的文字。\n請輸入其他暱稱。",
+  "CommonError_NickNameCharSetNotAllowedPopup_Text": "這個暱稱無法使用。\n請輸入其他暱稱。",
+  "CommonError_NickNameNgWordPopup_Text": "這個暱稱無法使用。\n請輸入其他暱稱。",
+  "CommonError_SleepMemoNGWordPopup_Text": "含有無法使用的字詞。\n請重新輸入筆記。",
+  "CommonError_TeamNameNgWordPopup_Text": "這個隊伍名稱無法使用。\n請輸入其他的隊伍名稱。",
+  "CommonError_TimeProblem": "裝置目前設定在過去的時間。\n\n請正確設定裝置的時間後，\n再從標題畫面重新開始遊戲。",
+  "CommonError_ServerBusy": "由於伺服器正在忙碌中，\n即將返回標題畫面。\n請稍後再重新開始遊戲。\n\n錯誤代碼：\u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_AdmissionRestriction_Title": "伺服器忙碌中",
+  "CommonError_AdmissionRestriction_Text_NewUser": "由於伺服器正在忙碌中，\n目前暫時不開放新用戶登錄。\n請稍後再試一次。",
+  "CommonError_AdmissionRestriction_Text_AlreadyUser": "由於伺服器正在忙碌中，\n目前暫時限制遊戲的遊玩人數。\n請稍後再試一次。",
+  "CommonError_AdmissionRestriction_Button": "查看通知"
+}
