@@ -1,0 +1,20 @@
+{
+  "SleepRegularityDetail_ContentDesc_InvalidData": "睡眠資料不足。\n若要評價睡眠節奏，\n一週需要有至少4天份的睡眠資料。",
+  "SleepRegularityDetail_ContentDesc_NoData": "這段期間內沒有任何睡眠資料。\n若要評價睡眠節奏，\n一週需要有至少4天份的睡眠資料。",
+  "SleepRegularityDetail_Label_NoData": "No Data",
+  "SleepRegularityDetail_GraphOverlay_Date": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_GraphOverlay_Duration": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphOverlay_Time": "\u000e\t\u0000\u0010\fhhhmmm\u0000～\u000e\t\u0000\u0010\fhhhmmm\u0001",
+  "SleepRegularityDetail_HeadTile": "睡眠節奏",
+  "SleepRegularityDetail_HeadPeriod": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000～\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0001",
+  "SleepRegularityDetail_ContentDesc_1": "上週的睡眠相當有規律！\n在這週也請繼續維持，\n讓每天都有大約相同的睡眠長度。",
+  "SleepRegularityDetail_DataTitle": "1週的回顧資料",
+  "SleepRegularityDetail_SleepTimeLabel": "睡眠時間的長度",
+  "SleepRegularityDetail_MidTimeSleepLabel": "睡眠中央時刻",
+  "SleepRegularityDetail_WeekTitle": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000 第\u000e\u0002\u0000\u0002촁週",
+  "SleepRegularityDetail_WeekItemDateNum": "\u000e\u0002\u0000\u0002촀",
+  "SleepRegularityDetail_WeekItemDate": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_WeekItemSleepTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphDayOfWeek": "\u000e\t\u0001\u0004Ā촀",
+  "SleepRegularityDetail_GraphTimeScale": "\u000e\t\u0000\f\bh:mm\u0000"
+}
