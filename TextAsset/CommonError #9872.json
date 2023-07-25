@@ -17,5 +17,6 @@
   "CommonError_AdmissionRestriction_Title": "伺服器忙碌中",
   "CommonError_AdmissionRestriction_Text_NewUser": "伺服器正在忙碌中，\n所以新用戶的登錄已暫停。\n請稍後再試一次。",
   "CommonError_AdmissionRestriction_Text_AlreadyUser": "伺服器正在忙碌中，\n所以遊戲暫時無法遊玩。\n請稍後再試一次。",
-  "CommonError_AdmissionRestriction_Button": "查看通知"
+  "CommonError_AdmissionRestriction_Button": "查看通知",
+  "CommonError_MaybeTimeSettingWrong_Text": "裝置的日期／時間設定，\n有可能與遊戲中的設定不符。\n請確認裝置的日期／時間設定，\n過一段時間後再試一次。\n錯誤代碼：\u000e\u0002\u0005\u0004Ā촀"
 }

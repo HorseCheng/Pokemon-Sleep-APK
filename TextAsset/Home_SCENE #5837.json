@@ -160,5 +160,7 @@
   "HomeScene_PremiumPassFinished_Popup_Title": "進階票證結束",
   "HomeScene_PremiumPassFinished_Popup_Text": "進階票證的有效期限\n\u000e\u0000\u0003\u0004毿Ｗ已結束\u000e\u0000\u0003\u0004\u0000＀",
   "HomeScene_PremiumPassFinished_Popup_SubText": "已返回一般票證。\n期待您下次再度使用。",
-  "HomeSceneGraphicText_PremiumPass": "PREMIUM\nPASS"
+  "HomeSceneGraphicText_PremiumPass": "PREMIUM\nPASS",
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Title": "フィールド移動後に報告できます",
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Text": "「未報告の睡眠リサーチ」は\nフィールド移動後に報告することができます。\nフィールド移動後でも、\n移動前のフィールドやカビゴンの状況を\n引き継いでリサーチできますので、ご安心ください。"
 }
