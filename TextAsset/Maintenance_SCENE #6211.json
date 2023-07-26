@@ -30,7 +30,7 @@
   "Maintenance_NoticePopup_Message": "目前正在進行維護作業。",
   "MaintenanceSleep_FinishPopup_Title": "正在進行維護作業",
   "MaintenanceSleep_FinishPopup_Message_1": "已完成睡眠測量",
-  "MaintenanceSleep_FinishPopup_Message_2": "目前正在進行維護作業。\n雖然睡眠測量已\u000e\u0000\u0003\u0004ꈝ￿成功\u000e\u0000\u0003\u0004\u0000＀，\n但需在維護作業結束後才能報告資料。\n請等待維護結束。",
+  "MaintenanceSleep_FinishPopup_Message_2": "目前正在進行維護作業。\n雖然睡眠測量已\u000e\u0000\u0003\u0004ꈝ￿成功\u000e\u0000\u0003\u0004\u0000＀，\n但需在維護作業結束後才能報告資料。\n請等待維護作業結束。",
   "MaintenanceSleep_FinishPopup_Button": "開啟等待畫面",
   "MaintenanceSleep_NeedTutorialDone_Title": "測量睡眠",
   "MaintenanceSleep_NeedTutorialDone_Message": "完成新手教學後\n就能使用這個功能。",
