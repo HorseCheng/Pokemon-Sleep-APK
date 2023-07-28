@@ -1,0 +1,1591 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Bulbasaur",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 2,
+            "name": "Ivysaur",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 3,
+            "name": "Venusaur",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 4,
+            "name": "Charmander",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 8,
+            "name": "Wartortle",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 9,
+            "name": "Blastoise",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 10,
+            "name": "Caterpie",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 11,
+            "name": "Metapod",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 12,
+            "name": "Butterfree",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 19,
+            "name": "Rattata",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 20,
+            "name": "Raticate",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 23,
+            "name": "Ekans",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand",
+                "stand-reverse"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 24,
+            "name": "Arbok",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 25,
+            "name": "Pikachu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 26,
+            "name": "Raichu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 39,
+            "name": "Jigglypuff",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 40,
+            "name": "Wigglytuff",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 50,
+            "name": "Diglett",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 51,
+            "name": "Dugtrio",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 52,
+            "name": "Meowth",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 53,
+            "name": "Persian",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 54,
+            "name": "Psyduck",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 55,
+            "name": "Golduck",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 56,
+            "name": "Mankey",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 57,
+            "name": "Primeape",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 58,
+            "name": "Growlithe",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 59,
+            "name": "Arcanine",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 69,
+            "name": "Bellsprout",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 70,
+            "name": "Weepinbell",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 71,
+            "name": "Victreebel",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 74,
+            "name": "Geodude",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 75,
+            "name": "Graveler",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 76,
+            "name": "Golem",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 79,
+            "name": "Slowpoke",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 80,
+            "name": "Slowbro",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 81,
+            "name": "Magnemite",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 82,
+            "name": "Magneton",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 84,
+            "name": "Doduo",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 85,
+            "name": "Dodrio",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 92,
+            "name": "Gastly",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 93,
+            "name": "Haunter",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 94,
+            "name": "Gengar",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 95,
+            "name": "Onix",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 104,
+            "name": "Cubone",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 105,
+            "name": "Marowak",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 115,
+            "name": "Kangaskhan",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 122,
+            "name": "MrMime",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 127,
+            "name": "Pinsir",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 132,
+            "name": "Ditto",
+            "sleepActions": [
+                "sleep-1",
+                "sleep-2",
+                "sleep-3",
+                "sleep-4",
+                "sleep-5",
+                "sleep-6",
+                "sleep-7",
+                "sleep-8",
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 133,
+            "name": "Eevee",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 134,
+            "name": "Vaporeon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 135,
+            "name": "Jolteon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 136,
+            "name": "Flareon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 147,
+            "name": "Dratini",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 148,
+            "name": "Dragonair",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 149,
+            "name": "Dragonite",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 151,
+            "name": "Mew",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 152,
+            "name": "Chikorita",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 153,
+            "name": "Bayleef",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 154,
+            "name": "Meganium",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 155,
+            "name": "Cyndaquil",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 156,
+            "name": "Quilava",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 157,
+            "name": "Typhlosion",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 158,
+            "name": "Totodile",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 159,
+            "name": "Croconaw",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "move-reverse",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 160,
+            "name": "Feraligatr",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 172,
+            "name": "Pichu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 174,
+            "name": "Igglybuff",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 175,
+            "name": "Togepi",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 176,
+            "name": "Togetic",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 179,
+            "name": "Mareep",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 180,
+            "name": "Flaaffy",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 181,
+            "name": "Ampharos",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 185,
+            "name": "Sudowoodo",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand",
+                "stand-reverse"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 196,
+            "name": "Espeon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 197,
+            "name": "Umbreon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 199,
+            "name": "Slowking",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 202,
+            "name": "Wobbuffet",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 208,
+            "name": "Steelix",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 214,
+            "name": "Heracross",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 228,
+            "name": "Houndour",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 229,
+            "name": "Houndoom",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 246,
+            "name": "Larvitar",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 247,
+            "name": "Pupitar",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 248,
+            "name": "Tyranitar",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 287,
+            "name": "Slakoth",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 288,
+            "name": "Vigoroth",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 289,
+            "name": "Slaking",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 302,
+            "name": "Sableye",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 316,
+            "name": "Gulpin",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 317,
+            "name": "Swalot",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 333,
+            "name": "Swablu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 334,
+            "name": "Altaria",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 359,
+            "name": "Absol",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-normal-reverse",
+                "sleep-rare",
+                "sleep-rare-reverse"
+            ],
+            "homeActions": [
+                "move",
+                "move-reverse",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 360,
+            "name": "Wynaut",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 363,
+            "name": "Spheal",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 364,
+            "name": "Sealeo",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 365,
+            "name": "Walrein",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 438,
+            "name": "Bonsly",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 439,
+            "name": "MimeJr",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 447,
+            "name": "Riolu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 448,
+            "name": "Lucario",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 453,
+            "name": "Croagunk",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 454,
+            "name": "Toxicroak",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare-female",
+                "sleep-rare-male"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 462,
+            "name": "Magnezone",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 468,
+            "name": "Togekiss",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 470,
+            "name": "Leafeon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 471,
+            "name": "Glaceon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 700,
+            "name": "Sylveon",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-drowse-reverse",
+                "sleep-normal",
+                "sleep-normal-reverse",
+                "sleep-rare",
+                "sleep-rare-reverse"
+            ],
+            "homeActions": [
+                "move",
+                "move-reverse",
+                "stand"
+            ],
+            "isShiny": true
+        }
+    ]
+}

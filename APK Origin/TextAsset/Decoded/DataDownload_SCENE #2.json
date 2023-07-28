@@ -1,0 +1,9 @@
+{
+  "DataDownloadSceneController_Text_1": "ダウンロードエラー",
+  "DataDownloadSceneController_Text_2": "データのダウンロードエラーが\n発生しました。時間をおいてから\n再度、ダウンロードをお試しください",
+  "DataDownloadSceneController_Text_4": "端末の空き容量が不足しています\n空き容量を確認してください",
+  "DataDownloadSceneController_Text_5": "ダウンロードエラー",
+  "DataDownloadSceneController_Text_6": "データのダウンロードエラーが\n発生しました。時間をおいてから\n再度、ダウンロードをお試しください",
+  "DataDownloadSceneController_Text_8": "データのダウンロードが完了しました",
+  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000%(\u000e\u0002\t\u0004\u0001촁MB/\u000e\u0002\t\u0004\u0002촁MB)"
+}

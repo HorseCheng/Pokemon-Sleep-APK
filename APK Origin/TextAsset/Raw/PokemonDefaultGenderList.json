@@ -1,0 +1,7116 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"form_id": 0,
+			"name": "フシギダネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 2,
+			"form_id": 0,
+			"name": "フシギソウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 3,
+			"form_id": 0,
+			"name": "フシギバナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 4,
+			"form_id": 0,
+			"name": "ヒトカゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 5,
+			"form_id": 0,
+			"name": "リザード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 6,
+			"form_id": 0,
+			"name": "リザードン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 7,
+			"form_id": 0,
+			"name": "ゼニガメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 8,
+			"form_id": 0,
+			"name": "カメール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 9,
+			"form_id": 0,
+			"name": "カメックス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 10,
+			"form_id": 0,
+			"name": "キャタピー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 11,
+			"form_id": 0,
+			"name": "トランセル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 12,
+			"form_id": 0,
+			"name": "バタフリー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 13,
+			"form_id": 0,
+			"name": "ビードル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 14,
+			"form_id": 0,
+			"name": "コクーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 15,
+			"form_id": 0,
+			"name": "スピアー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 16,
+			"form_id": 0,
+			"name": "ポッポ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 17,
+			"form_id": 0,
+			"name": "ピジョン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 18,
+			"form_id": 0,
+			"name": "ピジョット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 19,
+			"form_id": 0,
+			"name": "コラッタ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 20,
+			"form_id": 0,
+			"name": "ラッタ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 21,
+			"form_id": 0,
+			"name": "オニスズメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 22,
+			"form_id": 0,
+			"name": "オニドリル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 23,
+			"form_id": 0,
+			"name": "アーボ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 24,
+			"form_id": 0,
+			"name": "アーボック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 25,
+			"form_id": 0,
+			"name": "ピカチュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 26,
+			"form_id": 0,
+			"name": "ライチュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 27,
+			"form_id": 0,
+			"name": "サンド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 28,
+			"form_id": 0,
+			"name": "サンドパン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 29,
+			"form_id": 0,
+			"name": "ニドラン♀",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 30,
+			"form_id": 0,
+			"name": "ニドリーナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 31,
+			"form_id": 0,
+			"name": "ニドクイン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 32,
+			"form_id": 0,
+			"name": "ニドラン♂",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 33,
+			"form_id": 0,
+			"name": "ニドリーノ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 34,
+			"form_id": 0,
+			"name": "ニドキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 35,
+			"form_id": 0,
+			"name": "ピッピ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 36,
+			"form_id": 0,
+			"name": "ピクシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 37,
+			"form_id": 0,
+			"name": "ロコン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 38,
+			"form_id": 0,
+			"name": "キュウコン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 39,
+			"form_id": 0,
+			"name": "プリン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 40,
+			"form_id": 0,
+			"name": "プクリン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 41,
+			"form_id": 0,
+			"name": "ズバット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 42,
+			"form_id": 0,
+			"name": "ゴルバット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 43,
+			"form_id": 0,
+			"name": "ナゾノクサ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 44,
+			"form_id": 0,
+			"name": "クサイハナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 45,
+			"form_id": 0,
+			"name": "ラフレシア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 46,
+			"form_id": 0,
+			"name": "パラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 47,
+			"form_id": 0,
+			"name": "パラセクト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 48,
+			"form_id": 0,
+			"name": "コンパン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 49,
+			"form_id": 0,
+			"name": "モルフォン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 50,
+			"form_id": 0,
+			"name": "ディグダ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 51,
+			"form_id": 0,
+			"name": "ダグトリオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 52,
+			"form_id": 0,
+			"name": "ニャース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 53,
+			"form_id": 0,
+			"name": "ペルシアン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 54,
+			"form_id": 0,
+			"name": "コダック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 55,
+			"form_id": 0,
+			"name": "ゴルダック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 56,
+			"form_id": 0,
+			"name": "マンキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 57,
+			"form_id": 0,
+			"name": "オコリザル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 58,
+			"form_id": 0,
+			"name": "ガーディ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 59,
+			"form_id": 0,
+			"name": "ウインディ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 60,
+			"form_id": 0,
+			"name": "ニョロモ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 61,
+			"form_id": 0,
+			"name": "ニョロゾ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 62,
+			"form_id": 0,
+			"name": "ニョロボン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 63,
+			"form_id": 0,
+			"name": "ケーシィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 64,
+			"form_id": 0,
+			"name": "ユンゲラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 65,
+			"form_id": 0,
+			"name": "フーディン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 66,
+			"form_id": 0,
+			"name": "ワンリキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 67,
+			"form_id": 0,
+			"name": "ゴーリキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 68,
+			"form_id": 0,
+			"name": "カイリキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 69,
+			"form_id": 0,
+			"name": "マダツボミ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 70,
+			"form_id": 0,
+			"name": "ウツドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 71,
+			"form_id": 0,
+			"name": "ウツボット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 72,
+			"form_id": 0,
+			"name": "メノクラゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 73,
+			"form_id": 0,
+			"name": "ドククラゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 74,
+			"form_id": 0,
+			"name": "イシツブテ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 75,
+			"form_id": 0,
+			"name": "ゴローン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 76,
+			"form_id": 0,
+			"name": "ゴローニャ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 77,
+			"form_id": 0,
+			"name": "ポニータ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 78,
+			"form_id": 0,
+			"name": "ギャロップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 79,
+			"form_id": 0,
+			"name": "ヤドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 80,
+			"form_id": 0,
+			"name": "ヤドラン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 81,
+			"form_id": 0,
+			"name": "コイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 82,
+			"form_id": 0,
+			"name": "レアコイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 83,
+			"form_id": 0,
+			"name": "カモネギ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 84,
+			"form_id": 0,
+			"name": "ドードー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 85,
+			"form_id": 0,
+			"name": "ドードリオ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 86,
+			"form_id": 0,
+			"name": "パウワウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 87,
+			"form_id": 0,
+			"name": "ジュゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 88,
+			"form_id": 0,
+			"name": "ベトベター",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 89,
+			"form_id": 0,
+			"name": "ベトベトン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 90,
+			"form_id": 0,
+			"name": "シェルダー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 91,
+			"form_id": 0,
+			"name": "パルシェン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 92,
+			"form_id": 0,
+			"name": "ゴース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 93,
+			"form_id": 0,
+			"name": "ゴースト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 94,
+			"form_id": 0,
+			"name": "ゲンガー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 95,
+			"form_id": 0,
+			"name": "イワーク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 96,
+			"form_id": 0,
+			"name": "スリープ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 97,
+			"form_id": 0,
+			"name": "スリーパー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 98,
+			"form_id": 0,
+			"name": "クラブ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 99,
+			"form_id": 0,
+			"name": "キングラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 100,
+			"form_id": 0,
+			"name": "ビリリダマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 101,
+			"form_id": 0,
+			"name": "マルマイン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 102,
+			"form_id": 0,
+			"name": "タマタマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 103,
+			"form_id": 0,
+			"name": "ナッシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 104,
+			"form_id": 0,
+			"name": "カラカラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 105,
+			"form_id": 0,
+			"name": "ガラガラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 106,
+			"form_id": 0,
+			"name": "サワムラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 107,
+			"form_id": 0,
+			"name": "エビワラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 108,
+			"form_id": 0,
+			"name": "ベロリンガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 109,
+			"form_id": 0,
+			"name": "ドガース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 110,
+			"form_id": 0,
+			"name": "マタドガス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 111,
+			"form_id": 0,
+			"name": "サイホーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 112,
+			"form_id": 0,
+			"name": "サイドン",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 113,
+			"form_id": 0,
+			"name": "ラッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 114,
+			"form_id": 0,
+			"name": "モンジャラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 115,
+			"form_id": 0,
+			"name": "ガルーラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 116,
+			"form_id": 0,
+			"name": "タッツー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 117,
+			"form_id": 0,
+			"name": "シードラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 118,
+			"form_id": 0,
+			"name": "トサキント",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 119,
+			"form_id": 0,
+			"name": "アズマオウ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 120,
+			"form_id": 0,
+			"name": "ヒトデマン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 121,
+			"form_id": 0,
+			"name": "スターミー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 122,
+			"form_id": 0,
+			"name": "バリヤード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 123,
+			"form_id": 0,
+			"name": "ストライク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 124,
+			"form_id": 0,
+			"name": "ルージュラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 125,
+			"form_id": 0,
+			"name": "エレブー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 126,
+			"form_id": 0,
+			"name": "ブーバー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 127,
+			"form_id": 0,
+			"name": "カイロス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 128,
+			"form_id": 0,
+			"name": "ケンタロス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 129,
+			"form_id": 0,
+			"name": "コイキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 130,
+			"form_id": 0,
+			"name": "ギャラドス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 131,
+			"form_id": 0,
+			"name": "ラプラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 132,
+			"form_id": 0,
+			"name": "メタモン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 133,
+			"form_id": 0,
+			"name": "イーブイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 134,
+			"form_id": 0,
+			"name": "シャワーズ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 135,
+			"form_id": 0,
+			"name": "サンダース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 136,
+			"form_id": 0,
+			"name": "ブースター",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 137,
+			"form_id": 0,
+			"name": "ポリゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 138,
+			"form_id": 0,
+			"name": "オムナイト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 139,
+			"form_id": 0,
+			"name": "オムスター",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 140,
+			"form_id": 0,
+			"name": "カブト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 141,
+			"form_id": 0,
+			"name": "カブトプス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 142,
+			"form_id": 0,
+			"name": "プテラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 143,
+			"form_id": 0,
+			"name": "カビゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 144,
+			"form_id": 0,
+			"name": "フリーザー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 145,
+			"form_id": 0,
+			"name": "サンダー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 146,
+			"form_id": 0,
+			"name": "ファイヤー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 147,
+			"form_id": 0,
+			"name": "ミニリュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 148,
+			"form_id": 0,
+			"name": "ハクリュー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 149,
+			"form_id": 0,
+			"name": "カイリュー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 150,
+			"form_id": 0,
+			"name": "ミュウツー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 151,
+			"form_id": 0,
+			"name": "ミュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 152,
+			"form_id": 0,
+			"name": "チコリータ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 153,
+			"form_id": 0,
+			"name": "ベイリーフ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 154,
+			"form_id": 0,
+			"name": "メガニウム",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 155,
+			"form_id": 0,
+			"name": "ヒノアラシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 156,
+			"form_id": 0,
+			"name": "マグマラシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 157,
+			"form_id": 0,
+			"name": "バクフーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 158,
+			"form_id": 0,
+			"name": "ワニノコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 159,
+			"form_id": 0,
+			"name": "アリゲイツ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 160,
+			"form_id": 0,
+			"name": "オーダイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 161,
+			"form_id": 0,
+			"name": "オタチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 162,
+			"form_id": 0,
+			"name": "オオタチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 163,
+			"form_id": 0,
+			"name": "ホーホー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 164,
+			"form_id": 0,
+			"name": "ヨルノズク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 165,
+			"form_id": 0,
+			"name": "レディバ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 166,
+			"form_id": 0,
+			"name": "レディアン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 167,
+			"form_id": 0,
+			"name": "イトマル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 168,
+			"form_id": 0,
+			"name": "アリアドス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 169,
+			"form_id": 0,
+			"name": "クロバット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 170,
+			"form_id": 0,
+			"name": "チョンチー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 171,
+			"form_id": 0,
+			"name": "ランターン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 172,
+			"form_id": 0,
+			"name": "ピチュー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 173,
+			"form_id": 0,
+			"name": "ピィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 174,
+			"form_id": 0,
+			"name": "ププリン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 175,
+			"form_id": 0,
+			"name": "トゲピー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 176,
+			"form_id": 0,
+			"name": "トゲチック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 177,
+			"form_id": 0,
+			"name": "ネイティ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 178,
+			"form_id": 0,
+			"name": "ネイティオ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 179,
+			"form_id": 0,
+			"name": "メリープ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 180,
+			"form_id": 0,
+			"name": "モココ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 181,
+			"form_id": 0,
+			"name": "デンリュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 182,
+			"form_id": 0,
+			"name": "キレイハナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 183,
+			"form_id": 0,
+			"name": "マリル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 184,
+			"form_id": 0,
+			"name": "マリルリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 185,
+			"form_id": 0,
+			"name": "ウソッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 186,
+			"form_id": 0,
+			"name": "ニョロトノ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 187,
+			"form_id": 0,
+			"name": "ハネッコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 188,
+			"form_id": 0,
+			"name": "ポポッコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 189,
+			"form_id": 0,
+			"name": "ワタッコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 190,
+			"form_id": 0,
+			"name": "エイパム",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 191,
+			"form_id": 0,
+			"name": "ヒマナッツ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 192,
+			"form_id": 0,
+			"name": "キマワリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 193,
+			"form_id": 0,
+			"name": "ヤンヤンマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 194,
+			"form_id": 0,
+			"name": "ウパー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 195,
+			"form_id": 0,
+			"name": "ヌオー",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 196,
+			"form_id": 0,
+			"name": "エーフィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 197,
+			"form_id": 0,
+			"name": "ブラッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 198,
+			"form_id": 0,
+			"name": "ヤミカラス",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 199,
+			"form_id": 0,
+			"name": "ヤドキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 200,
+			"form_id": 0,
+			"name": "ムウマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 202,
+			"form_id": 0,
+			"name": "ソーナンス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 203,
+			"form_id": 0,
+			"name": "キリンリキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 204,
+			"form_id": 0,
+			"name": "クヌギダマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 205,
+			"form_id": 0,
+			"name": "フォレトス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 206,
+			"form_id": 0,
+			"name": "ノコッチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 207,
+			"form_id": 0,
+			"name": "グライガー",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 208,
+			"form_id": 0,
+			"name": "ハガネール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 209,
+			"form_id": 0,
+			"name": "ブルー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 210,
+			"form_id": 0,
+			"name": "グランブル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 211,
+			"form_id": 0,
+			"name": "ハリーセン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 212,
+			"form_id": 0,
+			"name": "ハッサム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 213,
+			"form_id": 0,
+			"name": "ツボツボ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 214,
+			"form_id": 0,
+			"name": "ヘラクロス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 215,
+			"form_id": 0,
+			"name": "ニューラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 216,
+			"form_id": 0,
+			"name": "ヒメグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 217,
+			"form_id": 0,
+			"name": "リングマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 218,
+			"form_id": 0,
+			"name": "マグマッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 219,
+			"form_id": 0,
+			"name": "マグカルゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 220,
+			"form_id": 0,
+			"name": "ウリムー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 221,
+			"form_id": 0,
+			"name": "イノムー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 222,
+			"form_id": 0,
+			"name": "サニーゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 223,
+			"form_id": 0,
+			"name": "テッポウオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 224,
+			"form_id": 0,
+			"name": "オクタン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 225,
+			"form_id": 0,
+			"name": "デリバード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 226,
+			"form_id": 0,
+			"name": "マンタイン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 227,
+			"form_id": 0,
+			"name": "エアームド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 228,
+			"form_id": 0,
+			"name": "デルビル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 229,
+			"form_id": 0,
+			"name": "ヘルガー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 230,
+			"form_id": 0,
+			"name": "キングドラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 231,
+			"form_id": 0,
+			"name": "ゴマゾウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 232,
+			"form_id": 0,
+			"name": "ドンファン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 233,
+			"form_id": 0,
+			"name": "ポリゴン２",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 234,
+			"form_id": 0,
+			"name": "オドシシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 235,
+			"form_id": 0,
+			"name": "ドーブル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 236,
+			"form_id": 0,
+			"name": "バルキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 237,
+			"form_id": 0,
+			"name": "カポエラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 238,
+			"form_id": 0,
+			"name": "ムチュール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 239,
+			"form_id": 0,
+			"name": "エレキッド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 240,
+			"form_id": 0,
+			"name": "ブビィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 241,
+			"form_id": 0,
+			"name": "ミルタンク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 242,
+			"form_id": 0,
+			"name": "ハピナス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 243,
+			"form_id": 0,
+			"name": "ライコウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 244,
+			"form_id": 0,
+			"name": "エンテイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 245,
+			"form_id": 0,
+			"name": "スイクン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 246,
+			"form_id": 0,
+			"name": "ヨーギラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 247,
+			"form_id": 0,
+			"name": "サナギラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 248,
+			"form_id": 0,
+			"name": "バンギラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 249,
+			"form_id": 0,
+			"name": "ルギア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 250,
+			"form_id": 0,
+			"name": "ホウオウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 251,
+			"form_id": 0,
+			"name": "セレビィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 252,
+			"form_id": 0,
+			"name": "キモリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 253,
+			"form_id": 0,
+			"name": "ジュプトル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 254,
+			"form_id": 0,
+			"name": "ジュカイン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 255,
+			"form_id": 0,
+			"name": "アチャモ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 256,
+			"form_id": 0,
+			"name": "ワカシャモ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 257,
+			"form_id": 0,
+			"name": "バシャーモ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 258,
+			"form_id": 0,
+			"name": "ミズゴロウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 259,
+			"form_id": 0,
+			"name": "ヌマクロー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 260,
+			"form_id": 0,
+			"name": "ラグラージ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 261,
+			"form_id": 0,
+			"name": "ポチエナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 262,
+			"form_id": 0,
+			"name": "グラエナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 263,
+			"form_id": 0,
+			"name": "ジグザグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 264,
+			"form_id": 0,
+			"name": "マッスグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 265,
+			"form_id": 0,
+			"name": "ケムッソ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 266,
+			"form_id": 0,
+			"name": "カラサリス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 267,
+			"form_id": 0,
+			"name": "アゲハント",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 268,
+			"form_id": 0,
+			"name": "マユルド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 269,
+			"form_id": 0,
+			"name": "ドクケイル",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 270,
+			"form_id": 0,
+			"name": "ハスボー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 271,
+			"form_id": 0,
+			"name": "ハスブレロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 272,
+			"form_id": 0,
+			"name": "ルンパッパ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 273,
+			"form_id": 0,
+			"name": "タネボー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 274,
+			"form_id": 0,
+			"name": "コノハナ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 275,
+			"form_id": 0,
+			"name": "ダーテング",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 276,
+			"form_id": 0,
+			"name": "スバメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 277,
+			"form_id": 0,
+			"name": "オオスバメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 278,
+			"form_id": 0,
+			"name": "キャモメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 279,
+			"form_id": 0,
+			"name": "ペリッパー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 280,
+			"form_id": 0,
+			"name": "ラルトス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 281,
+			"form_id": 0,
+			"name": "キルリア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 282,
+			"form_id": 0,
+			"name": "サーナイト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 283,
+			"form_id": 0,
+			"name": "アメタマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 284,
+			"form_id": 0,
+			"name": "アメモース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 285,
+			"form_id": 0,
+			"name": "キノココ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 286,
+			"form_id": 0,
+			"name": "キノガッサ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 287,
+			"form_id": 0,
+			"name": "ナマケロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 288,
+			"form_id": 0,
+			"name": "ヤルキモノ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 289,
+			"form_id": 0,
+			"name": "ケッキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 290,
+			"form_id": 0,
+			"name": "ツチニン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 291,
+			"form_id": 0,
+			"name": "テッカニン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 292,
+			"form_id": 0,
+			"name": "ヌケニン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 293,
+			"form_id": 0,
+			"name": "ゴニョニョ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 294,
+			"form_id": 0,
+			"name": "ドゴーム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 295,
+			"form_id": 0,
+			"name": "バクオング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 296,
+			"form_id": 0,
+			"name": "マクノシタ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 297,
+			"form_id": 0,
+			"name": "ハリテヤマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 298,
+			"form_id": 0,
+			"name": "ルリリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 299,
+			"form_id": 0,
+			"name": "ノズパス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 300,
+			"form_id": 0,
+			"name": "エネコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 301,
+			"form_id": 0,
+			"name": "エネコロロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 302,
+			"form_id": 0,
+			"name": "ヤミラミ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 303,
+			"form_id": 0,
+			"name": "クチート",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 304,
+			"form_id": 0,
+			"name": "ココドラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 305,
+			"form_id": 0,
+			"name": "コドラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 306,
+			"form_id": 0,
+			"name": "ボスゴドラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 307,
+			"form_id": 0,
+			"name": "アサナン",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 308,
+			"form_id": 0,
+			"name": "チャーレム",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 309,
+			"form_id": 0,
+			"name": "ラクライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 310,
+			"form_id": 0,
+			"name": "ライボルト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 311,
+			"form_id": 0,
+			"name": "プラスル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 312,
+			"form_id": 0,
+			"name": "マイナン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 313,
+			"form_id": 0,
+			"name": "バルビート",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 314,
+			"form_id": 0,
+			"name": "イルミーゼ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 315,
+			"form_id": 0,
+			"name": "ロゼリア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 316,
+			"form_id": 0,
+			"name": "ゴクリン",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 317,
+			"form_id": 0,
+			"name": "マルノーム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 318,
+			"form_id": 0,
+			"name": "キバニア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 319,
+			"form_id": 0,
+			"name": "サメハダー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 320,
+			"form_id": 0,
+			"name": "ホエルコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 321,
+			"form_id": 0,
+			"name": "ホエルオー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 322,
+			"form_id": 0,
+			"name": "ドンメル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 323,
+			"form_id": 0,
+			"name": "バクーダ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 324,
+			"form_id": 0,
+			"name": "コータス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 325,
+			"form_id": 0,
+			"name": "バネブー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 326,
+			"form_id": 0,
+			"name": "ブーピッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 327,
+			"form_id": 0,
+			"name": "パッチール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 328,
+			"form_id": 0,
+			"name": "ナックラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 329,
+			"form_id": 0,
+			"name": "ビブラーバ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 330,
+			"form_id": 0,
+			"name": "フライゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 331,
+			"form_id": 0,
+			"name": "サボネア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 332,
+			"form_id": 0,
+			"name": "ノクタス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 333,
+			"form_id": 0,
+			"name": "チルット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 334,
+			"form_id": 0,
+			"name": "チルタリス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 335,
+			"form_id": 0,
+			"name": "ザングース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 336,
+			"form_id": 0,
+			"name": "ハブネーク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 337,
+			"form_id": 0,
+			"name": "ルナトーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 338,
+			"form_id": 0,
+			"name": "ソルロック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 339,
+			"form_id": 0,
+			"name": "ドジョッチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 340,
+			"form_id": 0,
+			"name": "ナマズン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 341,
+			"form_id": 0,
+			"name": "ヘイガニ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 342,
+			"form_id": 0,
+			"name": "シザリガー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 343,
+			"form_id": 0,
+			"name": "ヤジロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 344,
+			"form_id": 0,
+			"name": "ネンドール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 345,
+			"form_id": 0,
+			"name": "リリーラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 346,
+			"form_id": 0,
+			"name": "ユレイドル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 347,
+			"form_id": 0,
+			"name": "アノプス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 348,
+			"form_id": 0,
+			"name": "アーマルド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 349,
+			"form_id": 0,
+			"name": "ヒンバス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 350,
+			"form_id": 0,
+			"name": "ミロカロス",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 352,
+			"form_id": 0,
+			"name": "カクレオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 353,
+			"form_id": 0,
+			"name": "カゲボウズ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 354,
+			"form_id": 0,
+			"name": "ジュペッタ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 355,
+			"form_id": 0,
+			"name": "ヨマワル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 356,
+			"form_id": 0,
+			"name": "サマヨール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 357,
+			"form_id": 0,
+			"name": "トロピウス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 358,
+			"form_id": 0,
+			"name": "チリーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 359,
+			"form_id": 0,
+			"name": "アブソル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 360,
+			"form_id": 0,
+			"name": "ソーナノ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 361,
+			"form_id": 0,
+			"name": "ユキワラシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 362,
+			"form_id": 0,
+			"name": "オニゴーリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 363,
+			"form_id": 0,
+			"name": "タマザラシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 364,
+			"form_id": 0,
+			"name": "トドグラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 365,
+			"form_id": 0,
+			"name": "トドゼルガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 366,
+			"form_id": 0,
+			"name": "パールル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 367,
+			"form_id": 0,
+			"name": "ハンテール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 368,
+			"form_id": 0,
+			"name": "サクラビス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 369,
+			"form_id": 0,
+			"name": "ジーランス",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 370,
+			"form_id": 0,
+			"name": "ラブカス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 371,
+			"form_id": 0,
+			"name": "タツベイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 372,
+			"form_id": 0,
+			"name": "コモルー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 373,
+			"form_id": 0,
+			"name": "ボーマンダ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 374,
+			"form_id": 0,
+			"name": "ダンバル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 375,
+			"form_id": 0,
+			"name": "メタング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 376,
+			"form_id": 0,
+			"name": "メタグロス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 377,
+			"form_id": 0,
+			"name": "レジロック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 378,
+			"form_id": 0,
+			"name": "レジアイス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 379,
+			"form_id": 0,
+			"name": "レジスチル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 380,
+			"form_id": 0,
+			"name": "ラティアス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 381,
+			"form_id": 0,
+			"name": "ラティオス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 382,
+			"form_id": 0,
+			"name": "カイオーガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 383,
+			"form_id": 0,
+			"name": "グラードン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 384,
+			"form_id": 0,
+			"name": "レックウザ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 385,
+			"form_id": 0,
+			"name": "ジラーチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 387,
+			"form_id": 0,
+			"name": "ナエトル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 388,
+			"form_id": 0,
+			"name": "ハヤシガメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 389,
+			"form_id": 0,
+			"name": "ドダイトス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 390,
+			"form_id": 0,
+			"name": "ヒコザル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 391,
+			"form_id": 0,
+			"name": "モウカザル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 392,
+			"form_id": 0,
+			"name": "ゴウカザル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 393,
+			"form_id": 0,
+			"name": "ポッチャマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 394,
+			"form_id": 0,
+			"name": "ポッタイシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 395,
+			"form_id": 0,
+			"name": "エンペルト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 396,
+			"form_id": 0,
+			"name": "ムックル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 397,
+			"form_id": 0,
+			"name": "ムクバード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 398,
+			"form_id": 0,
+			"name": "ムクホーク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 399,
+			"form_id": 0,
+			"name": "ビッパ",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 400,
+			"form_id": 0,
+			"name": "ビーダル",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 401,
+			"form_id": 0,
+			"name": "コロボーシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 402,
+			"form_id": 0,
+			"name": "コロトック",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 403,
+			"form_id": 0,
+			"name": "コリンク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 404,
+			"form_id": 0,
+			"name": "ルクシオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 405,
+			"form_id": 0,
+			"name": "レントラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 406,
+			"form_id": 0,
+			"name": "スボミー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 407,
+			"form_id": 0,
+			"name": "ロズレイド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 408,
+			"form_id": 0,
+			"name": "ズガイドス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 409,
+			"form_id": 0,
+			"name": "ラムパルド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 410,
+			"form_id": 0,
+			"name": "タテトプス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 411,
+			"form_id": 0,
+			"name": "トリデプス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 414,
+			"form_id": 0,
+			"name": "ガーメイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 414,
+			"form_id": 1,
+			"name": "ガーメイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 414,
+			"form_id": 2,
+			"name": "ガーメイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 415,
+			"form_id": 0,
+			"name": "ミツハニー",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 416,
+			"form_id": 0,
+			"name": "ビークイン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 417,
+			"form_id": 0,
+			"name": "パチリス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 418,
+			"form_id": 0,
+			"name": "ブイゼル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 419,
+			"form_id": 0,
+			"name": "フローゼル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 420,
+			"form_id": 0,
+			"name": "チェリンボ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 424,
+			"form_id": 0,
+			"name": "エテボース",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 425,
+			"form_id": 0,
+			"name": "フワンテ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 426,
+			"form_id": 0,
+			"name": "フワライド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 427,
+			"form_id": 0,
+			"name": "ミミロル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 428,
+			"form_id": 0,
+			"name": "ミミロップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 429,
+			"form_id": 0,
+			"name": "ムウマージ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 430,
+			"form_id": 0,
+			"name": "ドンカラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 431,
+			"form_id": 0,
+			"name": "ニャルマー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 432,
+			"form_id": 0,
+			"name": "ブニャット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 433,
+			"form_id": 0,
+			"name": "リーシャン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 434,
+			"form_id": 0,
+			"name": "スカンプー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 435,
+			"form_id": 0,
+			"name": "スカタンク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 436,
+			"form_id": 0,
+			"name": "ドーミラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 437,
+			"form_id": 0,
+			"name": "ドータクン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 438,
+			"form_id": 0,
+			"name": "ウソハチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 439,
+			"form_id": 0,
+			"name": "マネネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 440,
+			"form_id": 0,
+			"name": "ピンプク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 441,
+			"form_id": 0,
+			"name": "ペラップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 442,
+			"form_id": 0,
+			"name": "ミカルゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 443,
+			"form_id": 0,
+			"name": "フカマル",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 444,
+			"form_id": 0,
+			"name": "ガバイト",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 445,
+			"form_id": 0,
+			"name": "ガブリアス",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 446,
+			"form_id": 0,
+			"name": "ゴンベ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 447,
+			"form_id": 0,
+			"name": "リオル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 448,
+			"form_id": 0,
+			"name": "ルカリオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 449,
+			"form_id": 0,
+			"name": "ヒポポタス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 450,
+			"form_id": 0,
+			"name": "カバルドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 451,
+			"form_id": 0,
+			"name": "スコルピ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 452,
+			"form_id": 0,
+			"name": "ドラピオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 453,
+			"form_id": 0,
+			"name": "グレッグル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 454,
+			"form_id": 0,
+			"name": "ドクロッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 455,
+			"form_id": 0,
+			"name": "マスキッパ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 456,
+			"form_id": 0,
+			"name": "ケイコウオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 457,
+			"form_id": 0,
+			"name": "ネオラント",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 458,
+			"form_id": 0,
+			"name": "タマンタ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 459,
+			"form_id": 0,
+			"name": "ユキカブリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 460,
+			"form_id": 0,
+			"name": "ユキノオー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 461,
+			"form_id": 0,
+			"name": "マニューラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 462,
+			"form_id": 0,
+			"name": "ジバコイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 463,
+			"form_id": 0,
+			"name": "ベロベルト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 464,
+			"form_id": 0,
+			"name": "ドサイドン",
+			"form_name": "",
+			"default_gender": 1,
+			"gender_symbol": "♀"
+		},
+		{
+			"id": 465,
+			"form_id": 0,
+			"name": "モジャンボ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 466,
+			"form_id": 0,
+			"name": "エレキブル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 467,
+			"form_id": 0,
+			"name": "ブーバーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 468,
+			"form_id": 0,
+			"name": "トゲキッス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 469,
+			"form_id": 0,
+			"name": "メガヤンマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 470,
+			"form_id": 0,
+			"name": "リーフィア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 471,
+			"form_id": 0,
+			"name": "グレイシア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 472,
+			"form_id": 0,
+			"name": "グライオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 473,
+			"form_id": 0,
+			"name": "マンムー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 474,
+			"form_id": 0,
+			"name": "ポリゴンＺ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 475,
+			"form_id": 0,
+			"name": "エルレイド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 476,
+			"form_id": 0,
+			"name": "ダイノーズ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 477,
+			"form_id": 0,
+			"name": "ヨノワール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 478,
+			"form_id": 0,
+			"name": "ユキメノコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 480,
+			"form_id": 0,
+			"name": "ユクシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 481,
+			"form_id": 0,
+			"name": "エムリット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 482,
+			"form_id": 0,
+			"name": "アグノム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 483,
+			"form_id": 0,
+			"name": "ディアルガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 484,
+			"form_id": 0,
+			"name": "パルキア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 485,
+			"form_id": 0,
+			"name": "ヒードラン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 486,
+			"form_id": 0,
+			"name": "レジギガス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 488,
+			"form_id": 0,
+			"name": "クレセリア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 489,
+			"form_id": 0,
+			"name": "フィオネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 490,
+			"form_id": 0,
+			"name": "マナフィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 491,
+			"form_id": 0,
+			"name": "ダークライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 494,
+			"form_id": 0,
+			"name": "ビクティニ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 495,
+			"form_id": 0,
+			"name": "ツタージャ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 496,
+			"form_id": 0,
+			"name": "ジャノビー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 497,
+			"form_id": 0,
+			"name": "ジャローダ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 498,
+			"form_id": 0,
+			"name": "ポカブ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 499,
+			"form_id": 0,
+			"name": "チャオブー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 500,
+			"form_id": 0,
+			"name": "エンブオー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 501,
+			"form_id": 0,
+			"name": "ミジュマル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 502,
+			"form_id": 0,
+			"name": "フタチマル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 503,
+			"form_id": 0,
+			"name": "ダイケンキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 504,
+			"form_id": 0,
+			"name": "ミネズミ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 505,
+			"form_id": 0,
+			"name": "ミルホッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 506,
+			"form_id": 0,
+			"name": "ヨーテリー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 507,
+			"form_id": 0,
+			"name": "ハーデリア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 508,
+			"form_id": 0,
+			"name": "ムーランド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 509,
+			"form_id": 0,
+			"name": "チョロネコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 510,
+			"form_id": 0,
+			"name": "レパルダス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 511,
+			"form_id": 0,
+			"name": "ヤナップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 512,
+			"form_id": 0,
+			"name": "ヤナッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 513,
+			"form_id": 0,
+			"name": "バオップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 514,
+			"form_id": 0,
+			"name": "バオッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 515,
+			"form_id": 0,
+			"name": "ヒヤップ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 516,
+			"form_id": 0,
+			"name": "ヒヤッキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 517,
+			"form_id": 0,
+			"name": "ムンナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 518,
+			"form_id": 0,
+			"name": "ムシャーナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 519,
+			"form_id": 0,
+			"name": "マメパト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 520,
+			"form_id": 0,
+			"name": "ハトーボー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 521,
+			"form_id": 0,
+			"name": "ケンホロウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 522,
+			"form_id": 0,
+			"name": "シママ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 523,
+			"form_id": 0,
+			"name": "ゼブライカ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 524,
+			"form_id": 0,
+			"name": "ダンゴロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 525,
+			"form_id": 0,
+			"name": "ガントル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 526,
+			"form_id": 0,
+			"name": "ギガイアス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 527,
+			"form_id": 0,
+			"name": "コロモリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 528,
+			"form_id": 0,
+			"name": "ココロモリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 529,
+			"form_id": 0,
+			"name": "モグリュー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 530,
+			"form_id": 0,
+			"name": "ドリュウズ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 531,
+			"form_id": 0,
+			"name": "タブンネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 532,
+			"form_id": 0,
+			"name": "ドッコラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 533,
+			"form_id": 0,
+			"name": "ドテッコツ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 534,
+			"form_id": 0,
+			"name": "ローブシン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 535,
+			"form_id": 0,
+			"name": "オタマロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 536,
+			"form_id": 0,
+			"name": "ガマガル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 537,
+			"form_id": 0,
+			"name": "ガマゲロゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 538,
+			"form_id": 0,
+			"name": "ナゲキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 539,
+			"form_id": 0,
+			"name": "ダゲキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 540,
+			"form_id": 0,
+			"name": "クルミル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 541,
+			"form_id": 0,
+			"name": "クルマユ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 542,
+			"form_id": 0,
+			"name": "ハハコモリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 543,
+			"form_id": 0,
+			"name": "フシデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 544,
+			"form_id": 0,
+			"name": "ホイーガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 545,
+			"form_id": 0,
+			"name": "ペンドラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 546,
+			"form_id": 0,
+			"name": "モンメン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 547,
+			"form_id": 0,
+			"name": "エルフーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 548,
+			"form_id": 0,
+			"name": "チュリネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 549,
+			"form_id": 0,
+			"name": "ドレディア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 551,
+			"form_id": 0,
+			"name": "メグロコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 552,
+			"form_id": 0,
+			"name": "ワルビル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 553,
+			"form_id": 0,
+			"name": "ワルビアル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 554,
+			"form_id": 0,
+			"name": "ダルマッカ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 556,
+			"form_id": 0,
+			"name": "マラカッチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 557,
+			"form_id": 0,
+			"name": "イシズマイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 558,
+			"form_id": 0,
+			"name": "イワパレス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 559,
+			"form_id": 0,
+			"name": "ズルッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 560,
+			"form_id": 0,
+			"name": "ズルズキン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 561,
+			"form_id": 0,
+			"name": "シンボラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 562,
+			"form_id": 0,
+			"name": "デスマス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 563,
+			"form_id": 0,
+			"name": "デスカーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 564,
+			"form_id": 0,
+			"name": "プロトーガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 565,
+			"form_id": 0,
+			"name": "アバゴーラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 566,
+			"form_id": 0,
+			"name": "アーケン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 567,
+			"form_id": 0,
+			"name": "アーケオス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 568,
+			"form_id": 0,
+			"name": "ヤブクロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 569,
+			"form_id": 0,
+			"name": "ダストダス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 570,
+			"form_id": 0,
+			"name": "ゾロア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 571,
+			"form_id": 0,
+			"name": "ゾロアーク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 572,
+			"form_id": 0,
+			"name": "チラーミィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 573,
+			"form_id": 0,
+			"name": "チラチーノ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 574,
+			"form_id": 0,
+			"name": "ゴチム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 575,
+			"form_id": 0,
+			"name": "ゴチミル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 576,
+			"form_id": 0,
+			"name": "ゴチルゼル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 577,
+			"form_id": 0,
+			"name": "ユニラン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 578,
+			"form_id": 0,
+			"name": "ダブラン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 579,
+			"form_id": 0,
+			"name": "ランクルス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 580,
+			"form_id": 0,
+			"name": "コアルヒー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 581,
+			"form_id": 0,
+			"name": "スワンナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 582,
+			"form_id": 0,
+			"name": "バニプッチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 583,
+			"form_id": 0,
+			"name": "バニリッチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 584,
+			"form_id": 0,
+			"name": "バイバニラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 587,
+			"form_id": 0,
+			"name": "エモンガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 588,
+			"form_id": 0,
+			"name": "カブルモ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 589,
+			"form_id": 0,
+			"name": "シュバルゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 590,
+			"form_id": 0,
+			"name": "タマゲタケ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 591,
+			"form_id": 0,
+			"name": "モロバレル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 592,
+			"form_id": 0,
+			"name": "プルリル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 593,
+			"form_id": 0,
+			"name": "ブルンゲル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 594,
+			"form_id": 0,
+			"name": "ママンボウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 595,
+			"form_id": 0,
+			"name": "バチュル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 596,
+			"form_id": 0,
+			"name": "デンチュラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 597,
+			"form_id": 0,
+			"name": "テッシード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 598,
+			"form_id": 0,
+			"name": "ナットレイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 599,
+			"form_id": 0,
+			"name": "ギアル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 600,
+			"form_id": 0,
+			"name": "ギギアル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 601,
+			"form_id": 0,
+			"name": "ギギギアル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 602,
+			"form_id": 0,
+			"name": "シビシラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 603,
+			"form_id": 0,
+			"name": "シビビール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 604,
+			"form_id": 0,
+			"name": "シビルドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 605,
+			"form_id": 0,
+			"name": "リグレー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 606,
+			"form_id": 0,
+			"name": "オーベム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 607,
+			"form_id": 0,
+			"name": "ヒトモシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 608,
+			"form_id": 0,
+			"name": "ランプラー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 609,
+			"form_id": 0,
+			"name": "シャンデラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 610,
+			"form_id": 0,
+			"name": "キバゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 611,
+			"form_id": 0,
+			"name": "オノンド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 612,
+			"form_id": 0,
+			"name": "オノノクス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 613,
+			"form_id": 0,
+			"name": "クマシュン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 614,
+			"form_id": 0,
+			"name": "ツンベアー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 615,
+			"form_id": 0,
+			"name": "フリージオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 616,
+			"form_id": 0,
+			"name": "チョボマキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 617,
+			"form_id": 0,
+			"name": "アギルダー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 618,
+			"form_id": 0,
+			"name": "マッギョ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 619,
+			"form_id": 0,
+			"name": "コジョフー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 620,
+			"form_id": 0,
+			"name": "コジョンド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 621,
+			"form_id": 0,
+			"name": "クリムガン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 622,
+			"form_id": 0,
+			"name": "ゴビット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 623,
+			"form_id": 0,
+			"name": "ゴルーグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 624,
+			"form_id": 0,
+			"name": "コマタナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 625,
+			"form_id": 0,
+			"name": "キリキザン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 626,
+			"form_id": 0,
+			"name": "バッフロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 627,
+			"form_id": 0,
+			"name": "ワシボン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 628,
+			"form_id": 0,
+			"name": "ウォーグル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 629,
+			"form_id": 0,
+			"name": "バルチャイ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 630,
+			"form_id": 0,
+			"name": "バルジーナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 631,
+			"form_id": 0,
+			"name": "クイタラン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 632,
+			"form_id": 0,
+			"name": "アイアント",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 633,
+			"form_id": 0,
+			"name": "モノズ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 634,
+			"form_id": 0,
+			"name": "ジヘッド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 635,
+			"form_id": 0,
+			"name": "サザンドラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 636,
+			"form_id": 0,
+			"name": "メラルバ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 637,
+			"form_id": 0,
+			"name": "ウルガモス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 638,
+			"form_id": 0,
+			"name": "コバルオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 639,
+			"form_id": 0,
+			"name": "テラキオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 640,
+			"form_id": 0,
+			"name": "ビリジオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 643,
+			"form_id": 0,
+			"name": "レシラム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 644,
+			"form_id": 0,
+			"name": "ゼクロム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 650,
+			"form_id": 0,
+			"name": "ハリマロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 651,
+			"form_id": 0,
+			"name": "ハリボーグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 652,
+			"form_id": 0,
+			"name": "ブリガロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 653,
+			"form_id": 0,
+			"name": "フォッコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 654,
+			"form_id": 0,
+			"name": "テールナー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 655,
+			"form_id": 0,
+			"name": "マフォクシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 656,
+			"form_id": 0,
+			"name": "ケロマツ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 657,
+			"form_id": 0,
+			"name": "ゲコガシラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 658,
+			"form_id": 0,
+			"name": "ゲッコウガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 658,
+			"form_id": 1,
+			"name": "ゲッコウガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 659,
+			"form_id": 0,
+			"name": "ホルビー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 660,
+			"form_id": 0,
+			"name": "ホルード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 661,
+			"form_id": 0,
+			"name": "ヤヤコマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 662,
+			"form_id": 0,
+			"name": "ヒノヤコマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 663,
+			"form_id": 0,
+			"name": "ファイアロー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 0,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 1,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 2,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 3,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 4,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 5,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 6,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 7,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 8,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 9,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 10,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 11,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 12,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 13,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 14,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 15,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 16,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 17,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 18,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 664,
+			"form_id": 19,
+			"name": "コフキムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 0,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 1,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 2,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 3,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 4,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 5,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 6,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 7,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 8,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 9,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 10,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 11,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 12,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 13,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 14,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 15,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 16,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 17,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 18,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 665,
+			"form_id": 19,
+			"name": "コフーライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 667,
+			"form_id": 0,
+			"name": "シシコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 668,
+			"form_id": 0,
+			"name": "カエンジシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
+		},
+		{
+			"id": 672,
+			"form_id": 0,
+			"name": "メェークル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 673,
+			"form_id": 0,
+			"name": "ゴーゴート",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 674,
+			"form_id": 0,
+			"name": "ヤンチャム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 675,
+			"form_id": 0,
+			"name": "ゴロンダ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 677,
+			"form_id": 0,
+			"name": "ニャスパー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 679,
+			"form_id": 0,
+			"name": "ヒトツキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 680,
+			"form_id": 0,
+			"name": "ニダンギル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 682,
+			"form_id": 0,
+			"name": "シュシュプ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 683,
+			"form_id": 0,
+			"name": "フレフワン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 684,
+			"form_id": 0,
+			"name": "ペロッパフ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 685,
+			"form_id": 0,
+			"name": "ペロリーム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 686,
+			"form_id": 0,
+			"name": "マーイーカ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 687,
+			"form_id": 0,
+			"name": "カラマネロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 688,
+			"form_id": 0,
+			"name": "カメテテ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 689,
+			"form_id": 0,
+			"name": "ガメノデス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 690,
+			"form_id": 0,
+			"name": "クズモー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 691,
+			"form_id": 0,
+			"name": "ドラミドロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 692,
+			"form_id": 0,
+			"name": "ウデッポウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 693,
+			"form_id": 0,
+			"name": "ブロスター",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 694,
+			"form_id": 0,
+			"name": "エリキテル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 695,
+			"form_id": 0,
+			"name": "エレザード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 696,
+			"form_id": 0,
+			"name": "チゴラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 697,
+			"form_id": 0,
+			"name": "ガチゴラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 698,
+			"form_id": 0,
+			"name": "アマルス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 699,
+			"form_id": 0,
+			"name": "アマルルガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 700,
+			"form_id": 0,
+			"name": "ニンフィア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 701,
+			"form_id": 0,
+			"name": "ルチャブル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 702,
+			"form_id": 0,
+			"name": "デデンネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 703,
+			"form_id": 0,
+			"name": "メレシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 704,
+			"form_id": 0,
+			"name": "ヌメラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 705,
+			"form_id": 0,
+			"name": "ヌメイル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 706,
+			"form_id": 0,
+			"name": "ヌメルゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 707,
+			"form_id": 0,
+			"name": "クレッフィ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 708,
+			"form_id": 0,
+			"name": "ボクレー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 709,
+			"form_id": 0,
+			"name": "オーロット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 712,
+			"form_id": 0,
+			"name": "カチコール",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 713,
+			"form_id": 0,
+			"name": "クレベース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 714,
+			"form_id": 0,
+			"name": "オンバット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 715,
+			"form_id": 0,
+			"name": "オンバーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 717,
+			"form_id": 0,
+			"name": "イベルタル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 719,
+			"form_id": 0,
+			"name": "ディアンシー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 721,
+			"form_id": 0,
+			"name": "ボルケニオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 722,
+			"form_id": 0,
+			"name": "モクロー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 723,
+			"form_id": 0,
+			"name": "フクスロー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 724,
+			"form_id": 0,
+			"name": "ジュナイパー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 725,
+			"form_id": 0,
+			"name": "ニャビー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 726,
+			"form_id": 0,
+			"name": "ニャヒート",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 727,
+			"form_id": 0,
+			"name": "ガオガエン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 728,
+			"form_id": 0,
+			"name": "アシマリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 729,
+			"form_id": 0,
+			"name": "オシャマリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 730,
+			"form_id": 0,
+			"name": "アシレーヌ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 731,
+			"form_id": 0,
+			"name": "ツツケラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 732,
+			"form_id": 0,
+			"name": "ケララッパ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 733,
+			"form_id": 0,
+			"name": "ドデカバシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 734,
+			"form_id": 0,
+			"name": "ヤングース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 735,
+			"form_id": 0,
+			"name": "デカグース",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 736,
+			"form_id": 0,
+			"name": "アゴジムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 737,
+			"form_id": 0,
+			"name": "デンヂムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 738,
+			"form_id": 0,
+			"name": "クワガノン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 739,
+			"form_id": 0,
+			"name": "マケンカニ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 740,
+			"form_id": 0,
+			"name": "ケケンカニ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 742,
+			"form_id": 0,
+			"name": "アブリー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 743,
+			"form_id": 0,
+			"name": "アブリボン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 744,
+			"form_id": 0,
+			"name": "イワンコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 744,
+			"form_id": 1,
+			"name": "イワンコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 747,
+			"form_id": 0,
+			"name": "ヒドイデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 748,
+			"form_id": 0,
+			"name": "ドヒドイデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 749,
+			"form_id": 0,
+			"name": "ドロバンコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 750,
+			"form_id": 0,
+			"name": "バンバドロ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 751,
+			"form_id": 0,
+			"name": "シズクモ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 752,
+			"form_id": 0,
+			"name": "オニシズクモ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 753,
+			"form_id": 0,
+			"name": "カリキリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 754,
+			"form_id": 0,
+			"name": "ラランテス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 755,
+			"form_id": 0,
+			"name": "ネマシュ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 756,
+			"form_id": 0,
+			"name": "マシェード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 757,
+			"form_id": 0,
+			"name": "ヤトウモリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 758,
+			"form_id": 0,
+			"name": "エンニュート",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 759,
+			"form_id": 0,
+			"name": "ヌイコグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 760,
+			"form_id": 0,
+			"name": "キテルグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 761,
+			"form_id": 0,
+			"name": "アマカジ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 762,
+			"form_id": 0,
+			"name": "アママイコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 763,
+			"form_id": 0,
+			"name": "アマージョ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 764,
+			"form_id": 0,
+			"name": "キュワワー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 765,
+			"form_id": 0,
+			"name": "ヤレユータン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 766,
+			"form_id": 0,
+			"name": "ナゲツケサル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 767,
+			"form_id": 0,
+			"name": "コソクムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 768,
+			"form_id": 0,
+			"name": "グソクムシャ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 769,
+			"form_id": 0,
+			"name": "スナバァ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 770,
+			"form_id": 0,
+			"name": "シロデスナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 771,
+			"form_id": 0,
+			"name": "ナマコブシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 772,
+			"form_id": 0,
+			"name": "タイプ：ヌル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 775,
+			"form_id": 0,
+			"name": "ネッコアラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 776,
+			"form_id": 0,
+			"name": "バクガメス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 777,
+			"form_id": 0,
+			"name": "トゲデマル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 779,
+			"form_id": 0,
+			"name": "ハギギシリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 780,
+			"form_id": 0,
+			"name": "ジジーロン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 781,
+			"form_id": 0,
+			"name": "ダダリン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 782,
+			"form_id": 0,
+			"name": "ジャラコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 783,
+			"form_id": 0,
+			"name": "ジャランゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 784,
+			"form_id": 0,
+			"name": "ジャラランガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 785,
+			"form_id": 0,
+			"name": "カプ・コケコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 786,
+			"form_id": 0,
+			"name": "カプ・テテフ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 787,
+			"form_id": 0,
+			"name": "カプ・ブルル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 788,
+			"form_id": 0,
+			"name": "カプ・レヒレ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 789,
+			"form_id": 0,
+			"name": "コスモッグ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 790,
+			"form_id": 0,
+			"name": "コスモウム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 791,
+			"form_id": 0,
+			"name": "ソルガレオ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 792,
+			"form_id": 0,
+			"name": "ルナアーラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 793,
+			"form_id": 0,
+			"name": "ウツロイド",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 794,
+			"form_id": 0,
+			"name": "マッシブーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 795,
+			"form_id": 0,
+			"name": "フェローチェ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 796,
+			"form_id": 0,
+			"name": "デンジュモク",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 797,
+			"form_id": 0,
+			"name": "テッカグヤ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 798,
+			"form_id": 0,
+			"name": "カミツルギ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 799,
+			"form_id": 0,
+			"name": "アクジキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 800,
+			"form_id": 0,
+			"name": "ネクロズマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 801,
+			"form_id": 0,
+			"name": "マギアナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 802,
+			"form_id": 0,
+			"name": "マーシャドー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 803,
+			"form_id": 0,
+			"name": "ベベノム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 804,
+			"form_id": 0,
+			"name": "アーゴヨン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 805,
+			"form_id": 0,
+			"name": "ツンデツンデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 806,
+			"form_id": 0,
+			"name": "ズガドーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 807,
+			"form_id": 0,
+			"name": "ゼラオラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 808,
+			"form_id": 0,
+			"name": "メルタン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 809,
+			"form_id": 0,
+			"name": "メルメタル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 810,
+			"form_id": 0,
+			"name": "サルノリ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 811,
+			"form_id": 0,
+			"name": "バチンキー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 812,
+			"form_id": 0,
+			"name": "ゴリランダー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 813,
+			"form_id": 0,
+			"name": "ヒバニー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 814,
+			"form_id": 0,
+			"name": "ラビフット",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 815,
+			"form_id": 0,
+			"name": "エースバーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 816,
+			"form_id": 0,
+			"name": "メッソン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 817,
+			"form_id": 0,
+			"name": "ジメレオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 818,
+			"form_id": 0,
+			"name": "インテレオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 819,
+			"form_id": 0,
+			"name": "ホシガリス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 820,
+			"form_id": 0,
+			"name": "ヨクバリス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 821,
+			"form_id": 0,
+			"name": "ココガラ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 822,
+			"form_id": 0,
+			"name": "アオガラス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 823,
+			"form_id": 0,
+			"name": "アーマーガア",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 824,
+			"form_id": 0,
+			"name": "サッチムシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 825,
+			"form_id": 0,
+			"name": "レドームシ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 826,
+			"form_id": 0,
+			"name": "イオルブ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 827,
+			"form_id": 0,
+			"name": "クスネ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 828,
+			"form_id": 0,
+			"name": "フォクスライ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 829,
+			"form_id": 0,
+			"name": "ヒメンカ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 830,
+			"form_id": 0,
+			"name": "ワタシラガ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 831,
+			"form_id": 0,
+			"name": "ウールー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 832,
+			"form_id": 0,
+			"name": "バイウールー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 833,
+			"form_id": 0,
+			"name": "カムカメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 834,
+			"form_id": 0,
+			"name": "カジリガメ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 835,
+			"form_id": 0,
+			"name": "ワンパチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 836,
+			"form_id": 0,
+			"name": "パルスワン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 837,
+			"form_id": 0,
+			"name": "タンドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 838,
+			"form_id": 0,
+			"name": "トロッゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 839,
+			"form_id": 0,
+			"name": "セキタンザン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 840,
+			"form_id": 0,
+			"name": "カジッチュ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 841,
+			"form_id": 0,
+			"name": "アップリュー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 842,
+			"form_id": 0,
+			"name": "タルップル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 843,
+			"form_id": 0,
+			"name": "スナヘビ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 844,
+			"form_id": 0,
+			"name": "サダイジャ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 845,
+			"form_id": 0,
+			"name": "ウッウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 846,
+			"form_id": 0,
+			"name": "サシカマス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 847,
+			"form_id": 0,
+			"name": "カマスジョー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 848,
+			"form_id": 0,
+			"name": "エレズン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 850,
+			"form_id": 0,
+			"name": "ヤクデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 851,
+			"form_id": 0,
+			"name": "マルヤクデ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 852,
+			"form_id": 0,
+			"name": "タタッコ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 853,
+			"form_id": 0,
+			"name": "オトスパス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 856,
+			"form_id": 0,
+			"name": "ミブリム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 857,
+			"form_id": 0,
+			"name": "テブリム",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 858,
+			"form_id": 0,
+			"name": "ブリムオン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 859,
+			"form_id": 0,
+			"name": "ベロバー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 860,
+			"form_id": 0,
+			"name": "ギモー",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 861,
+			"form_id": 0,
+			"name": "オーロンゲ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 862,
+			"form_id": 0,
+			"name": "タチフサグマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 863,
+			"form_id": 0,
+			"name": "ニャイキング",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 864,
+			"form_id": 0,
+			"name": "サニゴーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 865,
+			"form_id": 0,
+			"name": "ネギガナイト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 866,
+			"form_id": 0,
+			"name": "バリコオル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 867,
+			"form_id": 0,
+			"name": "デスバーン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 868,
+			"form_id": 0,
+			"name": "マホミル",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 870,
+			"form_id": 0,
+			"name": "タイレーツ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 871,
+			"form_id": 0,
+			"name": "バチンウニ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 872,
+			"form_id": 0,
+			"name": "ユキハミ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 873,
+			"form_id": 0,
+			"name": "モスノウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 874,
+			"form_id": 0,
+			"name": "イシヘンジン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 878,
+			"form_id": 0,
+			"name": "ゾウドウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 879,
+			"form_id": 0,
+			"name": "ダイオウドウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 880,
+			"form_id": 0,
+			"name": "パッチラゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 881,
+			"form_id": 0,
+			"name": "パッチルドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 882,
+			"form_id": 0,
+			"name": "ウオノラゴン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 883,
+			"form_id": 0,
+			"name": "ウオチルドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 884,
+			"form_id": 0,
+			"name": "ジュラルドン",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 885,
+			"form_id": 0,
+			"name": "ドラメシヤ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 886,
+			"form_id": 0,
+			"name": "ドロンチ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 887,
+			"form_id": 0,
+			"name": "ドラパルト",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 890,
+			"form_id": 0,
+			"name": "ムゲンダイナ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 891,
+			"form_id": 0,
+			"name": "ダクマ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 893,
+			"form_id": 0,
+			"name": "ザルード",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 894,
+			"form_id": 0,
+			"name": "レジエレキ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 895,
+			"form_id": 0,
+			"name": "レジドラゴ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 896,
+			"form_id": 0,
+			"name": "ブリザポス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 897,
+			"form_id": 0,
+			"name": "レイスポス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		},
+		{
+			"id": 898,
+			"form_id": 0,
+			"name": "バドレックス",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": ""
+		}
+	]
+}

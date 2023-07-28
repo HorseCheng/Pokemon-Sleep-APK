@@ -1,0 +1,9 @@
+{
+  "DataDownloadSceneController_Text_1": "Errore download dei dati",
+  "DataDownloadSceneController_Text_2": "Si è verificato un errore nel download.\nRiprova tra qualche tempo.",
+  "DataDownloadSceneController_Text_4": "Non c'è abbastanza spazio sul dispositivo.\nVerifica lo spazio disponibile.",
+  "DataDownloadSceneController_Text_5": "Errore download",
+  "DataDownloadSceneController_Text_6": "Si è verificato un errore nel download.\nRiprova tra qualche tempo.",
+  "DataDownloadSceneController_Text_8": "Download dei dati concluso.\nTornerai alla schermata del titolo.",
+  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000%(\u000e\u0002\t\u0004\u0001촁/\u000e\u0002\t\u0004\u0002촁)"
+}

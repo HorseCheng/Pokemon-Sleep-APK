@@ -1,0 +1,16 @@
+{
+  "DayOfWeek_Full_0": "dimanche",
+  "DayOfWeek_Full_1": "lundi",
+  "DayOfWeek_Full_2": "mardi",
+  "DayOfWeek_Full_3": "mercredi",
+  "DayOfWeek_Full_4": "jeudi",
+  "DayOfWeek_Full_5": "vendredi",
+  "DayOfWeek_Full_6": "samedi",
+  "DayOfWeek_Short_0": "dim.",
+  "DayOfWeek_Short_1": "lun.",
+  "DayOfWeek_Short_2": "mar.",
+  "DayOfWeek_Short_3": "mer.",
+  "DayOfWeek_Short_4": "jeu.",
+  "DayOfWeek_Short_5": "ven.",
+  "DayOfWeek_Short_6": "sam."
+}

@@ -1,0 +1,9 @@
+{
+  "DataDownloadSceneController_Text_1": "다운로드 에러",
+  "DataDownloadSceneController_Text_2": "데이터 다운로드 에러가 발생했습니다\n잠시 후 다시 시도해 주십시오",
+  "DataDownloadSceneController_Text_4": "단말기의 저장 공간이 부족합니다\n저장 공간을 확인해 주십시오",
+  "DataDownloadSceneController_Text_5": "다운로드 에러",
+  "DataDownloadSceneController_Text_6": "데이터 다운로드 에러가 발생했습니다\n잠시 후 다시 시도해 주십시오",
+  "DataDownloadSceneController_Text_8": "데이터 다운로드를 완료했습니다\n타이틀로 돌아갑니다",
+  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000%(\u000e\u0002\t\u0004\u0001촁MB/\u000e\u0002\t\u0004\u0002촁MB)"
+}

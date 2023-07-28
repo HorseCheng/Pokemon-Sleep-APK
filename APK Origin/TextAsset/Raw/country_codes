@@ -1,0 +1,555 @@
+[
+  {
+    "id": "1",
+    "group_id": "1",
+    "group_sort": "1",
+    "country_codes": "100",
+    "country_sort": "1"
+  },
+  {
+    "id": "2",
+    "group_id": "1",
+    "group_sort": "1",
+    "country_codes": "101",
+    "country_sort": "2"
+  },
+  {
+    "id": "3",
+    "group_id": "1",
+    "group_sort": "1",
+    "country_codes": "102",
+    "country_sort": "4"
+  },
+  {
+    "id": "4",
+    "group_id": "1",
+    "group_sort": "1",
+    "country_codes": "103",
+    "country_sort": "3"
+  },
+  {
+    "id": "5",
+    "group_id": "1",
+    "group_sort": "1",
+    "country_codes": "104",
+    "country_sort": "5"
+  },
+  {
+    "id": "7",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "200",
+    "country_sort": "1"
+  },
+  {
+    "id": "8",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "201",
+    "country_sort": "11"
+  },
+  {
+    "id": "9",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "202",
+    "country_sort": "4"
+  },
+  {
+    "id": "10",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "203",
+    "country_sort": "8"
+  },
+  {
+    "id": "11",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "204",
+    "country_sort": "2"
+  },
+  {
+    "id": "12",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "205",
+    "country_sort": "7"
+  },
+  {
+    "id": "13",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "206",
+    "country_sort": "6"
+  },
+  {
+    "id": "14",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "207",
+    "country_sort": "5"
+  },
+  {
+    "id": "15",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "208",
+    "country_sort": "9"
+  },
+  {
+    "id": "16",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "209",
+    "country_sort": "3"
+  },
+  {
+    "id": "17",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "210",
+    "country_sort": "12"
+  },
+  {
+    "id": "18",
+    "group_id": "2",
+    "group_sort": "2",
+    "country_codes": "211",
+    "country_sort": "10"
+  },
+  {
+    "id": "20",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "300",
+    "country_sort": "1"
+  },
+  {
+    "id": "21",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "301",
+    "country_sort": "5"
+  },
+  {
+    "id": "22",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "302",
+    "country_sort": "6"
+  },
+  {
+    "id": "23",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "303",
+    "country_sort": "2"
+  },
+  {
+    "id": "24",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "304",
+    "country_sort": "14"
+  },
+  {
+    "id": "25",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "305",
+    "country_sort": "17"
+  },
+  {
+    "id": "26",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "306",
+    "country_sort": "11"
+  },
+  {
+    "id": "27",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "307",
+    "country_sort": "12"
+  },
+  {
+    "id": "28",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "308",
+    "country_sort": "13"
+  },
+  {
+    "id": "29",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "309",
+    "country_sort": "3"
+  },
+  {
+    "id": "30",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "310",
+    "country_sort": "10"
+  },
+  {
+    "id": "31",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "311",
+    "country_sort": "15"
+  },
+  {
+    "id": "32",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "312",
+    "country_sort": "9"
+  },
+  {
+    "id": "33",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "313",
+    "country_sort": "4"
+  },
+  {
+    "id": "34",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "314",
+    "country_sort": "16"
+  },
+  {
+    "id": "35",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "315",
+    "country_sort": "7"
+  },
+  {
+    "id": "37",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "400",
+    "country_sort": "1"
+  },
+  {
+    "id": "38",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "401",
+    "country_sort": "16"
+  },
+  {
+    "id": "39",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "402",
+    "country_sort": "17"
+  },
+  {
+    "id": "40",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "403",
+    "country_sort": "36"
+  },
+  {
+    "id": "41",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "404",
+    "country_sort": "18"
+  },
+  {
+    "id": "42",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "405",
+    "country_sort": "35"
+  },
+  {
+    "id": "43",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "406",
+    "country_sort": "10"
+  },
+  {
+    "id": "44",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "407",
+    "country_sort": "2"
+  },
+  {
+    "id": "45",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "408",
+    "country_sort": "23"
+  },
+  {
+    "id": "46",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "409",
+    "country_sort": "8"
+  },
+  {
+    "id": "47",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "410",
+    "country_sort": "14"
+  },
+  {
+    "id": "48",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "411",
+    "country_sort": "6"
+  },
+  {
+    "id": "49",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "412",
+    "country_sort": "34"
+  },
+  {
+    "id": "50",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "413",
+    "country_sort": "33"
+  },
+  {
+    "id": "51",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "414",
+    "country_sort": "32"
+  },
+  {
+    "id": "52",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "415",
+    "country_sort": "30"
+  },
+  {
+    "id": "53",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "416",
+    "country_sort": "31"
+  },
+  {
+    "id": "54",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "417",
+    "country_sort": "29"
+  },
+  {
+    "id": "55",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "418",
+    "country_sort": "8"
+  },
+  {
+    "id": "56",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "419",
+    "country_sort": "9"
+  },
+  {
+    "id": "57",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "420",
+    "country_sort": "13"
+  },
+  {
+    "id": "58",
+    "group_id": "3",
+    "group_sort": "3",
+    "country_codes": "421",
+    "country_sort": "18"
+  },
+  {
+    "id": "59",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "422",
+    "country_sort": "24"
+  },
+  {
+    "id": "60",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "423",
+    "country_sort": "15"
+  },
+  {
+    "id": "61",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "424",
+    "country_sort": "11"
+  },
+  {
+    "id": "62",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "425",
+    "country_sort": "12"
+  },
+  {
+    "id": "63",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "426",
+    "country_sort": "5"
+  },
+  {
+    "id": "64",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "427",
+    "country_sort": "3"
+  },
+  {
+    "id": "65",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "428",
+    "country_sort": "4"
+  },
+  {
+    "id": "66",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "429",
+    "country_sort": "25"
+  },
+  {
+    "id": "67",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "430",
+    "country_sort": "26"
+  },
+  {
+    "id": "68",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "431",
+    "country_sort": "22"
+  },
+  {
+    "id": "69",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "432",
+    "country_sort": "19"
+  },
+  {
+    "id": "70",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "433",
+    "country_sort": "20"
+  },
+  {
+    "id": "71",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "434",
+    "country_sort": "27"
+  },
+  {
+    "id": "72",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "435",
+    "country_sort": "21"
+  },
+  {
+    "id": "73",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "436",
+    "country_sort": "28"
+  },
+  {
+    "id": "75",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "500",
+    "country_sort": "1"
+  },
+  {
+    "id": "76",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "501",
+    "country_sort": "8"
+  },
+  {
+    "id": "77",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "502",
+    "country_sort": "2"
+  },
+  {
+    "id": "78",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "503",
+    "country_sort": "4"
+  },
+  {
+    "id": "79",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "504",
+    "country_sort": "5"
+  },
+  {
+    "id": "80",
+    "group_id": "4",
+    "group_sort": "4",
+    "country_codes": "505",
+    "country_sort": "7"
+  },
+  {
+    "id": "81",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "506",
+    "country_sort": "3"
+  },
+  {
+    "id": "82",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "507",
+    "country_sort": "6"
+  },
+  {
+    "id": "83",
+    "group_id": "5",
+    "group_sort": "5",
+    "country_codes": "508",
+    "country_sort": "7"
+  }
+]

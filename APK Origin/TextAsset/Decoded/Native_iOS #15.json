@@ -1,0 +1,8 @@
+{
+  "NSBluetoothAlwaysUsageDescription": "Pokémon GO Plus +との通信で使用します",
+  "NSBluetoothPeripheralUsageDescription": "Pokémon GO Plus +との通信で使用します",
+  "NSUserTrackingUsageDescription": "取得した広告識別子等の情報は、本サービスの利用に関する動向調査、本サービスの効果的な運営、不正行為防止のために使用されます",
+  "NSCameraUsageDescription": "フレンドコードの読み取りのためにカメラを使用します",
+  "NSMicrophoneUsageDescription": "睡眠計測をするためにマイクを使用します",
+  "NSPhotoLibraryAddUsageDescription": "これにより、カメラロールに写真を\n保存できるようになります"
+}
