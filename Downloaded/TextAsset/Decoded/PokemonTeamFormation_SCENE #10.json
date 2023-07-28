@@ -1,0 +1,22 @@
+{
+  "PokemonTeamFormationSceneController_Text_6": "Änderungen vornehmen?",
+  "PokemonTeamFormationSceneController_Text_4": "Fehler",
+  "PokemonTeamFormationSceneController_Text_5": "Stelle sicher, dass du Helfer in dein\nTeam aufnimmst!",
+  "PokemonTeamFormationSceneController_Text_1": "Fertig",
+  "PokemonTeamFormationSceneController_Text_2": "Es wurde ein Team für dich erstellt!",
+  "PokemonTeamFormationSceneController_Text_3": "Teamnamen ändern",
+  "PokemonChangeConfirmPopup_Text_1": "Entfernen",
+  "PokemonChangeConfirmPopup_Text_2": "Einwechseln",
+  "PokemonTeamCellViewTypeToggleButton_Text_1": "Level",
+  "PokemonTeamCellViewTypeToggleButton_Text_2": "RK",
+  "PokemonTeamFormationScene_Content_StatusListButton": "Daten",
+  "PokemonTeamFormationScene_Content_AutoFormationButton": "Teamvorschlag",
+  "PokemonTeamFormationScene_Content_ChangeButton": "Team auswählen",
+  "PokemonTeamFormationScene_Header_Title": "Team bearbeiten",
+  "PokemonTeamFormationScene_Header_TeamSPTitle": "Team-RK",
+  "PokemonTeamFormationScene_Header_TeamSPNum": "\u000e\u0002\u0005\u0004\u0000촁",
+  "PokemonTeamFormationScene_Footer_Title": "Anzeige",
+  "PokemonTeamFormationScene_Footer_Value": "Level",
+  "PokemonTeamFormationScene_Header_CurrentTeamTag": "Aktives Team",
+  "PokemonTeamFormationSceneController_Text_7": "Du hast dein aktives Team noch nicht\ngeändert. Wenn du dieses Team mit\ndem aktuellen Team tauschen willst,\nberühre „Team auswählen“.\n\nMöchtest du bei deinem aktuellen\nTeam bleiben?"
+}

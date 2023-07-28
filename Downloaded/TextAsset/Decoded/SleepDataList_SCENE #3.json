@@ -1,0 +1,9 @@
+{
+  "SleepDataListScene_Content_Title": "Lista dati del sonno",
+  "SleepDataListScene_Content_Desc": "Puoi controllare i dati del sonno e le ricerche",
+  "SleepDataListScene_Content_LimitButton": "30 giorni (max)",
+  "SleepDataListScene_Header_Title": "Dati del sonno",
+  "SleepDataListScene_Header_CalendarButton": "Calendario",
+  "SleepDataListScene_Header_ListButton": "Lista",
+  "SleepDataListScene_NoDataDesc": "Non hai ancora nessun dato del sonno."
+}

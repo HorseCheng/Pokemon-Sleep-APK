@@ -1,0 +1,15 @@
+{
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Tutorial cucina",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "Vuoi avviare\nil tutorial cucina?",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Avvia",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Ingredienti per cucinare",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "Hai ricevuto \u000e\u0002\u0001\u0002\u0002 \u000e\u0003\u0003\u0004Ā촀 \ndal professore da usare\ncome ingredienti!",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Concludi tutorial cucina",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "Come ricompensa,\nricevi\n\u000e\u0002\u0001\u0002\u0002 \u000e\u0003\u0003\u0004Ā촀!",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "Ricerca completata!",
+  "HomeSceneTutorialController_Text_7": "Tocca Pikachu\ne dai una bacca a Snorlax!",
+  "HomeSceneTutorialController_Text_29": "Bonus conclusione tutorial",
+  "HomeSceneTutorialController_Text_30": "Hai ricevuto \u000e\u0002\u0003\u0004\u0000촁 diamant\u000e\u0005\u0000\n\u0002e\u0002i촀!",
+  "HomeSceneTutorialController_Text_31": "Funzione non ancora disponibile.",
+  "HomeSceneTutorialController_Text_32": "Potrai usare questa funzione\ndopo il tutorial"
+}

@@ -1,0 +1,9 @@
+{
+  "SleepDataListScene_Content_Title": "Datos de sueño",
+  "SleepDataListScene_Content_Desc": "Consulta tus datos de sueño y de estudio.",
+  "SleepDataListScene_Content_LimitButton": "30 días (máx.)",
+  "SleepDataListScene_Header_Title": "Datos de sueño",
+  "SleepDataListScene_Header_CalendarButton": "Calendario",
+  "SleepDataListScene_Header_ListButton": "Lista",
+  "SleepDataListScene_NoDataDesc": "Aún no dispones de datos de sueño."
+}

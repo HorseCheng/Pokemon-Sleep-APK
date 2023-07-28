@@ -1,0 +1,15 @@
+{
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Cooking Tutorial",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "Ready to start the cooking tutorial?",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Start",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Cooking Ingredients",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "The professor gave you ingredients\nthat you can use for cooking!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002\n",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Cooking Tutorial Completed",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "You earned a reward for completing\nthe cooking tutorial!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "Research Complete!",
+  "HomeSceneTutorialController_Text_7": "Tap on Pikachu and give Snorlax\nsome Berries!",
+  "HomeSceneTutorialController_Text_29": "Tutorial Completion Bonus",
+  "HomeSceneTutorialController_Text_30": "You got diamonds ×\u000e\u0002\u0003\u0004\u0000촁!",
+  "HomeSceneTutorialController_Text_31": "You can't use this feature yet.",
+  "HomeSceneTutorialController_Text_32": "Try tapping on Pikachu or its Berries!"
+}

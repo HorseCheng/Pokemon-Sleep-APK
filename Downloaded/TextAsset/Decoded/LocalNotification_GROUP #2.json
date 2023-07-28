@@ -1,0 +1,19 @@
+{
+  "Fields_Move_Notify_Title": "¡A otra parte!",
+  "Fields_Move_Notify_Message": "¡Revisa los resultados y cambiemos\nde zona!",
+  "UnReported_Notify_Title": "Revisa los datos",
+  "UnReported_Notify_Message": "Hay datos sin revisar del \u000e\u0002\u0001\u0002\u0001/\u000e\u0002\u0001\u0002\u0000.\n¡No los pierdas!",
+  "Sleep_PromiseTime_Notify_Title": "¡Es hora de dormir!",
+  "Sleep_PromiseTime_Notify_Message_01": "Acuéstate a las \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002\u0002.\n\u000e\u0003\n\u0002촀 parece cansado.",
+  "Sleep_PromiseTime_Notify_Message_02": "\u000e\u0003\n\u0002촀 está listo para\ndormir. ¿Y tú?",
+  "Berry_Full_Notify_Title": "¡Será por bayas!",
+  "Berry_Full_Notify_Message": "¡\u000e\u0003\n\u0002촀 y compañía\nte han traído bayas!",
+  "Abandoned_Day4_Notify_Title": "¿Te acuerdas de \u000e\u0003\n\u0002촀?",
+  "Abandoned_Day4_Notify_Message": "¡Parece que te echa de menos!",
+  "Abandoned_Day7_Notify_Title": "¡Retoma el estudio!",
+  "Abandoned_Day7_Notify_Message": "¿Qué tal estás durmiendo? ¡Averígualo!",
+  "SleepAnalyzeNow_Title": "Registrando...",
+  "SleepAnalyzeNow_Message": "¡Registra siempre con la aplicación\nabierta!",
+  "SleepAnalyzeFinished_Title": "Registro detenido",
+  "SleepAnalyzeFinished_Message": "¡El registro se ha parado porque se ha\ncerrado la aplicación!"
+}

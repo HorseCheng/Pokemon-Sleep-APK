@@ -1,0 +1,22 @@
+{
+  "PokemonTeamFormationSceneController_Text_6": "Vuoi cambiare?",
+  "PokemonTeamFormationSceneController_Text_4": "Errore",
+  "PokemonTeamFormationSceneController_Text_5": "Imposta i membri della squadra.",
+  "PokemonTeamFormationSceneController_Text_1": "Fine",
+  "PokemonTeamFormationSceneController_Text_2": "La squadra è stata creata da Rotom!",
+  "PokemonTeamFormationSceneController_Text_3": "Modifica nome squadra",
+  "PokemonChangeConfirmPopup_Text_1": "Sciogli",
+  "PokemonChangeConfirmPopup_Text_2": "Scambia",
+  "PokemonTeamCellViewTypeToggleButton_Text_1": "Rango",
+  "PokemonTeamCellViewTypeToggleButton_Text_2": "PR",
+  "PokemonTeamFormationScene_Content_StatusListButton": "Statistiche",
+  "PokemonTeamFormationScene_Content_AutoFormationButton": "Aiutami a scegliere!",
+  "PokemonTeamFormationScene_Content_ChangeButton": "Modifica questa squadra",
+  "PokemonTeamFormationScene_Header_Title": "Crea squadra\nassistenti",
+  "PokemonTeamFormationScene_Header_TeamSPTitle": "PR squadra",
+  "PokemonTeamFormationScene_Header_TeamSPNum": "\u000e\u0002\u0005\u0004\u0000촁",
+  "PokemonTeamFormationScene_Footer_Title": "Cambia ordine",
+  "PokemonTeamFormationScene_Footer_Value": "Livello",
+  "PokemonTeamFormationScene_Header_CurrentTeamTag": "Squadra attuale",
+  "PokemonTeamFormationSceneController_Text_7": "Non hai ancora cambiato squadra.\nSe vuoi scegliere questa al posto\ndi quella attuale, tocca l'icona\n\"Scegli questa squadra\"!\n\nPreferisci invece continuare\ncon la squadra attuale?"
+}

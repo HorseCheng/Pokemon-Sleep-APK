@@ -1,0 +1,22 @@
+{
+  "NormalError_Title": "에러",
+  "ErrorCode_Text": "에러 코드",
+  "BackToTitle_Message": "에러가 발생했습니다\n타이틀에서 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004Ā촀",
+  "StringInputError_TooLong": "입력한 유저 이름이 너무 깁니다\n\u000e\u0002\u0002\u0002\u0000자 이내로 입력해 주십시오",
+  "StringInputError_CharNotAllowed": "사용할 수 없는 글자가 포함되어 있습니다\n다른 유저 이름을 입력해 주십시오",
+  "StringInputError_CharSetNotAllowed": "사용할 수 없는 유저 이름입니다\n다른 이름을 입력해 주십시오",
+  "StringInputError_NgWord": "사용할 수 없는 유저 이름입니다\n다른 이름을 입력해 주십시오",
+  "CommonError_NickNameTooLongPopup_Text": "入力したニックネームが長すぎます\n全角6文字、半角12文字以内で\n入力してください",
+  "CommonError_NickNameCharNotAllowedPopup_Text": "使用できない文字が含まれています\n別のニックネームを入力してください",
+  "CommonError_NickNameCharSetNotAllowedPopup_Text": "使用できないニックネームです\n別の名前を入力してください",
+  "CommonError_NickNameNgWordPopup_Text": "使用できないニックネームです\n別の名前を入力してください",
+  "CommonError_SleepMemoNGWordPopup_Text": "사용할 수 없는 문자열이 포함되어 있습니다\n메모를 다시 입력해 주십시오",
+  "CommonError_TeamNameNgWordPopup_Text": "使用できないチーム名です\n別の名前を入力してください",
+  "CommonError_TimeProblem": "단말기의 일시 설정이\n과거의 일시로 변경되어 있습니다\n\n단말기의 일시를 바르게 설정하신 다음\n타이틀에서 게임을 다시 시작해 주십시오",
+  "CommonError_ServerBusy": "서버가 혼잡합니다\n타이틀 화면으로 돌아갑니다\n시간을 두고 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_AdmissionRestriction_Title": "서버가 혼잡합니다\n타이틀 화면으로 돌아갑니다\n시간을 두고 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_AdmissionRestriction_Text_NewUser": "서버가 혼잡합니다\n타이틀 화면으로 돌아갑니다\n시간을 두고 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_AdmissionRestriction_Text_AlreadyUser": "서버가 혼잡합니다\n타이틀 화면으로 돌아갑니다\n시간을 두고 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_AdmissionRestriction_Button": "서버가 혼잡합니다\n타이틀 화면으로 돌아갑니다\n시간을 두고 게임을\n다시 시작해 주십시오\n\n에러 코드: \u000e\u0002\u0005\u0004\u0000촁",
+  "CommonError_MaybeTimeSettingWrong_Text": "단말기의 날짜와 시간 설정이\n맞지 않을 가능성이 있습니다\n단말기의 날짜와 시간 설정을 확인하고\n잠시 후에 다시 확인해 주십시오\n에러 코드: \u000e\u0002\u0005\u0004Ā촀"
+}

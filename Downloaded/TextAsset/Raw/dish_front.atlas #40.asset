@@ -1,0 +1,15 @@
+dish_front.png
+size:1024,1024
+filter:Linear,Linear
+dish-shadow_1
+bounds:2,525,351,244
+offsets:423,446,1200,1200
+dish-under_1
+bounds:355,525,414,244
+offsets:397,445,1200,1200
+dish_1
+bounds:334,247,338,276
+offsets:424,461,1200,1200
+dish_2
+bounds:2,249,330,274
+offsets:436,514,1200,1200

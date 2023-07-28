@@ -1,0 +1,22 @@
+{
+  "PokemonTeamFormationSceneController_Text_6": "チーム変更の確認",
+  "PokemonTeamFormationSceneController_Text_4": "エラー",
+  "PokemonTeamFormationSceneController_Text_5": "チームにメンバーを設定してください",
+  "PokemonTeamFormationSceneController_Text_1": "完了",
+  "PokemonTeamFormationSceneController_Text_2": "おまかせ編成しました！",
+  "PokemonTeamFormationSceneController_Text_3": "チーム名の変更",
+  "PokemonChangeConfirmPopup_Text_1": "はずす",
+  "PokemonChangeConfirmPopup_Text_2": "いれかえる",
+  "PokemonTeamCellViewTypeToggleButton_Text_1": "レベル",
+  "PokemonTeamCellViewTypeToggleButton_Text_2": "SP",
+  "PokemonTeamFormationScene_Content_StatusListButton": "ステータス",
+  "PokemonTeamFormationScene_Content_AutoFormationButton": "おまかせ編成",
+  "PokemonTeamFormationScene_Content_ChangeButton": "このチームに変更",
+  "PokemonTeamFormationScene_Header_Title": "チーム編成",
+  "PokemonTeamFormationScene_Header_TeamSPTitle": "チームSP",
+  "PokemonTeamFormationScene_Header_TeamSPNum": "\u000e\u0002\u0005\u0004\u0000촁",
+  "PokemonTeamFormationScene_Footer_Title": "表示切替",
+  "PokemonTeamFormationScene_Footer_Value": "レベル",
+  "PokemonTeamFormationScene_Header_CurrentTeamTag": "現在のチーム",
+  "PokemonTeamFormationSceneController_Text_7": "チーム変更が保存されていません\n現在のチームから変更する場合\n「このチームに変更」ボタンを押してください\n\nチームを変更せずに戻りますか？"
+}

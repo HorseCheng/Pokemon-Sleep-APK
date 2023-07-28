@@ -1,0 +1,11 @@
+{
+  "EvolutionCondictionDesc_SpeciesCandy": "需要\u000e\u0002\u0002\u0002\u0002個\n\u000e\u0003\u0003\u0004Ā촀。",
+  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002촀的等級\n到達\u000e\u0002\u0002\u0002\u0001。",
+  "EvolutionCondictionDesc_ItemNum": "需要\u000e\u0002\u0002\u0002\u0002個\n\u000e\u0003\u0003\u0004Ā촀。",
+  "EvolutionCondictionDesc_TotalSleepTime": "與\u000e\u0003\u0001\u0002촀的睡眠時間\n到達\u000e\t\u0000\f\bhhhh\u0001。",
+  "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "在白天的時段（6:00〜17:59）\n使其進化。",
+  "EvolutionCondictionDesc_PeriodOfTime_4": "在晚上的時段（18:00〜05:59）\n使其進化。",
+  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002촀的性格是\u000e\u0003\u0011\u0002\u0001。",
+  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002촀的性別是♂。",
+  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002촀的性別是♀。"
+}

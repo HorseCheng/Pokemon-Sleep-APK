@@ -1,0 +1,15 @@
+{
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "料理チュートリアル",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "料理チュートリアルを\n開始しますか？",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "開始する",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "料理の食材",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "料理に使う食材として\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\nを博士から受け取りました",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "料理チュートリアル完了",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "報酬として\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\nを獲得しました",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "リサーチお疲れ様でした",
+  "HomeSceneTutorialController_Text_7": "ピカチュウをタップして\nきのみをカビゴンにあげよう！",
+  "HomeSceneTutorialController_Text_29": "チュートリアル完了ボーナス",
+  "HomeSceneTutorialController_Text_30": "ダイヤ x\u000e\u0002\u0003\u0004\u0000촁\nを獲得しました",
+  "HomeSceneTutorialController_Text_31": "この機能はまだ使えません",
+  "HomeSceneTutorialController_Text_32": "ピカチュウ・きのみをタップしてください"
+}

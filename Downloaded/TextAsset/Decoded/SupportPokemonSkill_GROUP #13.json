@@ -1,0 +1,12 @@
+{
+  "Message_ActivatePokemonSkill": "Tecnica di \u000e\u0003\n\u0002촀 attivata!",
+  "SkillEffect_FoodPowerUp": "Snorlax ha ottenuto una potenza\ndi \u000e\u0002\u0004\u0004\u0000촁!",
+  "SkillEffect_CoinGet": "Ottieni \u000e\u0002\u0004\u0004\u0000촁 frammenti di sogno!",
+  "SkillEffect_SelfPokemonPowerUp": "\u000e\u0002\u0002\u0002\u0000 energi\u000e\u0005\u0000\n\u0002a\u0002e촀 recuperat\u000e\u0005\u0000\n\u0002a\u0002e촀!",
+  "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀 ha recuperato\n\u000e\u0002\u0002\u0002\u0001 energi\u000e\u0005\u0000\n\u0002a\u0002e촁!",
+  "SkillEffect_AllActivePokemonPowerUp": "La squadra ha recuperato \u000e\u0002\u0002\u0002\u0000 energi\u000e\u0005\u0000\n\u0002a\u0002e촀!",
+  "SkillEffect_PickupFinishRandom": "Aiuto bonus da \u000e\u0003\n\u0002촀\n(×\u000e\u0002\u0004\u0004\u0001촁)!",
+  "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 ingredient\u000e\u0005\u0000\n\u0002e\u0002i촀 ottenut\u000e\u0005\u0000\n\u0002o\u0002i촀!",
+  "SkillEffect_CookingIngredientNumLimitUp": "La pentola può contenere\n\u000e\u0002\u0002\u0002\u0000 ingredient\u000e\u0005\u0000\n\u0002e\u0002i촀 in più!",
+  "SkillAction_SelectSkillRandom": ""
+}

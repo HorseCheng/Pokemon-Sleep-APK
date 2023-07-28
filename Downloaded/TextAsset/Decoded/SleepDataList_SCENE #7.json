@@ -1,0 +1,9 @@
+{
+  "SleepDataListScene_Content_Title": "睡眠データ一覧",
+  "SleepDataListScene_Content_Desc": "今までの睡眠データやリサーチ内容を確認できます",
+  "SleepDataListScene_Content_LimitButton": "30日間 （制限）",
+  "SleepDataListScene_Header_Title": "睡眠データ",
+  "SleepDataListScene_Header_CalendarButton": "カレンダー",
+  "SleepDataListScene_Header_ListButton": "リスト",
+  "SleepDataListScene_NoDataDesc": "睡眠データがまだありません"
+}

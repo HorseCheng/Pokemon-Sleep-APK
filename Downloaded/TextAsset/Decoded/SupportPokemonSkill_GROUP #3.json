@@ -1,0 +1,12 @@
+{
+  "Message_ActivatePokemonSkill": "\u000e\u0003\n\u0002촀의 메인 스킬!",
+  "SkillEffect_FoodPowerUp": "에너지 \u000e\u0002\u0004\u0004\u0000촁 획득!",
+  "SkillEffect_CoinGet": "꿈의조각 x\u000e\u0002\u0004\u0004\u0000촁개 획득!",
+  "SkillEffect_SelfPokemonPowerUp": "기력 \u000e\u0002\u0002\u0002\u0000 회복!",
+  "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀의 기력 \u000e\u0002\u0002\u0002\u0000 회복!",
+  "SkillEffect_AllActivePokemonPowerUp": "팀의 기력 \u000e\u0002\u0002\u0002\u0000 회복!",
+  "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀의 도움이 \u000e\u0002\u0004\u0004\u0000촁회 진행됐다!",
+  "SkillEffect_PickupIngredientRandom": "식재료 \u000e\u0002\u0002\u0002\u0000개 획득!",
+  "SkillEffect_CookingIngredientNumLimitUp": "요리 냄비의 용량이 \u000e\u0002\u0002\u0002\u0000개 늘었다!",
+  "SkillAction_SelectSkillRandom": ""
+}

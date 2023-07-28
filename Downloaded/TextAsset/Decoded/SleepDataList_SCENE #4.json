@@ -1,0 +1,9 @@
+{
+  "SleepDataListScene_Content_Title": "Sleep Data",
+  "SleepDataListScene_Content_Desc": "Check out your sleep data and research results.",
+  "SleepDataListScene_Content_LimitButton": "30 Days (max)",
+  "SleepDataListScene_Header_Title": "Sleep Data",
+  "SleepDataListScene_Header_CalendarButton": "Calendar",
+  "SleepDataListScene_Header_ListButton": "List",
+  "SleepDataListScene_NoDataDesc": "You haven’t logged any sleep data yet."
+}

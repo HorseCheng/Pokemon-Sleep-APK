@@ -1,0 +1,8 @@
+{
+  "AMPM_1": "a.m.",
+  "AMPM_2": "p.m.",
+  "AMPM_1_NoPeriod": "am",
+  "AMPM_2_NoPeriod": "pm",
+  "AMPM_1_Upper_NoPeriod": "AM",
+  "AMPM_2_Upper_NoPeriod": "PM"
+}

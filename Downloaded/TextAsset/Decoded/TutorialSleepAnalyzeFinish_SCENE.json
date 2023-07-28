@@ -1,0 +1,7 @@
+{
+  "TutorialSleepAnalyzeFinishSceneController_Text_1": "첫 수면 계측이 성공한 모양이구나!\n그럼 이제 수면 리서치에 대해서\n배워 볼 차례야.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "튜토리얼 대기 중",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "수면 리서치 튜토리얼",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "준비가 되면 수면 리서치를\n다시 시작해 봅시다.\n먼저, 계측한 수면 데이터를\n확인하는 것부터 시작합니다.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "수면 리서치를 다시 한다"
+}

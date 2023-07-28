@@ -1,0 +1,20 @@
+{
+  "SleepRegularityDetail_ContentDesc_InvalidData": "수면 데이터가 부족합니다\n수면 리듬을 평가하려면\n한 주에 최소 4일 치의 수면 데이터가 필요합니다",
+  "SleepRegularityDetail_ContentDesc_NoData": "이 기간의 수면 데이터가 하나도 없습니다\n수면 리듬을 평가하려면\n한 주에 최소 4일 치의 수면 데이터가 필요합니다",
+  "SleepRegularityDetail_Label_NoData": "No Data",
+  "SleepRegularityDetail_GraphOverlay_Date": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_GraphOverlay_Duration": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphOverlay_Time": "\u000e\t\u0000\u0010\fhhhmmm\u0000~\u000e\t\u0000\u0010\fhhhmmm\u0001",
+  "SleepRegularityDetail_HeadTile": "수면 리듬",
+  "SleepRegularityDetail_HeadPeriod": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000~\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0001",
+  "SleepRegularityDetail_ContentDesc_1": "상당히 규칙적인 수면을 취한 일주일이었습니다\n이번 주에는 수면 시간의 길이가 들쭉날쭉한 날이\n생기지 않도록 주의하며 수면을 취해 봅시다",
+  "SleepRegularityDetail_DataTitle": "일주일간의 요약 데이터",
+  "SleepRegularityDetail_SleepTimeLabel": "수면 시간의 길이",
+  "SleepRegularityDetail_MidTimeSleepLabel": "미드 슬립 타임",
+  "SleepRegularityDetail_WeekTitle": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000 \u000e\u0002\u0000\u0002촁주차",
+  "SleepRegularityDetail_WeekItemDateNum": "\u000e\u0002\u0000\u0002촀",
+  "SleepRegularityDetail_WeekItemDate": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_WeekItemSleepTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphDayOfWeek": "\u000e\t\u0001\u0004Ā촀",
+  "SleepRegularityDetail_GraphTimeScale": "\u000e\t\u0000\f\bh:mm\u0000"
+}

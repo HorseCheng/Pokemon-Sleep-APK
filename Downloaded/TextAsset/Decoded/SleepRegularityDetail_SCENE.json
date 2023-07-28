@@ -1,0 +1,20 @@
+{
+  "SleepRegularityDetail_ContentDesc_InvalidData": "睡眠データが足りていません\n睡眠リズムの評価には\n週に最低4日分の睡眠データが必要です",
+  "SleepRegularityDetail_ContentDesc_NoData": "この期間の睡眠データは一つもありません\n睡眠リズムの評価には\n週に最低4日分の睡眠データが必要です",
+  "SleepRegularityDetail_Label_NoData": "No Data",
+  "SleepRegularityDetail_GraphOverlay_Date": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_GraphOverlay_Duration": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphOverlay_Time": "\u000e\t\u0000\u0010\fhhhmmm\u0000~\u000e\t\u0000\u0010\fhhhmmm\u0001",
+  "SleepRegularityDetail_HeadTile": "睡眠リズム",
+  "SleepRegularityDetail_HeadPeriod": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000~\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0001",
+  "SleepRegularityDetail_ContentDesc_1": "かなり規則正しい睡眠がとれた1週間でした\n今週は、睡眠時間の長さが乱れる日が\n出ないように気をつけて睡眠をとりましょう",
+  "SleepRegularityDetail_DataTitle": "1週間のまとめデータ",
+  "SleepRegularityDetail_SleepTimeLabel": "睡眠時間の長さ",
+  "SleepRegularityDetail_MidTimeSleepLabel": "ミッドスリープタイム",
+  "SleepRegularityDetail_WeekTitle": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000 \u000e\u0002\u0000\u0002촁週目",
+  "SleepRegularityDetail_WeekItemDateNum": "\u000e\u0002\u0000\u0002촀",
+  "SleepRegularityDetail_WeekItemDate": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_WeekItemSleepTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphDayOfWeek": "\u000e\t\u0001\u0004Ā촀",
+  "SleepRegularityDetail_GraphTimeScale": "\u000e\t\u0000\f\bh:mm\u0000"
+}

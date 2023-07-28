@@ -1,0 +1,11 @@
+{
+  "SleepRegularityList_HeadTile": "Sleep Consistency",
+  "SleepRegularityList_ContentTitle": "Sleep Consistency",
+  "SleepRegularityList_LimitLabel": "4 Weeks (Max)",
+  "SleepRegularityList_ContentDesc": "See how consistent your sleep has been from\nweek to week.",
+  "SleepRegularityList_SectionHeader": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
+  "SleepRegularityList_ItemPeriod": "\u000e\t\u0000\u0010\fMMMddd\u0000 to \u000e\t\u0000\u0010\fMMMddd\u0001",
+  "SleepRegularityList_ItemSleepTime": "Sleep Duration",
+  "SleepRegularityList_ItemMidTimeSleep": "Sleep Midpoint",
+  "SleepRegularityListScene_NoDataDesc": "You don’t have any sleep consistency data yet."
+}

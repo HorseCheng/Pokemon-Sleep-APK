@@ -1,0 +1,7 @@
+BG_Star.png
+size:256,256
+filter:Linear,Linear
+UI_star_big
+bounds:2,54,80,80
+UI_star_smaii
+bounds:2,2,50,50

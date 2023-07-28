@@ -1,0 +1,9 @@
+{
+  "DataDownloadSceneController_Text_1": "Fehler beim Herunterladen",
+  "DataDownloadSceneController_Text_2": "Beim Herunterladen ist ein Fehler\naufgetreten. Bitte warte einen\nMoment und versuche es erneut.",
+  "DataDownloadSceneController_Text_4": "Dein Gerät hat nicht mehr genug\nSpeicherplatz. Bitte sorge für den\nnotwendigen Platz.",
+  "DataDownloadSceneController_Text_5": "Fehler beim Herunterladen",
+  "DataDownloadSceneController_Text_6": "Beim Herunterladen ist ein Fehler\naufgetreten. Bitte warte einen\nMoment und versuche es erneut.",
+  "DataDownloadSceneController_Text_8": "Download abgeschlossen.",
+  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000 % (\u000e\u0002\t\u0004\u0001촁 MB / \u000e\u0002\t\u0004\u0002촁 MB)"
+}

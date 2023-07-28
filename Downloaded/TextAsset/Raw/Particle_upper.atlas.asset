@@ -1,0 +1,16 @@
+Particle_upper.png
+size:512,512
+filter:Linear,Linear
+eff_main_ryushi_part_blue
+bounds:237,346,107,105
+offsets:582,1322,1270,2750
+eff_main_ryushi_part_pink
+bounds:346,247,100,105
+offsets:585,1322,1270,2750
+rotate:90
+eff_main_ryushi_part_yellow
+bounds:346,349,103,102
+offsets:584,1325,1270,2750
+eff_powa_cicre_small_bokashi
+bounds:2,231,233,220
+offsets:445,1107,1122,2430

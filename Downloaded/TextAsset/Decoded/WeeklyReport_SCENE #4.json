@@ -1,0 +1,10 @@
+{
+  "WeeklyReportSceneController_RewardPopup_Title": "Récompenses de sommeil régulier",
+  "WeeklyReportSceneController_RewardPopup_Message": "Vous avez obtenu :\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\t\u0004\u0002촁 !",
+  "WeeklyReportSceneController_Text_6": "Données de sommeil insuffisantes",
+  "WeeklyReportSceneController_Text_7": "Pour voir votre rythme de sommeil, au\nmoins \u000e\u0002\u0000\u0002촀 jour\u000e\u0004\u0000\b\u0000\u0002s촀 de données de sommeil\npar semaine sont nécessaires.",
+  "WeeklyReportScene_Title_TitleText": "Semaine préc. : \u000e\t\u0000\u000e\nMM/dd\u0000 - \u000e\t\u0000\u000e\nMM/dd\u0001",
+  "WeeklyReportScene_Description_Title": "Note du rythme de sommeil",
+  "WeeklyReportScene_Description_SleepTimeTitle": "Sommeil",
+  "WeeklyReportScene_Description_MSTTitle": "Sleep Midpoint"
+}

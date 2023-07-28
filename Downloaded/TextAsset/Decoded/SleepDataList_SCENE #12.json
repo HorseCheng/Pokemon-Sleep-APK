@@ -1,0 +1,9 @@
+{
+  "SleepDataListScene_Content_Title": "Schlafdaten",
+  "SleepDataListScene_Content_Desc": "Sieh dir deine Schlafdaten und Forschungsergebnisse an.",
+  "SleepDataListScene_Content_LimitButton": "30 Tage (max.)",
+  "SleepDataListScene_Header_Title": "Schlafdaten",
+  "SleepDataListScene_Header_CalendarButton": "Kalender",
+  "SleepDataListScene_Header_ListButton": "Liste",
+  "SleepDataListScene_NoDataDesc": "Du hast noch keine Schlafdaten gesammelt."
+}

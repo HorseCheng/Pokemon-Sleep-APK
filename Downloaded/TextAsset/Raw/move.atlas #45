@@ -1,0 +1,13 @@
+move.png
+size:512,512
+filter:Linear,Linear
+body_1
+bounds:2,183,367,252
+offsets:58,71,458,371
+eye-left_1
+bounds:371,297,55,58
+offsets:94,166,458,371
+foot-left_1
+bounds:371,357,78,64
+offsets:111,73,458,371
+rotate:90

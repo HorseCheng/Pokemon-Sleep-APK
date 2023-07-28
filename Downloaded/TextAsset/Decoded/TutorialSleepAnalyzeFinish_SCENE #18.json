@@ -1,0 +1,7 @@
+{
+  "TutorialSleepAnalyzeFinishSceneController_Text_1": "Looks like you succeeded in your\nfirst collection of sleep data!\nThat means it's time to learn\nhow we conduct sleep research.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial Pending",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Sleep Research Tutorial",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Let's get back to that sleep research as\nsoon as you're ready. We'll begin by\nreviewing the sleep you tracked.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Resume Tutorial"
+}

@@ -1,0 +1,11 @@
+{
+  "SleepRegularityList_HeadTile": "Schlafrhythmus",
+  "SleepRegularityList_ContentTitle": "Schlafrhythmus",
+  "SleepRegularityList_LimitLabel": "4 Wochen (max.)",
+  "SleepRegularityList_ContentDesc": "Verfolge deine Schlafwoche auf Regelmäßigkeit.",
+  "SleepRegularityList_SectionHeader": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
+  "SleepRegularityList_ItemPeriod": "\u000e\t\u0000\u0010\fMMMddd\u0000 bis \u000e\t\u0000\u0010\fMMMddd\u0001",
+  "SleepRegularityList_ItemSleepTime": "Schlafdauer",
+  "SleepRegularityList_ItemMidTimeSleep": "Schlafmitte",
+  "SleepRegularityListScene_NoDataDesc": "Du hast noch keine Daten zu deinem\nSchlafrhythmus."
+}

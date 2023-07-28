@@ -1,0 +1,12 @@
+{
+  "PointHistoryListCell_Score": "\u000e\u0002\u0002\u0002\u0000",
+  "PointHistoryListCell_Date": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
+  "PointHistoryListCell_Point": "\u000e\u0002\u0002\u0002\u0000 punti",
+  "PointHistoryListCell_PassType_Normal": "Normale",
+  "PointHistoryListCell_PassType_Premium": "Premium",
+  "PointHistoryListCell_PassType_Bonus": "Premium",
+  "PremiumPassCannotUsePopup_Title": "Pass premium",
+  "PremiumPassInfoPopup_Title": "Note salienti",
+  "PremiumPassPopup_Title": "Il pass premium",
+  "PremiumPassPopup_Title_2": "Pass premium"
+}

@@ -1,0 +1,10 @@
+{
+  "TutorialStoryScene_Header_HeaderBg": "Erste Schritte",
+  "TutorialStoryScene_PokemonGet_Header_Title": "Ein neuer Helfer",
+  "TutorialStoryScene_PokemonGet_Content_Title": "Du hast dich neu angefreundet!",
+  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "Pikachu",
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "Dieses Pikachu wird dir ab heute bei\ndeiner Forschung zur Hand gehen!\nWarum gibst du ihm nicht gleich einen\nSpitznamen?",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "Deine Schlafenszeit",
+  "TutorialSetupSceneController_Text_7": "Lass uns für deine Schlafforschung\nein Zeitfenster festlegen, in dem du\nund Pikachu jeden Tag zu Bett gehen\nsolltet. Wenn du diese Schlafenszeit\neinhältst, erhältst du eine Belohnung!",
+  "TutorialStoryScene_NameView_Name": "Professor Neroli"
+}

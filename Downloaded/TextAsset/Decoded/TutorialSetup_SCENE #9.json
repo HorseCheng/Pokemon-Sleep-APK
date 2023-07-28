@@ -1,0 +1,11 @@
+{
+  "TutorialSetupSceneController_Text_2": "Soprannome",
+  "TutorialSetupSceneController_Text_3": "Impegno a dormire",
+  "TutorialSetupSceneController_Text_4": "Imposta orario di nanna ideale",
+  "TutorialSetupSceneController_Text_5": "Tutto pronto",
+  "TutorialSetupSceneController_Text_8": "Siamo pronti per la ricerca.\nMi auguro di rivederti\nquesta notte per la nostra ricerca!\nNon ti dimenticare, eh!",
+  "TutorialSetupScene_NameChangeView_Desc": "(Puoi sempre cambiare soprannome dopo)",
+  "TutorialSetupScene_NameChangeView_OKButton": "Ok",
+  "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
+  "TutorialSetupScene_SleepTimeSetView_Desc": "Una notifica push ti avviserà 30 minuti\nprima dell'ora di dormire.\n(Puoi cambiare queste impostazioni)"
+}

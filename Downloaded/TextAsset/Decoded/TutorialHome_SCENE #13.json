@@ -1,0 +1,15 @@
+{
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Koch-Tutorial",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "Bist du bereit für das Koch-Tutorial?",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Beginnen",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Kochzutaten",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "Der Professor hat dir ein paar\nKochzutaten gegeben!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Koch-Tutorial abgeschlossen",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "Du erhältst eine Belohnung für das\nAbschließen des Koch-Tutorials!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "Forschung abgeschlossen!",
+  "HomeSceneTutorialController_Text_7": "Tippe Pikachu an, um Relaxo\neinige Beeren zu geben!",
+  "HomeSceneTutorialController_Text_29": "Tutorial-Belohnung",
+  "HomeSceneTutorialController_Text_30": "Du erhältst\nDiamanten ×\u000e\u0002\u0003\u0004\u0000촁!",
+  "HomeSceneTutorialController_Text_31": "Diese Funktion ist noch nicht verfügbar.",
+  "HomeSceneTutorialController_Text_32": "Versuche, Pikachu oder seine Beeren\nanzutippen!"
+}

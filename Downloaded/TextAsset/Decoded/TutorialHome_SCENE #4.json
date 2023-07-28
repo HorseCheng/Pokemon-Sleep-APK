@@ -1,0 +1,15 @@
+{
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "料理教學",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "要開始料理教學嗎？",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "開始",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "料理的食材",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "從博士那裡收下了\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\n作為料理的食材。",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "料理教學完成",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "獲得了\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002\n作為報酬。",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "研究辛苦了。",
+  "HomeSceneTutorialController_Text_7": "點擊皮卡丘來把樹果\n餵給卡比獸吧！",
+  "HomeSceneTutorialController_Text_29": "教學完成獎勵",
+  "HomeSceneTutorialController_Text_30": "獲得了\n鑽石 x\u000e\u0002\u0003\u0004\u0000촁。",
+  "HomeSceneTutorialController_Text_31": "這個功能還無法使用",
+  "HomeSceneTutorialController_Text_32": "請點擊皮卡丘或樹果。"
+}

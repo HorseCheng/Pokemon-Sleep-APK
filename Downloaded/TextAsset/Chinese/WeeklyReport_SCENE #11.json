@@ -1,0 +1,10 @@
+{
+  "WeeklyReportSceneController_RewardPopup_Title": "睡眠節奏報酬",
+  "WeeklyReportSceneController_RewardPopup_Message": "獲得了\n\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\t\u0004\u0002촁。",
+  "WeeklyReportSceneController_Text_6": "沒有足夠的睡眠資料。",
+  "WeeklyReportSceneController_Text_7": "若要查看睡眠節奏，\n一週需要有至少\u000e\u0002\u0000\u0002촀天份的睡眠資料。",
+  "WeeklyReportScene_Title_TitleText": "上週的睡眠( \u000e\t\u0000\u000e\nMM/dd\u0000～\u000e\t\u0000\u000e\nMM/dd\u0001 )",
+  "WeeklyReportScene_Description_Title": "睡眠節奏的評價",
+  "WeeklyReportScene_Description_SleepTimeTitle": "睡眠時間",
+  "WeeklyReportScene_Description_MSTTitle": "睡眠中央時刻"
+}

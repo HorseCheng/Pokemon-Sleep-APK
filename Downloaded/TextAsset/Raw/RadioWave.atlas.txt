@@ -1,0 +1,13 @@
+RadioWave.png
+size:128,128
+filter:Linear,Linear
+wave_1
+bounds:42,16,22,24
+offsets:0,1,51,53
+rotate:90
+wave_2
+bounds:2,2,36,38
+offsets:0,1,51,53
+rotate:90
+wave_3
+bounds:2,40,51,53

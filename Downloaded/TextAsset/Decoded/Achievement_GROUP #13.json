@@ -1,0 +1,16 @@
+{
+  "Achievement_LevelMax_Short": "MAX",
+  "Achievement_Level_Value": "Lv. \u000e\u0002\u0002\u0002\u0000",
+  "AchievementPopup_Title": "Errungenschaften",
+  "AchievementPopup_LevelMax": "Lv. MAX",
+  "AchievementPopup_Progress": "\u000e\u0002\t\u0004\u0000촁/\u000e\u0002\t\u0004\u0001촁",
+  "AchievementPopup_SectionTileList": "Belohnungen",
+  "AchievementPopup_RewardItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
+  "AchievementPopup_RewardItemNum_DiaVer": "×\u000e\u0002\u0004\u0004\u0000촁",
+  "AchievementUnlockPopup_HeadTitle": "Gut gemacht!",
+  "AchievementUnlockPopup_AchievedNumLabel": "Medaillen erhalten:",
+  "AchievementUnlockPopup_AchievedNumValue": "\u000e\u0002\u0003\u0004\u0000촁",
+  "AchievementUnlockPopup_Desc": "Für den Erfolg erhältst du eine\nMedaille und Belohnungen!",
+  "AchievementUnlockPopup_Desc_plu": "Für Erfolge erhältst du Medaillen\nund Belohnungen!",
+  "AchievementUnlockPopup_SectionTitle": "Errungenschaften"
+}

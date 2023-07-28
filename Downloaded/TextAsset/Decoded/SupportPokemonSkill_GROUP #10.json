@@ -1,0 +1,12 @@
+{
+  "Message_ActivatePokemonSkill": "\u000e\u0003\n\u0002촀のメインスキル！",
+  "SkillEffect_FoodPowerUp": "エナジーを\u000e\u0002\u0004\u0004\u0000촁ゲット！",
+  "SkillEffect_CoinGet": "ゆめのかけら x\u000e\u0002\u0004\u0004\u0000촁をゲット！",
+  "SkillEffect_SelfPokemonPowerUp": "げんきが\u000e\u0002\u0002\u0002\u0000回復！",
+  "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀のげんきが\u000e\u0002\u0002\u0002\u0001回復！",
+  "SkillEffect_AllActivePokemonPowerUp": "チームのげんきが\u000e\u0002\u0002\u0002\u0000回復！",
+  "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀のおてつだいが\u000e\u0002\u0004\u0004\u0001촁回進んだ！",
+  "SkillEffect_PickupIngredientRandom": "食材を\u000e\u0002\u0002\u0002\u0000個ゲット！",
+  "SkillEffect_CookingIngredientNumLimitUp": "料理のなべの容量が\u000e\u0002\u0002\u0002\u0000個増えた！",
+  "SkillAction_SelectSkillRandom": ""
+}

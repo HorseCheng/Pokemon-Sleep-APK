@@ -1,0 +1,13 @@
+Piece.png
+size:64,64
+filter:Linear,Linear
+piece_1
+bounds:2,17,15,16
+piece_2
+bounds:2,2,13,14
+rotate:90
+piece_3
+bounds:18,4,11,13
+rotate:90
+piece_4
+bounds:19,22,11,11

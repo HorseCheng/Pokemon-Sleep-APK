@@ -1,0 +1,20 @@
+{
+  "SleepRegularityDetail_ContentDesc_InvalidData": "Données de sommeil insuffisantes.\nMesurez au moins 4 jours de données de sommeil\npar semaine pour pouvoir évaluer votre rythme.",
+  "SleepRegularityDetail_ContentDesc_NoData": "Pas de données de sommeil pour cette période.\nMesurez au moins 4 jours de données de sommeil\npar semaine pour pouvoir évaluer votre rythme.",
+  "SleepRegularityDetail_Label_NoData": "Pas de données",
+  "SleepRegularityDetail_GraphOverlay_Date": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_GraphOverlay_Duration": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphOverlay_Time": "\u000e\t\u0000\u0010\fhhhmmm\u0000 – \u000e\t\u0000\u0010\fhhhmmm\u0001",
+  "SleepRegularityDetail_HeadTile": "Rythme de sommeil",
+  "SleepRegularityDetail_HeadPeriod": "Du \u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0000 au \u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0001",
+  "SleepRegularityDetail_ContentDesc_1": "Votre sommeil était plutôt régulier la semaine\ndernière ! Essayez de conserver le même rythme\nde sommeil cette semaine.",
+  "SleepRegularityDetail_DataTitle": "Bilan de la semaine",
+  "SleepRegularityDetail_SleepTimeLabel": "Durée de sommeil",
+  "SleepRegularityDetail_MidTimeSleepLabel": "Point médian du sommeil",
+  "SleepRegularityDetail_WeekTitle": "Semaine \u000e\u0002\u0000\u0002촁 (\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000)",
+  "SleepRegularityDetail_WeekItemDateNum": "\u000e\u0002\u0000\u0002촀",
+  "SleepRegularityDetail_WeekItemDate": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_WeekItemSleepTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphDayOfWeek": "\u000e\t\u0001\u0004Ā촁",
+  "SleepRegularityDetail_GraphTimeScale": "\u000e\t\u0000\f\bh:mm\u0000"
+}
