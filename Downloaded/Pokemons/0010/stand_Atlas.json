@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "stand_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4534395440764676016
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4110211332705761663
+    }
+  ]
+}

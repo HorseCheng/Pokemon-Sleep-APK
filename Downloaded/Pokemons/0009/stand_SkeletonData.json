@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "stand_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3323583949153286709
+    }
+  ],
+  "scale": 0.01,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 1957750308727404295
+  },
+  "isUpgradingBlendModeMaterials": 0,
+  "blendModeMaterials": {
+    "requiresBlendModeMaterials": 1,
+    "applyAdditiveMaterial": 1,
+    "additiveMaterials": [],
+    "multiplyMaterials": [
+      {
+        "pageName": "stand.png",
+        "material": {
+          "m_FileID": 0,
+          "m_PathID": 3646283113884903251
+        }
+      }
+    ],
+    "screenMaterials": []
+  },
+  "skeletonDataModifiers": [],
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
