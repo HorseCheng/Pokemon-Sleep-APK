@@ -54,6 +54,7 @@
   "ShopScene_Dia_Detail_1": "Diamanti a pagamento: \u000e\u0002\u0007\u0004\u0000촁\nDiamanti senza costo: \u000e\u0002\u0007\u0004\u0001촁\n\n(I diamanti a pagamento saranno usati\nper primi.)",
   "ShopScene_Item_Detail_0": "Operazione",
   "ShopScene_Item_Detail_1": "Ne hai \u000e\u0002\u0006\u0004\u0000촁",
+  "ShopScene_Item_Detail_1_NoDiaVer": "Ne hai \u000e\u0002\u0006\u0004\u0000촁",
   "ShopScene_Item_Detail_2": "Descrizione",
   "ShopScene_Item_Detail_3": "Annulla",
   "ShopScene_Item_Detail_4": "\u000e\u0002\u0003\u0004\u0000촁",

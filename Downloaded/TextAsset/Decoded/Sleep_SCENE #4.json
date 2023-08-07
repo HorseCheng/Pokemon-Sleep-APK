@@ -210,5 +210,7 @@
   "SleepConsumableItemUseConfirmPopup_OK": "セットする",
   "SleepConsumableItemSelectPopup_Section_Incense": "おこう",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "ポケモンのおこう",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "セット"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "セット",
+  "SleepScene_ResultSleepCorrectionPopup_Title": "睡眠データの補正",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "計測中に身体の動きが多く検知されたため\n睡眠タイプの判定を除外して、\n計測開始した時刻を就寝時刻として、\n睡眠データを作成しました"
 }

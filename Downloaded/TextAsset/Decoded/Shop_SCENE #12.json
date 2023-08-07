@@ -54,6 +54,7 @@
   "ShopScene_Dia_Detail_1": "有償ダイヤ：\u000e\u0002\u0007\u0004\u0000촁個\nボーナスダイヤ：\u000e\u0002\u0007\u0004\u0001촁個\n\n※ダイヤは有償分から先に消費されます",
   "ShopScene_Item_Detail_0": "購入する",
   "ShopScene_Item_Detail_1": "所持数 \u000e\u0002\u0006\u0004\u0000촁",
+  "ShopScene_Item_Detail_1_NoDiaVer": "所持数 \u000e\u0002\u0006\u0004\u0000촁",
   "ShopScene_Item_Detail_2": "説明",
   "ShopScene_Item_Detail_3": "キャンセル",
   "ShopScene_Item_Detail_4": "\u000e\u0002\u0003\u0004\u0000촁",

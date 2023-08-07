@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "入力ロック中",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "短期間に5回間違えたため\n入力がロックされています",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿Ｗロック解除まで：\u000e\u0002\u0001\u0002\u0000分\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "連携データがありません",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "引き継げません",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "このアカウントはデータを引き継いでから\n1時間以内のため、引き継ぎすることができません",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "アカウントに連携されているデータが\n見つかりませんでした",

@@ -210,5 +210,7 @@
   "SleepConsumableItemUseConfirmPopup_OK": "設置",
   "SleepConsumableItemSelectPopup_Section_Incense": "薰香",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "寶可夢的薰香",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "設置"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "設置",
+  "SleepScene_ResultSleepCorrectionPopup_Title": "調整睡眠資料",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "由於在測量時偵測到大量的身體動作，\n本次睡眠資料排除了睡眠類型判定，\n並將開始測量的時間視為就寢時間。"
 }

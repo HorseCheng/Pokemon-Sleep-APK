@@ -210,5 +210,7 @@
   "SleepConsumableItemUseConfirmPopup_OK": "Usar incienso",
   "SleepConsumableItemSelectPopup_Section_Incense": "Inciensos",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Inciensos de Pokémon",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "Usar"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "Usar",
+  "SleepScene_ResultSleepCorrectionPopup_Title": "Ajustes en los datos de sueño",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "Se ha detectado mucho movimiento\ncorporal durante el registro, por lo\nque no ha sido posible determinar un\ntipo de sueño. Se han creado datos de\nsueño partiendo del inicio del registro,\npero estos no incluyen el tipo de\nsueño."
 }

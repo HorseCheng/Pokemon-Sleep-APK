@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Gesperrt",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Aufgrund von 5 fehlerhaften Eingaben\nin kurzer Zeit bist du momentan von \nweiteren Eingaben gesperrt.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷDie Sperrung wird in \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000 \fMinute\u000eMinuten촀\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗaufgehoben.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "Keine Daten vorhanden",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Daten nicht übertragbar",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Es wurden Daten von diesem Konto in\nder letzten Stunde übertragen, daher\nist keine erneute Übertragung möglich.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "Es wurden keine Daten für dieses\nKonto gefunden.",

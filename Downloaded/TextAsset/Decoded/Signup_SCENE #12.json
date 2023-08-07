@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Locked Out",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Due to failing 5 attempts in a short\ntime, you are currently locked out\nof further input attempts.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷThe lock will be removed in \u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000 \fminute\u000eminutes촀.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "No Data to Transfer",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Cannot Transfer Data",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Data was transferred from this\naccount within the past hour, so\nanother data transfer is not possible.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "No data could be found for\nthe account in question.",

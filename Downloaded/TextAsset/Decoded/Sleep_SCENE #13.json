@@ -210,5 +210,7 @@
   "SleepConsumableItemUseConfirmPopup_OK": "Rauch einsetzen",
   "SleepConsumableItemSelectPopup_Section_Incense": "Rauch",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Pokémon-Rauch",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "Einsetzen"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "Einsetzen",
+  "SleepScene_ResultSleepCorrectionPopup_Title": "Anpassung der Schlafdaten",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "Es war leider nicht möglich, einen\nSchlaftyp zu ermitteln, da sehr starke\nBewegungen festgestellt wurden.\nEs wurden Schlafdaten ohne Schlaftyp\nkreiert, beginnend zu der Zeit, zu der\ndie Aufzeichnung gestartet wurde."
 }

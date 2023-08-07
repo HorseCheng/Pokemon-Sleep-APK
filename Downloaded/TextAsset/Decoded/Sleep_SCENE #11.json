@@ -210,5 +210,7 @@
   "SleepConsumableItemUseConfirmPopup_OK": "세팅한다",
   "SleepConsumableItemSelectPopup_Section_Incense": "향로",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "포켓몬의 향로",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "세팅"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "세팅",
+  "SleepScene_ResultSleepCorrectionPopup_Title": "수면 데이터의 보정",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "계측 중에 많은 신체 움직임이 감지되어\n수면 타입을 판정하지 않고\n계측을 시작한 시간을 취침 시간으로 하여\n수면 데이터를 작성하였습니다."
 }

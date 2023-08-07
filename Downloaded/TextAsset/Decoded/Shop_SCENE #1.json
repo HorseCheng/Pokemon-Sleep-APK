@@ -54,6 +54,7 @@
   "ShopScene_Dia_Detail_1": "Gekaufte Diamanten: \u000e\u0002\u0007\u0004\u0000촃\nKostenlose Diamanten: \u000e\u0002\u0007\u0004\u0001촃\n\n(Gekaufte Diamanten werden\nzuerst aufgebraucht.)",
   "ShopScene_Item_Detail_0": "Transaktion",
   "ShopScene_Item_Detail_1": "Im Besitz: \u000e\u0002\u0006\u0004\u0000촁",
+  "ShopScene_Item_Detail_1_NoDiaVer": "Im Besitz: \u000e\u0002\u0006\u0004\u0000촃",
   "ShopScene_Item_Detail_2": "Beschreibung",
   "ShopScene_Item_Detail_3": "Abbrechen",
   "ShopScene_Item_Detail_4": "\u000e\u0002\u0003\u0004\u0000촁",

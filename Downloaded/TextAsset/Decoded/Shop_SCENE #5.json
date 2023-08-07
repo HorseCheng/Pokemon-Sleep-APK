@@ -54,6 +54,7 @@
   "ShopScene_Dia_Detail_1": "유료 다이아: \u000e\u0002\u0007\u0004\u0000촁개\n보너스 다이아: \u000e\u0002\u0007\u0004\u0001촁개\n\n※다이아는 유료 다이아가 먼저 소비됩니다",
   "ShopScene_Item_Detail_0": "구입한다",
   "ShopScene_Item_Detail_1": "소지 수 \u000e\u0002\u0002\u0002\u0000",
+  "ShopScene_Item_Detail_1_NoDiaVer": "소지 수 \u000e\u0002\u0006\u0004\u0000촁",
   "ShopScene_Item_Detail_2": "설명",
   "ShopScene_Item_Detail_3": "취소",
   "ShopScene_Item_Detail_4": "\u000e\u0002\u0003\u0004\u0000촁",
