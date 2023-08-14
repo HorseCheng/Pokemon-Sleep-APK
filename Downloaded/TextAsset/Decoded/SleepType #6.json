@@ -1,6 +1,6 @@
 {
-  "SleepType_99": "Ausgeglichen",
-  "SleepType_4": "Halbschlaf",
-  "SleepType_1": "Leichtschlaf",
-  "SleepType_0": "Tiefschlaf"
+  "SleepType_99": "Balanced",
+  "SleepType_4": "Dozing",
+  "SleepType_1": "Snoozing",
+  "SleepType_0": "Slumbering"
 }

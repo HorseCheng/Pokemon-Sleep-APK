@@ -1,11 +1,11 @@
 {
-  "SleepingFacePokedexDetailScene_Content_Title": "Dododex",
-  "SleepingFacePokedexDetailScene_Content_Weight": "Poids :",
-  "SleepingFacePokedexDetailScene_Content_Height": "Taille :",
-  "SleepingFacePokedexDetailScene_Content_Type": "Type : \u000e\u0003\u0002\u0002촀",
-  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "# \u000e\u0002\u0002\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촀",
-  "SleepingFacePokedexDetailScene_Header_SleepType": "Type \u000e\u0003\u0004\u0002Ȁ",
-  "SleepingFacePokedexDetailScene_Header_ResearchCount": "Étudié\u000e\u0004\u0000\b\u0000\u0002s촀 : \u000e\u0002\u0002\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "Apprivoisé\u000e\u0004\u0000\b\u0000\u0002s촀 : \u000e\u0002\u0002\u0002\u0000"
+  "SleepingFacePokedexDetailScene_Content_Title": "Sonnodex",
+  "SleepingFacePokedexDetailScene_Content_Weight": "Peso:",
+  "SleepingFacePokedexDetailScene_Content_Height": "Altezza:",
+  "SleepingFacePokedexDetailScene_Content_Type": "Tipo: \u000e\u0003\u0002\u0002촀",
+  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "N° \u000e\u0002\u0002\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004\u0000촀",
+  "SleepingFacePokedexDetailScene_Header_SleepType": "Sonno \u000e\u0003\u0004\u0002Ȁ",
+  "SleepingFacePokedexDetailScene_Header_ResearchCount": "Studiati: \u000e\u0002\u0001\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_GetCount": "Amici: \u000e\u0002\u0003\u0004\u0000촁"
 }

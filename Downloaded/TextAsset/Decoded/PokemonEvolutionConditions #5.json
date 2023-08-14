@@ -1,11 +1,11 @@
 {
-  "EvolutionCondictionDesc_SpeciesCandy": "需要\u000e\u0002\u0002\u0002\u0002個\n\u000e\u0003\u0003\u0004Ā촀。",
-  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002촀的等級達到\u000e\u0002\u0002\u0002\u0001。",
-  "EvolutionCondictionDesc_ItemNum": "需要\u000e\u0002\u0002\u0002\u0002個\n\u000e\u0003\u0003\u0004Ā촀。",
-  "EvolutionCondictionDesc_TotalSleepTime": "與\u000e\u0003\u0001\u0002촀的睡眠時間\n達到\u000e\t\u0000\f\bhhhh\u0001。",
-  "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "在白天（6:00〜17:59）\n讓牠進化。",
-  "EvolutionCondictionDesc_PeriodOfTime_4": "在晚上（18:00〜05:59）\n讓牠進化。",
-  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002촀是\u000e\u0003\u0011\u0002\u0001的性格。",
-  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002촀的性別是♂。",
-  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002촀的性別是♀。"
+  "EvolutionCondictionDesc_SpeciesCandy": "\u000e\u0003\u0003\u0004Ā촀\nx \u000e\u0002\u0002\u0002\u0002",
+  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002촀 erreicht Lv. \u000e\u0002\u0002\u0002\u0001",
+  "EvolutionCondictionDesc_ItemNum": "\u000e\u0003\u0003\u0004Ā촀\nx \u000e\u0002\u0002\u0002\u0002",
+  "EvolutionCondictionDesc_TotalSleepTime": "\u000e\t\u0000\f\bhhhh\u0001 Stunden Schlaf mit\n\u000e\u0003\u0001\u0002촀",
+  "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "Entwickelt sich tagsüber\n(06:00-17:59 Uhr)",
+  "EvolutionCondictionDesc_PeriodOfTime_4": "Entwickelt sich nachts\n(18:00-05:59 Uhr)",
+  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002촀 ist vom Wesen\n\u000e\u0003\u0011\u0002\u0001.",
+  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002촀 ist männlich.",
+  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002촀 ist weiblich."
 }

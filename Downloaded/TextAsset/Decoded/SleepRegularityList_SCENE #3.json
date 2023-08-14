@@ -1,11 +1,11 @@
 {
-  "SleepRegularityList_HeadTile": "Rythme de sommeil",
-  "SleepRegularityList_ContentTitle": "Rythme de sommeil",
-  "SleepRegularityList_LimitLabel": "4 sem. (max)",
-  "SleepRegularityList_ContentDesc": "Évaluez votre rythme hebdomadaire de sommeil",
+  "SleepRegularityList_HeadTile": "Regolarità del sonno",
+  "SleepRegularityList_ContentTitle": "Regolarità sonno",
+  "SleepRegularityList_LimitLabel": "4 settimane (limite)",
+  "SleepRegularityList_ContentDesc": "Scopri quanto è stato regolare il tuo sonno\ndi settimana in settimana.",
   "SleepRegularityList_SectionHeader": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
-  "SleepRegularityList_ItemPeriod": "Du \u000e\t\u0000\u0010\fMMMddd\u0000 au \u000e\t\u0000\u0010\fMMMddd\u0001",
-  "SleepRegularityList_ItemSleepTime": "Durée de sommeil",
-  "SleepRegularityList_ItemMidTimeSleep": "Point médian du sommeil",
-  "SleepRegularityListScene_NoDataDesc": "Données sur le rythme de sommeil introuvables"
+  "SleepRegularityList_ItemPeriod": "dal \u000e\t\u0000\u0010\fMMMddd\u0000 al \u000e\t\u0000\u0010\fMMMddd\u0001",
+  "SleepRegularityList_ItemSleepTime": "Durata sonno",
+  "SleepRegularityList_ItemMidTimeSleep": "Sonno medio",
+  "SleepRegularityListScene_NoDataDesc": "Non hai dati sulla regolarità del sonno."
 }

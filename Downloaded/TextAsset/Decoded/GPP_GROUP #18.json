@@ -25,6 +25,6 @@
   "GPPSyncLoader_Start_Single_Research": "Comenzar el estudio",
   "GPPSyncLoader_Start_Multiple_Research": "Examinar todo a la vez",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Header_Title": "Examinar todo a la vez",
-  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "¿Quieres examinar los datos de sueño\nmás recientes agrupados con los datos\nanteriores?",
+  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "¿Quieres revisar los datos de sueño\nmás recientes y agruparlos con los\ndatos anteriores?",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Desc": "La hora del picoteo se gestionará\nautomáticamente."
 }

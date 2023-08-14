@@ -1,8 +1,8 @@
 {
-  "HeadTitle": "睡眠統計",
-  "ContentTitle": "睡眠統計",
-  "ContentDesc": "可確認到目前為止的睡眠資料和研究內容。",
-  "DaysLimitedButton": "30天（限制）",
+  "HeadTitle": "수면 통계",
+  "ContentTitle": "수면 통계",
+  "ContentDesc": "지금까지의 수면 데이터와 리서치 내용을 확인할 수 있습니다",
+  "DaysLimitedButton": "30일간 (제한)",
   "SectionHeader": "\u000e\t\u0000\u000e\nyyyyy\u0000",
   "ItemDataNum": "\u000e\u0002\u0002\u0002\u0000",
   "ItemPeriod": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000~\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0001",
@@ -11,7 +11,7 @@
   "PeriodType_Days_WithLabel": "\u000e\t\u0000\f\bdddd\u0000",
   "PeriodType_Years": "\u000e\t\u0000\u0010\fyyyyyy\u0000 (\u000e\t\u0000\f\bdddd\u0001)",
   "PeriodType_Days": "\u000e\t\u0000\f\bdddd\u0000",
-  "SleepStatisticsList_Nodata": "還沒有睡眠資料。",
-  "SleepStatisticsList_PeriodDialog_Title": "統計期間",
-  "SleepStatisticsList_PeriodDialog_Heading": "項目"
+  "SleepStatisticsList_Nodata": "아직 수면 데이터가 없습니다",
+  "SleepStatisticsList_PeriodDialog_Title": "통계 기간",
+  "SleepStatisticsList_PeriodDialog_Heading": "항목"
 }

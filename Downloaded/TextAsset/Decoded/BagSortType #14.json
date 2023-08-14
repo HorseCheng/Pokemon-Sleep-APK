@@ -1,6 +1,6 @@
 {
-  "BagSortType_1": "Predefinito",
-  "BagSortType_2": "Ottenuto",
-  "BagSortType_3": "Quantità",
-  "BagSortType_4": "Nome"
+  "BagSortType_1": "Default",
+  "BagSortType_2": "Date found",
+  "BagSortType_3": "No. held",
+  "BagSortType_4": "Name"
 }

@@ -118,6 +118,6 @@
   "ShopScene_ShopPopup_BagAlreadyMaxPopup_Title": "包包的上限",
   "ShopScene_ShopPopup_BagAlreadyMaxPopup_Text": "道具包包已滿，\n所以無法購買。\n請先整理道具包包。",
   "ShopScene_ShopPopup_StoreRefund_Title": "重要通知",
-  "ShopScene_ShopPopup_StoreRefund_Text_Apple": "有透過App Store完成退款的商品。\n該商品現已被回收。\n\n商店：App Store\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "有透過Google Play完成退款的商品。\n該商品現已被回收。\n\n商店：Google Play\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Apple": "有透過App Store完成退款的商品。\n該商品現已被收回。\n\n商店：App Store\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "有透過Google Play完成退款的商品。\n該商品現已被收回。\n\n商店：Google Play\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
 }

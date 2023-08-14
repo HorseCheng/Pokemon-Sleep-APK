@@ -1,15 +1,15 @@
 {
-  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Curso de cocina",
-  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "¿Te animas con un curso de cocina?",
-  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Vamos allá",
-  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Ingredientes",
-  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "El profesor te ha dado ingredientes\npara que te pongas a cocinar:\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
-  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Curso de cocina completado",
-  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "¡Te llevas una recompensa por haber\ncompletado el curso de cocina!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
-  "HomeSceneTutorialController_FooterMessage_FieldChange": "¡Estudio completado!",
-  "HomeSceneTutorialController_Text_7": "¡Toca a Pikachu y dale las bayas\nque lleva a Snorlax!",
-  "HomeSceneTutorialController_Text_29": "Premio por completar el tutorial",
-  "HomeSceneTutorialController_Text_30": "Te llevas\nDiamantes ×\u000e\u0002\u0003\u0004\u0000촁",
-  "HomeSceneTutorialController_Text_31": "Esta función aún no está disponible",
-  "HomeSceneTutorialController_Text_32": "¡Toca a Pikachu o alguna baya!"
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Comment cuisiner : tutorial",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "Commencer le tutorial sur la cuisine ?",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Commencer",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Ingrédients",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "Vous avez reçu des ingrédients pour\nla cuisine de la part du Professeur !\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Tutorial sur la cuisine terminé !",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "Vous avez reçu une récompense pour\navoir fini le tutorial sur la cuisine !\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "Recherches terminées !",
+  "HomeSceneTutorialController_Text_7": "Touchez Pikachu pour pouvoir\ndonner des Baies au Ronflex !",
+  "HomeSceneTutorialController_Text_29": "Bonus de fin de tutorial",
+  "HomeSceneTutorialController_Text_30": "Vous avez obtenu \u000e\u0002\u0003\u0004\u0000촁 Diamant\u000e\u0004\u0000\b\u0000\u0002s촀 !",
+  "HomeSceneTutorialController_Text_31": "Fonctionnalité indisponible",
+  "HomeSceneTutorialController_Text_32": "Appuyez sur Pikachu ou sur les Baies !"
 }

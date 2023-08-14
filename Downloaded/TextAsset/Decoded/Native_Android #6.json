@@ -1,8 +1,8 @@
 {
-  "Acceralation_Usage_Title": "Uso del acelerómetro",
-  "Acceralation_Usage_Message": "Pokémon Sleep usa el acelerómetro de tu dispositivo móvil para detectar movimiento al registrar tu sueño.",
+  "Acceralation_Usage_Title": "正在讀取加速度數據",
+  "Acceralation_Usage_Message": "正在讀取加速度數據以測量睡眠。",
   "NotificaionChannel_Name": "Pokémon Sleep",
-  "NotificaionChannel_Desc": "Pokémon Sleep usa el micrófono y el acelerómetro de tu dispositivo móvil para registrar tu sueño.",
+  "NotificaionChannel_Desc": "Pokémon Sleep會在測量睡眠時使用麥克風和加速度感測器。",
   "SleepMicRecorderService_NotificationChannel_Name": "Pokémon Sleep",
-  "SleepMicRecorderService_NotificationChannel_Message": "Pokémon Sleep está usando el micrófono de tu dispositivo móvil para registrar tu sueño."
+  "SleepMicRecorderService_NotificationChannel_Message": "正在使用麥克風測量睡眠。"
 }

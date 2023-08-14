@@ -1,15 +1,15 @@
 {
-  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "料理教學",
-  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "要開始料理教學嗎？",
-  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "開始",
-  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "料理的食材",
-  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "從博士那裡收到了\n\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0001\u0002\u0002\n作為料理的食材。",
-  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "已完成料理教學",
-  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "獲得了\n\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0001\u0002\u0002\n作為報酬。",
-  "HomeSceneTutorialController_FooterMessage_FieldChange": "研究告一段落！",
-  "HomeSceneTutorialController_Text_7": "點擊皮卡丘後，\n把樹果給卡比獸吃吧！",
-  "HomeSceneTutorialController_Text_29": "新手教學完成獎勵",
-  "HomeSceneTutorialController_Text_30": "獲得了\n鑽石×\u000e\u0002\u0003\u0004\u0000촁。",
-  "HomeSceneTutorialController_Text_31": "還無法使用這個功能",
-  "HomeSceneTutorialController_Text_32": "請點擊皮卡丘或樹果。"
+  "HomeSceneTutorialController_AskCookingTutorialStart_Title": "Curso de cocina",
+  "HomeSceneTutorialController_AskCookingTutorialStart_Message": "¿Te animas con un curso de cocina?",
+  "HomeSceneTutorialController_AskCookingTutorialStart_OK": "Vamos allá",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Title": "Ingredientes",
+  "HomeSceneTutorialController_CookingTutorial_StartRewardPopup_Message": "El profesor te ha dado ingredientes\npara que te pongas a cocinar:\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Curso de cocina completado",
+  "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "¡Te llevas una recompensa por haber\ncompletado el curso de cocina!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "HomeSceneTutorialController_FooterMessage_FieldChange": "¡Estudio completado!",
+  "HomeSceneTutorialController_Text_7": "¡Toca a Pikachu y dale las bayas\nque lleva a Snorlax!",
+  "HomeSceneTutorialController_Text_29": "Premio por completar el tutorial",
+  "HomeSceneTutorialController_Text_30": "Te llevas\nDiamantes ×\u000e\u0002\u0003\u0004\u0000촁",
+  "HomeSceneTutorialController_Text_31": "Esta función aún no está disponible",
+  "HomeSceneTutorialController_Text_32": "¡Toca a Pikachu o alguna baya!"
 }

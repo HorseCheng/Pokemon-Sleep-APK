@@ -1,16 +1,16 @@
 {
   "Achievement_LevelMax_Short": "MAX",
-  "Achievement_Level_Value": "L. \u000e\u0002\u0002\u0002\u0000",
-  "AchievementPopup_Title": "Info traguardi",
-  "AchievementPopup_LevelMax": "L. MAX",
+  "Achievement_Level_Value": "Lv. \u000e\u0002\u0002\u0002\u0000",
+  "AchievementPopup_Title": "Errungenschaften",
+  "AchievementPopup_LevelMax": "Lv. MAX",
   "AchievementPopup_Progress": "\u000e\u0002\t\u0004\u0000촁/\u000e\u0002\t\u0004\u0001촁",
-  "AchievementPopup_SectionTileList": "Ricompense",
+  "AchievementPopup_SectionTileList": "Belohnungen",
   "AchievementPopup_RewardItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
   "AchievementPopup_RewardItemNum_DiaVer": "×\u000e\u0002\u0004\u0004\u0000촁",
-  "AchievementUnlockPopup_HeadTitle": "Complimenti!",
-  "AchievementUnlockPopup_AchievedNumLabel": "Medaglie ricevute:",
+  "AchievementUnlockPopup_HeadTitle": "Gut gemacht!",
+  "AchievementUnlockPopup_AchievedNumLabel": "Medaillen erhalten:",
   "AchievementUnlockPopup_AchievedNumValue": "\u000e\u0002\u0003\u0004\u0000촁",
-  "AchievementUnlockPopup_Desc": "Hai ricevuto una medaglia\ne delle ricompense!",
-  "AchievementUnlockPopup_Desc_plu": "Hai ricevuto delle medaglie\ne delle ricompense!",
-  "AchievementUnlockPopup_SectionTitle": "Obiettivi"
+  "AchievementUnlockPopup_Desc": "Für den Erfolg erhältst du eine\nMedaille und Belohnungen!",
+  "AchievementUnlockPopup_Desc_plu": "Du erhältst Medaillen und\nBelohnungen!",
+  "AchievementUnlockPopup_SectionTitle": "Errungenschaften"
 }

@@ -210,7 +210,5 @@
   "SleepConsumableItemUseConfirmPopup_OK": "Utiliser un Encens",
   "SleepConsumableItemSelectPopup_Section_Incense": "Encens",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Encens Pokémon",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "Utiliser",
-  "SleepScene_ResultSleepCorrectionPopup_Title": "Ajustements des données",
-  "SleepScene_ResultSleepCorrectionPopup_Text": "Impossible de déterminer un type de\ndodo car trop de mouvements ont été\ndétectés. Les données de sommeil ont\nété créées sans type de dodo, à partir\nde l'instant où la mesure a commencé."
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "Utiliser"
 }

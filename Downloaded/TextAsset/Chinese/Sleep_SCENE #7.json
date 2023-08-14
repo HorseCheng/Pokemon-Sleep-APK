@@ -175,10 +175,10 @@
   "TutorialPopup_HowToSleep2_Desc_2": "置於堅硬的地面上，將無法正確測量。",
   "TutorialPopup_HowToSleep3_Desc_1": "請勿讓應用程式睡眠，或關閉畫面。\n並請將裝置的畫面朝下擺放。",
   "TutorialPopup_HowToSleep3_Desc_2": "畫面會自動變暗，\n並切換至省電模式。",
-  "TutorialPopup_HowToSleep_Desc": "端末は電源をつないだままにして\nください",
-  "TutorialPopup_HowToSleep_Desc_2": "アプリをスリープさせたり画面をOFFにしないで\nください （画面は自動で暗くなります）",
-  "TutorialPopup_HowToSleep_Desc_3": "寝る時には、ベッドや布団の上に端末を\n伏せて置いてください\n固い床などの場合正しく計測できません",
-  "TutorialPopup_HowToSleep_Desc_4": "※端末の温度が上がる可能性があるので、\n布団やまくらで端末を覆わないでください",
+  "TutorialPopup_HowToSleep_Desc": "請將裝置維持接上電源的狀態。",
+  "TutorialPopup_HowToSleep_Desc_2": "請勿讓應用程式睡眠，或關閉畫面。\n（畫面會自動轉暗）",
+  "TutorialPopup_HowToSleep_Desc_3": "睡覺時，請把裝置放在床上或地鋪上，\n並將畫面朝下。\n置於堅硬的地面上將無法正確測量。",
+  "TutorialPopup_HowToSleep_Desc_4": "※裝置的溫度可能會升高，\n所以請勿將棉被或枕頭覆蓋在裝置上。",
   "TutorialPopup_HowToSleepSummary_Title": "睡眠測量的總整理",
   "TutorialPopup_HowToSleepSummary_Desc": "請將智慧型手機維持接上電源的狀態。",
   "TutorialPopup_HowToSleepSummary_Desc_2": "請把智慧型手機放在床上或地鋪上。",
@@ -210,7 +210,5 @@
   "SleepConsumableItemUseConfirmPopup_OK": "設置",
   "SleepConsumableItemSelectPopup_Section_Incense": "薰香",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "寶可夢的薰香",
-  "SleepConsumableItemSelectPopup_Cell_SetButton": "組合",
-  "SleepScene_ResultSleepCorrectionPopup_Title": "調整睡眠資料",
-  "SleepScene_ResultSleepCorrectionPopup_Text": "由於在測量時偵測到大量的身體動作，\n本次睡眠資料已排除睡眠類型判定，\n並以開始測量的時間視為就寢時間。"
+  "SleepConsumableItemSelectPopup_Cell_SetButton": "組合"
 }

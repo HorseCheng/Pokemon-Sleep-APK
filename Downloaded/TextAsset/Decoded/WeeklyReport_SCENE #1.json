@@ -3,8 +3,8 @@
   "WeeklyReportSceneController_RewardPopup_Message": "Has obtenido:\n\u000e\u0003\u0003\u0004Ā촁 ×\u000e\u0002\t\u0004\u0002촁",
   "WeeklyReportSceneController_Text_6": "No hay suficientes datos de sueño",
   "WeeklyReportSceneController_Text_7": "Necesitas recabar datos de sueño un\nmínimo de \u000e\u0002\u0000\u0002촀 día\u000e\u0007\u0000\b\u0000\u0002s촀 para poder calcular\ntu regularidad.",
-  "WeeklyReportScene_Title_TitleText": "Datos de la semana pasada\n(\u000e\t\u0000\u000e\nMM/dd\u0000-\u000e\t\u0000\u000e\nMM/dd\u0001)",
+  "WeeklyReportScene_Title_TitleText": "Datos de la semana pasada (\u000e\t\u0000\u000e\nMM/dd\u0000-\u000e\t\u0000\u000e\nMM/dd\u0001)",
   "WeeklyReportScene_Description_Title": "Valoración de la regularidad",
-  "WeeklyReportScene_Description_SleepTimeTitle": "Tiempo de sueño",
+  "WeeklyReportScene_Description_SleepTimeTitle": "Duración",
   "WeeklyReportScene_Description_MSTTitle": "Punto medio\ndel sueño"
 }

@@ -1,8 +1,8 @@
 {
-  "GPPTutorialScene_Content_Name": "Botón principal",
+  "GPPTutorialScene_Content_Name": "Main button",
   "GPPTutorialScene_Content_Number": "\u000e\u0002\u0000\u0002촀",
-  "GPPTutorialScene_Content_Outline": "Esperando instrucciones...",
-  "GPPTutorialScene_Content_NextButton": "Siguiente",
-  "GPPTutorialScene_Header_Title": "Tutorial registro de sueño",
-  "GPPTutorialScene_Footer_SkipButtonText": "Saltar el tutorial"
+  "GPPTutorialScene_Content_Outline": "Waiting for your action...",
+  "GPPTutorialScene_Content_NextButton": "Next",
+  "GPPTutorialScene_Header_Title": "Sleep Tracking Tutorial",
+  "GPPTutorialScene_Footer_SkipButtonText": "Skip Tutorial"
 }

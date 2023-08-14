@@ -103,7 +103,6 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Bloccato",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Non essendo riusciti cinque tentativi\nin un breve intervallo di tempo,\nal momento non puoi fare altri\ntentativi.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷIl blocco verrà rimosso tra \u000e\u0002\u0001\u0002\u0000 minut\u000e\u0005\u0000\n\u0002o\u0002i촀.\u000e\u0000\u0003\u0004\u0000＀",
-  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "Nessun dato da trasferire",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Impossibile trasferire i dati",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Da questo account sono stati\ntrasferiti dei dati da meno di un'ora,\nquindi non è possibile un altro\ntrasferimento di dati.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "Nessun dato rilevato nell'account\nindicato.",

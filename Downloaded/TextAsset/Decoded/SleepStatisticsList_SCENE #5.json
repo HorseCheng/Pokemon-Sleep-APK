@@ -2,16 +2,16 @@
   "HeadTitle": "Statistiche sonno",
   "ContentTitle": "Statistiche sonno",
   "ContentDesc": "Guarda le misurazioni e l'andamento del sonno.",
-  "DaysLimitedButton": "30 giorni (limite)",
+  "DaysLimitedButton": "30 giorni (max)",
   "SectionHeader": "\u000e\t\u0000\u000e\nyyyyy\u0000",
   "ItemDataNum": "\u000e\u0002\u0002\u0002\u0000",
   "ItemPeriod": "\u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0000 - \u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0001",
   "ItemTotalTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
-  "PeriodType_Years_WithLabel": "Periodo: \u000e\t\u0000\u0010\fyyyyyy\u0000",
-  "PeriodType_Days_WithLabel": "Periodo: \u000e\t\u0000\f\bdddd\u0000",
-  "PeriodType_Years": "\u000e\t\u0000\u0010\fyyyyyy\u0000",
+  "PeriodType_Years_WithLabel": "\u000e\t\u0000\u0010\fyyyyyy\u0000",
+  "PeriodType_Days_WithLabel": "\u000e\t\u0000\f\bdddd\u0000",
+  "PeriodType_Years": "\u000e\t\u0000\u0010\fyyyyyy\u0000 (\u000e\t\u0000\f\bdddd\u0001)",
   "PeriodType_Days": "\u000e\t\u0000\f\bdddd\u0000",
   "SleepStatisticsList_Nodata": "Non hai ancora dati del sonno.",
-  "SleepStatisticsList_PeriodDialog_Title": "Periodo",
-  "SleepStatisticsList_PeriodDialog_Heading": "Periodo"
+  "SleepStatisticsList_PeriodDialog_Title": "Periodo di studio",
+  "SleepStatisticsList_PeriodDialog_Heading": "Intervallo"
 }

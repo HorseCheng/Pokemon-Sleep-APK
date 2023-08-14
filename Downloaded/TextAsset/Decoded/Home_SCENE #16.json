@@ -26,7 +26,7 @@
   "HomeSceneUIController_Text_1": "Ein neuer Tag",
   "HomeSceneUIController_Text_2": "Ein neuer Tag hat begonnen!\nDu kehrst zum Titelbildschirm zurück.",
   "HomeSceneUIController_Text_3": "Mehrere Schlafmessungen",
-  "HomeSceneUIController_Text_4_2times": "Dies scheint deine zweite Messung\nheute zu sein. Du kannst so lange\nschlafen, wie du möchtest, aber es\n\u000e\u0006\u0000\u001a\bkann\fkönnen촀 nur \u000e\u0002\u0001\u0002\u0000 Std. und \u000e\u0002\u0001\u0002\u0001 Min. zur\nSchlafforschung gezählt werden.",
+  "HomeSceneUIController_Text_4_2times": "Dies scheint heute deine zweite\nAufzeichnung zu sein. Du kannst so\nlange schlafen, wie du möchtest, aber\nes werden nur \u000e\u0002\u0001\u0002\u0000 Std. und \u000e\u0002\u0001\u0002\u0001 Min. zur\nheutigen Schlafforschung gezählt.",
   "HomeSceneUIController_Text_4_1timeOverMax": "Du kannst deinen Schlaf heute zwar\nnoch aufzeichnen, aber keine Forschung\nmehr daran durchführen. Du kannst\nmax. 8 Std. und 30 Min. pro Tag in die\nForschung einfließen lassen.",
   "HomeSceneUIController_Text_4_1timeOverMax_B": "Du kannst deinen Schlaf heute zwar\nnoch aufzeichnen, aber keine Forschung\nmehr daran durchführen. Du kannst\nmax. 11 Std. pro Tag in die Forschung\neinfließen lassen.",
   "HomeSceneUIController_Text_5": "Ungeprüfte Schlafforschungsberichte",
@@ -161,6 +161,6 @@
   "HomeScene_PremiumPassFinished_Popup_Text": "Dein Premiumpass ist \u000e\u0000\u0003\u0004毿Ｗabgelaufen\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeScene_PremiumPassFinished_Popup_SubText": "Du hast nun wieder einen Standardpass.\nWir würden uns freuen, dich bald beim\nPremiumtausch wieder zu begrüßen!",
   "HomeSceneGraphicText_PremiumPass": "PREMIUM-\nPASS",
-  "HomeScene_FieldChange_CheckSleepResult_Popup_Title": "Review after Moving Sites",
-  "HomeScene_FieldChange_CheckSleepResult_Popup_Text": "If you have unreviewed sleep reports\nwhen you move to a new site, don’t\nworry! You’ll still be able to review\nthose reports after you move, and\nyour research will be based on the\nsite you were in and the status of\nthe Snorlax at the previous campsite."
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Title": "Nach Gebietswechsel überprüfen",
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Text": "Mach dir keine Sorgen, wenn du das\nGebiet wechselst und du noch\nungelesene Berichte hast! Du kannst\ndiese nach dem Gebietswechsel\nüberprüfen. Diese Schlafforschung\nwird sich auf die Daten des vorherigen\nRelaxos und das vorherige Gebiet\nbeziehen."
 }

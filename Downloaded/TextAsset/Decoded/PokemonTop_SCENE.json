@@ -1,7 +1,7 @@
 {
-  "PokemonTopScene_Content_Title": "Pokémon",
-  "PokemonTopScene_Content_Desc": "Selecciona Pokémon ayudantes para tu grupo de\nestudio y organiza tu Caja de Pokémon.",
-  "PokemonTopScene_Content_Name": "Organizar grupos",
-  "PokemonTopScene_Content_Name_2": "Caja de Pokémon",
-  "PokemonTopScene_Header_TitleText": "Pokémon"
+  "PokemonTopScene_Content_Title": "ポケモン",
+  "PokemonTopScene_Content_Desc": "ポケモンの編成やボックスの管理ができます",
+  "PokemonTopScene_Content_Name": "チーム編成",
+  "PokemonTopScene_Content_Name_2": "ポケモンボックス",
+  "PokemonTopScene_Header_TitleText": "ポケモン"
 }

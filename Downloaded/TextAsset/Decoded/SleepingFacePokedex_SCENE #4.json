@@ -1,11 +1,11 @@
 {
-  "SleepingFacePokedexScene_Content_Title": "Schlafdex",
-  "SleepingFacePokedexScene_Content_Countum": "\u000e\u0002\u0002\u0002\u0000 %",
-  "SleepingFacePokedexScene_Content_Desc": "Schau dir die Pokémon an, die du erforscht hast!",
-  "SleepingFacePokedexScene_Header_TitleText": "Schlafdex",
-  "SleepingFacePokedexScene_Header_Title": "Schlafposen",
-  "SleepingFacePokedexScene_Footer_Title_2": "Filter AUS",
-  "SleepingFacePokedexScene_Footer_Title_3": "Schlaftyp",
-  "SleepingFacePokedexScene_Order_Heading": "Sortieren nach: \u000e\u0003\u0013\u0002\u0000",
+  "SleepingFacePokedexScene_Content_Title": "Sleep Style Dex",
+  "SleepingFacePokedexScene_Content_Countum": "\u000e\u0002\u0002\u0002\u0000%",
+  "SleepingFacePokedexScene_Content_Desc": "Check out the Pokémon you’ve studied so far!",
+  "SleepingFacePokedexScene_Header_TitleText": "Sleep Style Dex",
+  "SleepingFacePokedexScene_Header_Title": "View Sleep Styles",
+  "SleepingFacePokedexScene_Footer_Title_2": "Clear Filters",
+  "SleepingFacePokedexScene_Footer_Title_3": "Sleep Type",
+  "SleepingFacePokedexScene_Order_Heading": "Sorted by: \u000e\u0003\u0013\u0002\u0000",
   "SleepingFacePokedexScene_Secret": "???"
 }

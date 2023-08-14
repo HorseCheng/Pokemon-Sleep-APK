@@ -1,8 +1,8 @@
 {
-  "Acceralation_Usage_Title": "加速度取得中",
-  "Acceralation_Usage_Message": "睡眠計測のために加速度を取得しています",
+  "Acceralation_Usage_Title": "Mesure d'accélération",
+  "Acceralation_Usage_Message": "Pokémon Sleep calcule l'accélération depuis votre appareil pour mesurer votre sommeil.",
   "NotificaionChannel_Name": "Pokémon Sleep",
-  "NotificaionChannel_Desc": "Pokémon Sleepは睡眠計測中にマイクや加速度センサーを使用します。",
+  "NotificaionChannel_Desc": "Pokémon Sleep utilise le microphone et l'accéléromètre de votre appareil pendant la mesure de votre sommeil.",
   "SleepMicRecorderService_NotificationChannel_Name": "Pokémon Sleep",
-  "SleepMicRecorderService_NotificationChannel_Message": "睡眠計測のためにマイクを使用しています"
+  "SleepMicRecorderService_NotificationChannel_Message": "Pokémon Sleep utilise le microphone de votre appareil pour mesurer votre sommeil."
 }

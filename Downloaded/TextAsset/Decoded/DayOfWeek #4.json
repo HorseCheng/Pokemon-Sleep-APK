@@ -1,16 +1,16 @@
 {
-  "DayOfWeek_Full_0": "dimanche",
-  "DayOfWeek_Full_1": "lundi",
-  "DayOfWeek_Full_2": "mardi",
-  "DayOfWeek_Full_3": "mercredi",
-  "DayOfWeek_Full_4": "jeudi",
-  "DayOfWeek_Full_5": "vendredi",
-  "DayOfWeek_Full_6": "samedi",
-  "DayOfWeek_Short_0": "dim.",
+  "DayOfWeek_Full_0": "domingo",
+  "DayOfWeek_Full_1": "lunes",
+  "DayOfWeek_Full_2": "martes",
+  "DayOfWeek_Full_3": "miércoles",
+  "DayOfWeek_Full_4": "jueves",
+  "DayOfWeek_Full_5": "viernes",
+  "DayOfWeek_Full_6": "sábado",
+  "DayOfWeek_Short_0": "dom.",
   "DayOfWeek_Short_1": "lun.",
   "DayOfWeek_Short_2": "mar.",
-  "DayOfWeek_Short_3": "mer.",
-  "DayOfWeek_Short_4": "jeu.",
-  "DayOfWeek_Short_5": "ven.",
-  "DayOfWeek_Short_6": "sam."
+  "DayOfWeek_Short_3": "miérc.",
+  "DayOfWeek_Short_4": "juev.",
+  "DayOfWeek_Short_5": "vier.",
+  "DayOfWeek_Short_6": "sáb."
 }

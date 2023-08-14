@@ -27,5 +27,7 @@
   "MapDetailPopup_OKButton": "S'y rendre !",
   "MapObject_CompletePer": "\u000e\u0002\u0002\u0002\u0000 %",
   "MapObject_FieldBonus": "Bonus de zone",
-  "MapObject_FieldBonus_Per": "+ \u000e\u0002\u0003\u0004\u0000촁 %"
+  "MapObject_FieldBonus_Per": "+ \u000e\u0002\u0003\u0004\u0000촁 %",
+  "MapScene_DataDownload_Series_Title": "Data Download Confirmation",
+  "MapScene_DataDownload_Series_Text": "New area sound data will be\ndownloaded. Is this OK?\n(\u000e\u0002\t\u0004\u0000촁 MB)"
 }

@@ -26,7 +26,7 @@
   "HomeSceneUIController_Text_1": "Un nuovo giorno",
   "HomeSceneUIController_Text_2": "La data è cambiata,\nritornerai alla schermata iniziale.",
   "HomeSceneUIController_Text_3": "Sonno numeroso",
-  "HomeSceneUIController_Text_4_2times": "Hai dormito due o più volte in un giorno.\nSoltanto un totale di 8 ore e mezzo\nsarà soggetto alla ricerca.",
+  "HomeSceneUIController_Text_4_2times": "Sembra che questa sia la tua seconda\nsessione di sonno di oggi. Puoi dormire\nquanto vuoi, ma per la ricerca di oggi\nconteranno solo \u000e\u0002\u0001\u0002\u0000 h \u000e\u0002\u0001\u0002\u0001 m.",
   "HomeSceneUIController_Text_4_1timeOverMax": "Hai dormito due o più volte in un giorno.\nSoltanto un totale di 8 ore e mezzo\nsarà soggetto alla ricerca.",
   "HomeSceneUIController_Text_4_1timeOverMax_B": "Hai dormito due o più volte in un giorno.\nSoltanto un totale di 8 ore e mezzo\nsarà soggetto alla ricerca.",
   "HomeSceneUIController_Text_5": "Dati da esaminare",
@@ -161,6 +161,6 @@
   "HomeScene_PremiumPassFinished_Popup_Text": "Il premium pass è \u000e\u0000\u0003\u0004毿Ｗscaduto\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeScene_PremiumPassFinished_Popup_SubText": "È stato riattivato il pass base. Speriamo\nche tu torni presto a fare scambi premium!",
   "HomeSceneGraphicText_PremiumPass": "PASS\nPREMIUM",
-  "HomeScene_FieldChange_CheckSleepResult_Popup_Title": "Review after Moving Sites",
-  "HomeScene_FieldChange_CheckSleepResult_Popup_Text": "If you have unreviewed sleep reports\nwhen you move to a new site, don’t\nworry! You’ll still be able to review\nthose reports after you move, and\nyour research will be based on the\nsite you were in and the status of\nthe Snorlax at the previous campsite."
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Title": "Esamina dopo aver cambiato punto",
+  "HomeScene_FieldChange_CheckSleepResult_Popup_Text": "Se hai dei rapporti sul sonno ancora\nda esaminare quando cambi punto,\nnon preoccuparti! Potrai esaminarli\ndopo: la ricerca sarà basata sul punto\nin cui ti trovavi e sulle condizioni\ndi Snorlax prima che ti spostassi."
 }

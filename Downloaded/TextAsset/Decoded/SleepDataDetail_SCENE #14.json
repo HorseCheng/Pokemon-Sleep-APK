@@ -32,6 +32,6 @@
   "SleepDataInvalidTimePopup_Title": "Tempo non misurato",
   "SleepDataInvalidTimePopup_SubTitle": "Perché parte del tempo non è misurata?",
   "SleepDataInvalidTimePopup_Message": "Se l'app rileva determinate condizioni mentre\nsta misurando il sonno, potrebbe concludere\nche in alcuni momenti non stavi dormendo.\nQuesti periodi vengono contrassegnati come\n\u000e\u0000\u0003\u0004ꈝ￿tempo non misurato\u000e\u0000\u0003\u0004\u0000＀. I lassi di tempo non\nmisurato non vengono conteggiati ai fini\ndel punteggio sonno o di altre statistiche.",
-  "SleepDataInvalidTimePopup_CaseMessage_1": "Se l'app \u000e\u0000\u0003\u0004ꈝ￿non rileva movimenti\u000e\u0000\u0003\u0004\u0000＀ per un po'.",
-  "SleepDataInvalidTimePopup_CaseMessage_2": "Se l'app \u000e\u0000\u0003\u0004ꈝ￿rileva notevoli movimenti \u000e\u0000\u0003\u0004\u0000＀ per un po'"
+  "SleepDataInvalidTimePopup_CaseMessage_1": "Se l'app \u000e\u0000\u0003\u0004ꈝ￿non rileva movimenti\u000e\u0000\u0003\u0004\u0000＀ per un po'",
+  "SleepDataInvalidTimePopup_CaseMessage_2": "Se l'app \u000e\u0000\u0003\u0004ꈝ￿rileva notevoli movimenti\u000e\u0000\u0003\u0004\u0000＀ per un po'"
 }

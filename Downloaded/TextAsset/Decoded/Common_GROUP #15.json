@@ -4,13 +4,13 @@
   "ResearchRankupCutin_SectionTitle": "획득한 보상",
   "CommonRenamePopup_Title": "유저 이름 변경",
   "CommonRenamePopup_Placeholder": "유저 이름",
-  "CommonRenamePopup_PlaceholderPoke": "닉네임",
-  "CommonRenamePopup_PlaceholderPokeTeam": "팀 이름",
+  "CommonRenamePopup_PlaceholderPoke": "유저 이름",
+  "CommonRenamePopup_PlaceholderPokeTeam": "유저 이름",
   "CommonRenamePopup_OKButton": "변경한다",
   "CommonRewardGetPopup_Title": "아이템 획득",
   "CommonRewardGetPopup_Desc": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁개를 획득했습니다",
   "CommomMultipleRewardsGetPopup_HeadTitle": "보상을 받았습니다",
   "CommomMultipleRewardsGetPopup_SectionTitle": "수령한 보상",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
-  "CommonIncenseDetailPopup_Title": "도구의 효과"
+  "CommonIncenseDetailPopup_Title": "どうぐの効果"
 }

@@ -1,5 +1,5 @@
 {
-  "PokemonTeamFormationSelectSceneController_Text_1": "표시 순서: \u000e\u0003\u0005\u0002\u0000",
-  "PokemonTeamFormationSelectScene_Header_Title": "교체",
-  "PokemonTeamFormationSelectScene_Footer_OrderButton": "내림차순"
+  "PokemonTeamFormationSelectSceneController_Text_1": "Sortiert nach: \u000e\u0003\u0005\u0002\u0000",
+  "PokemonTeamFormationSelectScene_Header_Title": "Auswählen",
+  "PokemonTeamFormationSelectScene_Footer_OrderButton": "Absteigend"
 }

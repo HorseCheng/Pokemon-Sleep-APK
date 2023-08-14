@@ -1,6 +1,6 @@
 {
-  "BagSortType_1": "기본",
-  "BagSortType_2": "획득일",
-  "BagSortType_3": "소지 수",
-  "BagSortType_4": "이름"
+  "BagSortType_1": "defecto",
+  "BagSortType_2": "fecha",
+  "BagSortType_3": "cantidad",
+  "BagSortType_4": "nombre"
 }

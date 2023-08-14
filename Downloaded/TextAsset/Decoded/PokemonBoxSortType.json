@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "N.º DormiDex",
-  "PokemonBoxSortType_2": "Rango",
-  "PokemonBoxSortType_3": "Nombre",
-  "PokemonBoxSortType_4": "Fecha",
-  "PokemonBoxSortType_5": "Energía",
-  "PokemonBoxSortType_6": "Horas de sueño",
-  "PokemonBoxSortType_7": "PA",
-  "PokemonBoxSortType_8": "Tipo de sueño"
+  "PokemonBoxSortType_1": "N° Pokédex",
+  "PokemonBoxSortType_2": "Rango:",
+  "PokemonBoxSortType_3": "Nome:",
+  "PokemonBoxSortType_4": "Data registr.",
+  "PokemonBoxSortType_5": "Vigore:",
+  "PokemonBoxSortType_6": "Tempo sonno",
+  "PokemonBoxSortType_7": "PR",
+  "PokemonBoxSortType_8": "Tipo di sonno"
 }

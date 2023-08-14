@@ -25,6 +25,6 @@
   "GPPSyncLoader_Start_Single_Research": "Schlafdaten ansehen",
   "GPPSyncLoader_Start_Multiple_Research": "Alle ansehen",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Header_Title": "Alle ansehen",
-  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "Möchtest du deine letzte Schlafforschung,\ninklusive der vergangenen Einträge, ansehen?",
+  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "Möchtest du deine neuesten\nSchlafdaten zusammengefasst mit\nanderen Einträgen überprüfen?",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Desc": "Die Snackzeit läuft automatisch."
 }

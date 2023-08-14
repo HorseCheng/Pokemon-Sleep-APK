@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "Schlaftendenz",
-  "SleepAnalyzeTop_ContentTitle": "Schlaftendenz",
-  "SleepAnalyzeTop_ContentDesc": "Sieh dir Details zu deinen Schlafdaten an.",
-  "SleepAnalyzeTop_RegularityButton": "Schlafrhythmus",
-  "SleepAnalyzeTop_StatisticButton": "Schlafstatistik"
+  "SleepAnalyzeTop_HeadTitle": "Andamento sonno",
+  "SleepAnalyzeTop_ContentTitle": "Andamento del sonno",
+  "SleepAnalyzeTop_ContentDesc": "Osserva i dati del sonno da diverse angolazioni.",
+  "SleepAnalyzeTop_RegularityButton": "Regolarità sonno",
+  "SleepAnalyzeTop_StatisticButton": "Statistiche sonno"
 }

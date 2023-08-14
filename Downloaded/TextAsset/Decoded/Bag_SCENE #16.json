@@ -57,7 +57,7 @@
   "BagSceneConsumableItemView_Text_22": "\u000e\u0003\u0001\u0002촀的副技能稀有度提升了。",
   "BagSceneConsumableItemView_Text_24": "\u000e\u0003\u0001\u0002촀的副技能\n稀有度已達到上限。",
   "BagSceneConsumableItemView_Text_25": "寶可夢們完成了\n\u000e\u0002\u0001\u0002\u0000小時份的幫忙！",
-  "BagSceneConsumableItemView_Text_26": "上次使用幫手哨子時收集的樹果、食材\n還留在箱子裡，所以無法使用。\n請點擊主畫面的箱子，將其全部回收。",
+  "BagSceneConsumableItemView_Text_26": "上次使用幫手哨子時收集的樹果、食材\n還留在箱子裡，所以無法使用。\n請點擊主畫面的箱子，將其全部收集起來。",
   "BagScene_FoodMaxOverPopup_Title": "無法使用",
   "BagScene_FoodMaxOverPopup_Text": "食材包包已滿。\n請先整理食材，\n再使用道具。",
   "BagScene_CandyMaxOverPopup_Title": "寶可夢的糖果上限",

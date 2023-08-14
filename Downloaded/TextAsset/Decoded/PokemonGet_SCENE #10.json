@@ -1,9 +1,9 @@
 {
-  "PokemonGetScene_Header_Title": "Nuovo amico!",
-  "PokemonGetScene_Content_Title": "Livello amicizia \u000e\u0002\u0002\u0002\u0000",
-  "PokemonGetScene_Content_Desc": "Hai trovato un nuovo compagno!",
+  "PokemonGetScene_Header_Title": "¡Nuevo amigo!",
+  "PokemonGetScene_Content_Title": "Nivel de amistad \u000e\u0002\u0002\u0002\u0000",
+  "PokemonGetScene_Content_Desc": "¡Tienes un nuevo amigo!",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002촀",
-  "PokemonGetScene_Content_Detail_Rank": "L. \u000e\u0002\u0002\u0002\u0000",
-  "PokemonGetScene_Content_Detail_Nature_Title": "Natura",
-  "PokemonGetScene_Content_StatusButton_Text": "Info"
+  "PokemonGetScene_Content_Detail_Rank": "Nv. \u000e\u0002\u0002\u0002\u0000",
+  "PokemonGetScene_Content_Detail_Nature_Title": "Naturaleza",
+  "PokemonGetScene_Content_StatusButton_Text": "Datos"
 }

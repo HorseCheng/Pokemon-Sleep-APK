@@ -1,6 +1,6 @@
 {
-  "SleepType_99": "equilibrato",
-  "SleepType_4": "leggero",
-  "SleepType_1": "intermedio",
-  "SleepType_0": "profondo"
+  "SleepType_99": "Ausgeglichen",
+  "SleepType_4": "Halbschlaf",
+  "SleepType_1": "Leichtschlaf",
+  "SleepType_0": "Tiefschlaf"
 }

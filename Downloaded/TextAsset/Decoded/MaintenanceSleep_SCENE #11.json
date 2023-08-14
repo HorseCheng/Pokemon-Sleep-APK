@@ -2,13 +2,13 @@
   "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
   "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
   "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
-  "SleepScene_SleepResultLoadingView_Message": "Invio dati del sonno...",
-  "SleepScene_SleepMainView_SleepStopButton": "Termina sessione",
-  "SleepScene_SleepMainView_Title": "Misurazione sonno in corso...",
-  "SleepScene_SleepMainView_Title_2": "Sveglia",
-  "SleepScene_SleepMainView_Title_3": "Suoni rilassanti",
-  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000 - \u000e\t\u0000\u000e\nhh:mm\u0001",
-  "SleepSceneMainView_Text_1": "Non impostata",
-  "SleepScene_BatteryLittlePopup_Title": "Batteria quasi scarica!",
-  "SleepScene_BatteryLittlePopup_Text": "La batteria è quasi scarica!\nÈ consigliato tenere il dispositivo\nsotto carica mentre si misura il sonno."
+  "SleepScene_SleepResultLoadingView_Message": "Enviando datos de sueño...",
+  "SleepScene_SleepMainView_SleepStopButton": "Finalizar sesión",
+  "SleepScene_SleepMainView_Title": "Registrando...",
+  "SleepScene_SleepMainView_Title_2": "Alarma",
+  "SleepScene_SleepMainView_Title_3": "Sonidos relajantes",
+  "SleepScene_SleepMainView_AlarmTime": "De \u000e\t\u0000\u000e\nhh:mm\u0000 a \u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "Desactivada",
+  "SleepScene_BatteryLittlePopup_Title": "¡Se está agotando la batería!",
+  "SleepScene_BatteryLittlePopup_Text": "¡Te estás quedando sin batería!\nAsegúrate de que tu dispositivo móvil\nesté enchufado mientras registras\ntu sueño."
 }

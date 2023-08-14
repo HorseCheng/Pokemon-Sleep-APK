@@ -2,15 +2,15 @@
   "ResearchRankupCutin_Title": "研究階級UP！",
   "ResearchRankupCutin_Desc": "獲得了階級提升的報酬。",
   "ResearchRankupCutin_SectionTitle": "獲得的報酬",
-  "CommonRenamePopup_Title": "變更用戶名",
-  "CommonRenamePopup_Placeholder": "用戶名",
+  "CommonRenamePopup_Title": "變更用戶名稱",
+  "CommonRenamePopup_Placeholder": "用戶名稱",
   "CommonRenamePopup_PlaceholderPoke": "暱稱",
   "CommonRenamePopup_PlaceholderPokeTeam": "隊伍名稱",
   "CommonRenamePopup_OKButton": "變更",
-  "CommonRewardGetPopup_Title": "獲得道具",
-  "CommonRewardGetPopup_Desc": "獲得了\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁",
+  "CommonRewardGetPopup_Title": "獲得了道具",
+  "CommonRewardGetPopup_Desc": "獲得了\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0003\u0004\u0002촁",
   "CommomMultipleRewardsGetPopup_HeadTitle": "已領取報酬",
   "CommomMultipleRewardsGetPopup_SectionTitle": "領取的報酬",
-  "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
-  "CommonIncenseDetailPopup_Title": "道具的效果"
+  "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀×\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
+  "CommonIncenseDetailPopup_Title": "道具效果"
 }

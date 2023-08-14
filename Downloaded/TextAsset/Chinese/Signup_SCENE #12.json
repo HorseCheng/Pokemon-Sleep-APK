@@ -103,7 +103,6 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "已鎖定輸入功能",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "您在短時間內輸入錯誤5次，\n所以輸入功能已被鎖定。",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿Ｗ距離解鎖：還有\u000e\u0002\u0001\u0002\u0000分鐘\u000e\u0000\u0003\u0004\u0000＀",
-  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "沒有連結資料",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "無法繼承資料",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "這個帳號在繼承資料後尚未滿1小時，\n所以目前無法再次繼承資料。",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "沒有找到與帳號連結的資料。",

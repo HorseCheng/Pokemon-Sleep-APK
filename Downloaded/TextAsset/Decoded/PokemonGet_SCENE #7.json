@@ -1,9 +1,9 @@
 {
-  "PokemonGetScene_Header_Title": "Nouvel ami !",
-  "PokemonGetScene_Content_Title": "Niveau d'amitié \u000e\u0002\u0002\u0002\u0000",
-  "PokemonGetScene_Content_Desc": "Vous avez un nouveau partenaire !",
+  "PokemonGetScene_Header_Title": "Neuer Helfer",
+  "PokemonGetScene_Content_Title": "Freundeslevel \u000e\u0002\u0002\u0002\u0000",
+  "PokemonGetScene_Content_Desc": "Du hast dich mit einem Pokémon angefreundet!",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002촀",
-  "PokemonGetScene_Content_Detail_Rank": "N. \u000e\u0002\u0002\u0002\u0000",
-  "PokemonGetScene_Content_Detail_Nature_Title": "Nature",
-  "PokemonGetScene_Content_StatusButton_Text": "Détails"
+  "PokemonGetScene_Content_Detail_Rank": "Lv. \u000e\u0002\u0002\u0002\u0000",
+  "PokemonGetScene_Content_Detail_Nature_Title": "Wesen",
+  "PokemonGetScene_Content_StatusButton_Text": "Daten"
 }

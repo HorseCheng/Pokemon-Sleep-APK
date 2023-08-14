@@ -15,8 +15,8 @@
   "CommonError_TimeProblem": "Das Datum und/oder die Uhrzeit\ndeines Geräts sind nicht korrekt.\n\nBitte stelle dein Gerät auf das\naktuelle Datum und die aktuelle\nUhrzeit um und kehre dann zum\nTitelbildschirm zurück.",
   "CommonError_ServerBusy": "Der Server ist überlastet. Du kehrst\nzum Titelbildschirm zurück.\nBitte Warte eine Weile und starte die\nApp erneut.\n\nFehlercode: \u000e\u0002\u0005\u0004\u0000촁",
   "CommonError_AdmissionRestriction_Title": "Server überlastet",
-  "CommonError_AdmissionRestriction_Text_NewUser": "Aufgrund der hohen Server-Auslastung\nist die Registrierung neuer Nutzer\nmomentan nicht möglich.\nBitte Warte eine Weile und versuche\nes erneut.",
-  "CommonError_AdmissionRestriction_Text_AlreadyUser": "Aufgrund der hohen Server-Auslastung\nist die Nutzung der App vorübergehend\neingeschränkt.\nBitte Warte eine Weile und versuche\nes erneut.",
+  "CommonError_AdmissionRestriction_Text_NewUser": "Der Server ist stark beansprucht und\ndie Registrierung neuer Nutzer daher\nmomentan nicht möglich.\nBitte Warte eine Weile und versuche\nes erneut.",
+  "CommonError_AdmissionRestriction_Text_AlreadyUser": "Der Server ist stark beansprucht und\ndie Nutzung der App momentan\neingeschränkt.\nBitte Warte eine Weile und versuche\nes erneut.",
   "CommonError_AdmissionRestriction_Button": "Info lesen",
   "CommonError_MaybeTimeSettingWrong_Text": "Die Einstellungen von Datum und Zeit\nauf deinem Gerät könnten fehlerhaft\nsein. Bitte überprüfe diese\nEinstellungen auf deinem Gerät und\nversuche es erneut.\nFehlercode: \u000e\u0002\u0005\u0004Ā촀"
 }
