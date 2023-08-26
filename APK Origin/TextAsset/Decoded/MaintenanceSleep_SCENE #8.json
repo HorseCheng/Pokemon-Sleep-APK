@@ -2,13 +2,13 @@
   "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
   "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
   "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
-  "SleepScene_SleepResultLoadingView_Message": "Enviando datos de sueño...",
-  "SleepScene_SleepMainView_SleepStopButton": "Finalizar sesión",
-  "SleepScene_SleepMainView_Title": "Registrando...",
-  "SleepScene_SleepMainView_Title_2": "Alarma",
-  "SleepScene_SleepMainView_Title_3": "Sonidos relajantes",
-  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000-\u000e\t\u0000\u000e\nhh:mm\u0001",
-  "SleepSceneMainView_Text_1": "Desactivada",
-  "SleepScene_BatteryLittlePopup_Title": "¡Se está agotando la batería!",
-  "SleepScene_BatteryLittlePopup_Text": "¡Te estás quedando sin batería!\nAsegúrate de que tu dispositivo móvil\nesté enchufado mientras registras\ntu sueño."
+  "SleepScene_SleepResultLoadingView_Message": "Sending your\nsleep data...",
+  "SleepScene_SleepMainView_SleepStopButton": "End Sleep Session",
+  "SleepScene_SleepMainView_Title": "・・・TRACKING SLEEP・・・",
+  "SleepScene_SleepMainView_Title_2": "Alarm",
+  "SleepScene_SleepMainView_Title_3": "Relaxing Sounds",
+  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000–\u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "Not Set",
+  "SleepScene_BatteryLittlePopup_Title": "Battery Running Low!",
+  "SleepScene_BatteryLittlePopup_Text": "Your battery seems to be running low!\nWe recommend that you keep your\ndevice plugged in while tracking\nyour sleep."
 }

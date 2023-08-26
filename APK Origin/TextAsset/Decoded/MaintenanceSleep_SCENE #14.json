@@ -2,13 +2,13 @@
   "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
   "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
   "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
-  "SleepScene_SleepResultLoadingView_Message": "正在傳送睡眠資料……",
-  "SleepScene_SleepMainView_SleepStopButton": "結束測量",
-  "SleepScene_SleepMainView_Title": "……正在測量睡眠……",
-  "SleepScene_SleepMainView_Title_2": "鬧鈴",
-  "SleepScene_SleepMainView_Title_3": "助眠聲音",
-  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000～\u000e\t\u0000\u000e\nhh:mm\u0001",
-  "SleepSceneMainView_Text_1": "沒有設定鬧鈴",
-  "SleepScene_BatteryLittlePopup_Title": "剩餘電量偏低",
-  "SleepScene_BatteryLittlePopup_Text": "電池剩餘電量偏低。\n建議您一邊充電一邊測量。"
+  "SleepScene_SleepResultLoadingView_Message": "Envoi de vos données\nde sommeil en cours...",
+  "SleepScene_SleepMainView_SleepStopButton": "Mettre fin à la session",
+  "SleepScene_SleepMainView_Title": "Mesure du sommeil en cours...",
+  "SleepScene_SleepMainView_Title_2": "Réveil",
+  "SleepScene_SleepMainView_Title_3": "Sons relaxants",
+  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000 – \u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "Alarme désactivée",
+  "SleepScene_BatteryLittlePopup_Title": "Batterie faible !",
+  "SleepScene_BatteryLittlePopup_Text": "Vous êtes bientôt à court de batterie.\nIl est recommandé de garder votre\nappareil branché pendant que vous\nmesurez votre sommeil."
 }

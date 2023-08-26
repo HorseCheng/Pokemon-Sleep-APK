@@ -1,8 +1,8 @@
 {
   "list": [
     "sleeping_faces",
-    "pokemons",
     "species_candies",
+    "pokemons",
     "pokedex_data",
     "pokemon_evolutions",
     "evolution_items",
@@ -90,6 +90,8 @@
     "event_energy_multiplier",
     "pokemon_food_sp_correction",
     "phantom_sleeping_face_research",
-    "kpi_event_token_list"
+    "kpi_event_token_list",
+    "event_sleep_point_bonus",
+    "buff_type"
   ]
 }

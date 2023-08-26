@@ -1,8 +1,8 @@
 {
-  "NSBluetoothAlwaysUsageDescription": "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +.",
-  "NSBluetoothPeripheralUsageDescription": "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +.",
-  "NSUserTrackingUsageDescription": "Les informations rassemblées sur cette application, y compris les identifiants pour les annonces publicitaires, sont utilisées pour étudier les tendances d'utilisation de nos services, afin de nous aider à en améliorer l'efficacité, et d'empêcher tout usage illicite.",
-  "NSCameraUsageDescription": "Cette application utilise l'appareil photo pour scanner les codes ami.",
-  "NSMicrophoneUsageDescription": "Cette application utilise le microphone pour mesurer votre sommeil.",
-  "NSPhotoLibraryAddUsageDescription": "Ceci permet à l'application de sauvegarder des photos sur votre pellicule."
+  "NSBluetoothAlwaysUsageDescription": "Diese App verwendet Bluetooth, um mit Pokémon GO Plus + zu kommunizieren.",
+  "NSBluetoothPeripheralUsageDescription": "Diese App verwendet Bluetooth, um mit Pokémon GO Plus + zu kommunizieren.",
+  "NSUserTrackingUsageDescription": "Die von dieser App gesammelten Informationen, einschließlich der Kennungen für die Werbung, werden verwendet, um Trends bei der Nutzung unseres Dienstes zu analysieren, den Dienst effektiv zu betreiben und die unrechtmäßige Nutzung des Dienstes zu verhindern.",
+  "NSCameraUsageDescription": "Diese App nutzt die Kamera, um Freundescodes zu scannen.",
+  "NSMicrophoneUsageDescription": "Diese App nutzt das Mikrofon, um deinen Schlaf aufzuzeichnen.",
+  "NSPhotoLibraryAddUsageDescription": "Dies erlaubt der App, Fotos in deine Galerie\nzu speichern."
 }
