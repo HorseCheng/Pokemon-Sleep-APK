@@ -86,5 +86,7 @@
   "AutoCookingScene_CampTicketExpired_Popup_Title": "已過期",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "好露營券已經失效了。\n請重新選擇食材。",
   "AutoCookingScene_WeekendBonus_1": "週末獎勵",
-  "AutoCookingScene_WeekendBonus_2": "鍋子容量UP"
+  "AutoCookingScene_WeekendBonus_2": "鍋子容量UP",
+  "AutoCookingScene_PotShort_Popup_Title": "鍋の容量不足",
+  "AutoCookingScene_PotShort_Popup_Text": "この料理をつくるのに必要な食材の数が\n現在の鍋の容量を超えているため、\nつくることができません"
 }

@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "×\u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "即將租用好露營組合。",
   "CampSetUsePopup_Desc": "確定要使用票券嗎？",
+  "CampSetExpirePopup_Title": "好露營組合的效果已消失",
+  "CampSetExpirePopup_Text": "1週的好露營組合租用期間已結束。",
   "HomeScenePokemonBoxFullPopup_Header_Title": "超過容量",
   "HomeScenePokemonBoxFullPopup_Content_Title": "寶可夢盒已滿",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "請擴充盒子，\n或把寶可夢傳送給博士。",

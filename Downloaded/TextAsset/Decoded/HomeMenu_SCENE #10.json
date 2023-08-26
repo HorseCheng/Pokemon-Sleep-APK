@@ -237,6 +237,7 @@
   "ManualReportFinishPopup_Content_Title": "Se han añadido tus datos y has\nrecibido unos obsequios.",
   "ManualReportFinishPopup_Content_Desc_1": "¡Tus ayudantes han \u000e\u0000\u0003\u0004毿Ｗrecuperado la energía\u000e\u0000\u0003\u0004\u0000＀!",
   "ManualReportFinishPopup_Content_Desc_2": "Recibirás \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0000\u0002촀 Galleta\u000e\u0007\u0000\b\u0000\u0002s촀 Extra\n\u000e\u0000\u0003\u0004\u0000＀tras tu próxima sesión a partir\nde mañana (\u000e\u0000\u0003\u0004毿Ｗ¡una más de lo normal!\u000e\u0000\u0003\u0004\u0000＀).",
+  "ManualReportFinishPopup_Content_Desc_3": "Sin embargo, si hoy registras tu sueño\npor segunda vez y realizas una sesión de\nestudio, no recibirás la Galleta Extra\nadicional.",
   "ManualReportFinishPopup_Content_Desc_NoReward": "Esta es la segunda sesión que registras\nhoy, por lo que no obtendrás premios.",
   "ManualReportFinishPopup_Content_Title_NoReward": "¡Se han añadido los datos de tu sesión!",
   "ManualReportErrorPopup_Title_1": "Datos obsoletos",

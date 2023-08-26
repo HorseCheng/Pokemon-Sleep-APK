@@ -11,5 +11,8 @@
   "HomeSceneTutorialController_Text_29": "Premio por completar el tutorial",
   "HomeSceneTutorialController_Text_30": "Te llevas: Diamantes ×\u000e\u0002\u0003\u0004\u0000촁",
   "HomeSceneTutorialController_Text_31": "Esta función aún no está disponible",
-  "HomeSceneTutorialController_Text_32": "¡Toca a Pikachu o alguna baya!"
+  "HomeSceneTutorialController_Text_32": "¡Toca a Pikachu o alguna baya!",
+  "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Esta función estará disponible cuando\nhayas registrado 7 posturas en la\nDormiDex.",
+  "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Esta función estará disponible cuando\nhayas registrado 12 posturas en la\nDormiDex.",
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Esta función estará disponible cuando\nhayas registrado 35 posturas en la\nDormiDex."
 }

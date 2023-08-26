@@ -5,6 +5,7 @@
   "PointHistoryListCell_PassType_Normal": "Base",
   "PointHistoryListCell_PassType_Premium": "Premium",
   "PointHistoryListCell_PassType_Bonus": "Bonus",
+  "PointHistoryListCell_PassType_Event": "Evento",
   "PremiumPassCannotUsePopup_Title": "Pass premium",
   "PremiumPassInfoPopup_Title": "Avvertenze",
   "PremiumPassPopup_Title": "Il pass premium",

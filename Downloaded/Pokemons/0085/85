@@ -1109,7 +1109,7 @@
         }
     },
     "snorlax_sleep": {
-        "sleeping_face_id": 1,
+        "sleeping_face_id": 3,
         "snorlax_size": 2,
         "only_flip_flag": false,
         "not_flip_flag": true,
@@ -1122,33 +1122,33 @@
             },
             "snorlax_size_2": {
                 "offset": {
-                    "x": 0.3653758764266968,
-                    "y": -0.19070321321487428
+                    "x": 0.1452655792236328,
+                    "y": -0.4990497827529907
                 }
             },
             "snorlax_size_3": {
                 "offset": {
-                    "x": 0.47404733300209048,
-                    "y": 0.1848321557044983
+                    "x": 0.31253281235694888,
+                    "y": 0.023315489292144777
                 }
             },
             "snorlax_size_4": {
                 "offset": {
-                    "x": 0.4153173267841339,
-                    "y": 0.9189902544021606
+                    "x": 0.38594940304756167,
+                    "y": 0.4931769371032715
                 }
             }
         },
         "shadow": {
-            "x": -0.01330043375492096,
-            "y": -0.4457767605781555,
+            "x": 0.08367776870727539,
+            "y": -0.23704838752746583,
             "scale": {
-                "x": 1.002691388130188,
-                "y": 0.3018801808357239
+                "x": 0.9603015184402466,
+                "y": 0.3712761402130127
             },
             "shear": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0.068359375,
+                "y": -0.068359375
             }
         }
     },
@@ -1188,6 +1188,114 @@
                 "y": -56.0
             },
             "scale": 1.149999976158142
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        }
+    },
+    "pokemon_box_offset_transform": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 1.0
+    },
+    "pokemon_sleep_popup_offset_transform": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_rare": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "on_snorlax": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
         },
         "additional_1": {
             "position": {

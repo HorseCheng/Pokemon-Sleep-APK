@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "x \u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "좋은캠프세트를 대여합니다",
   "CampSetUsePopup_Desc": "티켓을 사용하겠습니까?",
+  "CampSetExpirePopup_Title": "いいキャンプセットの効果終了",
+  "CampSetExpirePopup_Text": "いいキャンプセットの1週間の\nレンタル期間が終了しました。",
   "HomeScenePokemonBoxFullPopup_Header_Title": "용량 초과",
   "HomeScenePokemonBoxFullPopup_Content_Title": "포켓몬 박스가 가득 찼습니다",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "박스를 확장하거나\n포켓몬을 박사에게 보내 주십시오",

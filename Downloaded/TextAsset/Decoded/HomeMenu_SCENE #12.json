@@ -237,6 +237,7 @@
   "ManualReportFinishPopup_Content_Title": "睡眠データの登録が完了し\n報酬を受け取りました",
   "ManualReportFinishPopup_Content_Desc_1": "おてつだいポケモンたちの \u000e\u0000\u0003\u0004毿Ｗげんきが回復しました\u000e\u0000\u0003\u0004\u0000＀",
   "ManualReportFinishPopup_Content_Desc_2": "翌日以降の睡眠リサーチで \u000e\u0000\u0003\u0004毿Ｗボーナスサブレが\u000e\u0002\u0000\u0002촀個\n(基本個数 + 1個） \u000e\u0000\u0003\u0004\u0000＀になります",
+  "ManualReportFinishPopup_Content_Desc_3": "ただし、本日中に2回目の睡眠計測によって\n睡眠リサーチを行った場合、このボーナスサブレの\n追加分は無くなります",
   "ManualReportFinishPopup_Content_Desc_NoReward": "本日2回目の睡眠の登録となるため\n報酬はありません",
   "ManualReportFinishPopup_Content_Title_NoReward": "睡眠データの登録が完了しました",
   "ManualReportErrorPopup_Title_1": "30時間以上前の睡眠データ",

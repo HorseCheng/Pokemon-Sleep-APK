@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "×\u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "Mit einem Profi-Camping-Ticket\nkannst du ein Profi-Camping-Set\nausleihen!",
   "CampSetUsePopup_Desc": "Möchtest du ein Ticket benutzen?",
+  "CampSetExpirePopup_Title": "Profi-Camping-Set abgelaufen",
+  "CampSetExpirePopup_Text": "Der einwöchige Zeitraum, für den du\ndas Profi-Camping-Set\nausgeliehen hast, ist abgelaufen.",
   "HomeScenePokemonBoxFullPopup_Header_Title": "Box voll",
   "HomeScenePokemonBoxFullPopup_Content_Title": "Deine Pokémon-Box ist voll!",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "Erweitere deine Box oder schicke ein paar Pokémon\nan den Professor.",

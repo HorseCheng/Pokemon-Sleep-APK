@@ -5,6 +5,7 @@
   "PointHistoryListCell_PassType_Normal": "노멀",
   "PointHistoryListCell_PassType_Premium": "프리미엄",
   "PointHistoryListCell_PassType_Bonus": "보너스",
+  "PointHistoryListCell_PassType_Event": "이벤트",
   "PremiumPassCannotUsePopup_Title": "프리미엄 패스",
   "PremiumPassInfoPopup_Title": "주의 사항",
   "PremiumPassPopup_Title": "프리미엄 패스에 대하여",

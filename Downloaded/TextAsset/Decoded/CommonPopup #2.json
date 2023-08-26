@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "Dein Gerät ist derzeit offline. Bitte\nüberprüfe deine Internetverbindung\nund versuche es dann erneut.",
   "CommonPopup_Playing_OfflineDialog_Title": "Fehler bei der Datenübertragung",
   "CommonPopup_Playing_OfflineDialog_Text": "Dein Gerät ist derzeit offline. Bitte\nüberprüfe deine Internetverbindung\nund versuche es dann erneut.",
+  "CommonPopup_BadConnection_Popup_Title": "Fehler bei der Datenübertragung",
+  "CommonPopup_BadConnection_Popup_Text": "Die Datenübertragung ist\nfehlgeschlagen. Bitte sorge für\neine stabile Internetverbindung\nund versuche es dann erneut.",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "Update",
   "CommonPopup_Datechange_Text": "Ein Update ist verfügbar. Du kehrst\nzum Titelbildschirm zurück. Bitte\nentschuldige die Unannehmlichkeiten.",

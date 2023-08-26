@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "x\u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "You can use a Good Camp Ticket\nto rent a Good Camp Set!",
   "CampSetUsePopup_Desc": "Are you sure you want to use a ticket?",
+  "CampSetExpirePopup_Title": "Good Camp Set’s Effects Over",
+  "CampSetExpirePopup_Text": "The one-week rental period for your\nGood Camp Set has ended.",
   "HomeScenePokemonBoxFullPopup_Header_Title": "Box Full",
   "HomeScenePokemonBoxFullPopup_Content_Title": "Your Pokémon Box is full!",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "You'll need to either expand your Box or send\nsome Pokémon to the professor.",

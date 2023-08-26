@@ -11,5 +11,8 @@
   "HomeSceneTutorialController_Text_29": "Tutorial-Abschluss-Bonus",
   "HomeSceneTutorialController_Text_30": "Du erhältst:\nDiamanten ×\u000e\u0002\u0003\u0004\u0000촁",
   "HomeSceneTutorialController_Text_31": "Funktion noch nicht verfügbar",
-  "HomeSceneTutorialController_Text_32": "Versuche auf Pikachu, oder die Beeren\nzu tippen!"
+  "HomeSceneTutorialController_Text_32": "Versuche auf Pikachu, oder die Beeren\nzu tippen!",
+  "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Du kannst diese Funktion nutzen,\nsobald du 7 Schlafposen im Schlafdex\nregistriert hast.",
+  "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Du kannst diese Funktion nutzen,\nsobald du 12 Schlafposen im Schlafdex\nregistriert hast.",
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Du kannst diese Funktion nutzen,\nsobald du 35 Schlafposen im Schlafdex\nregistriert hast."
 }

@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "× \u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "Louez un kit de camping\nen utilisant un Ticket de Camping !",
   "CampSetUsePopup_Desc": "Voulez-vous vraiment utiliser un ticket ?",
+  "CampSetExpirePopup_Title": "Effets du kit de camping terminés",
+  "CampSetExpirePopup_Text": "La période de location d'une semaine\ndu kit de camping est terminée.",
   "HomeScenePokemonBoxFullPopup_Header_Title": "La Boîte est pleine.",
   "HomeScenePokemonBoxFullPopup_Content_Title": "Votre Boîte Pokémon est pleine !",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "Vous devez agrandir votre Boîte\nou envoyer des Pokémon au Professeur.",

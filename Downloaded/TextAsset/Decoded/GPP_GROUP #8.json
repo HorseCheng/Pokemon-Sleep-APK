@@ -25,6 +25,6 @@
   "GPPSyncLoader_Start_Single_Research": "Commencer à analyser",
   "GPPSyncLoader_Start_Multiple_Research": "Tout analyser",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Header_Title": "Tout analyser",
-  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "Souhaitez-vous analyser les résultats de\nvotre dernière session de rechercher\nainsi que les précédentes ?",
+  "GPPSyncLoader_Confirm_Multiple_All_Research_Message": "Souhaitez-vous analyser les résultats\nde votre dernière session de recherche\nainsi que des précédentes ?",
   "GPPSyncLoader_Confirm_Multiple_All_Research_Desc": "L'heure du goûter sera passée\nautomatiquement."
 }

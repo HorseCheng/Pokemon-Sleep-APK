@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "×\u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "Puedes alquilar un Lote de Acampada\na cambio de un Cupón de Acampada.",
   "CampSetUsePopup_Desc": "¿Seguro que quieres usar un cupón?",
+  "CampSetExpirePopup_Title": "Fin del período de alquiler",
+  "CampSetExpirePopup_Text": "La semana de alquiler de tu Lote de\nAcampada ha terminado.",
   "HomeScenePokemonBoxFullPopup_Header_Title": "Caja llena",
   "HomeScenePokemonBoxFullPopup_Content_Title": "¡Tu Caja de Pokémon está llena!",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "Deberás expandirla para aumentar su capacidad o\nenviar Pokémon al profesor para liberar espacio.",

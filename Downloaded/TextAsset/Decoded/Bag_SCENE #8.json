@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "Vous ne pouvez pas vous servir du\nSifflet de Soutien à nouveau car la\nboîte contient encore des Baies et/ou\ndes ingrédients.\nTouchez la boîte à l'écran d'accueil\npour récupérer ce qui reste.",
   "BagScene_FoodMaxOverPopup_Title": "Utilisation impossible",
   "BagScene_FoodMaxOverPopup_Text": "La poche à ingrédients de votre Sac\nest pleine.\nVous devez y faire de la place pour\nutiliser cet objet.",
+  "BagScene_SleepResearchNoItemUsePopup_Title": "Cannot Use Item",
+  "BagScene_SleepResearchNoItemUsePopup_Text": "You can’t use this item during\nsnack time.",
   "BagScene_CandyMaxOverPopup_Title": "Trop de Bonbons",
   "BagScene_CandyMaxOverPopup_Text": "La quantité maximale de Bonbons que\nvous pouvez posséder est de 9 999.\nTout surplus sera supprimé.\nSouhaitez-vous continuer ?",
   "BagSceneRareCandyUsePopup_Text_1": "Utilisation",

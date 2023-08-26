@@ -29,5 +29,5 @@
   "MapObject_FieldBonus": "Bonus area",
   "MapObject_FieldBonus_Per": "+\u000e\u0002\u0003\u0004\u0000촁%",
   "MapScene_DataDownload_Series_Title": "Conferma download dati",
-  "MapScene_DataDownload_Series_Text": "Verranno scaricati i dati relativi ai suoni\ndi nuove aree. Vuoi continuare?\n(\u000e\u0002\t\u0004\u0000촁 MB)"
+  "MapScene_DataDownload_Series_Text": "Verranno scaricati i dati relativi ai\nsuoni di nuove aree. Vuoi continuare?\n(\u000e\u0002\t\u0004\u0000촁 MB)"
 }

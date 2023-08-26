@@ -237,6 +237,7 @@
   "ManualReportFinishPopup_Content_Title": "已登錄睡眠資料，\n並且領取報酬。",
   "ManualReportFinishPopup_Content_Desc_1": "幫手寶可夢們的\u000e\u0000\u0003\u0004毿Ｗ活力已回復\u000e\u0000\u0003\u0004\u0000＀。",
   "ManualReportFinishPopup_Content_Desc_2": "在隔天之後的睡眠研究中，\u000e\u0000\u0003\u0004毿Ｗ獎勵沙布蕾會變成\u000e\u0002\u0000\u0002촀個。\n（基本數量+1個）\u000e\u0000\u0003\u0004\u0000＀",
+  "ManualReportFinishPopup_Content_Desc_3": "但若是在今天內對第2次的睡眠測量\n進行了睡眠研究，就不會獲得\n這個額外的獎勵沙布蕾。",
   "ManualReportFinishPopup_Content_Desc_NoReward": "這是您今天第2次登錄睡眠，\n所以沒有報酬。",
   "ManualReportFinishPopup_Content_Title_NoReward": "已登錄睡眠資料",
   "ManualReportErrorPopup_Title_1": "30小時以前的睡眠資料",

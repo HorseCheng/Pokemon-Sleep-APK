@@ -237,6 +237,7 @@
   "ManualReportFinishPopup_Content_Title": "수면 데이터 등록을 완료하고\n보상을 받았습니다",
   "ManualReportFinishPopup_Content_Desc_1": "도우미 포켓몬들의 \u000e\u0000\u0003\u0004毿Ｗ기력이 회복되었습니다\u000e\u0000\u0003\u0004\u0000＀",
   "ManualReportFinishPopup_Content_Desc_2": "다음 수면 리서치에서 \u000e\u0000\u0003\u0004毿Ｗ보너스 사블레를 \u000e\u0002\u0000\u0002촀개\n(기본 개수 + 1개)\u000e\u0000\u0003\u0004\u0000＀ 선물할 수 있습니다",
+  "ManualReportFinishPopup_Content_Desc_3": "ただし、本日中に2回目の睡眠計測によって\n睡眠リサーチを行った場合、このボーナスサブレの\n追加分は無くなります",
   "ManualReportFinishPopup_Content_Desc_NoReward": "오늘의 두 번째 수면 등록이므로\n보상은 없습니다",
   "ManualReportFinishPopup_Content_Title_NoReward": "수면 데이터 등록을 완료했습니다",
   "ManualReportErrorPopup_Title_1": "30시간 이상 지난 수면 데이터",

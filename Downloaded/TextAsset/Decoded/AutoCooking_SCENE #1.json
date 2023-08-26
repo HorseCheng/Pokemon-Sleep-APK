@@ -86,5 +86,7 @@
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Ende der Leihdauer",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "Die Leihdauer des Profi-Camping-Sets\nist zu Ende. Bitte wähle deine Zutaten\nerneut aus.",
   "AutoCookingScene_WeekendBonus_1": "Sonntagsbonus",
-  "AutoCookingScene_WeekendBonus_2": "Vergrößerter Kochtopf"
+  "AutoCookingScene_WeekendBonus_2": "Vergrößerter Kochtopf",
+  "AutoCookingScene_PotShort_Popup_Title": "Nicht genügend Platz im Topf",
+  "AutoCookingScene_PotShort_Popup_Text": "Du kannst deine Mahlzeit nicht\nzubereiten, weil die Anzahl der\nbenötigten Zutaten die momentane\nKapazität deines Topfs überschreitet."
 }

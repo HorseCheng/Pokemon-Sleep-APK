@@ -86,5 +86,7 @@
   "AutoCookingScene_CampTicketExpired_Popup_Title": "기한 만료",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "좋은캠프티켓의 효과가 사라졌습니다\n식재료를 다시 선택해 주십시오",
   "AutoCookingScene_WeekendBonus_1": "일요일 보너스",
-  "AutoCookingScene_WeekendBonus_2": "최대 용량 UP"
+  "AutoCookingScene_WeekendBonus_2": "최대 용량 UP",
+  "AutoCookingScene_PotShort_Popup_Title": "냄비 용량 부족",
+  "AutoCookingScene_PotShort_Popup_Text": "이 요리를 만들기 위해 필요한 식재료의 수가\n현재 냄비의 용량보다 많으므로\n요리를 만들 수 없습니다"
 }

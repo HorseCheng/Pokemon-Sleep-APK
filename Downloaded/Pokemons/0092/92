@@ -1185,9 +1185,117 @@
         "stand": {
             "position": {
                 "x": 0.0,
-                "y": -10
+                "y": -10.0
             },
-            "scale": 0.88
+            "scale": 0.8799999952316284
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        }
+    },
+    "pokemon_box_offset_transform": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 1.0
+    },
+    "pokemon_sleep_popup_offset_transform": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_rare": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "on_snorlax": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
         },
         "additional_1": {
             "position": {

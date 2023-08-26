@@ -11,5 +11,8 @@
   "HomeSceneTutorialController_Text_29": "教學完成獎勵",
   "HomeSceneTutorialController_Text_30": "獲得了\n鑽石 x\u000e\u0002\u0003\u0004\u0000촁。",
   "HomeSceneTutorialController_Text_31": "這個功能還無法使用",
-  "HomeSceneTutorialController_Text_32": "請點擊皮卡丘或樹果。"
+  "HomeSceneTutorialController_Text_32": "請點擊皮卡丘或樹果。",
+  "HomeSceneTutorialController_CannotUse_LevelUp_Text": "達成睡姿圖鑑的目標\n「研究7種睡姿」即可使用。",
+  "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "達成睡姿圖鑑的目標\n「研究12種睡姿」即可使用。",
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "達成睡姿圖鑑的目標\n「研究35種睡姿」即可使用。"
 }

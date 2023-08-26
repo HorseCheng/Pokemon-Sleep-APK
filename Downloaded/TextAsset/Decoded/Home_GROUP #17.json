@@ -52,6 +52,8 @@
   "CampSetUsePopup_Num": "×\u000e\u0002\u0002\u0002\u0000",
   "CampSetUsePopup_SubTitle": "Puoi usare un Biglietto campeggio\nbuono per noleggiare un Set da\ncampeggio buono!",
   "CampSetUsePopup_Desc": "Vuoi davvero usare un biglietto?",
+  "CampSetExpirePopup_Title": "Fine effetti Set da campeggio buono",
+  "CampSetExpirePopup_Text": "La settimana di noleggio del Set\nda campeggio buono è terminata.",
   "HomeScenePokemonBoxFullPopup_Header_Title": "Box pieno",
   "HomeScenePokemonBoxFullPopup_Content_Title": "Il tuo box Pokémon è pieno!",
   "HomeScenePokemonBoxFullPopup_Content_Desc": "Devi ingrandire il box o inviare dei Pokémon\nal Professore.",

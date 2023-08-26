@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "There are still some Berries and/or\ningredients left in the box from last\ntime you used a Helper Whistle, so\nyou can’t use another one yet.\nTap the box on your home screen to\ncollect what’s left.",
   "BagScene_FoodMaxOverPopup_Title": "Cannot Use Item",
   "BagScene_FoodMaxOverPopup_Text": "Your bag’s ingredients pocket is full.\nYou’ll need to make space for some\ningredients before using this item.",
+  "BagScene_SleepResearchNoItemUsePopup_Title": "Cannot Use Item",
+  "BagScene_SleepResearchNoItemUsePopup_Text": "You can’t use this item during\nsnack time.",
   "BagScene_CandyMaxOverPopup_Title": "Too Many Candies",
   "BagScene_CandyMaxOverPopup_Text": "You can only keep a maximum of\n9,999 Pokémon candies at a time.\nExcess candies will be discarded.\nAre you sure you want to proceed?",
   "BagSceneRareCandyUsePopup_Text_1": "Used",

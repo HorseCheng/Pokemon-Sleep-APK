@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "Ti sono rimaste delle bacche o degli\ningredienti dall'ultima volta che hai\nusato un Fischietto aiutanti, perciò\nnon puoi ancora usarne un altro.\nTocca il riquadro nella schermata\nprincipale per raccogliere quelli\nrimasti dall'ultima volta.",
   "BagScene_FoodMaxOverPopup_Title": "Strumento non utilizzabile",
   "BagScene_FoodMaxOverPopup_Text": "La tasca ingredienti della Borsa è piena.\nPrima di usare questo strumento,\nfai spazio negli ingredienti.",
+  "BagScene_SleepResearchNoItemUsePopup_Title": "Strumento non utilizzabile",
+  "BagScene_SleepResearchNoItemUsePopup_Text": "Non puoi usare questo strumento\ndurante lo spuntino.",
   "BagScene_CandyMaxOverPopup_Title": "Troppe caramelle",
   "BagScene_CandyMaxOverPopup_Text": "Puoi avere al massimo 9.999 caramelle\nPokémon in tutto. Quelle in più\nsaranno eliminate.\nVuoi davvero continuare?",
   "BagSceneRareCandyUsePopup_Text_1": "Utilizzo",

@@ -86,5 +86,7 @@
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Fine del noleggio",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "Il periodo di noleggio del Set da\ncampeggio buono è terminato.\nSeleziona di nuovo gli ingredienti.",
   "AutoCookingScene_WeekendBonus_1": "Bonus termine della settimana",
-  "AutoCookingScene_WeekendBonus_2": "Pentola più grande"
+  "AutoCookingScene_WeekendBonus_2": "Pentola più grande",
+  "AutoCookingScene_PotShort_Popup_Title": "Spazio insufficiente nella pentola",
+  "AutoCookingScene_PotShort_Popup_Text": "Non puoi preparare questo piatto\nperché il numero di ingredienti\nnecessari supera la capienza attuale\ndella pentola."
 }

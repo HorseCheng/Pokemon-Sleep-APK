@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "Nessuna connessione a internet.\nControlla il collegamento e riprova.",
   "CommonPopup_Playing_OfflineDialog_Title": "Errore di connessione",
   "CommonPopup_Playing_OfflineDialog_Text": "Nessuna connessione a internet.\nControlla il collegamento e riprova.",
+  "CommonPopup_BadConnection_Popup_Title": "Errore di comunicazione",
+  "CommonPopup_BadConnection_Popup_Text": "Comunicazione non riuscita.\nAssicurati che la tua connessione\nsia stabile e riprova.",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "Cambia data",
   "CommonPopup_Datechange_Text": "La data è stata cambiata.\nTorna alla schermata del titolo.",

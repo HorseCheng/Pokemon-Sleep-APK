@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo.",
   "BagScene_FoodMaxOverPopup_Title": "Impossibile usare strumento",
   "BagScene_FoodMaxOverPopup_Text": "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo.",
+  "BagScene_SleepResearchNoItemUsePopup_Title": "Strumento non utilizzabile",
+  "BagScene_SleepResearchNoItemUsePopup_Text": "Non puoi usare questo strumento\ndurante lo spuntino.",
   "BagScene_CandyMaxOverPopup_Title": "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo.",
   "BagScene_CandyMaxOverPopup_Text": "La tecnica secondaria di \u000e\u0003\u0001\u0002촀\nha già raggiunto il livello massimo.",
   "BagSceneRareCandyUsePopup_Text_1": "Uso",

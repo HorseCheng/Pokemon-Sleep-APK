@@ -5,6 +5,7 @@
   "PointHistoryListCell_PassType_Normal": "一般",
   "PointHistoryListCell_PassType_Premium": "進階",
   "PointHistoryListCell_PassType_Bonus": "獎勵",
+  "PointHistoryListCell_PassType_Event": "活動",
   "PremiumPassCannotUsePopup_Title": "進階票證",
   "PremiumPassInfoPopup_Title": "注意事項",
   "PremiumPassPopup_Title": "關於進階票證",

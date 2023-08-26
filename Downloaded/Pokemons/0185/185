@@ -1109,8 +1109,8 @@
         }
     },
     "snorlax_sleep": {
-        "sleeping_face_id": 1,
-        "snorlax_size": 2,
+        "sleeping_face_id": 3,
+        "snorlax_size": 3,
         "only_flip_flag": false,
         "not_flip_flag": true,
         "size_params": {
@@ -1122,33 +1122,33 @@
             },
             "snorlax_size_2": {
                 "offset": {
-                    "x": -0.037322938442230228,
-                    "y": -0.21596390008926392
+                    "x": 0.027139872312545778,
+                    "y": -0.7669439315795898
                 }
             },
             "snorlax_size_3": {
                 "offset": {
-                    "x": -0.0550537109375,
-                    "y": 1.1141831874847413
+                    "x": -0.028524726629257203,
+                    "y": -0.21746262907981873
                 }
             },
             "snorlax_size_4": {
                 "offset": {
-                    "x": -0.010936737060546875,
-                    "y": 1.5847716331481934
+                    "x": 0.018479108810424806,
+                    "y": 0.42300617694854739
                 }
             }
         },
         "shadow": {
-            "x": -0.019220411777496339,
-            "y": -0.3021332621574402,
+            "x": 0.06268250942230225,
+            "y": -0.2871739864349365,
             "scale": {
-                "x": 0.9907520413398743,
-                "y": 0.36512428522109988
+                "x": 0.9841060638427734,
+                "y": 0.8847844004631043
             },
             "shear": {
-                "x": 0.19468297064304353,
-                "y": -0.2561837434768677
+                "x": -0.09765625,
+                "y": 0.01953125
             }
         }
     },
@@ -1186,6 +1186,114 @@
             "position": {
                 "x": -20.0,
                 "y": -20.0
+            },
+            "scale": 1.0
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        }
+    },
+    "pokemon_box_offset_transform": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 1.0
+    },
+    "pokemon_sleep_popup_offset_transform": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_rare": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "on_snorlax": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
             },
             "scale": 1.0
         },

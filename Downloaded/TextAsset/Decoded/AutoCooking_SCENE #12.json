@@ -86,5 +86,7 @@
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Vencimiento del alquiler",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "El periodo de alquiler de tu Lote de\nAcampada ha terminado. Selecciona\nde nuevo tus ingredientes.",
   "AutoCookingScene_WeekendBonus_1": "Bonus dominical",
-  "AutoCookingScene_WeekendBonus_2": "Puchero más grande"
+  "AutoCookingScene_WeekendBonus_2": "Puchero más grande",
+  "AutoCookingScene_PotShort_Popup_Title": "Capacidad insuficiente del puchero",
+  "AutoCookingScene_PotShort_Popup_Text": "No puedes preparar esta receta porque\nen tu puchero ahora mismo no cabe el\nnúmero de ingredientes necesario."
 }

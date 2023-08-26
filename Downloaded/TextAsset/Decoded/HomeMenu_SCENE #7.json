@@ -237,6 +237,7 @@
   "ManualReportFinishPopup_Content_Title": "Your data has been added and\nyou received some rewards!",
   "ManualReportFinishPopup_Content_Desc_1": "Your helpers had their \u000e\u0000\u0003\u0004毿ＷEnergy restored\u000e\u0000\u0003\u0004\u0000＀!",
   "ManualReportFinishPopup_Content_Desc_2": "You’ll get \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0000\u0002촀 Bonus \u000e\u0001\u0000$\u000eBiscuit\u0010Biscuits촀\u000e\u0000\u0003\u0004\u0000＀ (\u000e\u0000\u0003\u0004毿Ｗone more than\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗusual\u000e\u0000\u0003\u0004\u0000＀!) from the next sleep session you\ntrack after today!",
+  "ManualReportFinishPopup_Content_Desc_3": "However, if you track sleep for a second\ntime today and conduct sleep research, you\nwill not receive this extra Bonus Biscuit.",
   "ManualReportFinishPopup_Content_Desc_NoReward": "This is your second sleep session for\ntoday, so you'll receive no rewards.",
   "ManualReportFinishPopup_Content_Title_NoReward": "Your session has been added!",
   "ManualReportErrorPopup_Title_1": "Data Too Old",
