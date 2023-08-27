@@ -1,9 +1,0 @@
-{
-  "SleepDataListScene_Content_Title": "睡眠資料一覽",
-  "SleepDataListScene_Content_Desc": "可確認到目前為止的睡眠資料和研究內容。",
-  "SleepDataListScene_Content_LimitButton": "30天（限制）",
-  "SleepDataListScene_Header_Title": "睡眠資料",
-  "SleepDataListScene_Header_CalendarButton": "月曆",
-  "SleepDataListScene_Header_ListButton": "列表",
-  "SleepDataListScene_NoDataDesc": "還沒有睡眠資料。"
-}
