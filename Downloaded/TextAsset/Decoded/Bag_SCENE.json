@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "Es sind immer noch Beeren und/oder\nZutaten vom letzten Einsatz der\nHelferpfeife in der Box. Berühre die\nBox auf dem Hauptbildschirm und\nsammle deine Items ein, bevor du eine\nweitere Helferpfeife benutzt.",
   "BagScene_FoodMaxOverPopup_Title": "Item kann nicht eingesetzt werden",
   "BagScene_FoodMaxOverPopup_Text": "Dein Zutaten-Beutel ist voll. Du musst\nerst etwas Platz schaffen, bevor du\ndieses Item einsetzen kannst.",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "Kann nicht eingesetzt werden",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "Du kannst dieses Item nicht einsetzen,\nbis du das Gebiet gewechselt hast.",
   "BagScene_SleepResearchNoItemUsePopup_Title": "Kann nicht eingesetzt werden",
   "BagScene_SleepResearchNoItemUsePopup_Text": "Du kannst dieses Item während der\nSnackzeit nicht einsetzen.",
   "BagScene_CandyMaxOverPopup_Title": "Zu viele Bonbons",

@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "There are still some Berries and/or\ningredients left in the box from last\ntime you used a Helper Whistle, so\nyou can’t use another one yet.\nTap the box on your home screen to\ncollect what’s left.",
   "BagScene_FoodMaxOverPopup_Title": "Cannot Use Item",
   "BagScene_FoodMaxOverPopup_Text": "Your bag’s ingredients pocket is full.\nYou’ll need to make space for some\ningredients before using this item.",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "Cannot Use Item",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "You can’t use this item until you move\nto a new site.",
   "BagScene_SleepResearchNoItemUsePopup_Title": "Cannot Use Item",
   "BagScene_SleepResearchNoItemUsePopup_Text": "You can’t use this item during\nsnack time.",
   "BagScene_CandyMaxOverPopup_Title": "Too Many Candies",

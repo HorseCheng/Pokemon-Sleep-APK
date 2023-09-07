@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "前回のおてつだいホイッスルの箱に\nきのみ・食材が残っているため使用できません\nホームの箱をタップしてすべて回収してください",
   "BagScene_FoodMaxOverPopup_Title": "使用できません",
   "BagScene_FoodMaxOverPopup_Text": "食材バッグがいっぱいです\n食材を整理してから\nどうぐを使用してください",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "使用できません",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "新しいフィールドに移動するまで\nこのどうぐを使用することができません",
   "BagScene_SleepResearchNoItemUsePopup_Title": "使用できません",
   "BagScene_SleepResearchNoItemUsePopup_Text": "おやつタイム中はこのどうぐを\n使用することができません",
   "BagScene_CandyMaxOverPopup_Title": "ポケモンのアメ上限",

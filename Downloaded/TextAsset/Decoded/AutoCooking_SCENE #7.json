@@ -87,6 +87,6 @@
   "AutoCookingScene_CampTicketExpired_Popup_Text": "La période de location du kit de\ncamping est terminée.\nVeuillez sélectionner les ingrédients\nà nouveau.",
   "AutoCookingScene_WeekendBonus_1": "Bonus de fin de semaine",
   "AutoCookingScene_WeekendBonus_2": "Agrandir la marmite",
-  "AutoCookingScene_PotShort_Popup_Title": "Not Enough Room in Pot",
-  "AutoCookingScene_PotShort_Popup_Text": "You can’t cook this dish because the\nnumber of ingredients you need to\nmake this dish exceeds the current\ncapacity of your pot."
+  "AutoCookingScene_PotShort_Popup_Title": "Pas assez de place dans la marmite",
+  "AutoCookingScene_PotShort_Popup_Text": "Vous ne pouvez pas préparer ce plat,\ncar le nombre d'ingrédients dont vous\navez besoin dépasse la capacité\nactuelle de votre marmite."
 }

@@ -88,5 +88,5 @@
   "AutoCookingScene_WeekendBonus_1": "Bonus zum Wochenabschluss",
   "AutoCookingScene_WeekendBonus_2": "Größerer Topf",
   "AutoCookingScene_PotShort_Popup_Title": "Nicht genügend Platz im Topf",
-  "AutoCookingScene_PotShort_Popup_Text": "Du kannst deine Mahlzeit nicht\nzubereiten, weil die Anzahl der\nbenötigten Zutaten das momentane\nFassungsvermögen deines Topfs\nüberschreitet."
+  "AutoCookingScene_PotShort_Popup_Text": "Du kannst deine Mahlzeit nicht\nzubereiten, weil die Anzahl der\nbenötigten Zutaten die momentane\nKapazität deines Topfs überschreitet."
 }

@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "Es sind immer noch Beeren und/oder\nZutaten vom letzten Einsatz einer\nHelferpfeife im Karton, den du auf\ndem Hauptbildschirm findest. Tippe\nihn an und sammle deine Items ein,\nbevor du das Item erneut einsetzt.",
   "BagScene_FoodMaxOverPopup_Title": "Kann nicht eingesetzt werden",
   "BagScene_FoodMaxOverPopup_Text": "Die Zutatentasche deines Beutels ist\nvoll. Du musst Platz in deinem Beutel\nschaffen, bevor du dieses Item\neinsetzen kannst.",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "Kann nicht eingesetzt werden",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "Du kannst dieses Item erst einsetzen,\nwenn du das Gebiet gewechselt hast.",
   "BagScene_SleepResearchNoItemUsePopup_Title": "Kann nicht eingesetzt werden",
   "BagScene_SleepResearchNoItemUsePopup_Text": "Du kannst dieses Item während der\nSnackzeit nicht einsetzen.",
   "BagScene_CandyMaxOverPopup_Title": "Zu viele Bonbons",

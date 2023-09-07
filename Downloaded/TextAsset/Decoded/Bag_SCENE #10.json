@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "Ti sono rimaste delle bacche o degli\ningredienti dall'ultima volta che hai\nusato un Fischietto aiutanti, perciò\nnon puoi ancora usarne un altro.\nTocca il riquadro nella schermata\nprincipale per raccogliere quelli\nrimasti dall'ultima volta.",
   "BagScene_FoodMaxOverPopup_Title": "Strumento non utilizzabile",
   "BagScene_FoodMaxOverPopup_Text": "La tasca ingredienti della Borsa è piena.\nPrima di usare questo strumento,\nfai spazio negli ingredienti.",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "Strumento non utilizzabile",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "Non puoi usare questo strumento\nfinché non cambi punto di ricerca.",
   "BagScene_SleepResearchNoItemUsePopup_Title": "Strumento non utilizzabile",
   "BagScene_SleepResearchNoItemUsePopup_Text": "Non puoi usare questo strumento\ndurante lo spuntino.",
   "BagScene_CandyMaxOverPopup_Title": "Troppe caramelle",

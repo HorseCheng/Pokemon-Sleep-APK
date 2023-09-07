@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "이전 도우미 휘슬의 상자 안에 나무열매 및\n식재료가 남아 있어 사용할 수 없습니다\n홈의 상자를 탭해서 모두 회수해 주십시오",
   "BagScene_FoodMaxOverPopup_Title": "使用できません",
   "BagScene_FoodMaxOverPopup_Text": "食材バッグがいっぱいです\n食材を整理してから\nどうぐを使用してください",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "使用できません",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "新しいフィールドに移動するまで\nこのどうぐを使用することができません",
   "BagScene_SleepResearchNoItemUsePopup_Title": "使用できません",
   "BagScene_SleepResearchNoItemUsePopup_Text": "おやつタイム中はこのどうぐを\n使用することができません",
   "BagScene_CandyMaxOverPopup_Title": "포켓몬의 사탕 상한",

@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "전에 도우미 휘슬로 받은 상자 안에 나무열매 및\n식재료가 남아 있어 사용할 수 없습니다\n홈의 상자를 탭해서 모두 회수해 주십시오",
   "BagScene_FoodMaxOverPopup_Title": "사용할 수 없습니다",
   "BagScene_FoodMaxOverPopup_Text": "식재료 가방이 가득 찼습니다\n식재료를 정리한 뒤\n도구를 사용해 주십시오",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "사용할 수 없습니다",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "새로운 필드로 이동하기 전까지\n이 도구를 사용할 수 없습니다",
   "BagScene_SleepResearchNoItemUsePopup_Title": "사용할 수 없습니다",
   "BagScene_SleepResearchNoItemUsePopup_Text": "간식 타임 중에는 이 도구를\n사용할 수 없습니다",
   "BagScene_CandyMaxOverPopup_Title": "포켓몬의 사탕 상한",

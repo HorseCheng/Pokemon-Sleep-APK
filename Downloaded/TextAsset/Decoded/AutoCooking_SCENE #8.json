@@ -87,6 +87,6 @@
   "AutoCookingScene_CampTicketExpired_Popup_Text": "いいキャンプチケットの効果が切れました\n再度食材を選択してください",
   "AutoCookingScene_WeekendBonus_1": "ウィークエンドボーナス",
   "AutoCookingScene_WeekendBonus_2": "最大容量UP",
-  "AutoCookingScene_PotShort_Popup_Title": "鍋の容量不足",
-  "AutoCookingScene_PotShort_Popup_Text": "この料理をつくるのに必要な食材の数が\n現在の鍋の容量を超えているため、\nつくることができません"
+  "AutoCookingScene_PotShort_Popup_Title": "なべの容量不足",
+  "AutoCookingScene_PotShort_Popup_Text": "この料理をつくるのに必要な食材の数が\n現在のなべの容量を超えているため、\nつくることができません"
 }

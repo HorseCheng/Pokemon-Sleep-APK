@@ -60,6 +60,8 @@
   "BagSceneConsumableItemView_Text_26": "No puedes volver a usar el silbato de\napoyo porque aún te quedan bayas o\ningredientes en la caja desde la última\nvez que lo usaste. Ve a la pantalla\nprincipal y toca la caja para recoger\nsu contenido.",
   "BagScene_FoodMaxOverPopup_Title": "No se puede usar",
   "BagScene_FoodMaxOverPopup_Text": "El bolsillo de ingredientes de tu bolsa\nestá lleno. Tendrás que liberar espacio\nantes de poder usar este objeto.",
+  "BagScene_WeekChangeNoWhistlePopup_Title": "No se puede usar",
+  "BagScene_WeekChangeNoWhistlePopup_Text": "No podrás usar este objeto hasta que\nhayas cambiado de ubicación.",
   "BagScene_SleepResearchNoItemUsePopup_Title": "No se puede usar",
   "BagScene_SleepResearchNoItemUsePopup_Text": "No puedes usar este objeto durante la\nhora del picoteo.",
   "BagScene_CandyMaxOverPopup_Title": "Demasiados caramelos",
