@@ -12,6 +12,8 @@
   "SleepSceneController_Text_2": "서버에서\n예상치 못한 에러가 발생했습니다",
   "SleepSceneController_Text_3": "유효한 수면이 감지되지 않았습니다",
   "SleepSceneController_Text_4": "계측은 하루에 2회까지 실시할 수 있습니다",
+  "SleepSceneController_Title_6": "睡眠データの補正",
+  "SleepSceneController_Text_6": "計測中に予期せぬ\nシステムエラーが発生したため\n睡眠タイプの判定を除外して\n計測開始した時刻を就寝時刻として\n睡眠データを作成しました",
   "AlarmModal_Text_1": "다시 알림",
   "AlarmModal_Text_2": "정지",
   "SleepDataCell_Text_3": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",

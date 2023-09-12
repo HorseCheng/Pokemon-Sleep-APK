@@ -12,6 +12,8 @@
   "SleepSceneController_Text_2": "Es ist ein unerwarteter Fehler auf dem\nServer aufgetreten.",
   "SleepSceneController_Text_3": "Keine gültige Aufzeichnung gefunden.",
   "SleepSceneController_Text_4": "Du kannst nur zwei Aufzeichnungen\npro Tag durchführen.",
+  "SleepSceneController_Title_6": "Sleep Data Adjustments",
+  "SleepSceneController_Text_6": "Because an unexpected error occurred,\nsleep data has been created without a\nsleep type, beginning at the time you\nstarted tracking your sleep.",
   "AlarmModal_Text_1": "Schlummern",
   "AlarmModal_Text_2": "Ausschalten",
   "SleepDataCell_Text_3": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",

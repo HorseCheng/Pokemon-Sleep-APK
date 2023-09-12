@@ -12,6 +12,8 @@
   "SleepSceneController_Text_2": "サーバーで\n予期せぬエラーが発生しました",
   "SleepSceneController_Text_3": "有効な睡眠が検知されませんでした",
   "SleepSceneController_Text_4": "1日に計測できる回数は2回までです",
+  "SleepSceneController_Title_6": "睡眠データの補正",
+  "SleepSceneController_Text_6": "計測中に予期せぬ\nシステムエラーが発生したため\n睡眠タイプの判定を除外して\n計測開始した時刻を就寝時刻として\n睡眠データを作成しました",
   "AlarmModal_Text_1": "スヌーズ",
   "AlarmModal_Text_2": "停止",
   "SleepDataCell_Text_3": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",

@@ -90,6 +90,7 @@
   "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_3": "A notification will be sent when \nyou’ve left a sleep research report\nunreviewed for a while.",
   "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_4": "A notification will be sent when a\nhelper has gathered as many Berries\nor ingredients as they can carry,\nbut you still haven’t collected them.",
   "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_5": "A notification will be sent when\nyou’re overdue to change sites.",
+  "HomeMenu_SCENE_Option_Notification_InfoPopup_Text_6": "A notification will be sent out when\nyour Good Camp Ticket’s effects\nhave ended.",
   "HomeMenu_SCENE_Option_Notification_Heading_2": "Notifications from the Developer",
   "HomeMenu_SCENE_Option_Notification_Text": "\u000e\u0000\u0003\u0004蚆ﾆOccasional notifications may be sent about events,\nspecial campaigns, performance issues, etc.\nNote: Even if you disable these notifications, you\nmay still receive messages that are deemed critical.\u000e\u0000\u0003\u0004\u0000＀",
   "HomeMenu_SCENE_Option_Notification_Detail_6": "Notifications from developer",
