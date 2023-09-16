@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "Maintenance has been completed.",
   "Maintenance_FinishPopup_Message_2": "Thank you for your cooperation.",
   "Maintenance_FinishPopup_Button": "To Title Screen",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "You can't use this feature right now\nbecause the process of transferring\nyour data isn't yet complete. Please\nwait until maintenance is finished."
+  "Maintenance_NotDownlaodDataLockPopup_Message": "You can't use this feature right now\nbecause the process of transferring\nyour data isn't yet complete. Please\nwait until maintenance is finished.",
+  "Maintenance_TutorialTopSceneController_Text_5": "The app can’t track your sleep\nbecause it doesn’t have permission\nto record audio.\n\nPlease go to your device’s settings\nand grant the app access to your\nmicrophone.",
+  "Maintenance_TutorialTopSceneController_Text_8": "Currently Unavailable",
+  "Maintenance_TutorialTopSceneController_Text_9": "In order to track sleep, the app needs\npermission to record audio."
 }

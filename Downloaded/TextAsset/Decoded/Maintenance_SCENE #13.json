@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "점검이 종료되었습니다",
   "Maintenance_FinishPopup_Message_2": "협력해 주셔서 감사합니다",
   "Maintenance_FinishPopup_Button": "타이틀로",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "데이터 이어받기 처리가 완료되지 않아\n이 기능을 이용할 수 없습니다\n점검이 종료될 때까지 기다려 주시기 바랍니다"
+  "Maintenance_NotDownlaodDataLockPopup_Message": "데이터 이어받기 처리가 완료되지 않아\n이 기능을 이용할 수 없습니다\n점검이 종료될 때까지 기다려 주시기 바랍니다",
+  "Maintenance_TutorialTopSceneController_Text_5": "음성 녹음이 허용되지 않아\n수면 계측을 할 수 없습니다\n\n단말기 설정에서\n마이크 접근을 허용해 주십시오",
+  "Maintenance_TutorialTopSceneController_Text_8": "현재 이용할 수 없습니다",
+  "Maintenance_TutorialTopSceneController_Text_9": "수면 계측을 진행하기 위해서는\n[음성 녹음] 권한을 허용해야 합니다"
 }

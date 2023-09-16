@@ -12,8 +12,8 @@
   "SleepSceneController_Text_2": "서버에서\n예상치 못한 에러가 발생했습니다",
   "SleepSceneController_Text_3": "유효한 수면이 감지되지 않았습니다",
   "SleepSceneController_Text_4": "계측은 하루에 2회까지 실시할 수 있습니다",
-  "SleepSceneController_Title_6": "睡眠データの補正",
-  "SleepSceneController_Text_6": "計測中に予期せぬ\nシステムエラーが発生したため\n睡眠タイプの判定を除外して\n計測開始した時刻を就寝時刻として\n睡眠データを作成しました",
+  "SleepSceneController_Title_6": "수면 데이터의 보정",
+  "SleepSceneController_Text_6": "계측 중에 예기치 않은\n시스템 에러가 발생하여\n수면 타입을 판정하지 않고\n계측을 시작한 시간을 취침 시간으로 하여\n수면 데이터를 작성했습니다",
   "AlarmModal_Text_1": "다시 알림",
   "AlarmModal_Text_2": "정지",
   "SleepDataCell_Text_3": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
@@ -228,6 +228,6 @@
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "포켓몬의 향로",
   "SleepConsumableItemSelectPopup_Cell_SetButton": "세팅",
   "SleepScene_ResultSleepCorrectionPopup_Title": "수면 데이터의 보정",
-  "SleepScene_ResultSleepCorrectionPopup_Text": "계측 중에 많은 신체 움직임이 감지되어\n수면 타입을 판정하지 않고\n계측을 시작한 시간을 취침 시간으로 하여\n수면 데이터를 작성하였습니다.",
+  "SleepScene_ResultSleepCorrectionPopup_Text": "계측 중에 많은 신체 움직임이 감지되어\n수면 타입을 판정하지 않고\n계측을 시작한 시간을 취침 시간으로 하여\n수면 데이터를 작성했습니다",
   "SleepScene_ResultSleepCorrectionPopup_Text_Unknown": "계측 중에 예기치 않은 오류가 감지되어\n수면 타입을 판정하지 않고\n계측을 시작한 시간을 취침 시간으로 하여\n수면 데이터를 작성했습니다"
 }

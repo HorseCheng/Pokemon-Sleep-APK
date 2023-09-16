@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "維護已結束",
   "Maintenance_FinishPopup_Message_2": "感謝您的配合。",
   "Maintenance_FinishPopup_Button": "前往標題畫面",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "尚未完成資料繼承處理，\n所以無法使用這個功能。\n請等待維護作業結束。"
+  "Maintenance_NotDownlaodDataLockPopup_Message": "尚未完成資料繼承處理，\n所以無法使用這個功能。\n請等待維護作業結束。",
+  "Maintenance_TutorialTopSceneController_Text_5": "由於您未允許應用程式錄製聲音，\n所以無法測量睡眠。\n\n請從裝置的設定\n允許應用程式存取麥克風。",
+  "Maintenance_TutorialTopSceneController_Text_8": "現在無法使用。",
+  "Maintenance_TutorialTopSceneController_Text_9": "要進行睡眠測量，\n必須允許「錄製聲音」的權限。"
 }

@@ -13,7 +13,7 @@
   "SleepSceneController_Text_3": "No valid sleep sessions were found.",
   "SleepSceneController_Text_4": "You can only track two sleep sessions\nin a single day.",
   "SleepSceneController_Title_6": "Sleep Data Adjustments",
-  "SleepSceneController_Text_6": "Because an unexpected error occurred,\nsleep data has been created without a\nsleep type, beginning at the time you\nstarted tracking your sleep.",
+  "SleepSceneController_Text_6": "Because an unexpected system error\noccurred, sleep data has been created\nwithout a sleep type, beginning at the\ntime you started tracking your sleep.",
   "AlarmModal_Text_1": "Snooze",
   "AlarmModal_Text_2": "Stop",
   "SleepDataCell_Text_3": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",

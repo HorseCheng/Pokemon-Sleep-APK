@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "Die Wartungsarbeiten wurden\nabgeschlossen.",
   "Maintenance_FinishPopup_Message_2": "Danke für dein Verständnis.",
   "Maintenance_FinishPopup_Button": "Zum Titelbildschirm",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "Diese Funktion ist momentan nicht\nverfügbar, da die Übertragung deiner\nDaten noch nicht abgeschlossen ist.\nBitte warte, bis die Wartungsarbeiten\nabgeschlossen sind."
+  "Maintenance_NotDownlaodDataLockPopup_Message": "Diese Funktion ist momentan nicht\nverfügbar, da die Übertragung deiner\nDaten noch nicht abgeschlossen ist.\nBitte warte, bis die Wartungsarbeiten\nabgeschlossen sind.",
+  "Maintenance_TutorialTopSceneController_Text_5": "Die App kann deinen Schlaf nicht\naufzeichnen, weil sie nicht die\nErlaubnis hat, Audioaufnahmen\nzu machen.\n\nBitte erlaube der App den Zugriff auf\ndas Mikrofon in den Einstellungen\ndeines Mobilgeräts.",
+  "Maintenance_TutorialTopSceneController_Text_8": "Derzeit nicht verfügbar",
+  "Maintenance_TutorialTopSceneController_Text_9": "Die App benötigt die Erlaubnis,\nAudioaufnahmen zu machen, um Schlaf\naufzeichnen zu können."
 }
