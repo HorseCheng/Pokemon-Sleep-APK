@@ -227,6 +227,8 @@
   "SleepConsumableItemSelectPopup_Section_Incense": "Aromi",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Aromi Pokémon",
   "SleepConsumableItemSelectPopup_Cell_SetButton": "Usa",
+  "SleepConsumableItemSelectPopup_NoIncense": "Non hai aromi.",
+  "SleepConsumableItemSelectPopup_NoPokemonIncense": "Non hai aromi Pokémon.",
   "SleepScene_ResultSleepCorrectionPopup_Title": "Correzioni dati del sonno",
   "SleepScene_ResultSleepCorrectionPopup_Text": "Non è stato possibile determinare\nun tipo di sonno a causa dei notevoli\nmovimenti rilevati. Sono stati creati\ndati del sonno senza alcun tipo di\nsonno a partire dal momento in cui\nè iniziata la misurazione del sonno.",
   "SleepScene_ResultSleepCorrectionPopup_Text_Unknown": "Poiché è stato rilevato un errore\ninatteso, sono stati creati\ndati del sonno senza alcun tipo di\nsonno a partire dal momento in cui\nè iniziata la misurazione del sonno."

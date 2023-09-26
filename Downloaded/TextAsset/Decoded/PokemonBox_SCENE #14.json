@@ -90,5 +90,6 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "Si vous souhaitez l'envoyer, \u000e\u0000\u0003\u0004毿Ｗretirez-le\u000e\u0000\u0003\u0004\u0000＀\nd'abord \u000e\u0000\u0003\u0004毿Ｗde votre équipe de soutien\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "Impossible d'envoyer des \u000e\u0000\u0003\u0004毿ＷPokémon\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗparticulièrement rares\u000e\u0000\u0003\u0004\u0000＀ comme celui-ci.",
   "PokemonBoxItemPopupCell_UseButton": "Utiliser",
-  "PokemonBoxFilterPopup_LikeBerryButton": "Baies favorites de Ronflex"
+  "PokemonBoxFilterPopup_LikeBerryButton": "Baies favorites de Ronflex",
+  "PokemonBoxFilter_NoApplyPokemon": "Vous n'avez pas de Pokémon qui remplit\nces conditions."
 }

@@ -208,5 +208,7 @@
   "SocialResearch_SCENE_NoAcceptionCamera_Title": "Actuellement non disponible",
   "SocialResearch_SCENE_NoAcceptionCamera_Text": "Pour lire les code-barres 2D, il faut\nautoriser l'application à prendre\ndes photos et filmer des vidéos.",
   "SocialResearch_SCENE_NoUseCamera_Title": "Actuellement non disponible",
-  "SocialResearch_SCENE_NoUseCamera_Text": "Cette fonctionnalité ne peut pas être\nutilisée, car l'application n'est pas\nautorisée à prendre des photos et\nfilmer des vidéos.\n\nVeuillez accéder aux paramètres\nde votre appareil pour permettre\nà l'application d'utiliser l'appareil\nphoto."
+  "SocialResearch_SCENE_NoUseCamera_Text": "Cette fonctionnalité ne peut pas être\nutilisée, car l'application n'est pas\nautorisée à prendre des photos et\nfilmer des vidéos.\n\nVeuillez accéder aux paramètres\nde votre appareil pour permettre\nà l'application d'utiliser l'appareil\nphoto.",
+  "SocialResearch_SCENE_NoFriendList_Text": "Votre liste d'amis est vide. Vous pouvez\nenvoyer votre ID de recherche pour inviter\ndes personnes.",
+  "SocialResearch_SCENE_NoApprovalList_Text": "Vous n'avez pas de demande amicale."
 }

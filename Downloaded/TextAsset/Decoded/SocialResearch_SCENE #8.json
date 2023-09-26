@@ -208,5 +208,7 @@
   "SocialResearch_SCENE_NoAcceptionCamera_Title": "現在、利用できません",
   "SocialResearch_SCENE_NoAcceptionCamera_Text": "二次元コードを読み取る機能を\n利用するには「写真と動画の撮影」\n権限の許可が必要です",
   "SocialResearch_SCENE_NoUseCamera_Title": "現在、利用できません",
-  "SocialResearch_SCENE_NoUseCamera_Text": "写真と動画の撮影が許可されていないため\nこの機能を利用することができません\n\n端末の設定からカメラへの\nアクセスを許可してください"
+  "SocialResearch_SCENE_NoUseCamera_Text": "写真と動画の撮影が許可されていないため\nこの機能を利用することができません\n\n端末の設定からカメラへの\nアクセスを許可してください",
+  "SocialResearch_SCENE_NoFriendList_Text": "フレンドがいません\nリサーチャーコードを送って\nフレンドを招待しましょう！",
+  "SocialResearch_SCENE_NoApprovalList_Text": "届いているフレンド申請はありません"
 }

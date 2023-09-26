@@ -90,5 +90,6 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "博士に送る場合、\n\u000e\u0000\u0003\u0004毿Ｗチーム編成から外して\u000e\u0000\u0003\u0004\u0000＀ ください",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "\u000e\u0000\u0003\u0004毿Ｗとても珍しいポケモン\u000e\u0000\u0003\u0004\u0000＀ は\n博士に送ることができません",
   "PokemonBoxItemPopupCell_UseButton": "使う",
-  "PokemonBoxFilterPopup_LikeBerryButton": "カビゴンの好きなきのみ"
+  "PokemonBoxFilterPopup_LikeBerryButton": "カビゴンの好きなきのみ",
+  "PokemonBoxFilter_NoApplyPokemon": "条件に当てはまるポケモンがいません"
 }

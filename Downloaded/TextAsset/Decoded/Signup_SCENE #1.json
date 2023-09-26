@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Bloccato",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Poiché cinque tentativi di accesso\nsono falliti in un breve intervallo\ndi tempo, al momento non puoi fare\naltri tentativi.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷIl blocco verrà rimosso tra \u000e\u0002\u0001\u0002\u0000 minut\u000e\u0005\u0000\n\u0002o\u0002i촀.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "Nessun dato da trasferire",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Impossibile trasferire i dati",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Sono già stati trasferiti dei dati da\nquesto account da meno di un'ora.\nNon è possibile un altro trasferimento\ndi dati.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "Nessun dato rilevato nell'account\nindicato.",
@@ -128,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "Svuota cache",
   "Signup_SCENE_MENU_Content_3": "Contatti",
   "Signup_SCENE_InitialError_Popup_Title": "Errore",
-  "Signup_SCENE_InitialError_Popup_Text": "Si è verificato un errore.\nL'applicazione verrà riavviata."
+  "Signup_SCENE_InitialError_Popup_Text": "Si è verificato un errore.\nL'applicazione verrà riavviata.",
+  "Signup_SCENE_CSverBAN_Popup_Title": "Account non valido",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Questo è un account con restrizioni."
 }

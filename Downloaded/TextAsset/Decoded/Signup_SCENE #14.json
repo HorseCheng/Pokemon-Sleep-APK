@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "입력 제한 중",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "단기간에 5회 로그인에 실패하여\n입력이 제한되었습니다",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿Ｗ제한 해제까지: \u000e\u0002\u0001\u0002\u0000분\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "연동 데이터가 없습니다",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "계승할 수 없습니다",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "이 계정은 데이터를 계승한 후\n1시간이 지나지 않아 계승할 수 없습니다",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "계정에 연동된 데이터를 찾을 수 없습니다",
@@ -128,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "캐시 삭제",
   "Signup_SCENE_MENU_Content_3": "お問い合わせ",
   "Signup_SCENE_InitialError_Popup_Title": "에러",
-  "Signup_SCENE_InitialError_Popup_Text": "에러가 발생했습니다\n재기동합니다"
+  "Signup_SCENE_InitialError_Popup_Text": "에러가 발생했습니다\n재기동합니다",
+  "Signup_SCENE_CSverBAN_Popup_Title": "무효한 계정",
+  "Signup_SCENE_CSverBAN_Popup_Text": "이 계정으로는 게임을 플레이할 수 없습니다"
 }

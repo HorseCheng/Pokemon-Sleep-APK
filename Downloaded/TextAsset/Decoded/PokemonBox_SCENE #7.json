@@ -90,5 +90,6 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "If you wish to send it, \u000e\u0000\u0003\u0004毿Ｗremove it\nfrom your helper teams\u000e\u0000\u0003\u0004\u0000＀ first.",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "\u000e\u0000\u0003\u0004毿ＷEspecially rare Pokémon\u000e\u0000\u0003\u0004\u0000＀ like this one\ncannot be sent away.",
   "PokemonBoxItemPopupCell_UseButton": "Use",
-  "PokemonBoxFilterPopup_LikeBerryButton": "Snorlax’s Favorite Berries"
+  "PokemonBoxFilterPopup_LikeBerryButton": "Snorlax’s Favorite Berries",
+  "PokemonBoxFilter_NoApplyPokemon": "You don’t have any Pokémon that fit these\nconditions."
 }

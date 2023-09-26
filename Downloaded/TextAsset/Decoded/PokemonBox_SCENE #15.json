@@ -90,5 +90,6 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "Per inviarlo, devi prima \u000e\u0000\u0003\u0004毿Ｗrimuoverlo\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗda tutte le tue squadre aiutanti\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "I \u000e\u0000\u0003\u0004毿ＷPokémon molto rari\u000e\u0000\u0003\u0004\u0000＀ come questo non\npossono essere inviati.",
   "PokemonBoxItemPopupCell_UseButton": "Usa",
-  "PokemonBoxFilterPopup_LikeBerryButton": "Bacche preferite di Snorlax"
+  "PokemonBoxFilterPopup_LikeBerryButton": "Bacche preferite di Snorlax",
+  "PokemonBoxFilter_NoApplyPokemon": "Non hai Pokémon corrispondenti\na questi criteri."
 }

@@ -208,5 +208,7 @@
   "SocialResearch_SCENE_NoAcceptionCamera_Title": "Attualmente non disponibile",
   "SocialResearch_SCENE_NoAcceptionCamera_Text": "Per poter leggere i codici 2D, l'app\nnecessita dell'autorizzazione\na scattare foto o registrare video.",
   "SocialResearch_SCENE_NoUseCamera_Title": "Attualmente non disponibile",
-  "SocialResearch_SCENE_NoUseCamera_Text": "Non è possibile usare questa funzione\nperché l'app non è autorizzata\na scattare foto o registrare video.\n\nConsenti che l'app acceda\nalla fotocamera nelle impostazioni\ndel tuo dispositivo."
+  "SocialResearch_SCENE_NoUseCamera_Text": "Non è possibile usare questa funzione\nperché l'app non è autorizzata\na scattare foto o registrare video.\n\nConsenti che l'app acceda\nalla fotocamera nelle impostazioni\ndel tuo dispositivo.",
+  "SocialResearch_SCENE_NoFriendList_Text": "Non hai amici nel gioco. Puoi inviare il tuo\nID ricerca per invitare i tuoi amici.",
+  "SocialResearch_SCENE_NoApprovalList_Text": "Non hai richieste di amicizia."
 }

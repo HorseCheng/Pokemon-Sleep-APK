@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Verrouillée",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "La saisie est actuellement verrouillée\ncar vous avez provoqué une erreur\n5 fois pendant un court laps de temps.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷVous pourrez essayer à nouveau\ndans \u000e\u0002\u0001\u0002\u0000 minute\u000e\u0004\u0000\b\u0000\u0002s촀.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "Aucune donnée à transférer",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Transfert des données impossible",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Le transfert est impossible car des\ndonnées ont déjà été envoyées depuis\nce compte il y a moins d'une heure.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "Aucune donnée liée à ce compte\nn'a pu être trouvée.",
@@ -128,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "Vider le cache",
   "Signup_SCENE_MENU_Content_3": "Nous contacter",
   "Signup_SCENE_InitialError_Popup_Title": "Erreur",
-  "Signup_SCENE_InitialError_Popup_Text": "Une erreur s'est produite.\nL'application va redémarrer."
+  "Signup_SCENE_InitialError_Popup_Text": "Une erreur s'est produite.\nL'application va redémarrer.",
+  "Signup_SCENE_CSverBAN_Popup_Title": "Compte invalide",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Ce compte est limité."
 }

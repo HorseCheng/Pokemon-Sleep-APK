@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Gesperrt",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Aufgrund von 5 fehlerhaften Eingaben\ninnerhalb kurzer Zeit kannst du\ngerade keine weiteren Eingaben\ntätigen.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷDie Sperrung wird in \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000 \fMinute\u000eMinuten촀\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗaufgehoben.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "Keine Daten vorhanden",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "Datenübertragung nicht möglich",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "Von diesem Konto wurden innerhalb\nder letzten Stunde Daten übertragen,\ndaher ist keine erneute Übertragung\nmöglich.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "Für dieses Konto konnten keine Daten\ngefunden werden.",
@@ -128,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "Cache leeren",
   "Signup_SCENE_MENU_Content_3": "Kontakt",
   "Signup_SCENE_InitialError_Popup_Title": "Fehler",
-  "Signup_SCENE_InitialError_Popup_Text": "Ein Fehler ist aufgetreten.\nDie App wird jetzt neu gestartet."
+  "Signup_SCENE_InitialError_Popup_Text": "Ein Fehler ist aufgetreten.\nDie App wird jetzt neu gestartet.",
+  "Signup_SCENE_CSverBAN_Popup_Title": "Unzulässiges Konto",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Dieses Konto wurde eingeschränkt."
 }

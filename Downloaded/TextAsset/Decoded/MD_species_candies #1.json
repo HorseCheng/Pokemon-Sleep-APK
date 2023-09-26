@@ -87,6 +87,8 @@
   "md_species_candies_name_448_plu": "Caramelle Lucario",
   "md_species_candies_name_453": "Caramella Croagunk",
   "md_species_candies_name_453_plu": "Caramelle Croagunk",
+  "md_species_candies_name_35": "Caramella Clefairy",
+  "md_species_candies_name_35_plu": "Caramelle Clefairy",
   "md_species_candies_narrow_name_25": "Caramella\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Caramelle\nPikachu",
   "md_species_candies_narrow_name_133": "Caramella\nEevee",
@@ -174,5 +176,7 @@
   "md_species_candies_narrow_name_228": "Caramella\nHoundour",
   "md_species_candies_narrow_name_228_plu": "Caramelle\nHoundour",
   "md_species_candies_narrow_name_302": "Caramella\nSableye",
-  "md_species_candies_narrow_name_302_plu": "Caramelle\nSableye"
+  "md_species_candies_narrow_name_302_plu": "Caramelle\nSableye",
+  "md_species_candies_narrow_name_35": "Caramella\nClefairy",
+  "md_species_candies_narrow_name_35_plu": "Caramelle\nClefairy"
 }

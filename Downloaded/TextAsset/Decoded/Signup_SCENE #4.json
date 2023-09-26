@@ -103,6 +103,7 @@
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Title": "Acceso bloqueado",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_1": "Has introducido credenciales\nincorrectas cinco veces seguidas.\nTu acceso a esta función se ha\nbloqueado temporalmente.",
   "Signup_SCENE_DataInherit_PasswordEnterLocking_Popup_Text_2": "\u000e\u0000\u0003\u0004毿ＷEl bloqueo se anulará dentro de\n\u000e\u0002\u0001\u0002\u0000 minuto\u000e\u0007\u0000\b\u0000\u0002s촀.\u000e\u0000\u0003\u0004\u0000＀",
+  "Signup_SCENE_DataInherit_NoInheritData_Popup_Title": "No hay datos que transferir",
   "Signup_SCENE_DataInherit_1h_Popup_Title": "No es posible transferir los datos",
   "Signup_SCENE_DataInherit_1h_Popup_Text": "No es posible transferir datos de esta\ncuenta porque aún no ha pasado una\nhora desde la última transferencia.",
   "Signup_SCENE_DataInherit_NoInheritData_Popup_Text_1": "No se han encontrado datos que\ncorrespondan a esta cuenta.",
@@ -128,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "Borrar caché",
   "Signup_SCENE_MENU_Content_3": "Contacto",
   "Signup_SCENE_InitialError_Popup_Title": "Error",
-  "Signup_SCENE_InitialError_Popup_Text": "Se ha producido un error.\nLa aplicación se reiniciará."
+  "Signup_SCENE_InitialError_Popup_Text": "Se ha producido un error.\nLa aplicación se reiniciará.",
+  "Signup_SCENE_CSverBAN_Popup_Title": "Cuenta no válida",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Esta cuenta está restringida."
 }

@@ -227,6 +227,8 @@
   "SleepConsumableItemSelectPopup_Section_Incense": "Rauch",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Pokémon-Rauch",
   "SleepConsumableItemSelectPopup_Cell_SetButton": "Einsetzen",
+  "SleepConsumableItemSelectPopup_NoIncense": "Du besitzt keinen Rauch.",
+  "SleepConsumableItemSelectPopup_NoPokemonIncense": "Du besitzt keinen Pokémon-Rauch.",
   "SleepScene_ResultSleepCorrectionPopup_Title": "Anpassung der Schlafdaten",
   "SleepScene_ResultSleepCorrectionPopup_Text": "Es war leider nicht möglich, einen\nSchlaftyp zu ermitteln, da sehr starke\nBewegungen festgestellt wurden.\nEs wurden Schlafdaten ohne Schlaftyp\nkreiert, beginnend zu der Zeit, zu der\ndie Aufzeichnung gestartet wurde.",
   "SleepScene_ResultSleepCorrectionPopup_Text_Unknown": "Aufgrund eines unerwarteten Fehlers\nwurden Schlafdaten ohne Schlaftyp\nkreiert, beginnend zu der Zeit, zu der\ndie Aufzeichung gestartet wurde."

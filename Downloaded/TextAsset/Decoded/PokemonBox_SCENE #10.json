@@ -90,5 +90,6 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "若要傳送給博士，\n請\u000e\u0000\u0003\u0004毿Ｗ從隊伍裡移除\u000e\u0000\u0003\u0004\u0000＀。",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "無法把\u000e\u0000\u0003\u0004毿Ｗ非常稀有的寶可夢\u000e\u0000\u0003\u0004\u0000＀\n傳送給博士。",
   "PokemonBoxItemPopupCell_UseButton": "使用",
-  "PokemonBoxFilterPopup_LikeBerryButton": "卡比獸喜歡的樹果"
+  "PokemonBoxFilterPopup_LikeBerryButton": "卡比獸喜歡的樹果",
+  "PokemonBoxFilter_NoApplyPokemon": "沒有符合特定條件的寶可夢。"
 }

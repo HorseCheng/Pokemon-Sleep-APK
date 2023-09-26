@@ -227,6 +227,8 @@
   "SleepConsumableItemSelectPopup_Section_Incense": "Incenses",
   "SleepConsumableItemSelectPopup_Section_PokemonIncense": "Pokémon Incenses",
   "SleepConsumableItemSelectPopup_Cell_SetButton": "Use",
+  "SleepConsumableItemSelectPopup_NoIncense": "You don’t have any incenses.",
+  "SleepConsumableItemSelectPopup_NoPokemonIncense": "You don’t have any Pokémon incenses.",
   "SleepScene_ResultSleepCorrectionPopup_Title": "Sleep Data Adjustments",
   "SleepScene_ResultSleepCorrectionPopup_Text": "We were unable to determine a sleep\ntype due to a great deal of body\nmovement detected. Sleep data has\nbeen created without a sleep type,\nbeginning at the time sleep tracking\nwas started.",
   "SleepScene_ResultSleepCorrectionPopup_Text_Unknown": "Because an unexpected error was\ndetected, sleep data has been created\nwithout a sleep type, beginning at the\ntime you started tracking your sleep."

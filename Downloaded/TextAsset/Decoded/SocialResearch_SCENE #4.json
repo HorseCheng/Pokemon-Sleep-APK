@@ -208,5 +208,7 @@
   "SocialResearch_SCENE_NoAcceptionCamera_Title": "Currently Unavailable",
   "SocialResearch_SCENE_NoAcceptionCamera_Text": "In order to read 2D codes, the app\nneeds permission to take pictures\nand record video.",
   "SocialResearch_SCENE_NoUseCamera_Title": "Currently Unavailable",
-  "SocialResearch_SCENE_NoUseCamera_Text": "This feature can’t be used because\nthe app doesn’t have permission to\ntake pictures or record video.\n\nPlease update your device’s settings\nto give the app access to your\ndevice’s camera."
+  "SocialResearch_SCENE_NoUseCamera_Text": "This feature can’t be used because\nthe app doesn’t have permission to\ntake pictures or record video.\n\nPlease update your device’s settings\nto give the app access to your\ndevice’s camera.",
+  "SocialResearch_SCENE_NoFriendList_Text": "You don’t have any in-game friends. You can\nsend your Researcher ID to some friends and\ninvite them.",
+  "SocialResearch_SCENE_NoApprovalList_Text": "You don’t have any friend requests."
 }

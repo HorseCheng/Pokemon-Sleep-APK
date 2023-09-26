@@ -208,5 +208,7 @@
   "SocialResearch_SCENE_NoAcceptionCamera_Title": "目前無法使用",
   "SocialResearch_SCENE_NoAcceptionCamera_Text": "若要使用讀取二維條碼的功能，\n必須允許應用程式「拍攝照片和影片」。",
   "SocialResearch_SCENE_NoUseCamera_Title": "目前無法使用",
-  "SocialResearch_SCENE_NoUseCamera_Text": "由於您未允許應用程式\n拍攝照片或錄製影片，\n所以無法使用這個功能。\n\n請從裝置的設定\n允許應用程式存取相機。"
+  "SocialResearch_SCENE_NoUseCamera_Text": "由於您未允許應用程式\n拍攝照片或錄製影片，\n所以無法使用這個功能。\n\n請從裝置的設定\n允許應用程式存取相機。",
+  "SocialResearch_SCENE_NoFriendList_Text": "沒有好友。\n傳送研究者代碼\n邀請好友吧！",
+  "SocialResearch_SCENE_NoApprovalList_Text": "沒有收到好友申請。"
 }
