@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "La manutenzione è stata completata.",
   "Maintenance_FinishPopup_Message_2": "Grazie per la collaborazione.",
   "Maintenance_FinishPopup_Button": "Schermata del titolo",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "Al momento non puoi usare questa\nfunzione perché il trasferimento\ndei tuoi dati non è ancora stato\ncompletato. Attendi il termine\ndella manutenzione."
+  "Maintenance_NotDownlaodDataLockPopup_Message": "Al momento non puoi usare questa\nfunzione perché il trasferimento\ndei tuoi dati non è ancora stato\ncompletato. Attendi il termine\ndella manutenzione.",
+  "Maintenance_TutorialTopSceneController_Text_5": "Non è possibile misurare il sonno\nperché non è stata fornita all'app\nl'autorizzazione a registrare l'audio.\n\nConsenti l'accesso dell'app al\nmicrofono nelle impostazioni\ndel tuo dispositivo.",
+  "Maintenance_TutorialTopSceneController_Text_8": "Attualmente non disponibile",
+  "Maintenance_TutorialTopSceneController_Text_9": "Per misurare il sonno, l'app\nnecessita dell'autorizzazione\na registrare l'audio."
 }

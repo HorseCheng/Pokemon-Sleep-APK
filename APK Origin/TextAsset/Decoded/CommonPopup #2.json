@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "インターネット接続がオフラインです\nネットワーク接続を確認し、\n再度お試しください",
   "CommonPopup_Playing_OfflineDialog_Title": "通信エラー",
   "CommonPopup_Playing_OfflineDialog_Text": "インターネット接続がオフラインです\nネットワーク接続を確認し、\n再度お試しください",
+  "CommonPopup_BadConnection_Popup_Title": "通信エラー",
+  "CommonPopup_BadConnection_Popup_Text": "通信に失敗しました\n通信状態の良い場所でもう一度お試しください",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "データ更新",
   "CommonPopup_Datechange_Text": "データに更新があります\nお手数ですが、タイトルから\n再度ゲームをスタートしてください",

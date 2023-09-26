@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "Il dispositivo non è collegato\na Internet. Controlla la connessione\ne riprova.",
   "CommonPopup_Playing_OfflineDialog_Title": "Errore di comunicazione",
   "CommonPopup_Playing_OfflineDialog_Text": "Il dispositivo non è collegato\na Internet. Controlla la connessione\ne riprova.",
+  "CommonPopup_BadConnection_Popup_Title": "Errore di comunicazione",
+  "CommonPopup_BadConnection_Popup_Text": "Comunicazione non riuscita.\nAssicurati che la tua connessione\nsia stabile e riprova.",
   "CommonPopup_OKButton": "Ok",
   "CommonPopup_Datechange_Title": "Aggiornamento",
   "CommonPopup_Datechange_Text": "È presente un aggiornamento.\nTornerai alla schermata del titolo.\nCi scusiamo per il disagio.",

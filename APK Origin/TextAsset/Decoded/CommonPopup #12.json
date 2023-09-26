@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "沒有連線到網路。\n請在確認網路連線後，\n再試一次。",
   "CommonPopup_Playing_OfflineDialog_Title": "連線錯誤",
   "CommonPopup_Playing_OfflineDialog_Text": "沒有連線到網路。\n請在確認網路連線後，\n再試一次。",
+  "CommonPopup_BadConnection_Popup_Title": "連線錯誤",
+  "CommonPopup_BadConnection_Popup_Text": "連線失敗。\n請在穩定的通訊環境下再試一次。",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "資料更新",
   "CommonPopup_Datechange_Text": "資料已更新。\n請從標題畫面重新開始遊戲。",

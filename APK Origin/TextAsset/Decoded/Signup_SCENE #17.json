@@ -129,5 +129,7 @@
   "Signup_SCENE_MENU_Content_2": "清除快取",
   "Signup_SCENE_MENU_Content_3": "用戶諮詢",
   "Signup_SCENE_InitialError_Popup_Title": "錯誤",
-  "Signup_SCENE_InitialError_Popup_Text": "發生了錯誤。\n即將重新啟動應用程式。"
+  "Signup_SCENE_InitialError_Popup_Text": "發生了錯誤。\n即將重新啟動應用程式。",
+  "Signup_SCENE_CSverBAN_Popup_Title": "ゲームデータを修正しています",
+  "Signup_SCENE_CSverBAN_Popup_Text": "ただいま、お客様のゲームデータの\n修正作業を行っています。修正作業が\n完了次第、再びプレイできるようになります\n後ほどアプリ起動をお試しください"
 }

@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "Han concluido las labores de\nmantenimiento.",
   "Maintenance_FinishPopup_Message_2": "Gracias por tu cooperación.",
   "Maintenance_FinishPopup_Button": "Pantalla del título",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "Ahora no puedes usar esta función\nporque aún no se ha completado la\ntransferencia de tus datos. Espera\na que concluyan las labores de\nmantenimiento."
+  "Maintenance_NotDownlaodDataLockPopup_Message": "Ahora no puedes usar esta función\nporque aún no se ha completado la\ntransferencia de tus datos. Espera\na que concluyan las labores de\nmantenimiento.",
+  "Maintenance_TutorialTopSceneController_Text_5": "La aplicación no puede registrar tu\nsueño porque no tiene permiso para\ngrabar sonido.\n\nAccede a los ajustes de tu dispositivo\ny concede permiso a la aplicación para\nutilizar el micrófono.",
+  "Maintenance_TutorialTopSceneController_Text_8": "Función no disponible",
+  "Maintenance_TutorialTopSceneController_Text_9": "La aplicación necesita permiso para\ngrabar audio para poder registrar tu\nsueño."
 }

@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "Tu dispositivo no está conectado a\ninternet. Comprueba tu conexión y\nvuelve a intentarlo.",
   "CommonPopup_Playing_OfflineDialog_Title": "Error de comunicación",
   "CommonPopup_Playing_OfflineDialog_Text": "Tu dispositivo no está conectado a\ninternet. Comprueba tu conexión y\nvuelve a intentarlo.",
+  "CommonPopup_BadConnection_Popup_Title": "Error de comunicación",
+  "CommonPopup_BadConnection_Popup_Text": "Se ha producido un error de\ncomunicación. Asegúrate de que tu\nconexión es estable y vuelve a\nintentarlo.",
   "CommonPopup_OKButton": "Aceptar",
   "CommonPopup_Datechange_Title": "Actualización",
   "CommonPopup_Datechange_Text": "Hay una actualización disponible.\nLa aplicación regresará a la pantalla\ndel título. Disculpa las molestias.",

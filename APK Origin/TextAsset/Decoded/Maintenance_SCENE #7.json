@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "점검이 종료되었습니다",
   "Maintenance_FinishPopup_Message_2": "협력해 주셔서 감사합니다",
   "Maintenance_FinishPopup_Button": "타이틀로",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "データ引き継ぎ処理が完了していないため\nこの機能はご利用になれません\nメンテナンス終了までお待ち下さい"
+  "Maintenance_NotDownlaodDataLockPopup_Message": "データ引き継ぎ処理が完了していないため\nこの機能はご利用になれません\nメンテナンス終了までお待ち下さい",
+  "Maintenance_TutorialTopSceneController_Text_5": "단말기 설정에서\n마이크 접근을 허용해 주십시오",
+  "Maintenance_TutorialTopSceneController_Text_8": "現在、利用できません",
+  "Maintenance_TutorialTopSceneController_Text_9": "睡眠計測を行うには\n「音声の録音」権限の許可が必要です"
 }

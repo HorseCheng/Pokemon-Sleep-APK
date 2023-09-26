@@ -6253,9 +6253,9 @@
       "sleeping_face_id": 1,
       "md_sleeping_face_id": 328,
       "name": "MrMime",
-      "snorlax_size": 2,
+      "snorlax_size": 3,
       "use_flag": true,
-      "draft_flag": true,
+      "draft_flag": false,
       "only_flip_flag": false,
       "not_flip_flag": true,
       "size_params": {
@@ -6268,8 +6268,8 @@
         },
         "snorlax_size_3": {
           "offset": {
-            "x": -0.1279602,
-            "y": -0.05009967
+            "x": -0.12796026,
+            "y": -0.21723002
           }
         },
         "snorlax_size_4": {
@@ -6280,15 +6280,15 @@
         }
       },
       "shadow": {
-        "x": -2.026558E-6,
-        "y": -0.19226193,
+        "x": -0.047685385,
+        "y": -0.5008718,
         "scale": {
-          "x": 1,
-          "y": 0.94163144
+          "x": 1.0382954,
+          "y": 0.8109162
         },
         "shear": {
-          "x": 0,
-          "y": 0
+          "x": -0.048581406,
+          "y": -0.020037651
         }
       }
     },
@@ -13378,15 +13378,15 @@
       "name": "MimeJr",
       "snorlax_size": 2,
       "use_flag": true,
-      "draft_flag": true,
+      "draft_flag": false,
       "only_flip_flag": false,
       "not_flip_flag": true,
       "size_params": {
         "snorlax_size_1": null,
         "snorlax_size_2": {
           "offset": {
-            "x": -0.20209634,
-            "y": -0.2846363
+            "x": -0.29005998,
+            "y": -0.27584025
           }
         },
         "snorlax_size_3": {
@@ -13403,15 +13403,15 @@
         }
       },
       "shadow": {
-        "x": 0.017913103,
-        "y": -0.12261391,
+        "x": 0.005713105,
+        "y": -0.39914384,
         "scale": {
-          "x": 1.0621122,
-          "y": 1.0045862
+          "x": 1.0351149,
+          "y": 0.7985109
         },
         "shear": {
-          "x": 0,
-          "y": 0
+          "x": 0.011632562,
+          "y": -0.025982857
         }
       }
     },
@@ -14658,6 +14658,113 @@
         "shear": {
           "x": 0.061837196,
           "y": -0.044169426
+        }
+      }
+    },
+    {
+      "id": 35,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 440,
+      "name": "Clefairy",
+      "snorlax_size": 2,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": {
+          "offset": {
+            "x": -0.026390553,
+            "y": -0.20231336
+          }
+        },
+        "snorlax_size_3": null,
+        "snorlax_size_4": null
+      },
+      "shadow": {
+        "x": 0.00925827,
+        "y": -0.3374079,
+        "scale": {
+          "x": 1.0214707,
+          "y": 0.4446835
+        },
+        "shear": {
+          "x": -0.011514425,
+          "y": -0.044501424
+        }
+      }
+    },
+    {
+      "id": 36,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 444,
+      "name": "Clefable",
+      "snorlax_size": 4,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": null,
+        "snorlax_size_3": {
+          "offset": {
+            "x": -0.017594308,
+            "y": -0.40462956
+          }
+        },
+        "snorlax_size_4": {
+          "offset": {
+            "x": 0.03518468,
+            "y": -0.45740753
+          }
+        }
+      },
+      "shadow": {
+        "x": -0.027777433,
+        "y": -0.5555556,
+        "scale": {
+          "x": 0.97196645,
+          "y": 0.429493
+        },
+        "shear": {
+          "x": -0.011514425,
+          "y": -0.044501424
+        }
+      }
+    },
+    {
+      "id": 173,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 436,
+      "name": "Cleffa",
+      "snorlax_size": 2,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": {
+          "offset": {
+            "x": -0.07037133,
+            "y": -0.079165460000000007
+          }
+        },
+        "snorlax_size_3": null,
+        "snorlax_size_4": null
+      },
+      "shadow": {
+        "x": 0.009259224,
+        "y": -0.27777863,
+        "scale": {
+          "x": 1,
+          "y": 0.4490567
+        },
+        "shear": {
+          "x": 0.0390625,
+          "y": 0
         }
       }
     }

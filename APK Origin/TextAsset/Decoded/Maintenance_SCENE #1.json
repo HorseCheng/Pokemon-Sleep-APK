@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "メンテナンスが終了しました",
   "Maintenance_FinishPopup_Message_2": "ご協力いただき\nありがとうございました",
   "Maintenance_FinishPopup_Button": "タイトルへ",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "データ引き継ぎ処理が完了していないため\nこの機能はご利用になれません\nメンテナンス終了までお待ち下さい"
+  "Maintenance_NotDownlaodDataLockPopup_Message": "データ引き継ぎ処理が完了していないため\nこの機能はご利用になれません\nメンテナンス終了までお待ち下さい",
+  "Maintenance_TutorialTopSceneController_Text_5": "音声の録音が許可されていないため\n睡眠計測ができません\n\n端末の設定からマイクへの\nアクセスを許可してください",
+  "Maintenance_TutorialTopSceneController_Text_8": "現在、利用できません",
+  "Maintenance_TutorialTopSceneController_Text_9": "睡眠計測を行うには\n「音声の録音」権限の許可が必要です"
 }

@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "인터넷이 오프라인 상태입니다\n네트워크 접속을 확인하고\n다시 시도해 주십시오",
   "CommonPopup_Playing_OfflineDialog_Title": "통신 에러",
   "CommonPopup_Playing_OfflineDialog_Text": "인터넷이 오프라인 상태입니다\n네트워크 접속을 확인하고\n다시 시도해 주십시오",
+  "CommonPopup_BadConnection_Popup_Title": "통신 에러",
+  "CommonPopup_BadConnection_Popup_Text": "통신에 실패했습니다\n통신 상태가 좋은 곳에서\n다시 한번 시도해 주십시오",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "데이터 갱신",
   "CommonPopup_Datechange_Text": "데이터가 갱신되었습니다\n타이틀 화면에서 게임을\n다시 시작해 주십시오",

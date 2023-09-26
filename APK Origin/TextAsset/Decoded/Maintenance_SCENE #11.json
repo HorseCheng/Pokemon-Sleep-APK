@@ -42,5 +42,8 @@
   "Maintenance_FinishPopup_Message_1": "La maintenance est terminée.",
   "Maintenance_FinishPopup_Message_2": "Merci pour votre coopération.",
   "Maintenance_FinishPopup_Button": "Vers l'écran titre",
-  "Maintenance_NotDownlaodDataLockPopup_Message": "Vous ne pouvez pas utiliser cette\nfonctionnalité car le processus\nde transfert de données n'est pas\nencore terminé.\nVeuillez patienter jusqu'à la fin\nde la maintenance."
+  "Maintenance_NotDownlaodDataLockPopup_Message": "Vous ne pouvez pas utiliser cette\nfonctionnalité car le processus\nde transfert de données n'est pas\nencore terminé.\nVeuillez patienter jusqu'à la fin\nde la maintenance.",
+  "Maintenance_TutorialTopSceneController_Text_5": "L'application ne peut pas mesurer\nvotre sommeil car elle n'a pas accès\nà l'enregistrement audio.\n\nVeuillez autoriser l'application\nà accéder à votre micro depuis\nles paramètres de votre appareil.",
+  "Maintenance_TutorialTopSceneController_Text_8": "Actuellement non disponible",
+  "Maintenance_TutorialTopSceneController_Text_9": "Pour mesurer votre sommeil, vous\ndevez autoriser l'application à accéder\nà l'enregistrement audio."
 }

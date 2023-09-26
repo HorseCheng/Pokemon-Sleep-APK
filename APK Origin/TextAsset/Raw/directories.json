@@ -254,6 +254,34 @@
             "isShiny": true
         },
         {
+            "id": 35,
+            "name": "Clefairy",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 36,
+            "name": "Clefable",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
             "id": 39,
             "name": "Jigglypuff",
             "sleepActions": [
@@ -979,6 +1007,20 @@
         {
             "id": 172,
             "name": "Pichu",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 173,
+            "name": "Cleffa",
             "sleepActions": [
                 "sleep-drowse",
                 "sleep-normal",

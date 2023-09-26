@@ -8,6 +8,8 @@
   "CommonPopup_Title_OfflineDialog_Text": "Your device is currently offline.\nPlease check your network\nconnection, then try again.",
   "CommonPopup_Playing_OfflineDialog_Title": "Communication Error",
   "CommonPopup_Playing_OfflineDialog_Text": "Your device is currently offline.\nPlease check your network\nconnection, then try again.",
+  "CommonPopup_BadConnection_Popup_Title": "Communication Error",
+  "CommonPopup_BadConnection_Popup_Text": "Communication failed.\nPlease ensure you have a stable\nconnection, then try again.",
   "CommonPopup_OKButton": "OK",
   "CommonPopup_Datechange_Title": "Update",
   "CommonPopup_Datechange_Text": "An update has arrived, so you’ll now\nbe returned to the title screen.\nWe apologize for the inconvenience.",
