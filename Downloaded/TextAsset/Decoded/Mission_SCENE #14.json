@@ -3,7 +3,7 @@
   "WeeklyMissionView_Text_3": "Rewards",
   "MissionReward_StartText": "You earned:",
   "MissionReward_EndText": "Well done!",
-  "MissionScene_Content_TopView_LeftDays": "\u000e\t\u0000\f\bdddd\u0000 remaining",
+  "MissionScene_Content_TopView_LeftDays": "\u000e\t\u0000\f\bdddd\u0000 left",
   "MissionScene_Content_TopView_Desc": "Complete weekly missions to earn rewards.",
   "MissionScene_Content_TopView_SectionTitle": "\u000e\u0002\u0001\u0002\u0000 more \u000e\u0001\u0000$\u000emission\u0010missions촀 to go",
   "MissionScene_Footer_GetAllButton": "Claim All",
