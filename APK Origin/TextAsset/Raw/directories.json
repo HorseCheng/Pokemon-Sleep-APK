@@ -1398,6 +1398,34 @@
             "isShiny": true
         },
         {
+            "id": 353,
+            "name": "Shuppet",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 354,
+            "name": "Banette",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
             "id": 359,
             "name": "Absol",
             "sleepActions": [
@@ -1625,6 +1653,19 @@
             "homeActions": [
                 "move",
                 "move-reverse",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 9001,
+            "name": "Pikachu-Halloween",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal"
+            ],
+            "homeActions": [
+                "move",
                 "stand"
             ],
             "isShiny": true

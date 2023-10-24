@@ -7111,6 +7111,14 @@
 			"form_name": "",
 			"default_gender": 0,
 			"gender_symbol": ""
+		},
+		{
+			"id": 9001,
+			"form_id": 0,
+			"name": "ピカチュウ",
+			"form_name": "",
+			"default_gender": 0,
+			"gender_symbol": "♂"
 		}
 	]
 }

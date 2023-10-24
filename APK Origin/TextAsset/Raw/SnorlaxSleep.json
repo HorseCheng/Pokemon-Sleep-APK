@@ -14767,6 +14767,40 @@
           "y": 0
         }
       }
+    },
+    {
+      "id": 354,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 0,
+      "name": "Banette",
+      "snorlax_size": 3,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": null,
+        "snorlax_size_3": {
+          "offset": {
+            "x": 0.07037133,
+            "y": -0.14074111
+          }
+        },
+        "snorlax_size_4": null
+      },
+      "shadow": {
+        "x": 0.008395612,
+        "y": -0.32264054,
+        "scale": {
+          "x": 1.0901177,
+          "y": 0.40548298
+        },
+        "shear": {
+          "x": 0.18292904,
+          "y": -0.12783432
+        }
+      }
     }
   ]
 }

@@ -1,9 +1,11 @@
 {
   "list": [
     "sleeping_faces",
-    "species_candies",
     "pokemons",
+    "species_candies",
     "pokedex_data",
+    "event_type_name",
+    "pokemon_pattern_name",
     "pokemon_evolutions",
     "evolution_items",
     "all_purpose_candies",
@@ -78,8 +80,6 @@
     "item_name_data",
     "item_sort_data",
     "pokemon_interaction_data",
-    "event_missions",
-    "event_mission_conditions",
     "event_sleep_power_multiplier",
     "event_pokemon_sleep_exp_multiplier",
     "event_sleep_point_multiplier",
@@ -87,11 +87,15 @@
     "event_baitball_success_per",
     "event_sleeping_face_params",
     "event_pokemon_candy_exp_multiplier",
+    "event_sleep_point_bonus",
     "event_energy_multiplier",
+    "event_research_candy_multiplier",
+    "event_sleep_type_lottery_ratio",
     "pokemon_food_sp_correction",
     "phantom_sleeping_face_research",
     "kpi_event_token_list",
-    "event_sleep_point_bonus",
+    "event_weekly_missions",
+    "fields_event_pokemons",
     "buff_type"
   ]
 }
