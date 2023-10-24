@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "확인",
   "SleepResearchScene_ManualRewardPopup_Text_1": "매뉴얼 입력 보상",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ이번 간식 타임에서만\n보너스 사블레가 \u000e\u0002\u0001\u0002\u0000개 늘었습니다\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "x\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "x\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "이벤트 보너스",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿Ｗ특정 포켓몬의 출현 확률 UP\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_2": "그날 리서처의 수면 타입에 상관없이\n\u000e\u0000\u0003\u0004毿Ｗ다른 수면 타입의 포켓몬도 출현\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_3": "첫 번째 수면 리서치에서 \u000e\u0000\u0003\u0004毿Ｗ사탕 획득량 UP\u000e\u0000\u0003\u0004\u0000＀"
 }

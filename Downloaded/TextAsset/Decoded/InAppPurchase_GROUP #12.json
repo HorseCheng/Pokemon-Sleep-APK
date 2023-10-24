@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "The purchase failed.\n\nPlease check the settings on your\ndevice and your payment method,\nand then try again.",
   "InAppPurchase_ErrorDialog_ErrorCode": "Error Code: \u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "OK",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "You cannot make this purchase since\na prior purchase of yours is on hold.\n\nPlease complete payment for your\nprior purchase, then try again."
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "You cannot make this purchase since\na prior purchase of yours is on hold.\n\nPlease complete payment for your\nprior purchase, then try again.",
+  "StopSubscriptionPurchasePopup_Title": "Failed to Connect to App Store",
+  "StopSubscriptionPurchasePopup_Message": "Connection to your app store failed.\nYou will be able to use this function\n\u000e\u0000\u0003\u0004毿Ｗafter you restart the app\u000e\u0000\u0003\u0004\u0000＀."
 }

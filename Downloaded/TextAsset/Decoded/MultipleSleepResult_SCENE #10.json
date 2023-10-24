@@ -48,5 +48,6 @@
   "MultipleSleepResultScene_Top_DayCountUnit": "Schlafeinheit",
   "MultipleSleepResultScene_Top_DayCountUnit_multiple": "Schlafeinheiten",
   "MutipleSleepResultExpireDataCell_Desc_NoResearch": "Der Eintrag konnte nicht analysiert\nwerden, weil das Schlafresultat 0 war.",
-  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000"
+  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000",
+  "MutipleSleepResultScene_EventName_Halloween": "Halloween"
 }

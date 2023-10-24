@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "Unterbrochene Schlafdaten",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "Diese Daten stammen von einer\nSchlafaufzeichnung, die aus\nirgendeinem Grund untergebrochen\nwurden, bevor du deine Aufzeichnung\nbeendet hast.\nDiese Daten werden bei deiner\nSchlafgleichmäßigkeits-Bewertung\nnicht berücksichtigt.",
   "SleepRegularityDetail_ContentDesc_InvalidData": "Du hast nicht genug Schlafdaten gesammelt.\nZeichne die Schlafdaten von mindestens 4 Tagen\ninnerhalb einer Woche auf, um deinen\nSchlafrhythmus zu ermitteln.",
   "SleepRegularityDetail_ContentDesc_NoData": "Du hast keine Schlafdaten für diesen Zeitraum.\nZeichne die Schlafdaten von mindestens 4 Tagen\ninnerhalb einer Woche auf, um deinen\nSchlafrhythmus zu ermitteln.",
   "SleepRegularityDetail_Label_NoData": "Keine Daten",

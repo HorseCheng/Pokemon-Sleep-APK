@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "Confirmación",
   "SleepResearchScene_ManualRewardPopup_Text_1": "Premios por entradas manuales",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆHas recibido \u000e\u0002\u0001\u0002\u0000 Galleta\u000e\u0007\u0000\b\u0000\u0002s촀 Extra más a la hora\ndel picoteo en esta sesión.\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "Bonus del evento",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿ＷMayor probabilidad de aparición de algunos\nPokémon.\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_2": "\u000e\u0000\u0003\u0004毿ＷAparecerán Pokémon con distintos tipos\nde sueño\u000e\u0000\u0003\u0004\u0000＀ independientemente del tipo de\nsueño del usuario ese día.",
+  "SleepResearchScene_EventPopup_Text_3": "Los usuarios \u000e\u0000\u0003\u0004毿Ｗobtendrán más caramelos\u000e\u0000\u0003\u0004\u0000＀ tras\nel primer estudio del sueño del día."
 }

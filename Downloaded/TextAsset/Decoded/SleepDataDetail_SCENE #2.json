@@ -9,7 +9,7 @@
   "SleepDataDetailScene_Content_ScoreScoreLabel": "잠만보의 에너지 x 수면 스코어",
   "SleepDataDetailScene_Content_ScoreScoreValue": "\u000e\u0002\u0006\u0004\u0000촁 x\u000e\u0002\u0002\u0002\u0001",
   "SleepDataDetailScene_Header_HeaderDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
-  "SleepDataResearchResultCell_Title": "\u000e\u0003\u0001\u0002촀 \u000e\u0000\u0003\u0004췍ￍ#\u000e\u0000\u0003\u0004\u0000＀ \u000e\u0003\r\u0002\u0001",
+  "SleepDataResearchResultCell_Title": "\u000e\u0003\u0001\u0002Ā \u000e\u0000\u0003\u0004췍ￍ#\u000e\u0000\u0003\u0004\u0000＀ \u000e\u0003\r\u0002\u0001",
   "SleepDataResearchResultCell_NoRecord_Popup_Title": "녹음 데이터가 없습니다",
   "SleepDataResearchResultCell_NoRecord_Popup_Text": "24시간 이상 경과한 녹음 데이터는\n삭제되었으므로 재생할 수 없습니다",
   "SleepDataDetailScene_Content_SleepDataSectionHeader_1": "상세 데이터",

@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "購買失敗。\n\n請確認裝置設定和支付方法。",
   "InAppPurchase_ErrorDialog_ErrorCode": "錯誤代碼：\u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "OK",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "由於上次的購買仍處於保留狀態，\n在完成付款之前無法進行新購買。\n\n請進行付款。"
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "由於上次的購買仍處於保留狀態，\n在完成付款之前無法進行新購買。\n\n請進行付款。",
+  "StopSubscriptionPurchasePopup_Title": "和商店連結失敗",
+  "StopSubscriptionPurchasePopup_Message": "和商店連結失敗。\n\u000e\u0000\u0003\u0004毿Ｗ重新啟動應用程式後\u000e\u0000\u0003\u0004\u0000＀\n即可使用這個功能。"
 }

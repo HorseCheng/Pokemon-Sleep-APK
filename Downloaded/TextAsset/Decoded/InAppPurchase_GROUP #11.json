@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "에러가 발생했습니다\n타이틀 화면으로 돌아갑니다",
   "InAppPurchase_ErrorDialog_ErrorCode": "에러 코드: \u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "OK",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "購入が保留されているため\n決済が完了するまでは新たに購入できません\n\n決済を行なってください"
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "購入が保留されているため\n決済が完了するまでは新たに購入できません\n\n決済を行なってください",
+  "StopSubscriptionPurchasePopup_Title": "ストアとの連携に失敗",
+  "StopSubscriptionPurchasePopup_Message": "ストアとの連携に失敗しました\n\u000e\u0000\u0003\u0004毿Ｗアプリを再起動した後に\u000e\u0000\u0003\u0004\u0000＀\nこちらの機能はご利用いただけます"
 }

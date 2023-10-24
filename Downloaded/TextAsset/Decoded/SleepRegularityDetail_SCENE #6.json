@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "Sleep Data That Was Cut Short",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "This is data from sleep tracking that\nstopped for some reason before you\nended your sleep session.\nThis data will be excluded for sleep\nconsistency evaluation.",
   "SleepRegularityDetail_ContentDesc_InvalidData": "You don’t have enough sleep data.\nTo evaluate your sleep consistency, you must\nlog at least four days of sleep data in a week.",
   "SleepRegularityDetail_ContentDesc_NoData": "You have no sleep data for this time period.\nTo evaluate your sleep consistency, you must\nlog at least four days of sleep data in a week.",
   "SleepRegularityDetail_Label_NoData": "No Data",

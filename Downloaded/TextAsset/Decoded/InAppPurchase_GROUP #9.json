@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "Acquisto non riuscito.\n\nVerifica le impostazioni\ndel dispositivo e il metodo\ndi pagamento e riprova.",
   "InAppPurchase_ErrorDialog_ErrorCode": "Codice errore: \u000e\u0002\u0006\u0004Ā촀",
   "InAppPurchase_ErrorDialog_OKButton": "Ok",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "Questo acquisto non può essere\neseguito perché ne è presente uno\nprecedente in sospeso.\n\nCompleta il pagamento dell'acquisto\nprecedente e riprova."
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "Questo acquisto non può essere\neseguito perché ne è presente uno\nprecedente in sospeso.\n\nCompleta il pagamento dell'acquisto\nprecedente e riprova.",
+  "StopSubscriptionPurchasePopup_Title": "Impossibile connettersi al negozio",
+  "StopSubscriptionPurchasePopup_Message": "Connessione al negozio del dispositivo\nnon riuscita. Potrai usare questa\nfunzione \u000e\u0000\u0003\u0004毿Ｗdopo aver riavviato l'app\u000e\u0000\u0003\u0004\u0000＀."
 }

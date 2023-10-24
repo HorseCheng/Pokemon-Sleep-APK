@@ -1,11 +1,11 @@
 {
   "EvolutionCondictionDesc_SpeciesCandy": "\u000e\u0003\u0003\u0004Ā촀\nx\u000e\u0002\u0002\u0002\u0002",
-  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002촀 atteint le\nniveau \u000e\u0002\u0002\u0002\u0001 ",
+  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002\u0000 atteint le\nniveau \u000e\u0002\u0002\u0002\u0001 ",
   "EvolutionCondictionDesc_ItemNum": "\u000e\u0003\u0003\u0004Ā촀\nx\u000e\u0002\u0002\u0002\u0002",
-  "EvolutionCondictionDesc_TotalSleepTime": "Passer \u000e\t\u0000\f\bhhhh\u0001 \u000e\u0004\u0000\u001c\nheure\fheures촁 à dormir\nauprès de : \u000e\u0003\u0001\u0002촀",
+  "EvolutionCondictionDesc_TotalSleepTime": "Passer \u000e\t\u0000\f\bhhhh\u0001 \u000e\u0004\u0000\u001c\nheure\fheures촁 à dormir\nauprès de : \u000e\u0003\u0001\u0002\u0000",
   "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "Évolue de jour\n(entre 06:00 et 17:59)",
   "EvolutionCondictionDesc_PeriodOfTime_4": "Évolue de nuit\n(entre 18:00 et 05:59)",
-  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002촀 est\n\u000e\u0003\u0011\u0002\u0001 de nature",
-  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002촀 est un mâle (♂)",
-  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002촀 est une\nfemelle (♀)"
+  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002\u0000 est\n\u000e\u0003\u0011\u0002\u0001 de nature",
+  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002\u0000 est un mâle (♂)",
+  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002\u0000 est une\nfemelle (♀)"
 }

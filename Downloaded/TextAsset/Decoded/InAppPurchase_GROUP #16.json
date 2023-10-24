@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "L'achat a échoué.\n\nVeuillez vérifier les paramètres\nde votre appareil et votre méthode\nde paiement, puis réessayez.",
   "InAppPurchase_ErrorDialog_ErrorCode": "Code d'erreur : \u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "OK",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "Vous ne pouvez pas effectuer l'achat\ncar une autre de vos transactions\nest en attente.\n\nVeuillez valider le paiement de votre\nachat précédent, puis réessayer."
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "Vous ne pouvez pas effectuer l'achat\ncar une autre de vos transactions\nest en attente.\n\nVeuillez valider le paiement de votre\nachat précédent, puis réessayer.",
+  "StopSubscriptionPurchasePopup_Title": "Échec de la connexion à la boutique",
+  "StopSubscriptionPurchasePopup_Message": "La connexion à la boutique\nd'applications a échoué.\n\u000e\u0000\u0003\u0004毿ＷVeuillez redémarrer l'application\u000e\u0000\u0003\u0004\u0000＀ pour\nutiliser cette fonctionnalité."
 }

@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "在中途結束了測量的資料",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "因為某種原因在中途\n結束了測量的睡眠資料。\n已於評價睡眠節奏時排除此資料。",
   "SleepRegularityDetail_ContentDesc_InvalidData": "睡眠資料不足。\n若要評價睡眠節奏，\n一週需有至少4天分的睡眠資料。",
   "SleepRegularityDetail_ContentDesc_NoData": "這段期間內沒有任何睡眠資料。\n若要評價睡眠節奏，\n一週需有至少4天分的睡眠資料。",
   "SleepRegularityDetail_Label_NoData": "No Data",

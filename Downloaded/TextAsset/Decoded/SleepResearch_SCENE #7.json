@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "Confirmation",
   "SleepResearchScene_ManualRewardPopup_Text_1": "Manual Entry Rewards",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆYou received \u000e\u0002\u0001\u0002\u0000 more Bonus \u000e\u0001\u0000$\u000eBiscuit\u0010Biscuits촀 as a \nspecial treat for this snack time.\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "Event Bonuses",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿ＷCertain Pokémon have a greater chance of\nappearing.\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_2": "\u000e\u0000\u0003\u0004毿ＷPokémon of different sleep types will\nappear\u000e\u0000\u0003\u0004\u0000＀ regardless of the researcher’s sleep\ntype for the day.",
+  "SleepResearchScene_EventPopup_Text_3": "Researchers will \u000e\u0000\u0003\u0004毿Ｗgain more candies\u000e\u0000\u0003\u0004\u0000＀ for the\nfirst sleep research of the day"
 }

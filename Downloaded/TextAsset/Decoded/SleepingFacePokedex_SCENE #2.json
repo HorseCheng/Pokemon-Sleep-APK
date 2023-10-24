@@ -7,5 +7,9 @@
   "SleepingFacePokedexScene_Footer_Title_2": "Ohne Filter",
   "SleepingFacePokedexScene_Footer_Title_3": "Schlaftyp",
   "SleepingFacePokedexScene_Order_Heading": "Sortiert nach: \u000e\u0003\u0013\u0002\u0000",
-  "SleepingFacePokedexScene_Secret": "???"
+  "SleepingFacePokedexScene_Secret": "???",
+  "SleepingFacePokedexScene_FaceChange_Popup_Title": "Aussehen ändern",
+  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "Liste",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "Auswählen",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "Ausgewählt"
 }

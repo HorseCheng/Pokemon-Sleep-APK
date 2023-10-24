@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "Bestätigung",
   "SleepResearchScene_ManualRewardPopup_Text_1": "Nachtragsbelohnungen",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004香ﾙDu erhältst \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000,\u0012Bonuskeks\u0014Bonuskekse촀 zur Snackzeit\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004香ﾙfür diese Aufzeichnung.\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "Event-Boni",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿ＷBestimmte Pokémon erscheinen häufiger.\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_2": "Pokémon verschiedener Schlaftypen werden\nauftauchen, unabhängig vom Schlaftyp\ndes Forschers an diesem Tag.",
+  "SleepResearchScene_EventPopup_Text_3": "Forscher erhalten \u000e\u0000\u0003\u0004毿Ｗmehr Bonbons\u000e\u0000\u0003\u0004\u0000＀ für die\nerste Schlafforschung des Tages."
 }

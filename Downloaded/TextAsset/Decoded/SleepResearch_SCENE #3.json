@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "確認",
   "SleepResearchScene_ManualRewardPopup_Text_1": "マニュアル入力の報酬",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ今回のおやつタイムだけ\nボーナスサブレが\u000e\u0002\u0001\u0002\u0000個増えました\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "x\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "x\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "イベントボーナス",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿Ｗ特定のポケモンの出現確率UP\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_2": "その日のリサーチャーの睡眠タイプに限らず、\n\u000e\u0000\u0003\u0004毿Ｗ他の睡眠タイプのポケモンも出現\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_3": "1回目の睡眠リサーチでの \u000e\u0000\u0003\u0004毿Ｗアメ獲得量UP\u000e\u0000\u0003\u0004\u0000＀"
 }

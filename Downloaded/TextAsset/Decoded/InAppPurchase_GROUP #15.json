@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "Der Kauf ist fehlgeschlagen.\n\nBitte überprüfe die Einstellungen\ndeines Geräts und deine\nZahlungsmethode und versuche\nes dann erneut.\n",
   "InAppPurchase_ErrorDialog_ErrorCode": "Fehlercode: \u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "OK",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "Du kannst den Kauf nicht durchführen,\nda ein anderer Kauf noch aussteht.\n\nBitte schließe den noch ausstehenden\nKauf ab und versuche es erneut."
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "Du kannst den Kauf nicht durchführen,\nda ein anderer Kauf noch aussteht.\n\nBitte schließe den noch ausstehenden\nKauf ab und versuche es erneut.",
+  "StopSubscriptionPurchasePopup_Title": "Verbindung zum App-Store\nfehlgeschlagen",
+  "StopSubscriptionPurchasePopup_Message": "Wir konnten keine Verbindung zu\ndeinem App-Store herstellen. Du\nkannst die Funktion nach einem\n\u000e\u0000\u0003\u0004毿ＷNeustart der App\u000e\u0000\u0003\u0004\u0000＀ nutzen."
 }

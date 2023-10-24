@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "도중에 계측이 종료된 데이터",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "어떠한 이유로 인해 계측이 도중에\n종료된 수면 데이터입니다\n수면 리듬 평가에서는\n이 데이터를 제외하고 판정을 진행합니다",
   "SleepRegularityDetail_ContentDesc_InvalidData": "수면 데이터가 부족합니다\n수면 리듬을 평가하려면\n한 주에 최소 4일 치의 수면 데이터가 필요합니다",
   "SleepRegularityDetail_ContentDesc_NoData": "이 기간의 수면 데이터가 하나도 없습니다\n수면 리듬을 평가하려면\n한 주에 최소 4일 치의 수면 데이터가 필요합니다",
   "SleepRegularityDetail_Label_NoData": "No Data",

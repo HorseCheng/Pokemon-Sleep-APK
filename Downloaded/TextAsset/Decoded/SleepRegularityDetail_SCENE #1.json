@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "途中で計測終了したデータ",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "何らかの理由で計測が途中で\n終了した睡眠データです\n睡眠リズムの評価では、\nこのデータを除外して判定を行っています",
   "SleepRegularityDetail_ContentDesc_InvalidData": "睡眠データが足りていません\n睡眠リズムの評価には\n週に最低4日分の睡眠データが必要です",
   "SleepRegularityDetail_ContentDesc_NoData": "この期間の睡眠データは一つもありません\n睡眠リズムの評価には\n週に最低4日分の睡眠データが必要です",
   "SleepRegularityDetail_Label_NoData": "No Data",

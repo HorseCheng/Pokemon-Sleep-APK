@@ -48,5 +48,6 @@
   "MultipleSleepResultScene_Top_DayCountUnit": "Session",
   "MultipleSleepResultScene_Top_DayCountUnit_multiple": "Sessions",
   "MutipleSleepResultExpireDataCell_Desc_NoResearch": "This entry couldn’t be reviewed\nbecause it yielded a score of zero.",
-  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000"
+  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000",
+  "MutipleSleepResultScene_EventName_Halloween": "Halloween"
 }

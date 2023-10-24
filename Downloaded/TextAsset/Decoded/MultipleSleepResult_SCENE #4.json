@@ -48,5 +48,6 @@
   "MultipleSleepResultScene_Top_DayCountUnit": "sessione",
   "MultipleSleepResultScene_Top_DayCountUnit_multiple": "sessioni",
   "MutipleSleepResultExpireDataCell_Desc_NoResearch": "Questa voce non può essere esaminata\nperché ha ricevuto un punteggio di 0.",
-  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000"
+  "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000",
+  "MutipleSleepResultScene_EventName_Halloween": "Halloween"
 }

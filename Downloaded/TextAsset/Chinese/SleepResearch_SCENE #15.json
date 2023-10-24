@@ -81,5 +81,9 @@
   "SleepResearchScene_ManualRewardPopup_Title": "確認",
   "SleepResearchScene_ManualRewardPopup_Text_1": "手動輸入的報酬",
   "SleepResearchScene_ManualRewardPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ這次點心時間的獎勵沙布蕾\n增加了\u000e\u0002\u0001\u0002\u0000個！\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000"
+  "SleepResearchScene_ManualRewardPopup_Num": "×\u000e\u0002\u0001\u0002\u0000",
+  "SleepResearchScene_EventPopup_Title": "活動獎勵",
+  "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿Ｗ特定寶可夢的出現機率提升\u000e\u0000\u0003\u0004\u0000＀。",
+  "SleepResearchScene_EventPopup_Text_2": "不論研究者當天的睡眠類型為何，\n\u000e\u0000\u0003\u0004毿Ｗ所有睡眠類型的寶可夢皆會出現\u000e\u0000\u0003\u0004\u0000＀。",
+  "SleepResearchScene_EventPopup_Text_3": "第1次睡眠研究後的\u000e\u0000\u0003\u0004毿Ｗ糖果獲得量提升\u000e\u0000\u0003\u0004\u0000＀。"
 }

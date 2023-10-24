@@ -7,5 +7,9 @@
   "SleepingFacePokedexScene_Footer_Title_2": "篩選 OFF",
   "SleepingFacePokedexScene_Footer_Title_3": "睡眠類型",
   "SleepingFacePokedexScene_Order_Heading": "顯示順序 - \u000e\u0003\u0013\u0002\u0000",
-  "SleepingFacePokedexScene_Secret": "???"
+  "SleepingFacePokedexScene_Secret": "???",
+  "SleepingFacePokedexScene_FaceChange_Popup_Title": "切換睡姿",
+  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "一覽",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "選擇",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "選擇中"
 }

@@ -49,5 +49,7 @@
   "InAppPurchase_ErrorDialog_Text_8": "Compra no realizada.\n\nComprueba la configuración de tu\ndispositivo y el método de pago y\nvuelve a intentarlo.",
   "InAppPurchase_ErrorDialog_ErrorCode": "Código de error: \u000e\u0002\u0006\u0004Ā촁",
   "InAppPurchase_ErrorDialog_OKButton": "Aceptar",
-  "InAppPurchase_ErrorDialog_Text_LatePayment": "No puedes realizar esta compra\nporque tienes pendiente una\ntransacción anterior.\n\nCompleta el pago de tu transacción\nanterior e inténtalo de nuevo."
+  "InAppPurchase_ErrorDialog_Text_LatePayment": "No puedes realizar esta compra\nporque tienes pendiente una\ntransacción anterior.\n\nCompleta el pago de tu transacción\nanterior e inténtalo de nuevo.",
+  "StopSubscriptionPurchasePopup_Title": "Error de conexión con la tienda",
+  "StopSubscriptionPurchasePopup_Message": "No se ha podido conectar con tu tienda\nonline. Podrás usar esta función\n\u000e\u0000\u0003\u0004毿Ｗtras haber reiniciado la aplicación\u000e\u0000\u0003\u0004\u0000＀."
 }

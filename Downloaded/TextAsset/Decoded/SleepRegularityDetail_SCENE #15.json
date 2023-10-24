@@ -1,4 +1,6 @@
 {
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "Dati del sonno incompleti",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "Questi dati provengono da una\nmisurazione che per qualche motivo\nsi è interrotta prima del termine\ndella sessione di sonno.\nNon saranno quindi considerati\nnella valutazione della regolarità\ndel sonno.",
   "SleepRegularityDetail_ContentDesc_InvalidData": "Non hai abbastanza dati del sonno.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana.",
   "SleepRegularityDetail_ContentDesc_NoData": "Non ci sono dati del sonno per questo periodo.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana.",
   "SleepRegularityDetail_Label_NoData": "Nessun dato",
