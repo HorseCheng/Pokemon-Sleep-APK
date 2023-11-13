@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "がまん寝",
   "md_sleeping_faces_name_75-1": "ごろーん寝",
   "md_sleeping_faces_name_75-2": "ごうかい寝",
+  "md_sleeping_faces_name_95-1": "うずまき寝",
+  "md_sleeping_faces_name_95-2": "ぐらぐら寝",
   "md_sleeping_faces_name_23-1": "とぐろ寝",
   "md_sleeping_faces_name_23-2": "のびちぢみ寝",
   "md_sleeping_faces_name_24-1": "とぐろ寝",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "カラのなか寝",
   "md_sleeping_faces_name_74-3": "めりこみ寝",
   "md_sleeping_faces_name_75-3": "ごろごろ寝",
+  "md_sleeping_faces_name_95-3": "ほりすすみ寝",
   "md_sleeping_faces_name_23-3": "ほぐれ寝",
   "md_sleeping_faces_name_24-3": "ほぐれ寝",
   "md_sleeping_faces_name_104-3": "ホネまくら寝",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "けんじゃ寝",
   "md_sleeping_faces_name_199-1": "ぐうたら寝",
   "md_sleeping_faces_name_199-3": "ひらめき寝",
+  "md_sleeping_faces_name_208-2": "ぐらぐら寝",
+  "md_sleeping_faces_name_208-1": "うずまき寝",
+  "md_sleeping_faces_name_208-3": "ほりすすみ寝",
   "md_sleeping_faces_name_214-2": "ぼうだち寝",
   "md_sleeping_faces_name_214-1": "ツノふり寝",
   "md_sleeping_faces_name_214-3": "ミツなめ寝",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "さかさふゆう寝",
   "md_sleeping_faces_name_354-2": "うでふり寝",
   "md_sleeping_faces_name_354-1": "くびひねり寝",
-  "md_sleeping_faces_name_354-3": "おおわらい寝"
+  "md_sleeping_faces_name_354-3": "おおわらい寝",
+  "md_sleeping_faces_name_onSnorlax": "おなかのうえ寝"
 }

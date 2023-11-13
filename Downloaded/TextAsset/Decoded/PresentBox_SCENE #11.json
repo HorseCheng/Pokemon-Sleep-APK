@@ -5,6 +5,7 @@
   "PresentBox_Deadline_1": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u0014\u0006day\bdays촀 left",
   "PresentBox_Deadline_2": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0010\u0004hr\u0006hrs촀 left ",
   "PresentBox_Deadline_3": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0014\u0006min\bmins촀 left ",
+  "PresentBox_Deadline_4": "≥1 year left",
   "PresentBox_GetButton": "Claim",
   "PresentBox_AllGetButton": "Claim All",
   "PresentBox_PresentReceivePopup_Content": "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0007\u0004\u0002촁",

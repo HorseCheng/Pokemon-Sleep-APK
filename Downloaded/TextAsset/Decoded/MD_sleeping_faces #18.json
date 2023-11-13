@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "Biding Sleep",
   "md_sleeping_faces_name_75-1": "Lounging Sleep",
   "md_sleeping_faces_name_75-2": "Hearty Sleep",
+  "md_sleeping_faces_name_95-1": "Spiral Sleep",
+  "md_sleeping_faces_name_95-2": "Lurching Sleep",
   "md_sleeping_faces_name_23-1": "Coiled Sleep",
   "md_sleeping_faces_name_23-2": "Springy Sleep",
   "md_sleeping_faces_name_24-1": "Coiled Sleep",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "Shell-Tucked Sleep",
   "md_sleeping_faces_name_74-3": "Buried Sleep",
   "md_sleeping_faces_name_75-3": "Rolling Sleep",
+  "md_sleeping_faces_name_95-3": "Tunneling Sleep",
   "md_sleeping_faces_name_23-3": "Uncoiled Sleep",
   "md_sleeping_faces_name_24-3": "Uncoiled Sleep",
   "md_sleeping_faces_name_104-3": "Pillow-Bone Sleep",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "Sage Sleep",
   "md_sleeping_faces_name_199-1": "Loafing Sleep",
   "md_sleeping_faces_name_199-3": "Eureka Sleep",
+  "md_sleeping_faces_name_208-2": "Lurching Sleep",
+  "md_sleeping_faces_name_208-1": "Spiral Sleep",
+  "md_sleeping_faces_name_208-3": "Tunneling Sleep",
   "md_sleeping_faces_name_214-2": "Upright Sleep",
   "md_sleeping_faces_name_214-1": "Horn-Shaking Sleep",
   "md_sleeping_faces_name_214-3": "Sap-Licking Sleep",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "Upside-Down Sleep",
   "md_sleeping_faces_name_354-2": "Arm-Swinging Sleep",
   "md_sleeping_faces_name_354-1": "Neck-Twisting Sleep",
-  "md_sleeping_faces_name_354-3": "Big-Laugh Sleep"
+  "md_sleeping_faces_name_354-3": "Big-Laugh Sleep",
+  "md_sleeping_faces_name_onSnorlax": "Atop-Belly Sleep"
 }

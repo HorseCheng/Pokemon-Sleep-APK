@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "sleep-normal_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6848176562645413529
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2540295325158076541
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9084676212211362937
+    }
+  ]
+}

@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "참기잠",
   "md_sleeping_faces_name_75-1": "데굴이잠",
   "md_sleeping_faces_name_75-2": "호쾌한잠",
+  "md_sleeping_faces_name_95-1": "뱅글뱅글잠",
+  "md_sleeping_faces_name_95-2": "흔들흔들잠",
   "md_sleeping_faces_name_23-1": "똬리잠",
   "md_sleeping_faces_name_23-2": "늘었다줄었다잠",
   "md_sleeping_faces_name_24-1": "똬리잠",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "껍질속잠",
   "md_sleeping_faces_name_74-3": "박혀서잠",
   "md_sleeping_faces_name_75-3": "떼굴떼굴잠",
+  "md_sleeping_faces_name_95-3": "파고들다잠",
   "md_sleeping_faces_name_23-3": "똬리푼잠",
   "md_sleeping_faces_name_24-3": "똬리푼잠",
   "md_sleeping_faces_name_104-3": "뼈다귀베개잠",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "현자잠",
   "md_sleeping_faces_name_199-1": "빈둥빈둥잠",
   "md_sleeping_faces_name_199-3": "번뜩임잠",
+  "md_sleeping_faces_name_208-2": "흔들흔들잠",
+  "md_sleeping_faces_name_208-1": "뱅글뱅글잠",
+  "md_sleeping_faces_name_208-3": "파고들다잠",
   "md_sleeping_faces_name_214-2": "우뚝선잠",
   "md_sleeping_faces_name_214-1": "뿔흔들잠",
   "md_sleeping_faces_name_214-3": "꿀낼름잠",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "거꾸로부유잠",
   "md_sleeping_faces_name_354-2": "팔흔들잠",
   "md_sleeping_faces_name_354-1": "고개틀고잠",
-  "md_sleeping_faces_name_354-3": "큰웃음잠"
+  "md_sleeping_faces_name_354-3": "큰웃음잠",
+  "md_sleeping_faces_name_onSnorlax": "배위잠"
 }

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "sleep-drowse_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5457208930363289183
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -393879924253514866
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1549668082831190409
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4725936280722685578
+    }
+  ]
+}

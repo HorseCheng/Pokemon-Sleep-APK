@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "Tenaz",
   "md_sleeping_faces_name_75-1": "Recostada",
   "md_sleeping_faces_name_75-2": "Sólida",
+  "md_sleeping_faces_name_95-1": "Arremolinada",
+  "md_sleeping_faces_name_95-2": "Tambaleante",
   "md_sleeping_faces_name_23-1": "Enroscada",
   "md_sleeping_faces_name_23-2": "Muelle",
   "md_sleeping_faces_name_24-1": "Enroscada",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "En cascarón",
   "md_sleeping_faces_name_74-3": "Enterrada",
   "md_sleeping_faces_name_75-3": "Rodante",
+  "md_sleeping_faces_name_95-3": "Excavadora",
   "md_sleeping_faces_name_23-3": "Desenroscada",
   "md_sleeping_faces_name_24-3": "Desenroscada",
   "md_sleeping_faces_name_104-3": "Hueso-almohada",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "Sabia",
   "md_sleeping_faces_name_199-1": "Holgazán",
   "md_sleeping_faces_name_199-3": "Eureka",
+  "md_sleeping_faces_name_208-2": "Tambaleante",
+  "md_sleeping_faces_name_208-1": "Arremolinada",
+  "md_sleeping_faces_name_208-3": "Excavadora",
   "md_sleeping_faces_name_214-2": "De pie",
   "md_sleeping_faces_name_214-1": "Zarandeacuerno",
   "md_sleeping_faces_name_214-3": "Lamesavia",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "Boca abajo",
   "md_sleeping_faces_name_354-2": "Brazos colgantes",
   "md_sleeping_faces_name_354-1": "Tuercecuello",
-  "md_sleeping_faces_name_354-3": "Risotada"
+  "md_sleeping_faces_name_354-3": "Risotada",
+  "md_sleeping_faces_name_onSnorlax": "sobre la panza"
 }

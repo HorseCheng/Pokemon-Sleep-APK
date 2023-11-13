@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "Stile tenace",
   "md_sleeping_faces_name_75-1": "Stile inclinato",
   "md_sleeping_faces_name_75-2": "Stile vigoroso",
+  "md_sleeping_faces_name_95-1": "Stile a spirale",
+  "md_sleeping_faces_name_95-2": "Stile vacillante",
   "md_sleeping_faces_name_23-1": "Stile arrotolato",
   "md_sleeping_faces_name_23-2": "Stile a molla",
   "md_sleeping_faces_name_24-1": "Stile arrotolato",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "Stile chiusin chiusino",
   "md_sleeping_faces_name_74-3": "Stile interrato",
   "md_sleeping_faces_name_75-3": "Stile dondolante",
+  "md_sleeping_faces_name_95-3": "Stile scavatunnel",
   "md_sleeping_faces_name_23-3": "Stile srotolato",
   "md_sleeping_faces_name_24-3": "Stile srotolato",
   "md_sleeping_faces_name_104-3": "Stile ossocuscino",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "Stile saggio",
   "md_sleeping_faces_name_199-1": "Stile rilassato",
   "md_sleeping_faces_name_199-3": "Stile eureka",
+  "md_sleeping_faces_name_208-2": "Stile vacillante",
+  "md_sleeping_faces_name_208-1": "Stile a spirale",
+  "md_sleeping_faces_name_208-3": "Stile scavatunnel",
   "md_sleeping_faces_name_214-2": "Stile in piedi",
   "md_sleeping_faces_name_214-1": "Stile oscillacorno",
   "md_sleeping_faces_name_214-3": "Stile leccalinfa",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "Stile volo sottosopra",
   "md_sleeping_faces_name_354-2": "Stile braccia penzoloni",
   "md_sleeping_faces_name_354-1": "Stile torcicollo",
-  "md_sleeping_faces_name_354-3": "Stile gran risata"
+  "md_sleeping_faces_name_354-3": "Stile gran risata",
+  "md_sleeping_faces_name_onSnorlax": "Stile sopralapancia"
 }

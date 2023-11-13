@@ -12,5 +12,7 @@
   "CommomMultipleRewardsGetPopup_HeadTitle": "Premios",
   "CommomMultipleRewardsGetPopup_SectionTitle": "Premios recibidos",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촁 ×\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
-  "CommonIncenseDetailPopup_Title": "Efecto del objeto"
+  "CommonIncenseDetailPopup_Title": "Efecto del objeto",
+  "CommonGroup_UnknownError_Title": "Error no identificado",
+  "CommonGroup_UnknownError_Message": "Se ha producido un error no\nidentificado. Reinicia la aplicación."
 }

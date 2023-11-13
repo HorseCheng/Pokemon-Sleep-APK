@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "Geduldspose",
   "md_sleeping_faces_name_75-1": "Faulenzpose",
   "md_sleeping_faces_name_75-2": "Innigpose",
+  "md_sleeping_faces_name_95-1": "Spiralpose",
+  "md_sleeping_faces_name_95-2": "Taumelpose",
   "md_sleeping_faces_name_23-1": "Einrollpose",
   "md_sleeping_faces_name_23-2": "Sprungfederpose",
   "md_sleeping_faces_name_24-1": "Einrollpose",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "Schalenpose",
   "md_sleeping_faces_name_74-3": "Kuhlenpose",
   "md_sleeping_faces_name_75-3": "Rollpose",
+  "md_sleeping_faces_name_95-3": "Tunnelpose",
   "md_sleeping_faces_name_23-3": "Entrollpose",
   "md_sleeping_faces_name_24-3": "Entrollpose",
   "md_sleeping_faces_name_104-3": "Knochenkissen-\npose",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "Weisheitspose",
   "md_sleeping_faces_name_199-1": "Fläzpose",
   "md_sleeping_faces_name_199-3": "Geistesblitzpose",
+  "md_sleeping_faces_name_208-2": "Taumelpose",
+  "md_sleeping_faces_name_208-1": "Spiralpose",
+  "md_sleeping_faces_name_208-3": "Tunnelpose",
   "md_sleeping_faces_name_214-2": "Aufrechtpose",
   "md_sleeping_faces_name_214-1": "Hornschüttelpose",
   "md_sleeping_faces_name_214-3": "Harznaschpose",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "Kopfüberpose",
   "md_sleeping_faces_name_354-2": "Armschwingpose",
   "md_sleeping_faces_name_354-1": "Nackendrehpose",
-  "md_sleeping_faces_name_354-3": "Große Lachpose"
+  "md_sleeping_faces_name_354-3": "Große Lachpose",
+  "md_sleeping_faces_name_onSnorlax": "Bauchkissenpose"
 }

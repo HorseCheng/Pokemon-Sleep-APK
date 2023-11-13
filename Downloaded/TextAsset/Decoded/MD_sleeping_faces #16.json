@@ -49,6 +49,8 @@
   "md_sleeping_faces_name_74-2": "Dodo Patient",
   "md_sleeping_faces_name_75-1": "Dodo Avachi",
   "md_sleeping_faces_name_75-2": "Dodo Enjoué",
+  "md_sleeping_faces_name_95-1": "Dodo en Spirale",
+  "md_sleeping_faces_name_95-2": "Dodo Titubant",
   "md_sleeping_faces_name_23-1": "Dodo Enroulé",
   "md_sleeping_faces_name_23-2": "Dodo Ressort",
   "md_sleeping_faces_name_24-1": "Dodo Enroulé",
@@ -142,6 +144,7 @@
   "md_sleeping_faces_name_175-3": "Dodo sous Coquille",
   "md_sleeping_faces_name_74-3": "Dodo Enterré",
   "md_sleeping_faces_name_75-3": "Dodo Roulé-Boulé",
+  "md_sleeping_faces_name_95-3": "Dodo\nCreuse-Tunnel",
   "md_sleeping_faces_name_23-3": "Dodo Déroulé",
   "md_sleeping_faces_name_24-3": "Dodo Déroulé",
   "md_sleeping_faces_name_104-3": "Dodo Os Oreiller",
@@ -266,6 +269,9 @@
   "md_sleeping_faces_name_199-2": "Dodo Grand Sage",
   "md_sleeping_faces_name_199-1": "Dodo Paresseux",
   "md_sleeping_faces_name_199-3": "Dodo Eurêka",
+  "md_sleeping_faces_name_208-2": "Dodo Titubant",
+  "md_sleeping_faces_name_208-1": "Dodo en Spirale",
+  "md_sleeping_faces_name_208-3": "Dodo\nCreuse-Tunnel",
   "md_sleeping_faces_name_214-2": "Dodo Debout",
   "md_sleeping_faces_name_214-1": "Dodo Remue-Corne",
   "md_sleeping_faces_name_214-3": "Dodo Lèche-Sève",
@@ -346,5 +352,6 @@
   "md_sleeping_faces_name_353-3": "Dodo Renversant",
   "md_sleeping_faces_name_354-2": "Dodo Bras\nBallants",
   "md_sleeping_faces_name_354-1": "Dodo Tourne-Tête",
-  "md_sleeping_faces_name_354-3": "Dodo Fou Rire"
+  "md_sleeping_faces_name_354-3": "Dodo Fou Rire",
+  "md_sleeping_faces_name_onSnorlax": "Dodo sur Gros Bidou"
 }
