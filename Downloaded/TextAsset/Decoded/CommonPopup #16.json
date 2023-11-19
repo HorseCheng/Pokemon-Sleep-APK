@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Please Delete Your App",
   "CommonPopup_ObtEnd_Message": "Thank you very much for participating\nin the open beta test.\nYour play data from the beta cannot\nbe used in the official release, so we\nask that you please delete the app.\n\nOnce it’s deleted, you can download\nthe app again from your app store\nand start the game fresh.",
   "CommonPopup_ObtFinishWaiting_Title": "Open Beta Finished",
-  "CommonPopup_ObtFinishWaiting_Message": "The beta testing period has ended.\nPlease use the official app\nonce it is released.\n\nThank you for participating\nin the open beta test."
+  "CommonPopup_ObtFinishWaiting_Message": "The beta testing period has ended.\nPlease use the official app\nonce it is released.\n\nThank you for participating\nin the open beta test.",
+  "CommonPopup_UnknownError_Title": "Unknown Error",
+  "CommonPopup_UnknownError_Message": "An unknown error occurred. Please\nrestart the app."
 }

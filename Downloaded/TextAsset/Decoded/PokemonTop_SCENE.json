@@ -3,5 +3,16 @@
   "PokemonTopScene_Content_Desc": "ポケモンの編成やボックスの管理ができます",
   "PokemonTopScene_Content_Name": "チーム編成",
   "PokemonTopScene_Content_Name_2": "ポケモンボックス",
-  "PokemonTopScene_Header_TitleText": "ポケモン"
+  "PokemonTopScene_Header_TitleText": "ポケモン",
+  "PokemonTopScene_EXPBonus_Button": "EXPボーナスゲージ",
+  "PokemonTopScene_EXPBonusPopup_Title": "ポケモンレベル上限ボーナス",
+  "PokemonTopScene_EXPBonusPopup_Content": "睡眠EXPボーナスゲージ",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "ばんのうアメSまであと",
+  "PokemonTopScene_EXPBonusPopup_Value_2": "EXP",
+  "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "チームのおてつだいポケモンのレベルが\n上限に達した場合、あふれた睡眠EXPは\nそのポケモンに入る代わりに\nボーナスゲージに加算されます\n",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "ボーナスゲージがMAXになるたびに\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002がもらえます",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "説明",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "あふれた睡眠EXPをためることで\nアイテムを獲得できます",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "ポケモンレベル上限ボーナスで\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0001\u0002\u0002を獲得しました"
 }

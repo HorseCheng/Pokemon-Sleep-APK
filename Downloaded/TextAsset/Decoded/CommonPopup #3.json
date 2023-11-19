@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Desinstala la aplicación",
   "CommonPopup_ObtEnd_Message": "Gracias por participar en la prueba\npública de la versión beta. Tus datos\nde juego no se pueden utilizar en la\nversión completa, por lo que te\nrogamos que desinstales la aplicación.\n\nCuando la hayas desinstalado, podrás\ndescargar la versión completa desde\ntu tienda online y comenzar de cero.",
   "CommonPopup_ObtFinishWaiting_Title": "Fin de la prueba pública de la versión beta",
-  "CommonPopup_ObtFinishWaiting_Message": "El período de prueba pública de la\nversión beta ha finalizado. Disfruta\nde la versión oficial de la aplicación\ntras su lanzamiento.\n\nGracias por participar en la prueba\npública de la versión beta."
+  "CommonPopup_ObtFinishWaiting_Message": "El período de prueba pública de la\nversión beta ha finalizado. Disfruta\nde la versión oficial de la aplicación\ntras su lanzamiento.\n\nGracias por participar en la prueba\npública de la versión beta.",
+  "CommonPopup_UnknownError_Title": "Error no identificado",
+  "CommonPopup_UnknownError_Message": "Reinicia la aplicación. Se ha producido\nun error no identificado."
 }

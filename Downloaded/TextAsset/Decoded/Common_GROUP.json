@@ -13,6 +13,8 @@
   "CommomMultipleRewardsGetPopup_SectionTitle": "수령한 보상",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
   "CommonIncenseDetailPopup_Title": "도구의 효과",
+  "CommonNoShowAgain_1": "앞으로 표시하지 않기",
+  "CommonNoShowAgain_2": "(기본 설정에서 변경할 수 있습니다)",
   "CommonGroup_UnknownError_Title": "원인 불명 에러",
   "CommonGroup_UnknownError_Message": "원인을 알 수 없는 에러가 발생했습니다\n앱을 재기동해 주십시오"
 }

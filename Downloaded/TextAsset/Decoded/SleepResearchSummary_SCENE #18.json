@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "Touchez la photo pour la changer.",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "Rang de recherche max. atteint !",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Vous avez atteint le rang de recherche\nle plus élevé ! De nouveaux rangs\nseront disponibles dans de futures\nmises à jour, alors restez à l'affût !"
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Vous avez atteint le rang de recherche\nle plus élevé ! De nouveaux rangs\nseront disponibles dans de futures\nmises à jour, alors restez à l'affût !",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "Bonus de rang de recherche max.",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "Vos points de recherche ont été\nconvertis en Fragments de Rêve car\nvous avez déjà atteint le rang de\nrecherche maximal."
 }

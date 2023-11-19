@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "사진을 탭해서 변경할 수 있습니다",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "리서치 랭크 MAX",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "리서치 랭크가 최대로 올랐습니다\n업데이트에서 리서치 랭크의 상한이\n개방될 때까지 기다려 주십시오"
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "리서치 랭크가 최대로 올랐습니다\n업데이트에서 리서치 랭크의 상한이\n개방될 때까지 기다려 주십시오",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "리서치 랭크 상한 보너스",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "리서치 랭크가 상한에 도달했으므로\n리서치 EXP는 자동으로\n꿈의조각으로 변환되었습니다"
 }

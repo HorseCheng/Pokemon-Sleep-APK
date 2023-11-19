@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "Tap photo to change",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "Maximum Research Rank Reached!",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "You’ve reached the highest research\nrank available! Please look forward\nto future updates that may unlock\nhigher ranks."
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "You’ve reached the highest research\nrank available! Please look forward\nto future updates that may unlock\nhigher ranks.",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "Max Research Rank Bonus",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "Because you have reached the max\nresearch rank, your research EXP has\nbeen automatically converted into\nDream Shards."
 }

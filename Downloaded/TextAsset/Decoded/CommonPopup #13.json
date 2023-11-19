@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "請刪除應用程式",
   "CommonPopup_ObtEnd_Message": "感謝您參加β測試。\nβ測試的遊玩資料無法在正式版使用，\n所以請刪除應用程式，再從商店\n重新下載應用程式開始遊戲。",
   "CommonPopup_ObtFinishWaiting_Title": "Beta版測試已結束",
-  "CommonPopup_ObtFinishWaiting_Message": "Beta測試期間已結束。\n敬請稍後正式上線。\n\n感謝您對Beta測試的協助。"
+  "CommonPopup_ObtFinishWaiting_Message": "Beta測試期間已結束。\n敬請稍後正式上線。\n\n感謝您對Beta測試的協助。",
+  "CommonPopup_UnknownError_Title": "原因不明的錯誤",
+  "CommonPopup_UnknownError_Message": "發生了原因不明的錯誤。\n請重新啟動應用程式。"
 }

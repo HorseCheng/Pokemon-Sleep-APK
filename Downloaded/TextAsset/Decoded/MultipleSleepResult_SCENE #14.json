@@ -49,5 +49,6 @@
   "MultipleSleepResultScene_Top_DayCountUnit_multiple": "Sesiones",
   "MutipleSleepResultExpireDataCell_Desc_NoResearch": "No se ha podido acceder al estos datos\nporque su puntuación es de cero.",
   "MutipleSleepResultScene_SleepingFaceName": "\u000e\u0003\r\u0002\u0000",
-  "MutipleSleepResultScene_EventName_Halloween": "Halloween"
+  "MutipleSleepResultScene_EventName_Halloween": "Halloween",
+  "MutipleSleepResultScene_EventName_EeveeWeek": "Semana de Eevee"
 }

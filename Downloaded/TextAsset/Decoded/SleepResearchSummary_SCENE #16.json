@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "Tocca la foto per cambiarla",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "Raggiunto grado ricerca massimo!",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Hai raggiunto il grado ricerca più\nalto possibile! Attendi aggiornamenti\nfuturi che potrebbero sbloccare gradi\nancora più alti."
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Hai raggiunto il grado ricerca più\nalto possibile! Attendi aggiornamenti\nfuturi che potrebbero sbloccare gradi\nancora più alti.",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "Bonus grado ricerca massimo",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "I PE ricerca sono stati convertiti\nautomaticamente in frammenti\ndi sogno perché hai raggiunto\nil grado ricerca massimo."
 }

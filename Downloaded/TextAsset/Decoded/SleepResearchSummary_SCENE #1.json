@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "写真をタップで変更できます",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "リサーチランクMAX",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "リサーチランクが最大まで上がりました\nアップデートでリサーチランクの上限が\n解放されるまでお待ち下さい"
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "リサーチランクが最大まで上がりました\nアップデートでリサーチランクの上限が\n解放されるまでお待ち下さい",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "リサーチランク上限ボーナス",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "リサーチランクが上限に達しているので\nリサーチEXPはゆめのかけらに\n自動変換されました"
 }

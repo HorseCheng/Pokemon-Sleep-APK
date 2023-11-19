@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "앱을 삭제해 주십시오",
   "CommonPopup_ObtEnd_Message": "베타 테스트에 협력해 주셔서 감사합니다\n베타 테스트의 플레이 데이터는\n정식 서비스 버전에서는 이용할 수 없으므로\n앱을 삭제하여 주시기 바랍니다\n\n그 후 스토어에서 다시 앱을\n다운로드하여 게임을 시작해 주십시오",
   "CommonPopup_ObtFinishWaiting_Title": "오픈 베타 기간 종료",
-  "CommonPopup_ObtFinishWaiting_Message": "오픈 베타 기간은 종료되었습니다\n정식 서비스까지 기다려 주십시오\n\n베타 테스트에 협력해 주셔서 감사합니다"
+  "CommonPopup_ObtFinishWaiting_Message": "오픈 베타 기간은 종료되었습니다\n정식 서비스까지 기다려 주십시오\n\n베타 테스트에 협력해 주셔서 감사합니다",
+  "CommonPopup_UnknownError_Title": "원인 불명 에러",
+  "CommonPopup_UnknownError_Message": "원인을 알 수 없는 에러가 발생했습니다\n앱을 재기동해 주십시오"
 }

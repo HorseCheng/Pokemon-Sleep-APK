@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Deine App entfernen",
   "CommonPopup_ObtEnd_Message": "Vielen Dank, dass du am öffentlichen\nBetatest teilgenommen hast.\nDie Spieldaten der Betaversion können\nnicht in der offiziellen Version\nverwendet werden, also bitten wir\ndich, die App zu entfernen.\n\nSobald du sie entfernt hast, kannst\ndu die App erneut im Store deines\nGeräts herunterladen und ein neues\nSpiel beginnen.",
   "CommonPopup_ObtFinishWaiting_Title": "Öffentlicher Betatest beendet",
-  "CommonPopup_ObtFinishWaiting_Message": "Der Zeitraum des Betatests ist vorbei.\nBitte nutze die offizielle Version der\nApp, sobald sie veröffentlicht wird.\n\nVielen Dank, dass du am öffentlichen\nBetatest teilgenommen hast."
+  "CommonPopup_ObtFinishWaiting_Message": "Der Zeitraum des Betatests ist vorbei.\nBitte nutze die offizielle Version der\nApp, sobald sie veröffentlicht wird.\n\nVielen Dank, dass du am öffentlichen\nBetatest teilgenommen hast.",
+  "CommonPopup_UnknownError_Title": "Unbekannter Fehler",
+  "CommonPopup_UnknownError_Message": "Es ist ein unbekannter Fehler\naufgetreten. Bitte starte die App neu."
 }

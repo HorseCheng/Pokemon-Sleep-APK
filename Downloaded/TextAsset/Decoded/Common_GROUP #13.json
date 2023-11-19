@@ -13,6 +13,8 @@
   "CommomMultipleRewardsGetPopup_SectionTitle": "領取的報酬",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
   "CommonIncenseDetailPopup_Title": "道具的效果",
+  "CommonNoShowAgain_1": "今後不再顯示",
+  "CommonNoShowAgain_2": "（可從基本設定變更）",
   "CommonGroup_UnknownError_Title": "原因不明的錯誤",
   "CommonGroup_UnknownError_Message": "發生了原因不明的錯誤。\n請重新啟動應用程式。"
 }

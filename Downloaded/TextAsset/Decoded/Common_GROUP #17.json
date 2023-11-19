@@ -13,6 +13,8 @@
   "CommomMultipleRewardsGetPopup_SectionTitle": "Ricompense ricevute",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
   "CommonIncenseDetailPopup_Title": "Effetto dello strumento",
+  "CommonNoShowAgain_1": "Non mostrare più.",
+  "CommonNoShowAgain_2": "(Potrai cambiare da \"Impostazioni generali\".)",
   "CommonGroup_UnknownError_Title": "Errore sconosciuto",
   "CommonGroup_UnknownError_Message": "Si è verificato un errore sconosciuto.\nRiavvia l'applicazione."
 }

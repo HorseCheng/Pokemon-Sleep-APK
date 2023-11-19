@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "可透過點擊來變更照片",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "研究階級MAX",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "研究階級已達到最大。\n敬請期待日後更新，\n以開放研究階級上限。"
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "研究階級已達到最大。\n敬請期待日後更新，\n以開放研究階級上限。",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "研究階級已達上限的獎勵",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "由於研究階級已達上限，\n研究EXP已自動轉換成夢之碎片。"
 }

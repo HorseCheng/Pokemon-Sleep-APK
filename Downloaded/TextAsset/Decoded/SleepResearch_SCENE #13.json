@@ -85,5 +85,6 @@
   "SleepResearchScene_EventPopup_Title": "Event-Boni",
   "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿ＷEinige Pokémon haben eine größere Chance,\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗaufzutauchen.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_2": "\u000e\u0000\u0003\u0004毿ＷPokémon verschiedener Schlaftypen werden\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗauftauchen\u000e\u0000\u0003\u0004\u0000＀, unabhängig vom Schlaftyp des\nForschers an diesem Tag.",
-  "SleepResearchScene_EventPopup_Text_3": "Forscher erhalten \u000e\u0000\u0003\u0004毿Ｗmehr Bonbons\u000e\u0000\u0003\u0004\u0000＀ für die\nerste Schlafforschung des Tages"
+  "SleepResearchScene_EventPopup_Text_3": "Forscher erhalten \u000e\u0000\u0003\u0004毿Ｗmehr Bonbons\u000e\u0000\u0003\u0004\u0000＀ für die\nerste Schlafforschung des Tages",
+  "SleepResearchScene_EventPopup_Text_4": "\u000e\u0000\u0003\u0004毿ＷVielleicht triffst du ja auf ein Schillerndes\n\u000e\u0003\u0001\u0002\u0000.\u000e\u0000\u0003\u0004\u0000＀"
 }

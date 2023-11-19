@@ -13,6 +13,8 @@
   "CommomMultipleRewardsGetPopup_SectionTitle": "Erhaltene Belohnungen",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
   "CommonIncenseDetailPopup_Title": "Itemeffekte",
+  "CommonNoShowAgain_1": "Nicht erneut anzeigen.",
+  "CommonNoShowAgain_2": "(Kann in den Allgemeinen Einstellungen\ngeändert werden)",
   "CommonGroup_UnknownError_Title": "Unbekannter Fehler",
   "CommonGroup_UnknownError_Message": "Ein unbekannter Fehler ist\naufgetreten. Bitte starte die App neu."
 }

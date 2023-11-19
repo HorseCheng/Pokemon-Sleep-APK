@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "アプリを削除してください",
   "CommonPopup_ObtEnd_Message": "βテストのご協力ありがとうございました\nβテストのプレイデータは\n正式リリース版ではご利用になれませんので\nアプリの削除をお願いいたします\n\nその後、ストアから再度アプリを\nダウンロードしてゲームを始めてください",
   "CommonPopup_ObtFinishWaiting_Title": "オープンβ期間終了",
-  "CommonPopup_ObtFinishWaiting_Message": "オープンβ期間は終了しました\n正式リリースまでおまちください\n\nβテストのご協力ありがとうございました"
+  "CommonPopup_ObtFinishWaiting_Message": "オープンβ期間は終了しました\n正式リリースまでおまちください\n\nβテストのご協力ありがとうございました",
+  "CommonPopup_UnknownError_Title": "原因不明のエラー",
+  "CommonPopup_UnknownError_Message": "原因不明のエラーが発生しました\nアプリを再起動してください"
 }

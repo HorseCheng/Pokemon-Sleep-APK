@@ -85,5 +85,6 @@
   "SleepResearchScene_EventPopup_Title": "이벤트 보너스",
   "SleepResearchScene_EventPopup_Text_1": "\u000e\u0000\u0003\u0004毿Ｗ특정 포켓몬의 출현 확률 UP\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_2": "그날 리서처의 수면 타입에 상관없이\n\u000e\u0000\u0003\u0004毿Ｗ다른 수면 타입의 포켓몬도 출현\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_EventPopup_Text_3": "첫 번째 수면 리서치에서 \u000e\u0000\u0003\u0004毿Ｗ사탕 획득량 UP\u000e\u0000\u0003\u0004\u0000＀"
+  "SleepResearchScene_EventPopup_Text_3": "첫 번째 수면 리서치에서 \u000e\u0000\u0003\u0004毿Ｗ사탕 획득량 UP\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepResearchScene_EventPopup_Text_4": "\u000e\u0000\u0003\u0004毿Ｗ운이 좋으면 색이 다른 \u000e\u0003\u0001\u0002\u0000\u000e\b\u0000\u0002촄 만날 수 있다\u000e\u0000\u0003\u0004\u0000＀"
 }

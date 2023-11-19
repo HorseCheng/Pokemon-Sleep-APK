@@ -3,5 +3,16 @@
   "PokemonTopScene_Content_Desc": "Choisissez les Pokémon pour vos recherches et organisez vos Boîtes Pokémon.",
   "PokemonTopScene_Content_Name": "Formation",
   "PokemonTopScene_Content_Name_2": "Boîte Pokémon",
-  "PokemonTopScene_Header_TitleText": "Pokémon"
+  "PokemonTopScene_Header_TitleText": "Pokémon",
+  "PokemonTopScene_EXPBonus_Button": "Jauge bonus d'exp.",
+  "PokemonTopScene_EXPBonusPopup_Title": "Bonus de niveau max.",
+  "PokemonTopScene_EXPBonusPopup_Content": "Jauge de Bonus Dodo",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "Bonbon Toubon dans :",
+  "PokemonTopScene_EXPBonusPopup_Value_2": "EXP",
+  "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "Si un Pokémon de soutien a déjà atteint le\nniveau maximal, tout Bonus Dodo\nexcédentaire sera ajouté à la jauge\nplutôt qu'au Pokémon.",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "À chaque fois que la jauge est remplie, vous\nobtenez \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002.",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Détails",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "Vous pouvez obtenir des objets en accumulant\ndu Bonus Dodo excédentaire.",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "Bonus de niveau max. obtenu :\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002."
 }

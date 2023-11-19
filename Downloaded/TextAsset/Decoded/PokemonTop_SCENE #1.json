@@ -3,5 +3,16 @@
   "PokemonTopScene_Content_Desc": "Selecciona Pokémon ayudantes para tu grupo de\nestudio y organiza tu Caja de Pokémon.",
   "PokemonTopScene_Content_Name": "Organizar grupos",
   "PokemonTopScene_Content_Name_2": "Caja de Pokémon",
-  "PokemonTopScene_Header_TitleText": "Pokémon"
+  "PokemonTopScene_Header_TitleText": "Pokémon",
+  "PokemonTopScene_EXPBonus_Button": "Barra bonus EXP",
+  "PokemonTopScene_EXPBonusPopup_Title": "Premio por Pokémon al nivel máximo",
+  "PokemonTopScene_EXPBonusPopup_Content": "Barra bonus EXP al dormir",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "Siguiente Multimelo S:",
+  "PokemonTopScene_EXPBonusPopup_Value_2": "EXP",
+  "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "Cuando un Pokémon ayudante alcance su\nnivel máximo, los puntos de EXP al dormir\nque gane se añadirán a la barra bonus en\nlugar de a la suya.",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "Una vez llena la barra bonus, recibirás\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002.",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Detalles",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "Podrás obtener objetos si sigues acumulando\nEXP al dormir.",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "¡Tu Pokémon ha alcanzado el nivel máximo!\nTe llevas \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
 }

@@ -13,6 +13,8 @@
   "CommomMultipleRewardsGetPopup_SectionTitle": "Récompenses reçues",
   "CommomMultipleRewardsGetPopup_CellTitle": "\u000e\u0003\u0003\u0004Ā촀 × \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0003\u0004\u0002촁\u000e\u0000\u0003\u0004\u0000＀",
   "CommonIncenseDetailPopup_Title": "Effet de l'objet",
+  "CommonNoShowAgain_1": "Ne plus afficher ceci.",
+  "CommonNoShowAgain_2": "(Peut être modifié dans les paramètres.)",
   "CommonGroup_UnknownError_Title": "Erreur inconnue",
   "CommonGroup_UnknownError_Message": "Une erreur inconnue s'est produite.\nVeuillez redémarrer l'application."
 }

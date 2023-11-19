@@ -3,5 +3,16 @@
   "PokemonTopScene_Content_Desc": "Choose Pokémon for your helper teams\nand organize your Pokémon Box.",
   "PokemonTopScene_Content_Name": "Edit Teams",
   "PokemonTopScene_Content_Name_2": "Pokémon Box",
-  "PokemonTopScene_Header_TitleText": "Pokémon"
+  "PokemonTopScene_Header_TitleText": "Pokémon",
+  "PokemonTopScene_EXPBonus_Button": "EXP Bonus Gauge",
+  "PokemonTopScene_EXPBonusPopup_Title": "Pokémon Max Level Bonus",
+  "PokemonTopScene_EXPBonusPopup_Content": "Sleep EXP Bonus Gauge",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "until Handy Candy S",
+  "PokemonTopScene_EXPBonusPopup_Value_2": "EXP",
+  "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "If a helper Pokémon has reached its max\nlevel, any extra Sleep EXP will be added to\nthe Bonus Gauge instead of to\nthe Pokémon.",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "Each time the gauge fills up, you will get\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002.",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Details",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "You can get items by saving up extra Sleep EXP.",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "You got a Pokémon\nMax Level Bonus of\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002."
 }

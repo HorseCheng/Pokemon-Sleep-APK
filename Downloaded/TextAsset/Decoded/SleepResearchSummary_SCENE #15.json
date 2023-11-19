@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "Toca la foto para cambiarla",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "Máximo rango de estudio",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "¡Has alcanzado el máximo rango de\nestudio disponible! Pero no dejes de\ndisfrutar de la aplicación. Es posible\nque se añadan nuevos rangos en\nfuturas actualizaciones."
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "¡Has alcanzado el máximo rango de\nestudio disponible! Pero no dejes de\ndisfrutar de la aplicación. Es posible\nque se añadan nuevos rangos en\nfuturas actualizaciones.",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "Bonus por máximo rango de estudio",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "Has alcanzado el máximo rango de\nestudio, por lo que tu EXP de estudio\nse ha convertido automáticamente a\nfragmentos de sueños."
 }

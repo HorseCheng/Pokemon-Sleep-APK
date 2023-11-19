@@ -39,5 +39,7 @@
   "TodayPhoto_ResearchDate": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
   "TodayPhoto_ChangePhotoDesc": "Tippe das Foto an, um es zu ändern.",
   "SleepResearchSummaryScene_ResearchRankMaxPopup_Title": "Höchster Forschungsrang erreicht",
-  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Du hast den höchsten verfügbaren\nForschungsrang erreicht! Freue dich\njetzt schon auf zukünftige Updates,\nbei denen vielleicht höhere Ränge \nfreigeschaltet werden!"
+  "SleepResearchSummaryScene_ResearchRankMaxPopup_Text": "Du hast den höchsten verfügbaren\nForschungsrang erreicht! Freue dich\njetzt schon auf zukünftige Updates,\nbei denen vielleicht höhere Ränge \nfreigeschaltet werden!",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Title": "Bonus für max. Forschungsrang",
+  "SleepResearchSummaryScene_ResearchRankMaxChangePopup_Text": "Du hast den höchsten Forschungsrang\nerreicht, deshalb wurden deine\nForschungspunkte automatisch in\nTraumsplitter umgewandelt."
 }
