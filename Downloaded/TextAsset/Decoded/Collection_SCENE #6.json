@@ -8,7 +8,7 @@
   "CollectionScene_Content_Button_Ingredient": "식재료",
   "CollectionScene_Content_Button_Dish": "요리",
   "CollectionScene_Content_Button_SleepTips": "수면 Tips",
-  "CollectionItemListScene_Content_SectionHeader_Title": "표시 순서: \u000e\u0003\u0006\u0002\u0000",
+  "CollectionItemListScene_Content_SectionHeader_Title": "표시순 - \u000e\u0003\u0006\u0002\u0000",
   "CollectionItemCell_Name_Locked": "???",
   "CollectionItemDetailPopup_Title": "상세",
   "CollectionItemDetailPopup_GetCount_Title": "획득 수",
@@ -18,8 +18,8 @@
   "CollectionSleepTipsCell_LockedView_Title": "???",
   "CollectionSleepTipsDetailPopup_Popup_Title_Number": "수면 Tips \u000e\u0002\u0002\u0002\u0000",
   "Collection_RegisterPopup_Title": "리서치 노트 등록",
-  "Collection_RegisterPopup_Dish_Desc": "\u000e\u0003\u0003\u0004Ā촀",
-  "Collection_RegisterPopup_Pickup_Desc": "\u000e\u0003\u0003\u0004Ā촀",
-  "Collection_RegisterPopup_Reward_Desc": "리서치 노트 등록 보너스로\n\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁개를 획득했습니다",
-  "CollectionItemDetailPopup_CookingCount_Title": "요리 횟수"
+  "Collection_RegisterPopup_Dish_Desc": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃\n리서치 노트에 등록되었습니다!",
+  "Collection_RegisterPopup_Pickup_Desc": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃\n리서치 노트에 등록되었습니다!",
+  "Collection_RegisterPopup_Reward_Desc": "리서치 노트 등록 보너스로\n\u000e\u0003\u0003\u0004Ā촀 \u000e\u0002\u0003\u0004\u0002촁개를 획득했습니다",
+  "CollectionItemDetailPopup_CookingCount_Title": "요리한 횟수"
 }

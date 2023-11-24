@@ -1,11 +1,11 @@
 {
-  "TutorialSetupSceneController_Text_2": "Ponle un mote a tu ayudante",
-  "TutorialSetupSceneController_Text_3": "Hora de dormir",
-  "TutorialSetupSceneController_Text_4": "Indica la hora de dormir",
-  "TutorialSetupSceneController_Text_5": "Todo listo",
-  "TutorialSetupSceneController_Text_8": "Con esto concluyen los preparativos para\nel estudio. Espero verte esta noche para\nempezar a recabar datos. ¡No te olvides!",
-  "TutorialSetupScene_NameChangeView_Desc": "Puedes cambiar el mote más adelante.",
-  "TutorialSetupScene_NameChangeView_OKButton": "Confirmar",
+  "TutorialSetupSceneController_Text_2": "Nickname Your Helper",
+  "TutorialSetupSceneController_Text_3": "Decide Your Bedtime",
+  "TutorialSetupSceneController_Text_4": "Set Your Target Bedtime",
+  "TutorialSetupSceneController_Text_5": "All Ready!",
+  "TutorialSetupSceneController_Text_8": "You're all set to start gathering\ndata for our research now, so come\nback when you're ready to sleep.\nDon't forget!",
+  "TutorialSetupScene_NameChangeView_Desc": "(You can always change nicknames later)",
+  "TutorialSetupScene_NameChangeView_OKButton": "Confirm",
   "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
-  "TutorialSetupScene_SleepTimeSetView_Desc": "Recibirás una notificación 30 minutos\nantes de la hora de dormir configurada.\nPuedes cambiar este ajuste cuando quieras."
+  "TutorialSetupScene_SleepTimeSetView_Desc": "You'll get a push notification 30 minutes\nbefore bedtime as a little reminder.\n(These settings can be changed)"
 }

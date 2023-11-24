@@ -1,10 +1,10 @@
 {
-  "SleepResearchSceneTutorialController_TapOtherPokemons": "Berühre die übrigen Pokémon, um\ndeine Schlafforschung\nabzuschließen!",
-  "SleepResearchSceneTutorialController_BaitBallGuide": "Gib \u000e\u0003\u0001\u0002\u0001 einen Bonuskeks!",
-  "SleepResearchSceneTutorialController_Text_1": "Wische über den Bildschirm, bis\ndu  \u000e\u0003\u0001\u0002\u0000 findest. Dann geht\nes mit der Schlafforschung los!",
-  "SleepResearchSceneTutorialController_MasterBaitBall_Guide": "Gib einem Pokémon einen\n\u000e\u0000\u0003\u0004毿ＷMeisterkeks\u000e\u0000\u0003\u0004\u0000＀!",
-  "SleepResearchSceneTutorialController_Text_13": "Erste Schritte",
-  "SleepResearchSceneTutorialController_Text_14": "Berühre zunächst \u000e\u0003\u0001\u0002\u0000!",
-  "SleepResearchSceneTutorialController_Text_20": "Pokékeks geben",
-  "SleepResearchSceneTutorialController_Text_21": "Berühre \u000e\u0003\u0001\u0002\u0000, um ihm einen\nPokékeks zu geben!"
+  "SleepResearchSceneTutorialController_TapOtherPokemons": "남은 포켓몬들을 탭해서\n수면 리서치를 완료하자!",
+  "SleepResearchSceneTutorialController_BaitBallGuide": "\u000e\u0003\u0001\u0002\u0001에게 보너스 사블레를\n\u000e\u0002\u0000\u0002촀개 더 선물하자",
+  "SleepResearchSceneTutorialController_Text_1": "화면을 스와이프해서\n\u000e\u0003\u0001\u0002\u0000\u000e\b\u0000\u0002촂 찾아 보자\n발견하면 탭해서 수면 리서치를 시작하자!",
+  "SleepResearchSceneTutorialController_MasterBaitBall_Guide": "포켓몬에게 \u000e\u0000\u0003\u0004毿Ｗ마스터 사블레\u000e\u0000\u0003\u0004\u0000＀를\n선물해 보자",
+  "SleepResearchSceneTutorialController_Text_13": "첫 번째 리서치",
+  "SleepResearchSceneTutorialController_Text_14": "우선 \u000e\u0003\u0001\u0002\u0000\u000e\b\u0000\u0002촂 탭해 보자!",
+  "SleepResearchSceneTutorialController_Text_20": "포켓사블레",
+  "SleepResearchSceneTutorialController_Text_21": "\u000e\u0003\u0001\u0002\u0000\u000e\b\u0000\u0002촂 탭해서\n포켓사블레를 선물해 보자!"
 }

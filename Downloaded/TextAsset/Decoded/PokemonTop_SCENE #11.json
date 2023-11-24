@@ -1,18 +1,18 @@
 {
   "PokemonTopScene_Content_Title": "Pokémon",
-  "PokemonTopScene_Content_Desc": "Scegli i Pokémon per le tue squadre di aiutanti e organizza il box.",
-  "PokemonTopScene_Content_Name": "Cambia squadra",
+  "PokemonTopScene_Content_Desc": "Scegli i Pokémon per le tue squadre di aiutanti\ne organizza il box.",
+  "PokemonTopScene_Content_Name": "Crea squadra\nPokémon assistenti",
   "PokemonTopScene_Content_Name_2": "Box Pokémon",
   "PokemonTopScene_Header_TitleText": "Pokémon",
   "PokemonTopScene_EXPBonus_Button": "Barra bonus PE",
   "PokemonTopScene_EXPBonusPopup_Title": "Bonus livello massimo Pokémon",
   "PokemonTopScene_EXPBonusPopup_Content": "Barra bonus PE sonno",
-  "PokemonTopScene_EXPBonusPopup_Value_1": "Jollymella S tra:",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "Jollymella S tra",
   "PokemonTopScene_EXPBonusPopup_Value_2": "PE",
   "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
-  "PokemonTopScene_EXPBonusPopup_Text_1": "Quando un Pokémon aiutante raggiunge\nil livello massimo, i PE sonno extra non\nvanno al Pokémon, ma vengono aggiunti\nalla barra bonus.",
-  "PokemonTopScene_EXPBonusPopup_Text_2": "Ricompensa ogni volta che riempi la barra:\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
-  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Info",
-  "PokemonTopScene_EXPBonusExplainPopup_Text": "Puoi ottenere degli strumenti\naccumulando i PE sonno in eccesso.",
-  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "Bonus per Pokémon al livello massimo!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
+  "PokemonTopScene_EXPBonusPopup_Text_1": "Se un Pokémon aiutante ha raggiunto\nil livello massimo, tutti i PE sonno in più\nsaranno aggiunti alla barra bonus\ninvece di andare al Pokémon.",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "Ogni volta che la barra si riempie, otterrai:\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Informazioni",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "Puoi ottenere degli strumenti accumulando\ni PE sonno in eccesso.",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "Bonus per il livello massimo dei Pokémon!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
 }

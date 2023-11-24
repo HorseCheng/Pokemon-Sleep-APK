@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "Nº Pokédex",
-  "PokemonBoxSortType_2": "Niveau",
-  "PokemonBoxSortType_3": "Nom",
-  "PokemonBoxSortType_4": "Date d'enregistrement",
-  "PokemonBoxSortType_5": "Énergie",
-  "PokemonBoxSortType_6": "Durée de sommeil",
-  "PokemonBoxSortType_7": "PS",
-  "PokemonBoxSortType_8": "Type de dodo"
+  "PokemonBoxSortType_1": "Pokédex no.",
+  "PokemonBoxSortType_2": "Level",
+  "PokemonBoxSortType_3": "Name",
+  "PokemonBoxSortType_4": "Date registered",
+  "PokemonBoxSortType_5": "Energy",
+  "PokemonBoxSortType_6": "Time slept",
+  "PokemonBoxSortType_7": "RP",
+  "PokemonBoxSortType_8": "Sleep type"
 }

@@ -1,11 +1,11 @@
 {
-  "TutorialSetupSceneController_Text_2": "Nickname Your Helper",
-  "TutorialSetupSceneController_Text_3": "Decide Your Bedtime",
-  "TutorialSetupSceneController_Text_4": "Set Your Target Bedtime",
-  "TutorialSetupSceneController_Text_5": "All Ready!",
-  "TutorialSetupSceneController_Text_8": "You're all set to start gathering\ndata for our research now, so come\nback when you're ready to sleep.\nDon't forget!",
-  "TutorialSetupScene_NameChangeView_Desc": "(You can always change nicknames later)",
-  "TutorialSetupScene_NameChangeView_OKButton": "Confirm",
+  "TutorialSetupSceneController_Text_2": "닉네임",
+  "TutorialSetupSceneController_Text_3": "잠자기 약속",
+  "TutorialSetupSceneController_Text_4": "취침 목표 시각 설정",
+  "TutorialSetupSceneController_Text_5": "준비 완료",
+  "TutorialSetupSceneController_Text_8": "이제 연구할 준비는 모두 끝났어\n그럼 오늘 밤에 다시\n연구하러 돌아와 주겠니?\n잊지 말렴!",
+  "TutorialSetupScene_NameChangeView_Desc": "※나중에 변경할 수 있습니다",
+  "TutorialSetupScene_NameChangeView_OKButton": "결정한다",
   "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
-  "TutorialSetupScene_SleepTimeSetView_Desc": "You'll get a push notification 30 minutes\nbefore bedtime as a little reminder.\n(These settings can be changed)"
+  "TutorialSetupScene_SleepTimeSetView_Desc": "목표 시각 30분 전에 푸시 알림을 보내 드립니다\n※나중에 설정을 변경할 수 있습니다"
 }

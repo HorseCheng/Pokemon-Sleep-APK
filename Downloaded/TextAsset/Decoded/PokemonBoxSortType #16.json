@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "図鑑番号",
-  "PokemonBoxSortType_2": "レベル",
-  "PokemonBoxSortType_3": "名前",
-  "PokemonBoxSortType_4": "登録日",
-  "PokemonBoxSortType_5": "げんき",
-  "PokemonBoxSortType_6": "睡眠時間",
-  "PokemonBoxSortType_7": "SP",
-  "PokemonBoxSortType_8": "睡眠タイプ"
+  "PokemonBoxSortType_1": "Nº Pokédex",
+  "PokemonBoxSortType_2": "Niveau",
+  "PokemonBoxSortType_3": "Nom",
+  "PokemonBoxSortType_4": "Date d'enregistrement",
+  "PokemonBoxSortType_5": "Énergie",
+  "PokemonBoxSortType_6": "Durée de sommeil",
+  "PokemonBoxSortType_7": "PS",
+  "PokemonBoxSortType_8": "Type de dodo"
 }

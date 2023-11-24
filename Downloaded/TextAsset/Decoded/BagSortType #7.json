@@ -1,6 +1,6 @@
 {
-  "BagSortType_1": "Normal",
-  "BagSortType_2": "Erhalten",
-  "BagSortType_3": "Anzahl",
-  "BagSortType_4": "Name"
+  "BagSortType_1": "預設",
+  "BagSortType_2": "獲得日期",
+  "BagSortType_3": "持有數",
+  "BagSortType_4": "名稱"
 }

@@ -1,11 +1,11 @@
 {
-  "TutorialSetupSceneController_Text_2": "Renommer votre Pokémon de soutien",
-  "TutorialSetupSceneController_Text_3": "Heure du dodo",
-  "TutorialSetupSceneController_Text_4": "Paramétrez l'heure du dodo souhaitée",
-  "TutorialSetupSceneController_Text_5": "Préparatifs terminés !",
-  "TutorialSetupSceneController_Text_8": "Tout est prêt pour commencer nos\nrecherches ! Retrouvons-nous donc quand\nl'heure de se coucher sera venue.\nN'oublie pas, hein ?",
-  "TutorialSetupScene_NameChangeView_Desc": "(Peut être changé ultérieurement.)",
-  "TutorialSetupScene_NameChangeView_OKButton": "Confirmer",
+  "TutorialSetupSceneController_Text_2": "Dai un soprannome al tuo aiutante",
+  "TutorialSetupSceneController_Text_3": "Decidi l'ora di dormire",
+  "TutorialSetupSceneController_Text_4": "Imposta l'ora di dormire ideale",
+  "TutorialSetupSceneController_Text_5": "Tutto pronto!",
+  "TutorialSetupSceneController_Text_8": "Siamo pronti per iniziare a raccogliere\ndati per la ricerca, quindi torna pure\nquando stai per andare a dormire.\nNon ti dimenticare, mi raccomando!",
+  "TutorialSetupScene_NameChangeView_Desc": "(Puoi sempre cambiare soprannome dopo)",
+  "TutorialSetupScene_NameChangeView_OKButton": "Conferma",
   "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
-  "TutorialSetupScene_SleepTimeSetView_Desc": "Une notification de rappel vous sera\nenvoyée 30 minutes avant l'heure du dodo.\n(Ce paramètre peut être modifié.)"
+  "TutorialSetupScene_SleepTimeSetView_Desc": "Una notifica push ti avviserà 30 minuti\nprima dell'ora di dormire.\n(Puoi cambiare queste impostazioni)"
 }

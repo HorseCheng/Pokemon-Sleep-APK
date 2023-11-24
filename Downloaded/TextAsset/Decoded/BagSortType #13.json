@@ -1,6 +1,6 @@
 {
-  "BagSortType_1": "デフォルト",
-  "BagSortType_2": "入手日",
-  "BagSortType_3": "所持数",
-  "BagSortType_4": "名前"
+  "BagSortType_1": "Default",
+  "BagSortType_2": "Date found",
+  "BagSortType_3": "No. held",
+  "BagSortType_4": "Name"
 }

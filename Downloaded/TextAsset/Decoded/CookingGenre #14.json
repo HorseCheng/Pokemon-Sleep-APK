@@ -1,8 +1,8 @@
 {
-  "CookingGenre_Name_1": "Curry/zuppe",
-  "CookingGenre_Name_2": "Insalate",
-  "CookingGenre_Name_3": "Dessert/bevande",
-  "CookingGenre_UnknownDishName_1": "Ricetta curry/zuppa",
-  "CookingGenre_UnknownDishName_2": "Ricetta insalata",
-  "CookingGenre_UnknownDishName_3": "Ricetta dessert/bevanda"
+  "CookingGenre_Name_1": "카레・스튜",
+  "CookingGenre_Name_2": "샐러드",
+  "CookingGenre_Name_3": "디저트・드링크",
+  "CookingGenre_UnknownDishName_1": "\u000e\u0002\u0002\u0002\u0000가지 식재료의 카레",
+  "CookingGenre_UnknownDishName_2": "\u000e\u0002\u0002\u0002\u0000가지 식재료의 샐러드",
+  "CookingGenre_UnknownDishName_3": "\u000e\u0002\u0002\u0002\u0000가지 식재료의 디저트"
 }

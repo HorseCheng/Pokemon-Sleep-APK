@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "N.º Pokédex",
-  "PokemonBoxSortType_2": "Nivel",
-  "PokemonBoxSortType_3": "Nombre",
-  "PokemonBoxSortType_4": "Fecha de registro",
-  "PokemonBoxSortType_5": "Energía",
-  "PokemonBoxSortType_6": "Horas de sueño",
-  "PokemonBoxSortType_7": "PA",
-  "PokemonBoxSortType_8": "Tipo de sueño"
+  "PokemonBoxSortType_1": "Nº Pokédex",
+  "PokemonBoxSortType_2": "Niveau",
+  "PokemonBoxSortType_3": "Nom",
+  "PokemonBoxSortType_4": "Date d'enregistrement",
+  "PokemonBoxSortType_5": "Énergie",
+  "PokemonBoxSortType_6": "Durée de sommeil",
+  "PokemonBoxSortType_7": "PS",
+  "PokemonBoxSortType_8": "PS"
 }

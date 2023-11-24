@@ -1,8 +1,8 @@
 {
-  "CookingGenre_Name_1": "Curries/Stews",
-  "CookingGenre_Name_2": "Salads",
-  "CookingGenre_Name_3": "Desserts/Drinks",
-  "CookingGenre_UnknownDishName_1": "Curry/stew recipe",
-  "CookingGenre_UnknownDishName_2": "Salad recipe",
-  "CookingGenre_UnknownDishName_3": "Dessert/drink recipe"
+  "CookingGenre_Name_1": "Curry/zuppe",
+  "CookingGenre_Name_2": "Insalate",
+  "CookingGenre_Name_3": "Dessert/bevande",
+  "CookingGenre_UnknownDishName_1": "Ricetta curry/zuppa",
+  "CookingGenre_UnknownDishName_2": "Ricetta insalata",
+  "CookingGenre_UnknownDishName_3": "Ricetta dessert/bevanda"
 }
