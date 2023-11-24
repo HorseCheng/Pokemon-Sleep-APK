@@ -65,7 +65,7 @@
   "BagScene_SleepResearchNoItemUsePopup_Title": "使用できません",
   "BagScene_SleepResearchNoItemUsePopup_Text": "おやつタイム中はこのどうぐを\n使用することができません",
   "BagScene_CandyMaxOverPopup_Title": "ポケモンのアメ上限",
-  "BagScene_CandyMaxOverPopup_Text": "ポケモンのアメは9999個までしか\n持つことができません9999個を\n超えた分のアメは破棄されます\n本当によろしいですか？",
+  "BagScene_CandyMaxOverPopup_Text": "ポケモンのアメは9999個までしか\n持つことができません\n9999個を超えた分のアメは破棄されます\n本当によろしいですか？",
   "BagSceneRareCandyUsePopup_Text_1": "使用",
   "BagSceneRareCandyUsePopup_Text_2": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\u0003\u0004\u0002촁を\n\u000e\u0003\u0003\u0004Ѓ촀 x\u000e\u0002\u0003\u0004\u0005촁 に変えました",
   "BagScene_Header_Title": "バッグ",
