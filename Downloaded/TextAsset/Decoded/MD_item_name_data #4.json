@@ -65,7 +65,7 @@
   "item_desc_30": "Curiosa piedra que hace evolucionar a\nuna determinada especie de Pokémon.\nTiene forma de huevo.",
   "item_desc_31": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Tiene forma de corona.",
   "item_desc_32": "Semilla misteriosa que sube un nivel la\nhabilidad principal de un Pokémon.",
-  "item_desc_33": "Semilla misteriosa que sube un nivel\nla calidad de una habilidad secundaria\nal azar de un Pokémon.",
+  "item_desc_33": "Semilla misteriosa que mejora en un\nnivel una habilidad secundaria al azar\nde un Pokémon.\nNo se puede usar si el Pokémon tiene\ntodas sus habilidades secundarias\ndesbloqueadas al máximo nivel, o si la\nhabilidad ya no se puede mejorar más.",
   "item_desc_34": "Incienso que asegura que al menos un\nPokémon particularmente hambriento\naparezca a la hora del picoteo.\nSe consume al usarlo.",
   "item_desc_short_1": "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del\nsueño. Se consume al usarlo.",
   "item_desc_short_2": "Duplica la cantidad de fragmentos\nde sueños obtenidos tras una sesión\nde estudio. Se consume al usarlo.",

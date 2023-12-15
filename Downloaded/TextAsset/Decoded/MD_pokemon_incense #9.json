@@ -113,8 +113,12 @@
   "md_pokemon_incense_name_173": "Cleffa Incense",
   "md_pokemon_incense_name_35": "Clefairy Incense",
   "md_pokemon_incense_name_36": "Clefable Incense",
+  "md_pokemon_incense_name_225": "Delibird Incense",
+  "md_pokemon_incense_name_459": "Snover Incense",
+  "md_pokemon_incense_name_460": "Abomasnow Incense",
   "md_pokemon_incense_name_353": "Shuppet Incense",
   "md_pokemon_incense_name_354": "Banette Incense",
   "md_pokemon_incense_desc_1": "An incense adored by \u000e\u0003\u0001\u0002\u0000.\nIt should be used before sleeping.",
-  "md_pokemon_incense_name_9001": "Pikachu (Halloween) Incense"
+  "md_pokemon_incense_name_9001": "Pikachu (Halloween) Incense",
+  "md_pokemon_incense_name_9002": "Pikachu (Holiday) Incense"
 }

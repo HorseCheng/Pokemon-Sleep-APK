@@ -7,6 +7,7 @@
   "MapDetailPopup_SleepType": "\u000e\u0003\u0004\u0002\u0000 타입",
   "MapDetailPopup_SleepTypeCount": "\u000e\u0002\u0005\u0004\u0000촁/\u000e\u0002\u0005\u0004\u0001촁",
   "MapDetailPopup_PokemonNumber": "No.\u000e\u0002\u0003\u0004Ā촁",
+  "MapDetailPopup_PokemonNumber_Secret": "No.???",
   "MapDetailPopup_PokemonUnknown": "???",
   "MapDetailPopup_PokemonCount": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "MapBonusPopup_Title": "이번 주 필드 보너스",
@@ -18,9 +19,12 @@
   "MapScene_Info_InfoMessage": "이번 주의 필드를 선택하자",
   "MapScene_EventOpen_Text": "이벤트 개최 중",
   "MapScene_EventEffectPopup_Title": "핼러윈 이벤트의 효과가 적용되지 않습니다",
+  "MapScene_EventEffectPopup_Title_2": "홀리데이 이벤트의 효과가 적용되지 않습니다",
   "MapScene_EventEffectPopup_Text": "이 필드에서는\n핼러윈 이벤트의 효과가\n적용되지 않습니다",
+  "MapScene_EventEffectPopup_Text_2": "이 필드에서는\n홀리데이 이벤트의 효과가\n적용되지 않습니다",
   "MapDetailConfirmPopup_Desc": "이곳으로 이동해서 한 주를 보냅니다\n계속하겠습니까?",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿Ｗ※이 필드에서는\n핼러윈 이벤트의 효과가 적용되지 않습니다\u000e\u0000\u0003\u0004\u0000＀",
+  "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿Ｗ※이 필드에서는\n홀리데이 이벤트의 효과가 적용되지 않습니다\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailPopup_Title": "\u000e\u0003\u0003\u0004Ā촀",
   "MapObject_Name": "No.\u000e\u0002\u0001\u0002\u0000 \u000e\u0003\u0003\u0004ȁ촀",
   "MapDetailPopup_InfoToggleButton": "리서치 정보",
@@ -39,5 +43,8 @@
   "MapObject_FieldBonus": "필드 보너스",
   "MapObject_FieldBonus_Per": "+\u000e\u0002\u0003\u0004\u0000촁%",
   "MapScene_DataDownload_Series_Title": "데이터 다운로드 확인",
-  "MapScene_DataDownload_Series_Text": "새로운 필드의 사운드 데이터를 다운로드합니다.\n계속하겠습니까?\n(\u000e\u0002\t\u0004\u0000촁MB)"
+  "MapScene_DataDownload_Series_Text": "새로운 필드의 사운드 데이터를 다운로드합니다.\n계속하겠습니까?\n(\u000e\u0002\t\u0004\u0000촁MB)",
+  "MapScene_FieldMovePopup_Title": "도구를 사용한다",
+  "MapScene_FieldMovePopup_Text_1": "필드 이동 티켓을 1장 사용하여\n필드를 이동할 수 있습니다",
+  "MapScene_FieldMovePopup_Text_2": "※이동하면 현시점에서의 잠만보 평가와\n일부 미션의 보상이 리셋됩니다"
 }

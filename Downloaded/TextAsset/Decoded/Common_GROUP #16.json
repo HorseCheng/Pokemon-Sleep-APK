@@ -1,13 +1,13 @@
 {
-  "ResearchRankupCutin_Title": "Nuovo grado ricerca!",
+  "ResearchRankupCutin_Title": "Rango ricerca aumentato!",
   "ResearchRankupCutin_Desc": "Hai ottenuto delle ricompense\nper l'aumento di grado!",
   "ResearchRankupCutin_SectionTitle": "Ricompense ricevute",
   "CommonRenamePopup_Title": "Modifica nome utente",
   "CommonRenamePopup_Placeholder": "Inserisci un nome utente",
   "CommonRenamePopup_PlaceholderPoke": "Inserisci un soprannome",
-  "CommonRenamePopup_PlaceholderPokeTeam": "Inserisci il nome della squadra",
+  "CommonRenamePopup_PlaceholderPokeTeam": "Inserisci il nome del team",
   "CommonRenamePopup_OKButton": "Modifica",
-  "CommonRewardGetPopup_Title": "Ricevuti strumenti",
+  "CommonRewardGetPopup_Title": "Strumenti ricevuti",
   "CommonRewardGetPopup_Desc": "Hai ricevuto \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁!",
   "CommomMultipleRewardsGetPopup_HeadTitle": "Ricompense",
   "CommomMultipleRewardsGetPopup_SectionTitle": "Ricompense ricevute",
@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "Non mostrare più.",
   "CommonNoShowAgain_2": "(Potrai cambiare da \"Impostazioni generali\".)",
   "CommonGroup_UnknownError_Title": "Errore sconosciuto",
-  "CommonGroup_UnknownError_Message": "Si è verificato un errore sconosciuto.\nRiavvia l'applicazione."
+  "CommonGroup_UnknownError_Message": "Si è verificato un errore sconosciuto.\nRiavvia l'applicazione.",
+  "CommonGroup_TimeZoneCautionPopup_Title": "Rilevato cambio fuso orario",
+  "CommonGroup_TimeZoneCautionPopup_Text": "Sembra che le impostazioni di fuso\norario del tuo dispositivo siano state\ncambiate molto di frequente.\nFai attenzione perché questa azione\npotrebbe danneggiare i dati di gioco.",
+  "CommonGroup_TimeManipulationPopup_Title": "Rilevato cambio orario dispositivo",
+  "CommonGroup_TimeManipulationPopup_Text": "Dall'ultima volta che hai giocato\nè stato rilevato un cambio nell'ora\ndel tuo dispositivo. Fai attenzione\nperché, se le impostazioni dell'ora\nvengono cambiate troppo spesso,\nl'esperienza di gioco potrebbe\npeggiorare."
 }

@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "※追加した食材によって作る料理が\n変わることはありません",
   "FillIngredientPopup_AddButton": "追加する",
   "FillIngredientPopup_CancelButton": "追加しない",
+  "FillIngredientPopup_AddButton_2": "食材を追加する",
+  "FillIngredientPopup_NoAddButton_2": "食材を追加しない",
   "AutomaticConfirmPopup_Title": "おまかせ料理",
   "AutomaticConfirmPopup_Desc": "食材をランダムに\u000e\u0002\u0002\u0002\u0000個使って\n料理を作ります\nよろしいですか？",
   "RecipeLevelPpopup_Title": "レシピレベル",

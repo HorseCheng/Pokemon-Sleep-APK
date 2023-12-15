@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "※식재료를 추가해도 완성되는 요리는\n달라지지 않습니다",
   "FillIngredientPopup_AddButton": "추가한다",
   "FillIngredientPopup_CancelButton": "추가하지 않는다",
+  "FillIngredientPopup_AddButton_2": "식재료를 추가한다",
+  "FillIngredientPopup_NoAddButton_2": "식재료를 추가하지 않는다",
   "AutomaticConfirmPopup_Title": "자동 요리",
   "AutomaticConfirmPopup_Desc": "식재료를 랜덤으로 \u000e\u0002\u0002\u0002\u0000개 사용해서\n요리를 만듭니다\n계속하겠습니까?",
   "RecipeLevelPpopup_Title": "레시피 레벨",

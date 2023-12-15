@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "今後は表示しない",
   "CommonNoShowAgain_2": "(基本設定から変更できます)",
   "CommonGroup_UnknownError_Title": "原因不明のエラー",
-  "CommonGroup_UnknownError_Message": "原因不明のエラーが発生しました\nアプリを再起動してください"
+  "CommonGroup_UnknownError_Message": "原因不明のエラーが発生しました\nアプリを再起動してください",
+  "CommonGroup_TimeZoneCautionPopup_Title": "タイムゾーン変更を検知しました",
+  "CommonGroup_TimeZoneCautionPopup_Text": "端末のタイムゾーン設定が高頻度で\n変更されているようです\nゲームデータの破損につながる\nおそれがありますのでご注意ください",
+  "CommonGroup_TimeManipulationPopup_Title": "端末の時刻設定に変更があります",
+  "CommonGroup_TimeManipulationPopup_Text": "前回のプレイ時から端末の時刻設定が\n変更されていることを検知しました\n端末の時刻設定が頻繁に変わると、\nプレイに支障をきたす恐れがあるため\nご注意ください"
 }

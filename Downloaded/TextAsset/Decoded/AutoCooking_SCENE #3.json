@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "(Any ingredients that are added in this\nway won't change the final dish)",
   "FillIngredientPopup_AddButton": "Add More",
   "FillIngredientPopup_CancelButton": "No Thanks",
+  "FillIngredientPopup_AddButton_2": "Add More Ingredients",
+  "FillIngredientPopup_NoAddButton_2": "Don’t Add More",
   "AutomaticConfirmPopup_Title": "Auto Cook",
   "AutomaticConfirmPopup_Desc": "Want to toss \u000e\u0002\u0002\u0002\u0000 random \u000e\u0001\u00000\u0014ingredient\u0016ingredients촀\ntogether and see what comes out?",
   "RecipeLevelPpopup_Title": "Recipe Level",

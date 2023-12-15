@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "Ne plus afficher ceci.",
   "CommonNoShowAgain_2": "(Peut être modifié plus tard.)",
   "CommonGroup_UnknownError_Title": "Erreur inconnue",
-  "CommonGroup_UnknownError_Message": "Une erreur inconnue s'est produite.\nVeuillez redémarrer l'application."
+  "CommonGroup_UnknownError_Message": "Une erreur inconnue s'est produite.\nVeuillez redémarrer l'application.",
+  "CommonGroup_TimeZoneCautionPopup_Title": "Fuseau horaire modifié",
+  "CommonGroup_TimeZoneCautionPopup_Text": "Attention, veillez à ne pas changer\ntrop fréquemment les paramètres de\nfuseau horaire de votre appareil, car\nvos données de jeu risquent d'être\nendommagées.",
+  "CommonGroup_TimeManipulationPopup_Title": "Heure de l'appareil modifiée",
+  "CommonGroup_TimeManipulationPopup_Text": "Un changement de l'heure de votre\nappareil a été détecté depuis votre\ndernière session de jeu. Attention,\nveuillez noter que changer l'heure de\nvotre appareil trop fréquemment peut\naffecter votre expérience de jeu."
 }

@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "No volver a mostrar.",
   "CommonNoShowAgain_2": "Puede cambiarse más tarde.",
   "CommonGroup_UnknownError_Title": "Error no identificado",
-  "CommonGroup_UnknownError_Message": "Se ha producido un error no\nidentificado. Reinicia la aplicación."
+  "CommonGroup_UnknownError_Message": "Se ha producido un error no\nidentificado. Reinicia la aplicación.",
+  "CommonGroup_TimeZoneCautionPopup_Title": "Detectado cambio de zona horaria",
+  "CommonGroup_TimeZoneCautionPopup_Text": "Parece que los ajustes de zona horaria\nde tu dispositivo se han modificado\nrepetidamente.\nTen cuidado, ya que esto podría dañar\nlos datos de juego.",
+  "CommonGroup_TimeManipulationPopup_Title": "Zona horaria cambiada",
+  "CommonGroup_TimeManipulationPopup_Text": "Se ha detectado un cambio en los\najustes de zona horaria de tu\ndispositivo móvil desde la última vez\nque usaste la aplicación.\nTen presente que la modificación\nrepetida de estos ajustes podría\nperjudicar la experiencia de juego."
 }

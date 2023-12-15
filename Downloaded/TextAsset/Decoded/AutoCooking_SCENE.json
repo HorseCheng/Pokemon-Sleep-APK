@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "※製作出來的料理不會因為\n追加的食材而改變。",
   "FillIngredientPopup_AddButton": "追加",
   "FillIngredientPopup_CancelButton": "不追加",
+  "FillIngredientPopup_AddButton_2": "追加食材",
+  "FillIngredientPopup_NoAddButton_2": "不追加食材",
   "AutomaticConfirmPopup_Title": "自動料理",
   "AutomaticConfirmPopup_Desc": "即將隨機使用\u000e\u0002\u0002\u0002\u0000個食材製作料理。\n確定要繼續嗎？",
   "RecipeLevelPpopup_Title": "食譜等級",

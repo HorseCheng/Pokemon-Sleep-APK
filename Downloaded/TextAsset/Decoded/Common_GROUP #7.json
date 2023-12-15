@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "Nicht erneut anzeigen.",
   "CommonNoShowAgain_2": "(Kann in den Allgemeinen Einstellungen\ngeändert werden)",
   "CommonGroup_UnknownError_Title": "Unbekannter Fehler",
-  "CommonGroup_UnknownError_Message": "Ein unbekannter Fehler ist\naufgetreten. Bitte starte die App neu."
+  "CommonGroup_UnknownError_Message": "Ein unbekannter Fehler ist\naufgetreten. Bitte starte die App neu.",
+  "CommonGroup_TimeZoneCautionPopup_Title": "Wechsel der Zeitzone festgestellt",
+  "CommonGroup_TimeZoneCautionPopup_Text": "Anscheinend wechselt die Einstellung\nder Zeitzone deines Geräts recht\nhäufig. Sei bitte vorsichtig, da dies\nden Spielstand beschädigen kann.",
+  "CommonGroup_TimeManipulationPopup_Title": "Zeiteinstellungen wurden geändert",
+  "CommonGroup_TimeManipulationPopup_Text": "Es wurde eine Änderung der Zeit bei\ndeinem Geräts festgestellt. Änderst\ndu diese zu häufig, kann dies zu einer\nEinschränkung deines Spielerlebnisses\nführen, also sei bitte vorsichtig."
 }

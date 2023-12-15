@@ -171,7 +171,7 @@
   "SleepSceneSetting_Sound_Title": "사운드",
   "SleepSceneSettingPopup_AlarmName_1": "심플",
   "SleepSceneSetting_SoundDownloadPopup_Title": "데이터 다운로드",
-  "SleepSceneSetting_SoundDownloadPopup_Text_1": "사운드 데이터를 다운로드합니다.\n(\u000e\u0002\t\u0004\u0000촁MB)\n",
+  "SleepSceneSetting_SoundDownloadPopup_Text_1": "사운드 데이터를 다운로드합니다.\n(\u000e\u0002\t\u0004\u0000촁MB)",
   "SleepSceneSetting_SoundDownloadPopup_Text_2": "Wi-Fi 환경에서의 다운로드를 권장합니다",
   "SleepSceneSettingPopup_Title_4": "다시 알림",
   "SleepSceneSettingPopup_Value_3": "\u000e\t\u0000\n\u0006mmm\u0000",

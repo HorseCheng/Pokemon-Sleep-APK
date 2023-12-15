@@ -131,5 +131,9 @@
   "Signup_SCENE_InitialError_Popup_Title": "Error",
   "Signup_SCENE_InitialError_Popup_Text": "An error has occurred.\nThe app will now restart.",
   "Signup_SCENE_CSverBAN_Popup_Title": "Invalid Account",
-  "Signup_SCENE_CSverBAN_Popup_Text": "This account has been restricted."
+  "Signup_SCENE_CSverBAN_Popup_Text": "This account has been restricted.",
+  "Signup_SCENE_SoftBAN_Popup_Title": "Temporary Play Suspension",
+  "Signup_SCENE_SoftBAN_Popup_Text": "Some play that could cause\nirregularities in the progress of the\ngame was detected.\nPlay has been temporarily suspended.\nPlease reboot the app and try again\nlater.",
+  "Signup_SCENE_ShortStorage_Popup_Title": "Not Enough Storage",
+  "Signup_SCENE_ShortStorage_Popup_Text": "Your device does not have enough open\nstorage space to play Pokémon Sleep.\nThis can cause bugs during gameplay,\nso please delete unneeded apps,\nphotos, or videos, etc. to free up more\nstorage space."
 }

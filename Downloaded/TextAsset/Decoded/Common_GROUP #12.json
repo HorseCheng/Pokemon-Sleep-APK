@@ -16,5 +16,9 @@
   "CommonNoShowAgain_1": "今後不再顯示",
   "CommonNoShowAgain_2": "（可以從基本設定變更）",
   "CommonGroup_UnknownError_Title": "原因不明的錯誤",
-  "CommonGroup_UnknownError_Message": "發生了原因不明的錯誤。\n請重新啟動應用程式。"
+  "CommonGroup_UnknownError_Message": "發生了原因不明的錯誤。\n請重新啟動應用程式。",
+  "CommonGroup_TimeZoneCautionPopup_Title": "偵測到時區變更",
+  "CommonGroup_TimeZoneCautionPopup_Text": "裝置的時區設定似乎頻繁地在變更。\n這樣的狀況有可能會導致遊戲資料毀損，\n敬請注意。",
+  "CommonGroup_TimeManipulationPopup_Title": "裝置的時間設定有變更",
+  "CommonGroup_TimeManipulationPopup_Text": "偵測到自上次遊玩後\n裝置的時間設定有所變更。\n若裝置的時間設定頻繁變更，\n有可能會導致在遊玩時發生問題，\n敬請注意。"
 }

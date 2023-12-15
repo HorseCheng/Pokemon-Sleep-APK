@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "(Auf diese Weise hinzugefügte Zutaten\nbeeinflussen das Gericht nicht.)",
   "FillIngredientPopup_AddButton": "Auffüllen",
   "FillIngredientPopup_CancelButton": "Nicht auffüllen",
+  "FillIngredientPopup_AddButton_2": "Zutaten hinzufügen",
+  "FillIngredientPopup_NoAddButton_2": "Keine Zutaten hinzufügen",
   "AutomaticConfirmPopup_Title": "Auto-Kochen",
   "AutomaticConfirmPopup_Desc": "Möchtest du \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000F\u001ezufällige Zutat\"zufällige Zutaten촀 in\nden Topf werfen, und sehen, was dabei\nherauskommt?",
   "RecipeLevelPpopup_Title": "Rezeptlevel",

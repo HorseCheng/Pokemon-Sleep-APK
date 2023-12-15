@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "(Il tipo di piatto non cambierà se aggiungi\naltri ingredienti in questo modo.)",
   "FillIngredientPopup_AddButton": "Aggiungi",
   "FillIngredientPopup_CancelButton": "Non aggiungere",
+  "FillIngredientPopup_AddButton_2": "Aggiungi ingredienti",
+  "FillIngredientPopup_NoAddButton_2": "Non aggiungere altro",
   "AutomaticConfirmPopup_Title": "Cucina tu per me",
   "AutomaticConfirmPopup_Desc": "Vuoi mettere insieme \u000e\u0002\u0002\u0002\u0000 ingredient\u000e\u0005\u0000\n\u0002e\u0002i촀\na caso e vedere cosa esce?",
   "RecipeLevelPpopup_Title": "L. ricetta",

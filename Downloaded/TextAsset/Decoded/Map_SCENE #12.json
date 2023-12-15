@@ -7,6 +7,7 @@
   "MapDetailPopup_SleepType": "Sonno \u000e\u0003\u0004\u0002\u0000",
   "MapDetailPopup_SleepTypeCount": "\u000e\u0002\u0005\u0004\u0000촁/\u000e\u0002\u0005\u0004\u0001촁",
   "MapDetailPopup_PokemonNumber": "N° \u000e\u0002\u0003\u0004\u0000촀",
+  "MapDetailPopup_PokemonNumber_Secret": "N° ???",
   "MapDetailPopup_PokemonUnknown": "???",
   "MapDetailPopup_PokemonCount": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "MapBonusPopup_Title": "Bonus area della settimana",
@@ -18,9 +19,12 @@
   "MapScene_Info_InfoMessage": "Scegli l'area di questa settimana!",
   "MapScene_EventOpen_Text": "Evento in corso",
   "MapScene_EventEffectPopup_Title": "Effetti evento Halloween non attivi",
+  "MapScene_EventEffectPopup_Title_2": "Effetti evento festivo non attivi",
   "MapScene_EventEffectPopup_Text": "In quest'area non otterrai gli effetti\ndell'evento di Halloween.",
+  "MapScene_EventEffectPopup_Text_2": "In quest'area non otterrai\ngli effetti dell'evento festivo.",
   "MapDetailConfirmPopup_Desc": "Vuoi fare ricerche qui la\nprossima settimana?",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿ＷIn quest'area non otterrai gli effetti\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗdell'evento di Halloween.\u000e\u0000\u0003\u0004\u0000＀",
+  "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿ＷIn quest'area non otterrai\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗgli effetti dell'evento festivo.\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailPopup_Title": "\u000e\u0003\u0003\u0004Ā촀",
   "MapObject_Name": "N° \u000e\u0002\u0001\u0002\u0000 \u000e\u0003\u0003\u0004ȁ촀",
   "MapDetailPopup_InfoToggleButton": "Avanzamento ricerca",
@@ -39,5 +43,8 @@
   "MapObject_FieldBonus": "Bonus area",
   "MapObject_FieldBonus_Per": "+\u000e\u0002\u0003\u0004\u0000촁%",
   "MapScene_DataDownload_Series_Title": "Conferma download dati",
-  "MapScene_DataDownload_Series_Text": "Verranno scaricati i dati relativi ai\nsuoni di nuove aree. Vuoi continuare?\n(\u000e\u0002\t\u0004\u0000촁 MB)"
+  "MapScene_DataDownload_Series_Text": "Verranno scaricati i dati relativi ai\nsuoni di nuove aree. Vuoi continuare?\n(\u000e\u0002\t\u0004\u0000촁 MB)",
+  "MapScene_FieldMovePopup_Title": "Usa strumento",
+  "MapScene_FieldMovePopup_Text_1": "Puoi usare un Biglietto\nsonnotrasporto per\ncambiare punto di ricerca.",
+  "MapScene_FieldMovePopup_Text_2": "(Spostandosi, il rango di Snorlax e le ricompense\ndi alcune missioni verranno azzerati.)"
 }

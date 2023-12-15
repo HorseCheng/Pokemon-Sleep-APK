@@ -65,7 +65,7 @@
   "BagScene_SleepResearchNoItemUsePopup_Title": "Kann nicht eingesetzt werden",
   "BagScene_SleepResearchNoItemUsePopup_Text": "Du kannst dieses Item während der\nSnackzeit nicht einsetzen.",
   "BagScene_CandyMaxOverPopup_Title": "Zu viele Bonbons",
-  "BagScene_CandyMaxOverPopup_Text": "Du kannst nur bis zu 9999 Bonbons\ntragen. Überschüssige Bonbons werden\nweggeworfen. Möchtest du fortfahren?",
+  "BagScene_CandyMaxOverPopup_Text": "Du kannst nur bis zu 9999 Bonbons auf\neinmal tragen. Überschüssige Bonbons\nwerden weggeworfen. Möchtest du\nwirklich fortfahren?",
   "BagSceneRareCandyUsePopup_Text_1": "Eingesetzt",
   "BagSceneRareCandyUsePopup_Text_2": "Du hast \u000e\u0002\u0003\u0004\u0002촁× \u000e\u0003\u0003\u0004Ā촀\nzu \u000e\u0002\u0003\u0004\u0005촁× \u000e\u0003\u0003\u0004Ѓ촀 umgetauscht.",
   "BagScene_Header_Title": "Beutel",

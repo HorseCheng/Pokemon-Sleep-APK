@@ -7,6 +7,7 @@
   "MapDetailPopup_SleepType": "Type \u000e\u0003\u0004\u0002\u0000",
   "MapDetailPopup_SleepTypeCount": "\u000e\u0002\u0005\u0004\u0000촁/\u000e\u0002\u0005\u0004\u0001촁",
   "MapDetailPopup_PokemonNumber": "Nº \u000e\u0002\u0003\u0004Ā촀",
+  "MapDetailPopup_PokemonNumber_Secret": "Nº ???",
   "MapDetailPopup_PokemonUnknown": "???",
   "MapDetailPopup_PokemonCount": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "MapBonusPopup_Title": "Bonus de zone hebdomadaire",
@@ -18,9 +19,12 @@
   "MapScene_Info_InfoMessage": "Choisissez une zone pour la semaine.",
   "MapScene_EventOpen_Text": "Évènement en cours",
   "MapScene_EventEffectPopup_Title": "Effets d'Halloween non appliqués",
+  "MapScene_EventEffectPopup_Title_2": "Effets de l'évènement non appliqués",
   "MapScene_EventEffectPopup_Text": "Vous ne bénéficierez d'aucun effet\nlié à l'évènement d'Halloween dans\ncette zone.",
+  "MapScene_EventEffectPopup_Text_2": "Aucun effet lié à l'évènement\ndes Fêtes dans cette zone.",
   "MapDetailConfirmPopup_Desc": "Les recherches seront menées dans cette\nzone pendant une semaine. Continuer ?",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿ＷVous ne bénéficierez d'aucun effet lié à\nl'évènement d'Halloween dans cette zone.\u000e\u0000\u0003\u0004\u0000＀",
+  "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿ＷVous ne bénéficierez d'aucun effet lié à\nl'évènement des Fêtes dans cette zone.\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailPopup_Title": "\u000e\u0003\u0003\u0004Ā촀",
   "MapObject_Name": "Nº \u000e\u0002\u0001\u0002\u0000 : \u000e\u0003\u0003\u0004ȁ촀",
   "MapDetailPopup_InfoToggleButton": "État des recherches",
@@ -39,5 +43,8 @@
   "MapObject_FieldBonus": "Bonus de zone",
   "MapObject_FieldBonus_Per": "+ \u000e\u0002\u0003\u0004\u0000촁 %",
   "MapScene_DataDownload_Series_Title": "Confirmation du téléchargement",
-  "MapScene_DataDownload_Series_Text": "Les données audio des nouvelles zones\nvont être téléchargées. Continuer ?\n(\u000e\u0002\t\u0004\u0000촁 Mo)"
+  "MapScene_DataDownload_Series_Text": "Les données audio des nouvelles zones\nvont être téléchargées. Continuer ?\n(\u000e\u0002\t\u0004\u0000촁 Mo)",
+  "MapScene_FieldMovePopup_Title": "Utiliser un objet",
+  "MapScene_FieldMovePopup_Text_1": "Vous pouvez utiliser un Ticket\nTransport pour changer de zone.",
+  "MapScene_FieldMovePopup_Text_2": "(Certaines récompenses de missions et le rang\nde Ronflex seront réinitialisés après avoir\nchangé de zone.)"
 }

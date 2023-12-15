@@ -10,6 +10,8 @@
   "FillIngredientPopup_Note": "REMARQUE : les ingrédients ajoutés de\ncette manière n'altèrent pas le plat final.",
   "FillIngredientPopup_AddButton": "Ajouter",
   "FillIngredientPopup_CancelButton": "Non",
+  "FillIngredientPopup_AddButton_2": "Ajouter plus d'ingrédients",
+  "FillIngredientPopup_NoAddButton_2": "Ne rien ajouter",
   "AutomaticConfirmPopup_Title": "Cuisine automatique",
   "AutomaticConfirmPopup_Desc": "Voulez-vous utiliser \u000e\u0002\u0002\u0002\u0000 \u000e\u0004\u00000\u0014ingrédient\u0016ingrédients촀\nau hasard et voir ce qu'il en résulte ?",
   "RecipeLevelPpopup_Title": "Niveau de recette",

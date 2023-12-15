@@ -131,5 +131,9 @@
   "Signup_SCENE_InitialError_Popup_Title": "Fehler",
   "Signup_SCENE_InitialError_Popup_Text": "Ein Fehler ist aufgetreten.\nDie App wird jetzt neu gestartet.",
   "Signup_SCENE_CSverBAN_Popup_Title": "Unzulässiges Konto",
-  "Signup_SCENE_CSverBAN_Popup_Text": "Dieses Konto wurde eingeschränkt."
+  "Signup_SCENE_CSverBAN_Popup_Text": "Dieses Konto wurde eingeschränkt.",
+  "Signup_SCENE_SoftBAN_Popup_Title": "Temporäre Spieleinschränkung",
+  "Signup_SCENE_SoftBAN_Popup_Text": "Es wurde festgestellt, dass das Spiel\nauf eine Art und Weise gespielt wurde,\ndie zu Unregelmäßigkeiten beim\nFortschritt des Spiels führen könnte.\nDas Spiel wurde vorübergehend\neingeschränkt. Bitte starte die App\nneu und versuche es später erneut.",
+  "Signup_SCENE_ShortStorage_Popup_Title": "Nicht genügend Speicherplatz",
+  "Signup_SCENE_ShortStorage_Popup_Text": "Dein Gerät hat nicht genügend freien\nSpeicherplatz, um Pokémon Sleep zu\nspielen. Dies kann zu Fehlern im Spiel\nführen. Sorge also bitte für mehr\nSpeicherplatz, indem du Apps, Fotos\noder Videos, etc., löschst, die du nicht\nmehr brauchst."
 }

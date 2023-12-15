@@ -65,7 +65,7 @@
   "item_desc_30": "A peculiar stone that can make a\ncertain species of Pokémon evolve.\nIt is round and smooth.",
   "item_desc_31": "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt is shaped like a crown.",
   "item_desc_32": "A mysterious seed that can raise the\nlevel of a Pokémon’s main skill by one.",
-  "item_desc_33": "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one.",
+  "item_desc_33": "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one.\nNote: It cannot be used if all of the\nPokémon’s unlocked sub skills are at\nmax level, or if the Pokémon already\nhas the higher quality version of the\nsame skill.",
   "item_desc_34": "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry. Good for one\nsleep session, then consumed.",
   "item_desc_short_1": "Doubles the research EXP gained\nafter sleep research.",
   "item_desc_short_2": "Doubles the Dream Shards received\nafter sleep research.",

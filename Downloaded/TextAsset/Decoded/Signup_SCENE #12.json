@@ -131,5 +131,9 @@
   "Signup_SCENE_InitialError_Popup_Title": "錯誤",
   "Signup_SCENE_InitialError_Popup_Text": "發生了錯誤。\n即將重新啟動應用程式。",
   "Signup_SCENE_CSverBAN_Popup_Title": "無效的帳號",
-  "Signup_SCENE_CSverBAN_Popup_Text": "這個帳號已被限制遊玩。"
+  "Signup_SCENE_CSverBAN_Popup_Text": "這個帳號已被限制遊玩。",
+  "Signup_SCENE_SoftBAN_Popup_Title": "暫時限制遊玩",
+  "Signup_SCENE_SoftBAN_Popup_Text": "由於系統偵測到可能會導致\n遊戲運作發生異常的遊玩方式，\n目前已暫時限制了遊玩。\n請稍後再重新啟動應用程式。",
+  "Signup_SCENE_ShortStorage_Popup_Title": "裝置的儲存空間不足",
+  "Signup_SCENE_ShortStorage_Popup_Text": "由於裝置目前剩餘的儲存空間\n不足以遊玩《Pokémon Sleep》，\n在遊玩時可能會發生異常問題。\n請刪除不必要的應用程式、影音或照片等，\n以確保裝置有足夠的儲存空間。"
 }
