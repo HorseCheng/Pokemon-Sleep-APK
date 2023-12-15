@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Veuillez supprimer l'application.",
   "CommonPopup_ObtEnd_Message": "Merci beaucoup d'avoir participé au\ntest de la bêta ouverte.\nLes données de la bêta ne pouvant être\nutilisées dans la version officielle,\nnous vous demandons de bien vouloir\nsupprimer cette application.\n\nVous pourrez ensuite télécharger à\nnouveau l'application dans la boutique\net commencer une nouvelle partie.",
   "CommonPopup_ObtFinishWaiting_Title": "Fin de la bêta ouverte",
-  "CommonPopup_ObtFinishWaiting_Message": "La période de test de la bêta est fine.\nVeuillez utiliser la version officielle\nde l'application à son lancement.\n\nMerci d'avoir participé au test de la\nbêta ouverte."
+  "CommonPopup_ObtFinishWaiting_Message": "La période de test de la bêta est fine.\nVeuillez utiliser la version officielle\nde l'application à son lancement.\n\nMerci d'avoir participé au test de la\nbêta ouverte.",
+  "CommonPopup_UnknownError_Title": "Erreur inconnue",
+  "CommonPopup_UnknownError_Message": "Une erreur inconnue s'est produite.\nVeuillez redémarrer l'application."
 }

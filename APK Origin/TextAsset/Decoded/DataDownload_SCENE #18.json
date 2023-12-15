@@ -1,9 +1,9 @@
 {
-  "DataDownloadSceneController_Text_1": "다운로드 에러",
-  "DataDownloadSceneController_Text_2": "데이터 다운로드 에러가 발생했습니다\n시간을 두고 다시 다운로드를 시도해 주십시오",
-  "DataDownloadSceneController_Text_4": "단말기의 저장공간이 부족합니다\n저장공간을 확인해 주십시오",
-  "DataDownloadSceneController_Text_5": "다운로드 에러",
-  "DataDownloadSceneController_Text_6": "데이터 다운로드 에러가 발생했습니다\n시간을 두고 다시 다운로드를 시도해 주십시오",
-  "DataDownloadSceneController_Text_8": "데이터 다운로드를 완료했습니다",
+  "DataDownloadSceneController_Text_1": "下載錯誤",
+  "DataDownloadSceneController_Text_2": "下載資料時發生錯誤。\n請稍後再次下載。",
+  "DataDownloadSceneController_Text_4": "裝置的儲存空間不足。\n請確認剩餘的儲存空間。",
+  "DataDownloadSceneController_Text_5": "下載錯誤",
+  "DataDownloadSceneController_Text_6": "下載資料時發生錯誤。\n請稍後再次下載。",
+  "DataDownloadSceneController_Text_8": "資料下載完成。",
   "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000%(\u000e\u0002\t\u0004\u0001촁MB/\u000e\u0002\t\u0004\u0002촁MB)"
 }

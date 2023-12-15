@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Elimina l'app",
   "CommonPopup_ObtEnd_Message": "Grazie per aver partecipato all'open\nbeta test.\nI dati di gioco della beta non possono\nessere usati nella versione ufficiale,\nperciò ti chiediamo di eliminare l'app.\n\nUna volta fatto, potrai scaricarla\ndi nuovo dal negozio del dispositivo\ne ricominciare il gioco da capo.",
   "CommonPopup_ObtFinishWaiting_Title": "Open beta test terminato",
-  "CommonPopup_ObtFinishWaiting_Message": "Il periodo di beta test è terminato.\nUsa l'app ufficiale quando sarà\ndisponibile.\n\nGrazie per aver partecipato\nall'open beta test."
+  "CommonPopup_ObtFinishWaiting_Message": "Il periodo di beta test è terminato.\nUsa l'app ufficiale quando sarà\ndisponibile.\n\nGrazie per aver partecipato\nall'open beta test.",
+  "CommonPopup_UnknownError_Title": "Errore sconosciuto",
+  "CommonPopup_UnknownError_Message": "Si è verificato un errore sconosciuto.\nRiavvia l'applicazione."
 }

@@ -1,0 +1,14 @@
+{
+  "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
+  "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
+  "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
+  "SleepScene_SleepResultLoadingView_Message": "수면 데이터를\n보내고 있습니다...",
+  "SleepScene_SleepMainView_SleepStopButton": "계측을 종료한다",
+  "SleepScene_SleepMainView_Title": "・・・수면 계측 중・・・",
+  "SleepScene_SleepMainView_Title_2": "알람",
+  "SleepScene_SleepMainView_Title_3": "수면 유도 사운드",
+  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000 ~ \u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "알람: OFF",
+  "SleepScene_BatteryLittlePopup_Title": "배터리가 얼마 남지 않았습니다",
+  "SleepScene_BatteryLittlePopup_Text": "배터리가 얼마 남지 않았습니다\n충전하면서 계측하는 것을 권장합니다"
+}

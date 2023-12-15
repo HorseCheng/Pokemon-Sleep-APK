@@ -5783,7 +5783,7 @@
     {
       "id": 95,
       "sleeping_face_id": 1,
-      "md_sleeping_face_id": 328,
+      "md_sleeping_face_id": 455,
       "name": "Onix",
       "snorlax_size": 4,
       "use_flag": true,
@@ -5796,8 +5796,8 @@
         "snorlax_size_3": null,
         "snorlax_size_4": {
           "offset": {
-            "x": -0.5097275,
-            "y": -0.7402064
+            "x": -0.39537716,
+            "y": -0.08928102
           }
         }
       },
@@ -10737,7 +10737,7 @@
     {
       "id": 208,
       "sleeping_face_id": 1,
-      "md_sleeping_face_id": 328,
+      "md_sleeping_face_id": 458,
       "name": "Steelix",
       "snorlax_size": 4,
       "use_flag": true,
@@ -10750,17 +10750,17 @@
         "snorlax_size_3": null,
         "snorlax_size_4": {
           "offset": {
-            "x": 0.37142542,
-            "y": -1.2116966
+            "x": 0.23068285,
+            "y": -0.5783634
           }
         }
       },
       "shadow": {
-        "x": 0.13396457,
-        "y": -0.7299729,
+        "x": 0.028408885,
+        "y": -0.9059,
         "scale": {
-          "x": 0.9755621,
-          "y": 0.8758123
+          "x": 0.946935,
+          "y": 0.8687903
         },
         "shear": {
           "x": 0,
@@ -14799,6 +14799,113 @@
         "shear": {
           "x": 0.18292904,
           "y": -0.12783432
+        }
+      }
+    },
+    {
+      "id": 225,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 461,
+      "name": "Delibird",
+      "snorlax_size": 2,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": {
+          "offset": {
+            "x": 0.041500002,
+            "y": -0.36112654
+          }
+        },
+        "snorlax_size_3": {
+          "offset": {
+            "x": 0.087961555,
+            "y": -0.16712922
+          }
+        },
+        "snorlax_size_4": null
+      },
+      "shadow": {
+        "x": 0.06617379,
+        "y": -0.29393739,
+        "scale": {
+          "x": 1.0866762,
+          "y": 0.48739216
+        },
+        "shear": {
+          "x": -0.06753203,
+          "y": 0.0017952919
+        }
+      }
+    },
+    {
+      "id": 459,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 465,
+      "name": "Snover",
+      "snorlax_size": 3,
+      "use_flag": true,
+      "draft_flag": false,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": null,
+        "snorlax_size_3": {
+          "offset": {
+            "x": 0.008796155,
+            "y": -0.18472242
+          }
+        },
+        "snorlax_size_4": null
+      },
+      "shadow": {
+        "x": 0.019128323,
+        "y": -0.43850768,
+        "scale": {
+          "x": 1.0693738,
+          "y": 0.46046704
+        },
+        "shear": {
+          "x": -0.06753203,
+          "y": 0.0017952919
+        }
+      }
+    },
+    {
+      "id": 460,
+      "sleeping_face_id": 1,
+      "md_sleeping_face_id": 469,
+      "name": "Abomasnow",
+      "snorlax_size": 4,
+      "use_flag": true,
+      "draft_flag": true,
+      "only_flip_flag": false,
+      "not_flip_flag": false,
+      "size_params": {
+        "snorlax_size_1": null,
+        "snorlax_size_2": null,
+        "snorlax_size_3": null,
+        "snorlax_size_4": {
+          "offset": {
+            "x": -0.3166659,
+            "y": -1.0203695
+          }
+        }
+      },
+      "shadow": {
+        "x": -0.01841423,
+        "y": -0.61683226,
+        "scale": {
+          "x": 1.0584978,
+          "y": 0.57635033
+        },
+        "shear": {
+          "x": 0,
+          "y": 0
         }
       }
     }

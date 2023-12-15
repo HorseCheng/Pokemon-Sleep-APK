@@ -2,13 +2,13 @@
   "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
   "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
   "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
-  "SleepScene_SleepResultLoadingView_Message": "正在傳送睡眠資料……",
-  "SleepScene_SleepMainView_SleepStopButton": "結束測量",
-  "SleepScene_SleepMainView_Title": "……正在測量睡眠……",
-  "SleepScene_SleepMainView_Title_2": "鬧鈴",
-  "SleepScene_SleepMainView_Title_3": "助眠聲音",
-  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000～\u000e\t\u0000\u000e\nhh:mm\u0001",
-  "SleepSceneMainView_Text_1": "沒有設定鬧鈴",
-  "SleepScene_BatteryLittlePopup_Title": "剩餘電量偏低",
-  "SleepScene_BatteryLittlePopup_Text": "電池剩餘電量偏低。\n建議您一邊充電一邊測量。"
+  "SleepScene_SleepResultLoadingView_Message": "Enviando datos de sueño...",
+  "SleepScene_SleepMainView_SleepStopButton": "Finalizar sesión",
+  "SleepScene_SleepMainView_Title": "Registrando...",
+  "SleepScene_SleepMainView_Title_2": "Alarma",
+  "SleepScene_SleepMainView_Title_3": "Sonidos relajantes",
+  "SleepScene_SleepMainView_AlarmTime": "De \u000e\t\u0000\u000e\nhh:mm\u0000 a \u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "Desactivada",
+  "SleepScene_BatteryLittlePopup_Title": "¡Se está agotando la batería!",
+  "SleepScene_BatteryLittlePopup_Text": "¡Te estás quedando sin batería!\nAsegúrate de que tu dispositivo móvil\nesté enchufado mientras registras\ntu sueño."
 }

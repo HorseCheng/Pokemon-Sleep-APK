@@ -2,13 +2,13 @@
   "SleepScene_SleepMainView_AlarmSetting": "\u000e\t\u0000\u000e\nhh:mm\u0000",
   "SleepScene_SleepMainView_Hour": "\u000e\t\u0000\b\u0004hh\u0000",
   "SleepScene_SleepMainView_Minute": "\u000e\t\u0000\b\u0004mm\u0000",
-  "SleepScene_SleepResultLoadingView_Message": "Schlafdaten werden\nversandt...",
-  "SleepScene_SleepMainView_SleepStopButton": "Schlafeinheit beenden",
-  "SleepScene_SleepMainView_Title": "Schlaf wird aufgezeichnet...",
-  "SleepScene_SleepMainView_Title_2": "Wecker",
-  "SleepScene_SleepMainView_Title_3": "Einschlafgeräusche",
-  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000–\u000e\t\u0000\u000e\nhh:mm\u0001",
-  "SleepSceneMainView_Text_1": "Nicht gestellt",
-  "SleepScene_BatteryLittlePopup_Title": "Batterieleistung lässt nach!",
-  "SleepScene_BatteryLittlePopup_Text": "Deine Batterieleistung lässt nach!\nWir empfehlen dir, dein Gerät während\neiner Schlafaufzeichnung am Strom\nzu lassen."
+  "SleepScene_SleepResultLoadingView_Message": "Invio dati del sonno...",
+  "SleepScene_SleepMainView_SleepStopButton": "Termina sessione",
+  "SleepScene_SleepMainView_Title": "Misurazione sonno in corso...",
+  "SleepScene_SleepMainView_Title_2": "Sveglia",
+  "SleepScene_SleepMainView_Title_3": "Suoni rilassanti",
+  "SleepScene_SleepMainView_AlarmTime": "\u000e\t\u0000\u000e\nhh:mm\u0000 - \u000e\t\u0000\u000e\nhh:mm\u0001",
+  "SleepSceneMainView_Text_1": "Non impostata",
+  "SleepScene_BatteryLittlePopup_Title": "Livello batteria basso!",
+  "SleepScene_BatteryLittlePopup_Text": "Il livello della batteria è basso.\nÈ consigliato tenere il dispositivo\nsotto carica mentre si misura il sonno."
 }

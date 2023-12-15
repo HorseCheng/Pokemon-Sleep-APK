@@ -26,5 +26,7 @@
   "CommonPopup_ObtEnd_Title": "Bitte lösche die App.",
   "CommonPopup_ObtEnd_Message": "Vielen Dank, dass du am offenen Beta-\nTesting teilnimmst.\nDein Speicherstand kann nach\nVeröffentlichung der App nicht\ngenutzt werden, also bitten wir dich,\ndie App zu löschen.\n\nSobald du sie gelöscht hast, kannst du\nsie wieder aus deinem App-Store\nherunterladen und ein neues Spiel\nbeginnen.",
   "CommonPopup_ObtFinishWaiting_Title": "Offener Beta-Test beendet",
-  "CommonPopup_ObtFinishWaiting_Message": "Die Testing-Periode ist vorbei.\nBitte nutze die offizielle App, sobald\nsie veröffentlicht wurde.\n\nDanke für die Teilnahme am offenen\nBeta-Test."
+  "CommonPopup_ObtFinishWaiting_Message": "Die Testing-Periode ist vorbei.\nBitte nutze die offizielle App, sobald\nsie veröffentlicht wurde.\n\nDanke für die Teilnahme am offenen\nBeta-Test.",
+  "CommonPopup_UnknownError_Title": "Unbekannter Fehler",
+  "CommonPopup_UnknownError_Message": "Ein unbekannter Fehler ist\naufgetreten. Bitte starte die App neu."
 }

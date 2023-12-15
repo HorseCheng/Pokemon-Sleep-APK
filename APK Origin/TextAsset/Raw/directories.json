@@ -1216,6 +1216,20 @@
             "isShiny": true
         },
         {
+            "id": 225,
+            "name": "Delibird",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
             "id": 228,
             "name": "Houndour",
             "sleepActions": [
@@ -1584,6 +1598,34 @@
             "isShiny": true
         },
         {
+            "id": 459,
+            "name": "Snover",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 460,
+            "name": "Abomasnow",
+            "sleepActions": [
+                "sleep-drowse",
+                "sleep-normal",
+                "sleep-rare"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
             "id": 462,
             "name": "Magnezone",
             "sleepActions": [
@@ -1662,6 +1704,19 @@
             "name": "Pikachu-Halloween",
             "sleepActions": [
                 "sleep-drowse",
+                "sleep-normal"
+            ],
+            "homeActions": [
+                "move",
+                "stand"
+            ],
+            "isShiny": true
+        },
+        {
+            "id": 9002,
+            "name": "Pikachu-Holiday",
+            "sleepActions": [
+                "sleep-1",
                 "sleep-normal"
             ],
             "homeActions": [

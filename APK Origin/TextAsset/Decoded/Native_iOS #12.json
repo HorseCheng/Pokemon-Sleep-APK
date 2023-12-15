@@ -1,8 +1,8 @@
 {
-  "NSBluetoothAlwaysUsageDescription": "Pokémon GO Plus +와의 통신에 사용합니다",
-  "NSBluetoothPeripheralUsageDescription": "Pokémon GO Plus +와의 통신에 사용합니다",
-  "NSUserTrackingUsageDescription": "취득한 광고 식별자 등의 정보는 본 서비스 이용에 관한 동향 조사, 본 서비스의 효과적인 운영, 부정행위 방지를 위해 사용됩니다",
-  "NSCameraUsageDescription": "친구 코드를 인식하기 위해 카메라를 사용합니다",
-  "NSMicrophoneUsageDescription": "수면을 계측하기 위해 마이크를 사용합니다",
-  "NSPhotoLibraryAddUsageDescription": "これにより、カメラロールに写真を\n保存できるようになります"
+  "NSBluetoothAlwaysUsageDescription": "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +.",
+  "NSBluetoothPeripheralUsageDescription": "Cette application utilise le Bluetooth pour communiquer avec le Pokémon GO Plus +.",
+  "NSUserTrackingUsageDescription": "Les informations rassemblées sur cette application, y compris les identifiants pour les annonces publicitaires, sont utilisées pour étudier les tendances d'utilisation de nos services, afin de nous aider à en améliorer l'efficacité, et d'empêcher tout usage illicite.",
+  "NSCameraUsageDescription": "Cette application utilise l'appareil photo pour scanner les codes ami.",
+  "NSMicrophoneUsageDescription": "Cette application utilise le microphone pour mesurer votre sommeil.",
+  "NSPhotoLibraryAddUsageDescription": "Ceci permet à l'application de sauvegarder des photos sur votre pellicule."
 }

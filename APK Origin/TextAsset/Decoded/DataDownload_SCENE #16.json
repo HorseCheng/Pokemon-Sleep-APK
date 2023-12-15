@@ -1,9 +1,9 @@
 {
-  "DataDownloadSceneController_Text_1": "Error de descarga",
-  "DataDownloadSceneController_Text_2": "Se ha producido un error durante la\ndescarga. Vuelve a intentarlo más\ntarde.",
-  "DataDownloadSceneController_Text_4": "No hay espacio suficiente en tu\ndispositivo móvil. Borra los datos\nque no necesites.",
-  "DataDownloadSceneController_Text_5": "Error de descarga",
-  "DataDownloadSceneController_Text_6": "Se ha producido un error durante la\ndescarga. Vuelve a intentarlo más\ntarde.",
-  "DataDownloadSceneController_Text_8": "Se ha completado la descarga.",
-  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000 % (\u000e\u0002\t\u0004\u0001촁MB/\u000e\u0002\t\u0004\u0002촁MB)"
+  "DataDownloadSceneController_Text_1": "Fehler beim Download",
+  "DataDownloadSceneController_Text_2": "Beim Herunterladen ist ein Fehler\naufgetreten. Bitte warte einen\nMoment und versuche es dann erneut.",
+  "DataDownloadSceneController_Text_4": "Dein Gerät hat nicht mehr ausreichend\nSpeicherplatz. Bitte stell sicher, dass\ngenügend Speicherplatz vorhanden ist.",
+  "DataDownloadSceneController_Text_5": "Fehler beim Download",
+  "DataDownloadSceneController_Text_6": "Beim Herunterladen ist ein Fehler\naufgetreten. Bitte warte einen\nMoment und versuche es dann erneut.",
+  "DataDownloadSceneController_Text_8": "Der Download wurde abgeschlossen.",
+  "DataDownloadScene_DownloadProgressView_ProgressText": "\u000e\u0002\u0002\u0002\u0000 % (\u000e\u0002\t\u0004\u0001촁 MB/\u000e\u0002\t\u0004\u0002촁 MB)"
 }

@@ -65,6 +65,8 @@
     "event_item_packs",
     "dia_shop_group",
     "event_list",
+    "event_detail_info",
+    "sleep_sounds",
     "dia_products",
     "premium_pass_products",
     "purchase_bonuses",
@@ -91,11 +93,18 @@
     "event_energy_multiplier",
     "event_research_candy_multiplier",
     "event_sleep_type_lottery_ratio",
+    "event_snorlax_favorite_berries_fixing",
     "pokemon_food_sp_correction",
     "phantom_sleeping_face_research",
     "kpi_event_token_list",
     "event_weekly_missions",
     "fields_event_pokemons",
-    "buff_type"
+    "daily_bonus_items",
+    "event_growth_exp_boost",
+    "event_research_coin_multiplier",
+    "buff_type",
+    "event_pickup_buff_multiplier",
+    "cooking_recovery_power",
+    "event_main_skill_buff_multiplier"
   ]
 }

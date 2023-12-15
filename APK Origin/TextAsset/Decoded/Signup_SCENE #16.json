@@ -130,6 +130,10 @@
   "Signup_SCENE_MENU_Content_3": "Contacto",
   "Signup_SCENE_InitialError_Popup_Title": "Error",
   "Signup_SCENE_InitialError_Popup_Text": "Se ha producido un error.\nLa aplicación se reiniciará.",
-  "Signup_SCENE_CSverBAN_Popup_Title": "ゲームデータを修正しています",
-  "Signup_SCENE_CSverBAN_Popup_Text": "ただいま、お客様のゲームデータの\n修正作業を行っています。修正作業が\n完了次第、再びプレイできるようになります\n後ほどアプリ起動をお試しください"
+  "Signup_SCENE_CSverBAN_Popup_Title": "Cuenta no válida",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Esta cuenta está restringida.",
+  "Signup_SCENE_SoftBAN_Popup_Title": "Suspensión temporal",
+  "Signup_SCENE_SoftBAN_Popup_Text": "Se ha detectado actividad que podría\ncausar irregularidades en el progreso\ndel juego.\nSe ha suspendido el uso de la\naplicación de forma temporal.\nReinicia la aplicación y vuelve a\nintentarlo más tarde.",
+  "Signup_SCENE_ShortStorage_Popup_Title": "Espacio insuficiente",
+  "Signup_SCENE_ShortStorage_Popup_Text": "Tu dispositivo no dispone de espacio\nsuficiente para jugar a Pokémon Sleep.\nEsto podría ocasionar errores, así que,\npor favor, libera el espacio necesario\nborrando las aplicaciones o archivos\nque no necesites."
 }

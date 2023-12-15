@@ -130,6 +130,10 @@
   "Signup_SCENE_MENU_Content_3": "お問い合わせ",
   "Signup_SCENE_InitialError_Popup_Title": "에러",
   "Signup_SCENE_InitialError_Popup_Text": "에러가 발생했습니다\n재기동합니다",
-  "Signup_SCENE_CSverBAN_Popup_Title": "ゲームデータを修正しています",
-  "Signup_SCENE_CSverBAN_Popup_Text": "ただいま、お客様のゲームデータの\n修正作業を行っています。修正作業が\n完了次第、再びプレイできるようになります\n後ほどアプリ起動をお試しください"
+  "Signup_SCENE_CSverBAN_Popup_Title": "무효한 계정",
+  "Signup_SCENE_CSverBAN_Popup_Text": "이 계정으로는 게임을 플레이할 수 없습니다",
+  "Signup_SCENE_SoftBAN_Popup_Title": "一時的なプレイ制限",
+  "Signup_SCENE_SoftBAN_Popup_Text": "ゲームの進行に異常をきたす恐れがある\nプレイを検出しましたので\n一時的にプレイを制限しております\n後ほどアプリ起動をお試しください",
+  "Signup_SCENE_ShortStorage_Popup_Title": "ストレージの空き容量がありません",
+  "Signup_SCENE_ShortStorage_Popup_Text": "Pokémon Sleepをプレイするのに\n十分な空き容量がないため、\nプレイ中に不具合が起きる可能性があります\n必要のないアプリ、ビデオ、写真などを\n削除して空き容量を確保してください"
 }
