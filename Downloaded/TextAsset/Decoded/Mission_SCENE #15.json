@@ -18,7 +18,7 @@
   "MissionScene_Content_TopView_SectionTitle": "Non ancora completate: \u000e\u0002\u0001\u0002\u0000",
   "MissionScene_Footer_GetAllButton": "Accetta tutto",
   "MissionScene_Header_Title": "Missione",
-  "WeeklyMissionCell_ItemNum": "x\u000e\u0002\u0001\u0002\u0000",
+  "WeeklyMissionCell_ItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
   "WeeklyMissionCell_Progress": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
   "WeeklyMissionCell_BalloonMessage": "Nuovo",
   "WeeklyMissionCell_Clear": "Completato",

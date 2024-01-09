@@ -18,7 +18,7 @@
   "MissionScene_Content_TopView_SectionTitle": "\u000e\u0002\u0001\u0002\u0000 more \u000e\u0001\u0000$\u000emission\u0010missions촀 to go",
   "MissionScene_Footer_GetAllButton": "Claim All",
   "MissionScene_Header_Title": "Missions",
-  "WeeklyMissionCell_ItemNum": "×\u000e\u0002\u0001\u0002\u0000",
+  "WeeklyMissionCell_ItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
   "WeeklyMissionCell_Progress": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
   "WeeklyMissionCell_BalloonMessage": "Incense",
   "WeeklyMissionCell_Clear": "DONE!",
