@@ -41,7 +41,7 @@
   "Signup_SCENE_AlreadyInherited_Popup_Text_1": "Die Speicherdaten dieses Kontos\nwurden auf ein anderes Gerät\nübertragen.",
   "Signup_SCENE_AlreadyInherited_Popup_Text_2": "Bitte spiele auf dem Gerät, auf das die\nSpeicherdaten übertragen wurden.",
   "Signup_SCENE_BanAccount_Popup_Title": "Unzulässiges Konto",
-  "Signup_SCENE_BanAccount_Popup_Text_1": "Dieses Konto wurde eingeschränkt.",
+  "Signup_SCENE_BanAccount_Popup_Text_1": "Dieses Konto wurde gesperrt.",
   "Signup_SCENE_BanAccount_Popup_Text_2": "Du kannst damit nicht spielen.",
   "Signup_SCENE_SDKAgree_Heading": "Anfrage zur Nutzung von Informationen",
   "Signup_SCENE_SDKAgree_Text_1": "Um unseren Dienst zu verbessern sowie\nauf Spieler zugeschnittene Werbung und\nInformationen bereitzustellen, sammelt\nPokémon Sleep folgende Informationen:",

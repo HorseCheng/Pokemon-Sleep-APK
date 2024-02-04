@@ -41,7 +41,7 @@
   "Signup_SCENE_AlreadyInherited_Popup_Text_1": "This account's save data has been\ntransferred to another device.",
   "Signup_SCENE_AlreadyInherited_Popup_Text_2": "Please play on the device your\nsave data was transferred to.",
   "Signup_SCENE_BanAccount_Popup_Title": "Invalid Account",
-  "Signup_SCENE_BanAccount_Popup_Text_1": "This account has been restricted.",
+  "Signup_SCENE_BanAccount_Popup_Text_1": "This account has been suspended.",
   "Signup_SCENE_BanAccount_Popup_Text_2": "You cannot use it to play.",
   "Signup_SCENE_SDKAgree_Heading": "Request to Use Information",
   "Signup_SCENE_SDKAgree_Text_1": "In order to improve our service and provide\nadvertisements and information tailored to\nplayers, Pokémon Sleep collects the\nfollowing types of information:",

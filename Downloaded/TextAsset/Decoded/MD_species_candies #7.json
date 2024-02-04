@@ -97,6 +97,10 @@
   "md_species_candies_name_459_plu": "Caramelle Snover",
   "md_species_candies_name_353": "Caramella Shuppet",
   "md_species_candies_name_353_plu": "Caramelle Shuppet",
+  "md_species_candies_name_280": "Caramella Ralts",
+  "md_species_candies_name_280_plu": "Caramelle Ralts",
+  "md_species_candies_name_759": "Caramella Stufful",
+  "md_species_candies_name_759_plu": "Caramelle Stufful",
   "md_species_candies_narrow_name_25": "Caramella\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Caramelle\nPikachu",
   "md_species_candies_narrow_name_133": "Caramella\nEevee",
@@ -194,5 +198,9 @@
   "md_species_candies_narrow_name_459": "Caramella\nSnover",
   "md_species_candies_narrow_name_459_plu": "Caramelle\nSnover",
   "md_species_candies_narrow_name_353": "Caramella\nShuppet",
-  "md_species_candies_narrow_name_353_plu": "Caramelle\nShuppet"
+  "md_species_candies_narrow_name_353_plu": "Caramelle\nShuppet",
+  "md_species_candies_narrow_name_280": "Caramella\nRalts",
+  "md_species_candies_narrow_name_280_plu": "Caramelle\nRalts",
+  "md_species_candies_narrow_name_759": "Caramella\nStufful",
+  "md_species_candies_narrow_name_759_plu": "Caramelle\nStufful"
 }

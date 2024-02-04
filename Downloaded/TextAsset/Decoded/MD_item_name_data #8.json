@@ -33,6 +33,7 @@
   "item_name_32": "Haupttalentsamen",
   "item_name_33": "Nebentalentsamen",
   "item_name_34": "Freundesrauch",
+  "item_name_35": "Funkelstein",
   "item_desc_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte. Wird\nnach einer Anwendung aufgebraucht.",
   "item_desc_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter. Wird nach\neiner Anwendung aufgebraucht.",
   "item_desc_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.\nWird nach einer Anwendung\naufgebraucht.",
@@ -67,6 +68,7 @@
   "item_desc_32": "Ein mysteriöser Samen, mit dem der\nLevel des Haupttalents eines Pokémon\num 1 erhöht wird.",
   "item_desc_33": "Ein mysteriöser Samen, mit dem die\nQualität eines zufällig ausgewählten\nNebentalents um 1 erhöht wird.\n\u000e\n\u0000\u0002촀Kann nicht verwendet werden, wenn\nalle freigeschalteten Nebentalente\nden maximalen Level erreicht haben\noder das Pokémon über dasselbe Neben-\ntalent in höherer Qualität verfügt.\u000f\n\u0000",
   "item_desc_34": "Dieser Rauch garantiert, dass\nmindestens ein besonders hungriges\nPokémon während der Snackzeit\nerscheint. Wird nach einer Anwendung\naufgebraucht.",
+  "item_desc_35": "Dieser besondere Stein löst bei\nbestimmten Pokémon die Entwicklung\naus. Er glitzert wie ein Auge.",
   "item_desc_short_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte.",
   "item_desc_short_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter.",
   "item_desc_short_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.",
@@ -100,5 +102,6 @@
   "item_desc_short_31": "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er hat die Form\neiner Krone.",
   "item_desc_short_32": "Ein Samen, mit dem der Level des\nHaupttalents eines Pokémon\num 1 erhöht wird.",
   "item_desc_short_33": "Ein Samen, mit dem die Qualität\neines zufälligen Nebentalents eines\nPokémon um 1 erhöht wird.",
-  "item_desc_short_34": "Dieser Rauch garantiert, dass\nmindestens ein Pokémon zur\nSnackzeit besonders hungrig ist."
+  "item_desc_short_34": "Dieser Rauch garantiert, dass\nmindestens ein Pokémon zur\nSnackzeit besonders hungrig ist.",
+  "item_desc_short_35": "Löst bei bestimmten Pokémon die\nEntwicklung aus. Er glitzert wie\nein Auge."
 }

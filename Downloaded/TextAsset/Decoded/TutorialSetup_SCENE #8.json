@@ -1,11 +1,11 @@
 {
-  "TutorialSetupSceneController_Text_2": "暱稱",
-  "TutorialSetupSceneController_Text_3": "就寢約定",
-  "TutorialSetupSceneController_Text_4": "設定目標就寢時刻",
-  "TutorialSetupSceneController_Text_5": "準備完成",
-  "TutorialSetupSceneController_Text_8": "這樣一來，就做好研究的準備了。\n那麼，今天晚上請再回來進行研究。\n不要忘記喔！",
-  "TutorialSetupScene_NameChangeView_Desc": "※之後也可變更。",
-  "TutorialSetupScene_NameChangeView_OKButton": "確定",
+  "TutorialSetupSceneController_Text_2": "닉네임",
+  "TutorialSetupSceneController_Text_3": "잠자기 약속",
+  "TutorialSetupSceneController_Text_4": "취침 목표 시각 설정",
+  "TutorialSetupSceneController_Text_5": "준비 완료",
+  "TutorialSetupSceneController_Text_8": "이걸로 연구할 준비는 모두 끝났어\n그럼 오늘 밤에\n다시 연구하러 돌아와 주겠니?\n잊으면 안 돼!",
+  "TutorialSetupScene_NameChangeView_Desc": "※나중에 변경할 수 있습니다",
+  "TutorialSetupScene_NameChangeView_OKButton": "결정한다",
   "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
-  "TutorialSetupScene_SleepTimeSetView_Desc": "您會在目標時刻的30分鐘前\n透過推播通知收到提醒。\n※之後也可變更設定。"
+  "TutorialSetupScene_SleepTimeSetView_Desc": "목표 시각 30분 전에 푸시 알림을 보내 드립니다\n※나중에 설정을 변경할 수 있습니다"
 }

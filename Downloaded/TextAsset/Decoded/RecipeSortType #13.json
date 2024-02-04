@@ -1,5 +1,5 @@
 {
-  "RecipeSortType_1": "ID",
-  "RecipeSortType_2": "에너지",
-  "RecipeSortType_3": "레시피 레벨"
+  "RecipeSortType_1": "Défaut",
+  "RecipeSortType_2": "Puissance",
+  "RecipeSortType_3": "Niveau"
 }

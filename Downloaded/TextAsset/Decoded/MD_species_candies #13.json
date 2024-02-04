@@ -97,6 +97,10 @@
   "md_species_candies_name_459_plu": "Bonbons Blizzi",
   "md_species_candies_name_353": "Bonbon Polichombr",
   "md_species_candies_name_353_plu": "Bonbons Polichombr",
+  "md_species_candies_name_280": "Bonbon Tarsal",
+  "md_species_candies_name_280_plu": "Bonbons Tarsal",
+  "md_species_candies_name_759": "Bonbon Nounourson",
+  "md_species_candies_name_759_plu": "Bonbons Nounourson",
   "md_species_candies_narrow_name_25": "Bonbon\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Bonbons\nPikachu",
   "md_species_candies_narrow_name_133": "Bonbon\nÉvoli",
@@ -194,5 +198,9 @@
   "md_species_candies_narrow_name_459": "Bonbon\nBlizzi",
   "md_species_candies_narrow_name_459_plu": "Bonbons\nBlizzi",
   "md_species_candies_narrow_name_353": "Bonbon\nPolichombr",
-  "md_species_candies_narrow_name_353_plu": "Bonbons\nPolichombr"
+  "md_species_candies_narrow_name_353_plu": "Bonbons\nPolichombr",
+  "md_species_candies_narrow_name_280": "Bonbon\nTarsal",
+  "md_species_candies_narrow_name_280_plu": "Bonbons\nTarsal",
+  "md_species_candies_narrow_name_759": "Bonbon\nNounourson",
+  "md_species_candies_narrow_name_759_plu": "Bonbons\nNounourson"
 }

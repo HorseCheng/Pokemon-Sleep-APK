@@ -97,6 +97,10 @@
   "md_species_candies_name_459_plu": "Snover Candies",
   "md_species_candies_name_353": "Shuppet Candy",
   "md_species_candies_name_353_plu": "Shuppet Candies",
+  "md_species_candies_name_280": "Ralts Candy",
+  "md_species_candies_name_280_plu": "Ralts Candies",
+  "md_species_candies_name_759": "Stufful Candy",
+  "md_species_candies_name_759_plu": "Stufful Candies",
   "md_species_candies_narrow_name_25": "Pikachu\nCandy",
   "md_species_candies_narrow_name_25_plu": "Pikachu\nCandies",
   "md_species_candies_narrow_name_133": "Eevee\nCandy",
@@ -194,5 +198,9 @@
   "md_species_candies_narrow_name_459": "Snover\nCandy",
   "md_species_candies_narrow_name_459_plu": "Snover\nCandies",
   "md_species_candies_narrow_name_353": "Shuppet\nCandy",
-  "md_species_candies_narrow_name_353_plu": "Shuppet\nCandies\n"
+  "md_species_candies_narrow_name_353_plu": "Shuppet\nCandies\n",
+  "md_species_candies_narrow_name_280": "Ralts\nCandy",
+  "md_species_candies_narrow_name_280_plu": "Ralts\nCandies",
+  "md_species_candies_narrow_name_759": "Stufful\nCandy",
+  "md_species_candies_narrow_name_759_plu": "Stufful\nCandies"
 }

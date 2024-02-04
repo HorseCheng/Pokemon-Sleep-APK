@@ -41,7 +41,7 @@
   "Signup_SCENE_AlreadyInherited_Popup_Text_1": "Los datos de esta cuenta se han\ntransferido a otro dispositivo móvil.",
   "Signup_SCENE_AlreadyInherited_Popup_Text_2": "Por favor, juega en el dispositivo móvil\nal que se han transferido los datos.",
   "Signup_SCENE_BanAccount_Popup_Title": "Cuenta no válida",
-  "Signup_SCENE_BanAccount_Popup_Text_1": "Esta cuenta está restringida.",
+  "Signup_SCENE_BanAccount_Popup_Text_1": "Esta cuenta está anulada.",
   "Signup_SCENE_BanAccount_Popup_Text_2": "No puedes jugar con ella.",
   "Signup_SCENE_SDKAgree_Heading": "Consentimiento para el uso de información",
   "Signup_SCENE_SDKAgree_Text_1": "Para poder ofrecer un mejor servicio y una\nexperiencia personalizada, Pokémon Sleep\nrecopila la siguiente información:",

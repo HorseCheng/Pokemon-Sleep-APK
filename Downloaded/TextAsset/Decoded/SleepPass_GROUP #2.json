@@ -1,7 +1,7 @@
 {
   "PointHistoryListCell_Score": "\u000e\u0002\u0002\u0002\u0000",
   "PointHistoryListCell_Date": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
-  "PointHistoryListCell_Point": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001c\npoint\fpoints촀",
+  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0001\u0000\u001c\npoint\fpoints촀",
   "PointHistoryListCell_PassType_Normal": "Regular",
   "PointHistoryListCell_PassType_Premium": "Premium",
   "PointHistoryListCell_PassType_Bonus": "Bonus",

@@ -1,7 +1,7 @@
 {
   "SleepDataSalvageLoader_Text_1": "Se han recuperado los datos",
   "SleepDataSalvageLoader_Text_2": "Cargando estudio del sueño...",
-  "SleepDataSalvageLoader_Text_3": "Se han encontrado datos \ncorrespondientes a un mismo periodo\nde tiempo.",
+  "SleepDataSalvageLoader_Text_3": "Se han encontrado datos duplicados\ncorrespondientes a un mismo periodo\nde tiempo.",
   "SleepDataSalvageLoader_Text_4": "Ya has superado el máximo diario de\nsesiones que puedes registrar.",
   "SleepDataSalvageLoader_Text_5": "Estos datos ya se han registrado.",
   "SleepDataSalvageLoader_Text_6": "No se han encontrado datos válidos.",

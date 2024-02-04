@@ -33,6 +33,7 @@
   "item_name_32": "semilla habilidad principal",
   "item_name_33": "semilla habilidad secundaria",
   "item_name_34": "incienso afecto",
+  "item_name_35": "Piedra Alba",
   "item_desc_1": "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del sueño,\ntras lo cual se consume.",
   "item_desc_2": "Duplica la cantidad de fragmentos de\nsueño obtenidos tras una sesión de\nestudio, tras lo cual se consume.",
   "item_desc_3": "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio, tras lo cual se consume.",
@@ -67,6 +68,7 @@
   "item_desc_32": "Semilla misteriosa sube un nivel la\nhabilidad principal de un Pokémon.",
   "item_desc_33": "Semilla misteriosa que mejora en un\nnivel una habilidad secundaria al azar\nde un Pokémon.\nNo se puede usar si el Pokémon tiene\ntodas sus habilidades secundarias\ndesbloqueadas al máximo nivel, o si la\nhabilidad ya no se puede mejorar más.",
   "item_desc_34": "Incienso que asegura que al menos un\nPokémon particularmente hambriento\naparezca a la hora del picoteo, tras lo\ncual se consume.",
+  "item_desc_35": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Brilla como un lucero.",
   "item_desc_short_1": "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del\nsueño, tras lo cual se consume.",
   "item_desc_short_2": "Duplica la cantidad de fragmentos\nde sueño obtenidos tras una sesión\nde estudio, tras lo cual se consume.",
   "item_desc_short_3": "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio, tras lo cual se consume.",
@@ -100,5 +102,6 @@
   "item_desc_short_31": "El Pokémon que la lleva puede\namedrentar al objetivo al que\ninflige daño con un ataque.",
   "item_desc_short_32": "Semilla misteriosa sube un nivel la\nhabilidad principal de un Pokémon.",
   "item_desc_short_33": "Semilla misteriosa que sube un nivel\nuna habilidad secundaria al azar de\nun Pokémon.",
-  "item_desc_short_34": "Incienso que asegura la aparición de\nal menos un Pokémon especialmente\nhambriento a la hora del picoteo."
+  "item_desc_short_34": "Incienso que asegura la aparición de\nal menos un Pokémon especialmente\nhambriento a la hora del picoteo.",
+  "item_desc_short_35": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Brilla como un lucero."
 }

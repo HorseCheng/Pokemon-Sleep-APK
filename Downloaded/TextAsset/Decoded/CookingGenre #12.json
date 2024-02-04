@@ -1,8 +1,8 @@
 {
-  "CookingGenre_Name_1": "카레/스튜",
-  "CookingGenre_Name_2": "샐러드",
-  "CookingGenre_Name_3": "디저트/드링크",
-  "CookingGenre_UnknownDishName_1": "카레/스튜의 레시피",
-  "CookingGenre_UnknownDishName_2": "샐러드의 레시피",
-  "CookingGenre_UnknownDishName_3": "디저트/드링크의 레시피"
+  "CookingGenre_Name_1": "Currys / Ragoûts",
+  "CookingGenre_Name_2": "Salades",
+  "CookingGenre_Name_3": "Desserts / Boissons",
+  "CookingGenre_UnknownDishName_1": "Curry/Ragoût",
+  "CookingGenre_UnknownDishName_2": "Salade",
+  "CookingGenre_UnknownDishName_3": "Dessert/Boisson"
 }

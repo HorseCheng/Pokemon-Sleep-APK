@@ -41,7 +41,7 @@
   "Signup_SCENE_AlreadyInherited_Popup_Text_1": "Les données de sauvegarde de ce\ncompte ont été transférées vers\nun autre appareil.",
   "Signup_SCENE_AlreadyInherited_Popup_Text_2": "Veuillez jouer sur l'appareil vers lequel\nvotre sauvegarde a été transférée.",
   "Signup_SCENE_BanAccount_Popup_Title": "Compte invalide",
-  "Signup_SCENE_BanAccount_Popup_Text_1": "Ce compte est limité.",
+  "Signup_SCENE_BanAccount_Popup_Text_1": "Ce compte est suspendu.",
   "Signup_SCENE_BanAccount_Popup_Text_2": "Vous ne pouvez pas l'utiliser pour jouer.",
   "Signup_SCENE_SDKAgree_Heading": "Accord d'utilisation des informations",
   "Signup_SCENE_SDKAgree_Text_1": "Pour améliorer nos services et proposer\ndes publicités et informations ciblées,\nPokémon Sleep rassemble les informations\nsuivantes :",

@@ -1,7 +1,7 @@
 {
   "PointHistoryListCell_Score": "\u000e\u0002\u0002\u0002\u0000",
   "PointHistoryListCell_Date": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
-  "PointHistoryListCell_Point": "\u000e\u0002\u0002\u0002\u0000포인트",
+  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁포인트",
   "PointHistoryListCell_PassType_Normal": "노멀",
   "PointHistoryListCell_PassType_Premium": "프리미엄",
   "PointHistoryListCell_PassType_Bonus": "보너스",

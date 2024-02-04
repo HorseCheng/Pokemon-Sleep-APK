@@ -33,6 +33,7 @@
   "item_name_32": "Main Skill Seed",
   "item_name_33": "Sub Skill Seed",
   "item_name_34": "Friend Incense",
+  "item_name_35": "Dawn Stone",
   "item_desc_1": "Doubles the research EXP gained\nafter sleep research. Good for one\nsleep session, then consumed.",
   "item_desc_2": "Doubles the Dream Shards received\nafter sleep research.  Good for one\nsleep session, then consumed.",
   "item_desc_3": "Doubles the EXP that helpers gain\nafter sleep research. Good for one\nsleep session, then consumed.",
@@ -67,6 +68,7 @@
   "item_desc_32": "A mysterious seed that can raise the\nlevel of a Pokémon's main skill by one.",
   "item_desc_33": "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one.\n\u000e\n\u0000\u0002촀Note: It cannot be used if all of the\nPokémon’s unlocked sub skills are at\nmax level, or if the Pokémon already\nhas the higher quality version of the\nsame skill.\u000f\n\u0000",
   "item_desc_34": "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry. Good for one\nsleep session, then consumed.",
+  "item_desc_35": "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt sparkles like an eye.",
   "item_desc_short_1": "Doubles the research EXP gained\nafter sleep research.",
   "item_desc_short_2": "Doubles the Dream Shards received\nafter sleep research.",
   "item_desc_short_3": "Doubles the EXP that helpers gain\nafter sleep research.",
@@ -100,5 +102,6 @@
   "item_desc_short_31": "A peculiar stone that can make \ncertain species of Pokémon evolve.\nIt is shaped like a crown.",
   "item_desc_short_32": "A mysterious seed that can raise\nthe level of a Pokémon's main skill\nby one.",
   "item_desc_short_33": "A mysterious seed that can improve\nthe quality of a Pokémon’s random\nsub skill by one.",
-  "item_desc_short_34": "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry."
+  "item_desc_short_34": "Ensures that at least one Pokémon\nwill appear during snack time feeling\nparticularly hungry.",
+  "item_desc_short_35": "A peculiar stone that can make\ncertain species of Pokémon evolve.\nIt sparkles like an eye."
 }

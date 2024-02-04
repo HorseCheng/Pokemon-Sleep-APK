@@ -2,6 +2,8 @@
   "SleepDataListScene_Content_Title": "수면 데이터 리스트",
   "SleepDataListScene_Content_Desc": "지금까지의 수면 데이터와 리서치 내용을 확인할 수 있습니다",
   "SleepDataListScene_Content_LimitButton": "30일간 (제한)",
+  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁日間（制限）",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁日間",
   "SleepDataListScene_Header_Title": "수면 데이터",
   "SleepDataListScene_Header_CalendarButton": "캘린더",
   "SleepDataListScene_Header_ListButton": "リスト",

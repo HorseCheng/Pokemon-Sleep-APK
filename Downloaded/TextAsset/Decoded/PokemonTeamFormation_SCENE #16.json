@@ -1,5 +1,5 @@
 {
-  "PokemonTeamFormationSceneController_Text_6": "Confirmer le changement ?",
+  "PokemonTeamFormationSceneController_Text_6": "Confirmation du changement",
   "PokemonTeamFormationSceneController_Text_4": "Erreur",
   "PokemonTeamFormationSceneController_Text_5": "Veuillez inclure au moins un Pokémon\ndans votre équipe.",
   "PokemonTeamFormationSceneController_Text_1": "Formation terminée",
@@ -10,13 +10,13 @@
   "PokemonTeamCellViewTypeToggleButton_Text_1": "Niveau",
   "PokemonTeamCellViewTypeToggleButton_Text_2": "PS",
   "PokemonTeamFormationScene_Content_StatusListButton": "Statut",
-  "PokemonTeamFormationScene_Content_AutoFormationButton": "Formation automatique",
+  "PokemonTeamFormationScene_Content_AutoFormationButton": "Formation aléatoire",
   "PokemonTeamFormationScene_Content_ChangeButton": "Utiliser cette équipe",
-  "PokemonTeamFormationScene_Header_Title": "Modifier les équipes",
+  "PokemonTeamFormationScene_Header_Title": "Formation",
   "PokemonTeamFormationScene_Header_TeamSPTitle": "PS d'équipe",
   "PokemonTeamFormationScene_Header_TeamSPNum": "\u000e\u0002\u0005\u0004\u0000촁",
   "PokemonTeamFormationScene_Footer_Title": "Affichage",
   "PokemonTeamFormationScene_Footer_Value": "Niveau",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Équipe actuelle",
-  "PokemonTeamFormationSceneController_Text_7": "Vous n'avez pas confirmé la nouvelle\nformation de votre équipe. Si vous\nsouhaitez l'utiliser, appuyez sur le\nbouton « Utiliser cette équipe » !\n\nContinuer malgré tout avec votre\nformation actuelle ?"
+  "PokemonTeamFormationSceneController_Text_7": "Vous n'avez pas confirmé la nouvelle\nformation de votre équipe. Si vous \nsouhaitez l'utiliser, appuyez sur le\nbouton « Utiliser cette équipe » !\n\nContinuer malgré tout avec votre\nformation actuelle ?"
 }

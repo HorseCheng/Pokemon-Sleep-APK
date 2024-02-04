@@ -33,6 +33,7 @@
   "item_name_32": "Seme abilità principale",
   "item_name_33": "Seme abilità secondaria",
   "item_name_34": "Affiataroma",
+  "item_name_35": "Pietralbore",
   "item_desc_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
   "item_desc_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
   "item_desc_3": "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
@@ -67,6 +68,7 @@
   "item_desc_32": "Seme misterioso che fa salire\ndi 1 livello l'abilità principale\ndi un Pokémon.",
   "item_desc_33": "Seme misterioso che fa aumentare\ndi 1 livello la qualità di un'abilità\nsecondaria a caso di un Pokémon.\n\u000e\n\u0000\u0002촀(Non può essere usato se tutte le\nabilità secondarie sbloccate del\nPokémon sono al livello massimo e\nnon avrà effetto su abilità che hanno\ngià raggiunto la qualità più alta.)\u000f\n\u0000",
   "item_desc_34": "Fa sì che per lo spuntino appaia\nalmeno un Pokémon particolarmente\naffamato. Dura una sola sessione\ndi sonno e poi sparisce.",
+  "item_desc_35": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ luccicante come gli occhi.",
   "item_desc_short_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.",
   "item_desc_short_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.",
   "item_desc_short_3": "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno.",
@@ -100,5 +102,6 @@
   "item_desc_short_31": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ a forma di corona.",
   "item_desc_short_32": "Seme misterioso che fa salire\ndi 1 livello l'abilità principale\ndi un Pokémon.",
   "item_desc_short_33": "Seme misterioso che fa aumentare\ndi 1 livello la qualità di un'abilità\nsecondaria a caso di un Pokémon.",
-  "item_desc_short_34": "Fa sì che per lo spuntino\nappaia almeno un Pokémon\nparticolarmente affamato."
+  "item_desc_short_34": "Fa sì che per lo spuntino\nappaia almeno un Pokémon\nparticolarmente affamato.",
+  "item_desc_short_35": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ luccicante come gli occhi."
 }

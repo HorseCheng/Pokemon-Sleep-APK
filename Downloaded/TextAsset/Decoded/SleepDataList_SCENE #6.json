@@ -2,6 +2,8 @@
   "SleepDataListScene_Content_Title": "Schlafdaten",
   "SleepDataListScene_Content_Desc": "Prüfe deine Daten und Forschungsergebnisse",
   "SleepDataListScene_Content_LimitButton": "30 Tage (Max.)",
+  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁 Tage (Max.)",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁 Tage",
   "SleepDataListScene_Header_Title": "Schlafdaten",
   "SleepDataListScene_Header_CalendarButton": "Kalender",
   "SleepDataListScene_Header_ListButton": "Liste",

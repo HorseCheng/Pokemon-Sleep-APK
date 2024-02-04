@@ -3,14 +3,14 @@
   "NewResearchView_Title": "DormiDex",
   "NewResearchView_Title_2": "Lista de posturas",
   "FriendPointLevelUpPopup_FriendLevelNum": "\u000e\u0002\u0002\u0002\u0000",
-  "FriendPointLevelUpPopup_Title": "Amistad aumentada",
+  "FriendPointLevelUpPopup_Title": "Mayor amistad",
   "FriendPointLevelUpPopup_LevelupDesc": "Parece que \u000e\u0003\u0001\u0002\u0000 se encuentra\nahora más a gusto en el campamento.",
-  "FriendPointLevelUpPopup_BonusTitle": "Ha aumentado la posibilidad de\nhallar un \u000e\u0003\u0001\u0002\u0000 variocolor.",
-  "FriendPointWindow_Level": "Nivel de amistad: \u000e\u0002\u0001\u0002\u0000",
+  "FriendPointLevelUpPopup_BonusTitle": "Es algo más probable hallar\nun \u000e\u0003\u0001\u0002\u0000 variocolor.",
+  "FriendPointWindow_Level": "Nv. amistad: \u000e\u0002\u0001\u0002\u0000",
   "FriendPointWindow_PointText": "+\u000e\u0002\u0001\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀",
-  "FriendPointWindow_FriendMaxText": "¡Amistad aumentada!",
+  "FriendPointWindow_FriendMaxText": "¡Mayor amistad!",
   "NewResearchView_NewPokemonText": "¡Nuevo Pokémon!",
-  "NewResearchView_LibraryNumber": "Postura N.º \u000e\u0002\u0003\u0004\u0000촀-\u000e\u0002\u0001\u0002\u0001",
+  "NewResearchView_LibraryNumber": "N.º \u000e\u0002\u0003\u0004Ā촀, ID-\u000e\u0002\u0001\u0002\u0001",
   "NewResearchView_SleepTypeText": "Sueño \u000e\u0003\u0004\u0002\u0000",
   "NewResearchView_PokedexNumberText": "N.º \u000e\u0002\u0003\u0004Ā촀",
   "NewResearchView_LockedView": "(?)",
@@ -18,5 +18,5 @@
   "ResearchPhotoPopup_Num": "\u000e\u0002\u0002\u0002\u0000",
   "ResearchPhotoPopup_Num_2": "\u000e\u0002\u0002\u0002\u0000",
   "ResearchPhotoPopup_SleepingFaceName_Prefix": "\u000e\u0000\u0003\u0004￿ÿ.\u000e\u0000\u0003\u0004\u0000＀",
-  "NewResearchView_LibrarySleepingFace": "N.º \u000e\u0002\u0002\u0002\u0000 \u000e\u0003\r\u0002\u0001"
+  "NewResearchView_LibrarySleepingFace": "ID-\u000e\u0002\u0002\u0002\u0000: \u000e\u0003\r\u0002ȁ"
 }

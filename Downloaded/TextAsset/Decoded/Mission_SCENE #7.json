@@ -18,7 +18,7 @@
   "MissionScene_Content_TopView_SectionTitle": "미달성 항목 앞으로 \u000e\u0002\u0001\u0002\u0000개",
   "MissionScene_Footer_GetAllButton": "모두 받는다",
   "MissionScene_Header_Title": "미션",
-  "WeeklyMissionCell_ItemNum": "x\u000e\u0002\u0001\u0002\u0000",
+  "WeeklyMissionCell_ItemNum": "x\u000e\u0002\u0004\u0004\u0000촁",
   "WeeklyMissionCell_Progress": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
   "WeeklyMissionCell_BalloonMessage": "향로",
   "WeeklyMissionCell_Clear": "CLEAR",

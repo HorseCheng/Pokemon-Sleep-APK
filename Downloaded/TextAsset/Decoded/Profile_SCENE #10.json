@@ -7,6 +7,8 @@
   "Profile_ResearchRank_Label": "研究階級",
   "Profile_ResearchRank_Value": "\u000e\u0002\u0004\u0004\u0000촁",
   "Profile_ResearchRankProgress": "\u000e\u0002\t\u0004\u0000촁/\u000e\u0002\t\u0004\u0001촁",
+  "Profile_ResearchRankProgress2": "距離下一階級還需",
+  "Profile_ResearchRankProgress2_Value": "\u000e\u0002\u0007\u0004\u0000촁",
   "Profile_Title_Records": "研究紀錄",
   "Profile_TotalSleepTime_Label": "總睡眠時間",
   "Profile_TotalSleepTime_Value": "\u000e\t\u0000\f\bhhhh\u0000",

@@ -2,6 +2,8 @@
   "SleepDataListScene_Content_Title": "睡眠資料一覽",
   "SleepDataListScene_Content_Desc": "可以確認至今的睡眠資料和研究內容。",
   "SleepDataListScene_Content_LimitButton": "上限為30天",
+  "SleepDataListScene_Content_LimitButton_locked": "上限為\u000e\u0002\u0003\u0004\u0000촁天",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁天份",
   "SleepDataListScene_Header_Title": "睡眠資料",
   "SleepDataListScene_Header_CalendarButton": "月曆式",
   "SleepDataListScene_Header_ListButton": "列表式",

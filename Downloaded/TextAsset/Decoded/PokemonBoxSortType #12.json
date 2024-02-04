@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "N.º Pokédex",
-  "PokemonBoxSortType_2": "Nivel",
-  "PokemonBoxSortType_3": "Nombre",
-  "PokemonBoxSortType_4": "Fecha de registro",
-  "PokemonBoxSortType_5": "Energía",
-  "PokemonBoxSortType_6": "Horas de sueño",
-  "PokemonBoxSortType_7": "PA",
-  "PokemonBoxSortType_8": "Tipo de sueño"
+  "PokemonBoxSortType_1": "도감 번호",
+  "PokemonBoxSortType_2": "레벨",
+  "PokemonBoxSortType_3": "이름",
+  "PokemonBoxSortType_4": "등록일",
+  "PokemonBoxSortType_5": "기력",
+  "PokemonBoxSortType_6": "수면 시간",
+  "PokemonBoxSortType_7": "SP",
+  "PokemonBoxSortType_8": "수면 타입"
 }
