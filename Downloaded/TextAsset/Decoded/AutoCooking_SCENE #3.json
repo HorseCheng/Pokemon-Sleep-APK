@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "Cooking...",
   "AutoCookingScene_Result_GreatSuccess": "Extra tasty",
   "AutoCookingScene_PotExpandBonusNum": "MAX UP!",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "The pot will be temporarily\nexpanded to hold more ingredients\nfor the next cooking session.",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "Good Camp Ticket: \u000e\u0000\u0003\u0004毿Ｗ× \u000e\u0002\u0002\u0002\u0000 (+ \u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "End-of-Week Bonus: \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "Main Skill: \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "Dishes during the event are set to the\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ category.",
+  "AutoCookingScene_EventBonusPopup_Text_2": "\u000e\u0000\u0003\u0004毿ＷStrength\u000e\u0000\u0003\u0004\u0000＀ gains from dishes will be\n\u000e\u0000\u0003\u0004毿Ｗmultiplied by \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "End of Rental",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "The rental period for your Good\nCamp Set has now ended.\nPlease reselect your ingredients.",
   "AutoCookingScene_WeekendBonus_1": "End-of-Week Bonus",
   "AutoCookingScene_WeekendBonus_2": "Larger Cooking Pot",
+  "AutoCookingScene_WeekendBonus_4": "Pot Expansion (to fit more ingredients)",
   "AutoCookingScene_PotShort_Popup_Title": "Not Enough Room in Pot",
   "AutoCookingScene_PotShort_Popup_Text": "You can’t cook this dish because the\nnumber of ingredients you need to\nmake this dish exceeds the current\ncapacity of your pot."
 }

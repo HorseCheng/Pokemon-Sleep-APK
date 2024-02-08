@@ -135,5 +135,6 @@
   "Signup_SCENE_SoftBAN_Popup_Title": "Sospensione temporanea del gioco",
   "Signup_SCENE_SoftBAN_Popup_Text": "Sono state rilevate delle attività\nche potrebbero causare irregolarità\nnell'avanzamento del gioco.\nIl gioco è stato temporaneamente\nsospeso.\nRiavvia l'applicazione e riprova\npiù tardi.",
   "Signup_SCENE_ShortStorage_Popup_Title": "Spazio insufficiente",
-  "Signup_SCENE_ShortStorage_Popup_Text": "Nel dispositivo non c'è abbastanza\nspazio di archiviazione libero\nper poter giocare a Pokémon Sleep.\nQuesto può causare problemi durante\nil gioco, perciò fai spazio eliminando\napp, foto e video che non servono più."
+  "Signup_SCENE_ShortStorage_Popup_Text": "Nel dispositivo non c'è abbastanza\nspazio di archiviazione libero\nper poter giocare a Pokémon Sleep.\nQuesto può causare problemi durante\nil gioco, perciò fai spazio eliminando\napp, foto e video che non servono più.",
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "Impossibile giocare a Pokémon Sleep\nperché questo account è stato\ncancellato.\nSe vuoi ricominciare dall'inizio,\nelimina l'app, reinstallala e riprova."
 }

@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "천하장사 소이 도넛",
   "md_cooking_foods_narrow_name_3017": "だいばくはつ\nポップコーン",
   "md_cooking_foods_narrow_name_3018": "おちゃかい\nコーンスコーン",
+  "md_cooking_foods_narrow_name_3019": "はなびらのまい\nチョコタルト",
+  "md_cooking_foods_narrow_name_3020": "フラワーギフト\nマカロン",
   "md_cooking_foods_name_1": "굵은대파",
   "md_cooking_foods_name_2": "향기버섯",
   "md_cooking_foods_name_3": "특선에그",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "천하장사 소이 도넛",
   "md_cooking_foods_name_3017": "だいばくはつポップコーン",
   "md_cooking_foods_name_3018": "おちゃかいコーンスコーン",
+  "md_cooking_foods_name_3019": "はなびらのまいチョコタルト",
+  "md_cooking_foods_name_3020": "フラワーギフトマカロン",
   "md_cooking_foods_desc_1": "파오리가 좋아하는\n식물의 줄기인지는 불명이다.",
   "md_cooking_foods_desc_2": "주변 일대에 좋은 향기가\n퍼지는 희귀한 버섯.",
   "md_cooking_foods_desc_3": "영양 만점에 맛도 일품.\n고급 식재료로 사용된다.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "알로라지방의 레시피를 바탕으로 재현한\n특별한 튀긴 빵.",
   "md_cooking_foods_desc_3016": "바삭하게 튀긴 소이 도넛.\n몸만들기에 도움이 된다.",
   "md_cooking_foods_desc_3017": "だいばくはつするほどの火力で一瞬で仕上げた。",
-  "md_cooking_foods_desc_3018": "サクサク食感のスコーンと\nアップルジンジャーのジャムを1対1で。"
+  "md_cooking_foods_desc_3018": "サクサク食感のスコーンと\nアップルジンジャーのジャムを1対1で。",
+  "md_cooking_foods_desc_3019": "食べるとリンゴの花びらが舞う\nやんちゃなタルト。",
+  "md_cooking_foods_desc_3020": "おくりものにぴったりな笑顔咲くマカロン。"
 }

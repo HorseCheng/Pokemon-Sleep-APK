@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "Donuts au Soja\nColoforce",
   "md_cooking_foods_narrow_name_3017": "Popcorn Explosion",
   "md_cooking_foods_narrow_name_3018": "Scones de Maïs\nThérémonie",
+  "md_cooking_foods_narrow_name_3019": "Tartelettes au chocolat\nDanse Fleurs",
+  "md_cooking_foods_narrow_name_3020": "Macarons Don Floral",
   "md_cooking_foods_name_1": "Gros Poireau",
   "md_cooking_foods_name_2": "Champi Exquis",
   "md_cooking_foods_name_3": "Œuf Exquis",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "Donuts au Soja Coloforce",
   "md_cooking_foods_name_3017": "Popcorn Explosion",
   "md_cooking_foods_name_3018": "Scones de Maïs Thérémonie",
+  "md_cooking_foods_name_3019": "Tartelettes au chocolat Danse Fleurs",
+  "md_cooking_foods_name_3020": "Macarons Don Floral",
   "md_cooking_foods_desc_1": "On ignore s'il s'agit de la variété que\nles Canarticho affectionnent tant.",
   "md_cooking_foods_desc_2": "Un champignon juteux avec une saveur\numami prononcée.",
   "md_cooking_foods_desc_3": "Un ingrédient nutritif s'accommodant\navec toutes sortes d'assaisonnements.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "Un type de beignet particulier réalisé\nselon une recette de la région d'Alola.",
   "md_cooking_foods_desc_3016": "Ces donuts parfaitement frits sont\nles meilleurs amis des culturistes.",
   "md_cooking_foods_desc_3017": "Préparé en un instant avec assez de\nchaleur pour provoquer une explosion.",
-  "md_cooking_foods_desc_3018": "Ces scones croustillants sont\ndélicieux accompagnés d'une dose\négale de confiture de pommes au\ngingembre."
+  "md_cooking_foods_desc_3018": "Ces scones croustillants sont\ndélicieux accompagnés d'une dose\négale de confiture de pommes au\ngingembre.",
+  "md_cooking_foods_desc_3019": "De facétieuses tartelettes libérant\nde délicieux pétales fruités\nà chaque bouchée.",
+  "md_cooking_foods_desc_3020": "Ces macarons sont le cadeau parfait\net vous garantiront un sourire si vous\nles offrez à quelqu'un."
 }

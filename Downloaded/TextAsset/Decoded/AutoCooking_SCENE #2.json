@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "Preparazione in corso...",
   "AutoCookingScene_Result_GreatSuccess": "Che bontà!",
   "AutoCookingScene_PotExpandBonusNum": "MAX ↑",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "La pentola sarà ingrandita\ntemporaneamente e potrai usare\npiù ingredienti nel prossimo piatto.",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "Biglietto campeggio buono: \u000e\u0000\u0003\u0004毿Ｗ×\u000e\u0002\u0002\u0002\u0000 (+\u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "Bonus termine della settimana: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "Abilità principale: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "Piatti richiesti durante l'evento:\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002Ȁ\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_2": "La \u000e\u0000\u0003\u0004毿Ｗpotenza\u000e\u0000\u0003\u0004\u0000＀ ottenuta dai piatti sarà\n\u000e\u0000\u0003\u0004毿Ｗmoltiplicata per \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Fine del noleggio",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "Il periodo di noleggio del Set da\ncampeggio buono è terminato.\nSeleziona di nuovo gli ingredienti.",
   "AutoCookingScene_WeekendBonus_1": "Bonus fine settimana",
   "AutoCookingScene_WeekendBonus_2": "Pentola più grande",
+  "AutoCookingScene_WeekendBonus_4": "Aumento capienza pentola",
   "AutoCookingScene_PotShort_Popup_Title": "Spazio insufficiente nella pentola",
   "AutoCookingScene_PotShort_Popup_Text": "Non puoi preparare questo piatto\nperché il numero di ingredienti\nnecessari supera la capienza\nattuale della pentola."
 }

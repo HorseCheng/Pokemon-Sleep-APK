@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "Soja-Donuts\n„Kraftkoloss“",
   "md_cooking_foods_narrow_name_3017": "Popcorn „Explosion“",
   "md_cooking_foods_narrow_name_3018": "Mais-Scones „Teatime“",
+  "md_cooking_foods_narrow_name_3019": "Schokotörtchen\n„Blättertanz“",
+  "md_cooking_foods_narrow_name_3020": "Macarons\n„Pflanzengabe“",
   "md_cooking_foods_name_1": "Dicker Lauch",
   "md_cooking_foods_name_2": "Schlemmerpilz",
   "md_cooking_foods_name_3": "Luxus-Ei",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "Soja-Donuts „Kraftkoloss“",
   "md_cooking_foods_name_3017": "Popcorn „Explosion“",
   "md_cooking_foods_name_3018": "Mais-Scones „Teatime“",
+  "md_cooking_foods_name_3019": "Schokotörtchen „Blättertanz“",
+  "md_cooking_foods_name_3020": "Macarons „Pflanzengabe“",
   "md_cooking_foods_desc_1": "Es ist nicht bekannt, ob dieses\nGemüse Porentas Leibspeise ist.",
   "md_cooking_foods_desc_2": "Ein saftiger und aromatischer Pilz.",
   "md_cooking_foods_desc_3": "Eine nahrhafte Zutat, die mit vielen\nGewürzen harmoniert.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "Eine besondere Brotzubereitung nach\neinem Rezept aus der Alola-Region.",
   "md_cooking_foods_desc_3016": "Knusprig frittierte Donuts auf\nSojabasis. Das freut die Muskeln.",
   "md_cooking_foods_desc_3017": "Blitzschnell zubereitet und mit so viel\nHitze, dass es für eine Explosion\nreicht.",
-  "md_cooking_foods_desc_3018": "Dieser feinblättrige Scone schmeckt\näußerst lecker, wenn man ihn mit\nApfel-Ingwer-Marmelade isst."
+  "md_cooking_foods_desc_3018": "Dieser feinblättrige Scone schmeckt\näußerst lecker, wenn man ihn mit\nApfel-Ingwer-Marmelade isst.",
+  "md_cooking_foods_desc_3019": "Ein freches Törtchen, das bei dessen\nVerzehr Blütenblätter verteilt.",
+  "md_cooking_foods_desc_3020": "Diese Macarons eignen sich perfekt\nals Geschenk und zaubern ein Lächeln\nauf das Gesicht der Beschenkten."
 }

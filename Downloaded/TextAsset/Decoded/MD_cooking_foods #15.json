@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "大力士豆香甜甜圈",
   "md_cooking_foods_narrow_name_3017": "大爆炸爆米花",
   "md_cooking_foods_narrow_name_3018": "茶會玉米司康",
+  "md_cooking_foods_narrow_name_3019": "花瓣舞巧克力塔",
+  "md_cooking_foods_narrow_name_3020": "花之禮馬卡龍",
   "md_cooking_foods_name_1": "粗枝大蔥",
   "md_cooking_foods_name_2": "品鮮蘑菇",
   "md_cooking_foods_name_3": "特選蛋",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "大力士豆香甜甜圈",
   "md_cooking_foods_name_3017": "大爆炸爆米花",
   "md_cooking_foods_name_3018": "茶會玉米司康",
+  "md_cooking_foods_name_3019": "花瓣舞巧克力塔",
+  "md_cooking_foods_name_3020": "花之禮馬卡龍",
   "md_cooking_foods_desc_1": "不知道是不是大蔥鴨\n所喜愛的那種植物的莖。",
   "md_cooking_foods_desc_2": "充滿鮮味的多汁蘑菇。",
   "md_cooking_foods_desc_3": "這個食材適合許多不同的調味方式，\n而且營養價值也很高。",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "特別的油炸麵包。\n依照阿羅拉地區的食譜重現而成。",
   "md_cooking_foods_desc_3016": "炸得酥脆的豆香甜甜圈。\n適合用來打造強健體魄。",
   "md_cooking_foods_desc_3017": "使用大爆炸般的火力瞬間烹調完成。",
-  "md_cooking_foods_desc_3018": "口感酥鬆的司康與薑汁蘋果果醬\n以1比1的比例搭配而成。"
+  "md_cooking_foods_desc_3018": "口感酥鬆的司康與薑汁蘋果果醬\n以1比1的比例搭配而成。",
+  "md_cooking_foods_desc_3019": "一旦咬下，蘋果的花瓣\n就會飛舞的淘氣甜塔。",
+  "md_cooking_foods_desc_3020": "會令人綻放笑容的馬卡龍，\n當作贈禮再適合不過了。"
 }

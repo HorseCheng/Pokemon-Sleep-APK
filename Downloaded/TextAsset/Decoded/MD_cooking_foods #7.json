@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "Dónuts de Soja\n\"Potencia\"",
   "md_cooking_foods_narrow_name_3017": "Palomitas \"Explosión\"",
   "md_cooking_foods_narrow_name_3018": "Panecillos de Maíz\n\"Hora del Té\"",
+  "md_cooking_foods_narrow_name_3019": "Tartaleta de Chocolate\n\"Danza Pétalo\"",
+  "md_cooking_foods_narrow_name_3020": "Macarons \"Don Floral\"",
   "md_cooking_foods_name_1": "Puerro Grueso",
   "md_cooking_foods_name_2": "Seta Sabrosa",
   "md_cooking_foods_name_3": "Huevo Selecto",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "Dónuts de Soja \"Potencia\"",
   "md_cooking_foods_name_3017": "Palomitas \"Explosión\"",
   "md_cooking_foods_name_3018": "Panecillos de Maíz \"Hora del Té\"",
+  "md_cooking_foods_name_3019": "Tartaleta de Chocolate \"Danza Pétalo\"",
+  "md_cooking_foods_name_3020": "Macarons \"Don Floral\"",
   "md_cooking_foods_desc_1": "No se sabe si este es el tipo de verdura que le gusta a Farfetch'd.",
   "md_cooking_foods_desc_2": "Suculenta seta de textura jugosa e intenso sabor.",
   "md_cooking_foods_desc_3": "Ingrediente de alto valor nutritivo que\ncombina con toda clase de aderezos.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "Pan frito especial elaborado según\nuna receta de Alola.",
   "md_cooking_foods_desc_3016": "Los culturistas adoran estos roscos de\nsoja en su punto ideal de fritura.",
   "md_cooking_foods_desc_3017": "Preparadas al instante aplicando un\ncalor suficiente como para provocar\nuna explosión.",
-  "md_cooking_foods_desc_3018": "Bollo crujiente que combina a la\nperfección con mermelada de manzana\nal jengibre en proporciones iguales."
+  "md_cooking_foods_desc_3018": "Bollo crujiente que combina a la\nperfección con mermelada de manzana\nal jengibre en proporciones iguales.",
+  "md_cooking_foods_desc_3019": "Alegre tartaleta con la que al\ncomerla se esparcen pétalos.",
+  "md_cooking_foods_desc_3020": "El regalo ideal. Con ellos, el éxito y la\nsonrisa están asegurados."
 }

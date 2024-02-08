@@ -135,5 +135,6 @@
   "Signup_SCENE_SoftBAN_Popup_Title": "Kurzzeitige Spieleinschränkung",
   "Signup_SCENE_SoftBAN_Popup_Text": "Es wurden Spielweisen festgestellt,\ndie zu Unregelmäßigkeiten in der App\nführen könnten.\nDie Spielfunktion wurde kurzzeitig\neingeschränkt. Bitte starte die App\nerneut und versuche es später wieder.",
   "Signup_SCENE_ShortStorage_Popup_Title": "Nicht genügend Speicher",
-  "Signup_SCENE_ShortStorage_Popup_Text": "Dein Gerät hat nicht genügend freien\nSpeicher, um Pokémon Sleep zu spielen.\nDies kann zu Fehlern im Spiel führen,\nalso lösche nicht verwendete Apps,\nFotos oder Videos, etc., um\nSpeicherplatz freizugeben."
+  "Signup_SCENE_ShortStorage_Popup_Text": "Dein Gerät hat nicht genügend freien\nSpeicher, um Pokémon Sleep zu spielen.\nDies kann zu Fehlern im Spiel führen,\nalso lösche nicht verwendete Apps,\nFotos oder Videos, etc., um\nSpeicherplatz freizugeben.",
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "Pokémon Sleep kann nicht gespielt\nwerden, weil dieses Konto gelöscht\nwurde.\nWenn du von Neuem beginnen willst,\nbitte lösche die App, installiere sie\nerneut und versuche es noch einmal."
 }

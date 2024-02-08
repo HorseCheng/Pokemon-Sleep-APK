@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "Zubereitung...",
   "AutoCookingScene_Result_GreatSuccess": "Köstlich",
   "AutoCookingScene_PotExpandBonusNum": "Max. +",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "Der Topf wird kurzzeitig größer,\num mehr Zutaten für die nächste\nZubereitung fassen zu können.",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "Profi-Camping-Ticket: \u000e\u0000\u0003\u0004毿Ｗ×\u000e\u0002\u0002\u0002\u0000 (+\u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "Bonus zum Ende der Woche: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "Haupttalent: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "Gerichte während des Events sind auf\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ eingestellt.",
+  "AutoCookingScene_EventBonusPopup_Text_2": "\u000e\u0000\u0003\u0004毿ＷStärke\u000e\u0000\u0003\u0004\u0000＀, die von Gerichten gewonnen wird,\nwird \u000e\u0000\u0003\u0004毿Ｗmit \u000e\u0002\u0001\u0002\u0000 multipliziert\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Leihperiode beendet",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "Die Leihperiode für dein\nProfi-Camping-Set ist abgelaufen.\nBitte wähle deine Zutaten erneut.",
   "AutoCookingScene_WeekendBonus_1": "Bonus zum Wochenabschluss",
   "AutoCookingScene_WeekendBonus_2": "Größerer Topf",
+  "AutoCookingScene_WeekendBonus_4": "Größerer Topf (fasst mehr Zutaten)",
   "AutoCookingScene_PotShort_Popup_Title": "Nicht genügend Platz im Topf",
   "AutoCookingScene_PotShort_Popup_Text": "Du kannst deine Mahlzeit nicht\nzubereiten, weil die Anzahl der\nbenötigten Zutaten die momentane\nKapazität deines Topfs überschreitet."
 }

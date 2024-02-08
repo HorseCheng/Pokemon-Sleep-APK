@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "ちからもち\nソイドーナッツ",
   "md_cooking_foods_narrow_name_3017": "だいばくはつ\nポップコーン",
   "md_cooking_foods_narrow_name_3018": "おちゃかい\nコーンスコーン",
+  "md_cooking_foods_narrow_name_3019": "はなびらのまい\nチョコタルト",
+  "md_cooking_foods_narrow_name_3020": "フラワーギフト\nマカロン",
   "md_cooking_foods_name_1": "ふといながねぎ",
   "md_cooking_foods_name_2": "あじわいキノコ",
   "md_cooking_foods_name_3": "とくせんエッグ",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "ちからもちソイドーナッツ",
   "md_cooking_foods_name_3017": "だいばくはつポップコーン",
   "md_cooking_foods_name_3018": "おちゃかいコーンスコーン",
+  "md_cooking_foods_name_3019": "はなびらのまいチョコタルト",
+  "md_cooking_foods_name_3020": "フラワーギフトマカロン",
   "md_cooking_foods_desc_1": "カモネギが好む植物のクキなのかは謎。",
   "md_cooking_foods_desc_2": "旨味あふれるジューシーなキノコ。",
   "md_cooking_foods_desc_3": "さまざまな味付けで楽しめる\n栄養価の高い食材。",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "アローラのレシピを取り寄せ再現した\n特別なあげパン。",
   "md_cooking_foods_desc_3016": "サクっとあげたソイドーナッツ。\nからだづくりのお供に。",
   "md_cooking_foods_desc_3017": "だいばくはつするほどの火力で一瞬で仕上げた。",
-  "md_cooking_foods_desc_3018": "サクサク食感のスコーンと\nアップルジンジャーのジャムを1対1で。"
+  "md_cooking_foods_desc_3018": "サクサク食感のスコーンと\nアップルジンジャーのジャムを1対1で。",
+  "md_cooking_foods_desc_3019": "食べるとリンゴの花びらが舞う\nやんちゃなタルト。",
+  "md_cooking_foods_desc_3020": "おくりものにぴったりな笑顔咲くマカロン。"
 }

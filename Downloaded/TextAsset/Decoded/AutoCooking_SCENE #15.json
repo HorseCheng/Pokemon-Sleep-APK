@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "조리 중...",
   "AutoCookingScene_Result_GreatSuccess": "대성공!",
   "AutoCookingScene_PotExpandBonusNum": "MAX +\u000e\u0002\u0004\u0004\u0000촁",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "다음 요리를 만들 때 냄비의 최대 용량이\n일시적으로 증가합니다",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "좋은캠프티켓: \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000배(+\u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "일요일 보너스: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "메인 스킬: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "이벤트 기간 중 요리는 \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\u000e\b\u0000\u0002촅로 고정",
+  "AutoCookingScene_EventBonusPopup_Text_2": "요리로 획득할 수 있는 \u000e\u0000\u0003\u0004毿Ｗ에너지가 \u000e\u0002\u0001\u0002\u0000배\u000e\u0000\u0003\u0004\u0000＀가 된다",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "기한 만료",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "좋은캠프티켓의 효과가 사라졌습니다\n식재료를 다시 선택해 주십시오",
   "AutoCookingScene_WeekendBonus_1": "일요일 보너스",
   "AutoCookingScene_WeekendBonus_2": "최대 용량 UP",
+  "AutoCookingScene_WeekendBonus_4": "냄비의 최대 용량 업",
   "AutoCookingScene_PotShort_Popup_Title": "냄비 용량 부족",
   "AutoCookingScene_PotShort_Popup_Text": "이 요리를 만들기 위해 필요한 식재료의 수가\n현재 냄비의 용량보다 많으므로\n요리를 만들 수 없습니다"
 }

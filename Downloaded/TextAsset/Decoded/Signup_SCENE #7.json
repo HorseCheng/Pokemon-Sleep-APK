@@ -135,5 +135,6 @@
   "Signup_SCENE_SoftBAN_Popup_Title": "일시적인 플레이 제한",
   "Signup_SCENE_SoftBAN_Popup_Text": "게임 진행에 이상을 일으킬 우려가 있는\n플레이를 검출하여\n일시적으로 플레이를 제한했습니다\n시간을 두고 앱 재기동을 시도해 주십시오",
   "Signup_SCENE_ShortStorage_Popup_Title": "저장 공간이 없습니다",
-  "Signup_SCENE_ShortStorage_Popup_Text": "Pokémon Sleep을 플레이하기 위해\n필요한 저장 공간이 부족하여\n플레이 중에 오류가 발생할 가능성이 있습니다\n필요 없는 앱, 동영상, 사진 등을\n삭제하고 저장 공간을 확보해 주십시오"
+  "Signup_SCENE_ShortStorage_Popup_Text": "Pokémon Sleep을 플레이하기 위해\n필요한 저장 공간이 부족하여\n플레이 중에 오류가 발생할 가능성이 있습니다\n필요 없는 앱, 동영상, 사진 등을\n삭제하고 저장 공간을 확보해 주십시오",
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "어카운트가 삭제되어\n플레이할 수 없습니다\n새로 시작하려면\n앱을 한 번 삭제한 뒤\n다시 다운로드해 주십시오"
 }

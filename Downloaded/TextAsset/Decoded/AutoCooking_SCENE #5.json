@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "Cocinando...",
   "AutoCookingScene_Result_GreatSuccess": "Riquísimo",
   "AutoCookingScene_PotExpandBonusNum": "Máx. ↑",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "El puchero se agrandará de forma\ntemporal. La próxima vez podrás\nusar más ingredientes.",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "Cupón de Acampada: \u000e\u0000\u0003\u0004毿Ｗ×\u000e\u0002\u0002\u0002\u0000 (+\u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "Bonus dominguero: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "Habilidad principal: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "Durante el evento, todos los platos serán\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002Ȁ\u000e\u0000\u0003\u0004\u0000＀.",
+  "AutoCookingScene_EventBonusPopup_Text_2": "El \u000e\u0000\u0003\u0004毿Ｗvigor\u000e\u0000\u0003\u0004\u0000＀ obtenido por los platos\n\u000e\u0000\u0003\u0004毿Ｗse multiplicará por \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Vencimiento del alquiler",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "El período de alquiler de tu Lote de\nAcampada ha terminado. Vuelve a\nseleccionar ingredientes.",
   "AutoCookingScene_WeekendBonus_1": "Bonus dominguero",
   "AutoCookingScene_WeekendBonus_2": "Puchero más grande",
+  "AutoCookingScene_WeekendBonus_4": "Capacidad del puchero aumentada",
   "AutoCookingScene_PotShort_Popup_Title": "Capacidad del puchero insuficiente",
   "AutoCookingScene_PotShort_Popup_Text": "No puedes preparar esta receta porque\nen tu puchero ahora mismo no cabe\nel número de ingredientes necesario."
 }

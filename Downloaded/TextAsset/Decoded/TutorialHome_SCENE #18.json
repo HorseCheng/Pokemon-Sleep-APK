@@ -7,6 +7,8 @@
   "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "Cooking Tutorial Completed",
   "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "You earned a reward for completing\nthe cooking tutorial!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002",
   "HomeSceneTutorialController_FooterMessage_FieldChange": "Research Complete!",
+  "HomeSceneTutorialController_ChangeRequestRecipe_by_Event_title": "Dish Request Changed",
+  "HomeSceneTutorialController_ChangeRequestRecipe_by_Event_desc": "Due to the effects of an event,\nSnorlax’s requested dishes for this\nweek have changed.",
   "HomeSceneTutorialController_Text_7": "Tap Pikachu to give Snorlax\nsome Berries!",
   "HomeSceneTutorialController_Text_29": "Tutorial Completion Bonus",
   "HomeSceneTutorialController_Text_30": "You got diamonds ×\u000e\u0002\u0003\u0004\u0000촁!",

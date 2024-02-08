@@ -135,5 +135,6 @@
   "Signup_SCENE_SoftBAN_Popup_Title": "Temporary Play Suspension",
   "Signup_SCENE_SoftBAN_Popup_Text": "Some play that could cause\nirregularities in the progress of the\ngame was detected.\nPlay has been temporarily suspended.\nPlease restart the app and try again\nlater.",
   "Signup_SCENE_ShortStorage_Popup_Title": "Not Enough Storage",
-  "Signup_SCENE_ShortStorage_Popup_Text": "Your device does not have enough open\nstorage space to play Pokémon Sleep.\nThis can cause bugs during gameplay,\nso please delete unneeded apps,\nphotos, or videos, etc. to free up more\nstorage space."
+  "Signup_SCENE_ShortStorage_Popup_Text": "Your device does not have enough open\nstorage space to play Pokémon Sleep.\nThis can cause bugs during gameplay,\nso please delete unneeded apps,\nphotos, or videos, etc. to free up more\nstorage space.",
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "Pokémon Sleep cannot be played\nbecause this account has been\ndeleted.\nIf you would like to start fresh,\nplease delete the app, reinstall it, and\nthen try again."
 }

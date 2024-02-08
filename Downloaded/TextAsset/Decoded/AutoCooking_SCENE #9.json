@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "Préparation en cours...",
   "AutoCookingScene_Result_GreatSuccess": "Super bon !",
   "AutoCookingScene_PotExpandBonusNum": "MAX ↑",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "La marmite sera agrandie et pourra\ncontenir plus d'ingrédients\nla prochaine fois que vous cuisinerez.",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "Ticket de camping : \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000 (+ \u000e\u0002\u0002\u0002\u0001)\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "Bonus de fin de semaine : \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "Compétence Principale : \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "Les \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000 \u000e\u0000\u0003\u0004\u0000＀seront à l'honneur\nau cours de cet évènement.",
+  "AutoCookingScene_EventBonusPopup_Text_2": "La \u000e\u0000\u0003\u0004毿Ｗpuissance\u000e\u0000\u0003\u0004\u0000＀ obtenue en cuisinant sera\nmultipliée par \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Fin de la location",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "La période de location du Kit de\nCamping est terminée.\nVeuillez sélectionner à nouveau\nles ingrédients.",
   "AutoCookingScene_WeekendBonus_1": "Bonus de fin de semaine",
   "AutoCookingScene_WeekendBonus_2": "Agrandir la marmite",
+  "AutoCookingScene_WeekendBonus_4": "Agrandissement de la marmite",
   "AutoCookingScene_PotShort_Popup_Title": "Pas assez de place dans la marmite",
   "AutoCookingScene_PotShort_Popup_Text": "Vous ne pouvez pas préparer ce plat,\ncar le nombre d'ingrédients dont vous\navez besoin dépasse la capacité\nactuelle de votre marmite."
 }

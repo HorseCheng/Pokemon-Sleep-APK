@@ -7,6 +7,8 @@
   "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Title": "已完成料理教學",
   "HomeSceneTutorialController_CookingTutorial_FinishtRewardPopup_Message": "獲得了\n\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\u0001\u0002\u0002\n作為報酬。",
   "HomeSceneTutorialController_FooterMessage_FieldChange": "研究告一段落！",
+  "HomeSceneTutorialController_ChangeRequestRecipe_by_Event_title": "想吃的料理已變更",
+  "HomeSceneTutorialController_ChangeRequestRecipe_by_Event_desc": "活動的效果使得\n卡比獸這週想吃的料理改變了。",
   "HomeSceneTutorialController_Text_7": "點擊皮卡丘後，\n把樹果給卡比獸吃吧！",
   "HomeSceneTutorialController_Text_29": "新手教學完成獎勵",
   "HomeSceneTutorialController_Text_30": "獲得了\n鑽石×\u000e\u0002\u0003\u0004\u0000촁。",

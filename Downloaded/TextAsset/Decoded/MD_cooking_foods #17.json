@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "“Huge Power” Soy Donuts",
   "md_cooking_foods_narrow_name_3017": "“Explosion” Popcorn",
   "md_cooking_foods_narrow_name_3018": "“Teatime” Corn Scones",
+  "md_cooking_foods_narrow_name_3019": "“Petal Dance”\nChocolate Tart",
+  "md_cooking_foods_narrow_name_3020": "“Flower Gift” Macarons",
   "md_cooking_foods_name_1": "Large Leek",
   "md_cooking_foods_name_2": "Tasty Mushroom",
   "md_cooking_foods_name_3": "Fancy Egg",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "“Huge Power” Soy Donuts",
   "md_cooking_foods_name_3017": "“Explosion” Popcorn",
   "md_cooking_foods_name_3018": "“Teatime” Corn Scones",
+  "md_cooking_foods_name_3019": "“Petal Dance” Chocolate Tart",
+  "md_cooking_foods_name_3020": "“Flower Gift” Macarons",
   "md_cooking_foods_desc_1": "Whether this is the kind of vegetable\nstalk that Farfetch’d like is unknown.",
   "md_cooking_foods_desc_2": "A juicy mushroom with an abundance\nof umami flavor.",
   "md_cooking_foods_desc_3": "A nutritious cooking ingredient that\ngoes well with all sorts of seasonings.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "A special fried bread made using a\nrecipe from the Alola region.",
   "md_cooking_foods_desc_3016": "Soy donuts fried to crisp perfection.\nThey’re a bodybuilder’s best friend.",
   "md_cooking_foods_desc_3017": "Prepared in an instant with enough\nheat to cause an explosion.",
-  "md_cooking_foods_desc_3018": "This flaky scone is most delicious\nwhen paired with an equal amount of\napple ginger jam."
+  "md_cooking_foods_desc_3018": "This flaky scone is most delicious\nwhen paired with an equal amount of\napple ginger jam.",
+  "md_cooking_foods_desc_3019": "A tricksy tart that scatters flower\npetals when you eat it.",
+  "md_cooking_foods_desc_3020": "These macarons are perfect to give as\na gift—they always make the\nrecipient smile."
 }

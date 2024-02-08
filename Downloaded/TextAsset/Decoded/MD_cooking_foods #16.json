@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "Ciambelle di soia \"Macroforza\"",
   "md_cooking_foods_narrow_name_3017": "Popcorn \"Esplosione\"",
   "md_cooking_foods_narrow_name_3018": "Scone \"Ora del Tè\"",
+  "md_cooking_foods_narrow_name_3019": "Tartellette al cioccolato\n\"Petalodanza\"",
+  "md_cooking_foods_narrow_name_3020": "Macaron \"Regalfiore\"",
   "md_cooking_foods_name_1": "Grosso porro",
   "md_cooking_foods_name_2": "Fungo saporito",
   "md_cooking_foods_name_3": "Uovo prelibato",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "Ciambelle di soia \"Macroforza\"",
   "md_cooking_foods_name_3017": "Popcorn \"Esplosione\"",
   "md_cooking_foods_name_3018": "Scone \"Ora del Tè\"",
+  "md_cooking_foods_name_3019": "Tartellette al cioccolato \"Petalodanza\"",
+  "md_cooking_foods_name_3020": "Macaron \"Regalfiore\"",
   "md_cooking_foods_desc_1": "Nessuno sa se questo sia davvero\nlo stesso tipo di gambo che piace\ntanto ai Farfetch'd.",
   "md_cooking_foods_desc_2": "Fungo succoso e ricco di sapidità.",
   "md_cooking_foods_desc_3": "Ingrediente nutriente che si abbina\nbene con ogni sorta di condimenti.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "Speciale dolce fritto preparato\nsecondo una ricetta di Alola.",
   "md_cooking_foods_desc_3016": "Ciambelle di soia fritte e friabili,\nideali per i culturisti.",
   "md_cooking_foods_desc_3017": "Preparati in un attimo con\ntalmente tanto calore da\nscatenare un'esplosione.",
-  "md_cooking_foods_desc_3018": "Questo scone friabile è\nparticolarmente delizioso se\ngustato con marmellata di mele\ne zenzero in ugual quantità."
+  "md_cooking_foods_desc_3018": "Questo scone friabile è\nparticolarmente delizioso se\ngustato con marmellata di mele\ne zenzero in ugual quantità.",
+  "md_cooking_foods_desc_3019": "Tartellette scherzose che spargono\npetali di fiori quando le mangi.",
+  "md_cooking_foods_desc_3020": "I macaron perfetti per un\nregalo: strappano sempre\nun sorriso a chi li riceve."
 }

@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "調理中....\n",
   "AutoCookingScene_Result_GreatSuccess": "大成功！",
   "AutoCookingScene_PotExpandBonusNum": "MAX +\u000e\u0002\u0004\u0004\u0000촁",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "次の料理でなべの最大容量が\n一時的にアップします",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "いいキャンプチケット： \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000倍（＋\u000e\u0002\u0002\u0002\u0001）\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "ウィークエンドボーナス： \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "メインスキル： \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "イベント期間中の料理は \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_2": "料理で獲得できる \u000e\u0000\u0003\u0004毿Ｗエナジーが\u000e\u0002\u0001\u0002\u0000倍\u000e\u0000\u0003\u0004\u0000＀ になる",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "期限切れ",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "いいキャンプチケットの効果が切れました\n再度食材を選択してください",
   "AutoCookingScene_WeekendBonus_1": "ウィークエンドボーナス",
   "AutoCookingScene_WeekendBonus_2": "最大容量UP",
+  "AutoCookingScene_WeekendBonus_4": "なべの最大容量アップ",
   "AutoCookingScene_PotShort_Popup_Title": "なべの容量不足",
   "AutoCookingScene_PotShort_Popup_Text": "この料理をつくるのに必要な食材の数が\n現在のなべの容量を超えているため、\nつくることができません"
 }

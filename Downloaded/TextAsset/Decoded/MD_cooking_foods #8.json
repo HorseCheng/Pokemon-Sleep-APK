@@ -57,6 +57,8 @@
   "md_cooking_foods_narrow_name_3016": "천하장사 소이 도넛",
   "md_cooking_foods_narrow_name_3017": "대폭발 팝콘",
   "md_cooking_foods_narrow_name_3018": "다과회 옥수수 스콘",
+  "md_cooking_foods_narrow_name_3019": "꽃잎댄스 초코 타르트",
+  "md_cooking_foods_narrow_name_3020": "플라워기프트 마카롱",
   "md_cooking_foods_name_1": "굵은대파",
   "md_cooking_foods_name_2": "풍미버섯",
   "md_cooking_foods_name_3": "특선에그",
@@ -131,6 +133,8 @@
   "md_cooking_foods_name_3016": "천하장사 소이 도넛",
   "md_cooking_foods_name_3017": "대폭발 팝콘",
   "md_cooking_foods_name_3018": "다과회 옥수수 스콘",
+  "md_cooking_foods_name_3019": "꽃잎댄스 초코 타르트",
+  "md_cooking_foods_name_3020": "플라워기프트 마카롱",
   "md_cooking_foods_desc_1": "파오리가 좋아하는\n식물의 줄기인지는 불명이다.",
   "md_cooking_foods_desc_2": "풍미가 깊고\n수분이 가득한 버섯.",
   "md_cooking_foods_desc_3": "다양한 맛을 조합해서 즐길 수 있는\n영양가 높은 식재료.",
@@ -162,7 +166,7 @@
   "md_cooking_foods_desc_1013": "닌자가 좋아했다고\n전해져 내려오는 두부 카레.",
   "md_cooking_foods_desc_1014": "갓 튀겨낸 튀김에서\n번쩍번쩍 빛이 난다.",
   "md_cooking_foods_desc_1017": "우유와 옥수수의 부드러운 단맛이\n먹기 편한 화이트 스튜.",
-  "md_cooking_foods_desc_1018": "옥수수의 단만 뒤에는\n연옥 같은 매운맛이 찾아온다.",
+  "md_cooking_foods_desc_1018": "옥수수의 단맛 뒤에는\n연옥 같은 매운맛이 찾아온다.",
   "md_cooking_foods_desc_1015": "절묘하게 구워낸 오므라이스가\n입안에서 살살 녹는 카레.",
   "md_cooking_foods_desc_1016": "몸만들기에 필요한 영양을\n듬뿍 담아 만든 많은 양의 카레.",
   "md_cooking_foods_desc_2001": "알싸하게 매운 스파이스가\n꼬리의 단맛을 더욱 돋보이게 한다.",
@@ -201,5 +205,7 @@
   "md_cooking_foods_desc_3015": "알로라지방의 레시피를 바탕으로 재현한\n특별한 튀긴 빵.",
   "md_cooking_foods_desc_3016": "바삭하게 튀긴 소이 도넛.\n몸만들기에 도움이 된다.",
   "md_cooking_foods_desc_3017": "대폭발할 정도의 화력으로 단숨에 만들었다.",
-  "md_cooking_foods_desc_3018": "바삭바삭한 식감의 스콘에\n애플 진저 잼을 같은 비율로 곁들였다."
+  "md_cooking_foods_desc_3018": "바삭바삭한 식감의 스콘에\n애플 진저 잼을 같은 비율로 곁들였다.",
+  "md_cooking_foods_desc_3019": "먹으면 사과로 만든 꽃잎이 흩날리는\n장난스러운 타르트.",
+  "md_cooking_foods_desc_3020": "선물하기 좋은\n미소가 피는 마카롱."
 }

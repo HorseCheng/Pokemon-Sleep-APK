@@ -85,10 +85,17 @@
   "AutoCookingScene_Cooking_GaugeText": "料理中……",
   "AutoCookingScene_Result_GreatSuccess": "漂亮成功！",
   "AutoCookingScene_PotExpandBonusNum": "MAX +\u000e\u0002\u0004\u0004\u0000촁",
+  "AutoCookingScene_PotExpandBonusPopup_Text": "下一次料理時鍋子的容量會暫時增加。",
+  "AutoCookingScene_PotExpandBonusBonusNum_1": "好露營券：\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000倍（＋\u000e\u0002\u0002\u0002\u0001）\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_2": "週末獎勵：\u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_PotExpandBonusBonusNum_3": "主技能：\u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1": "活動期間的料理為\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀。",
+  "AutoCookingScene_EventBonusPopup_Text_2": "透過料理可獲得的\u000e\u0000\u0003\u0004毿Ｗ能量\u000e\u0000\u0003\u0004\u0000＀會變成\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0000倍\u000e\u0000\u0003\u0004\u0000＀。",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "已過期",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "好露營券已經失效了。\n請重新選擇食材。",
   "AutoCookingScene_WeekendBonus_1": "週末獎勵",
   "AutoCookingScene_WeekendBonus_2": "鍋子容量UP",
+  "AutoCookingScene_WeekendBonus_4": "鍋子的容量增加",
   "AutoCookingScene_PotShort_Popup_Title": "鍋子容量不足",
   "AutoCookingScene_PotShort_Popup_Text": "這個料理所需的食材數量\n超過目前的鍋子容量，\n所以無法製作這個料理。"
 }
