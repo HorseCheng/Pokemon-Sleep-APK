@@ -30,6 +30,21 @@
   "PokemonTeamStatusPopup_HeadlineTitle": "Beeren",
   "PokemonTeamStatusPopup_HeadlineTitle_2": "Zutaten",
   "PokemonTeamStatusPopup_HeadlineTitle_3": "Haupttalente",
+  "PokemonTeamStatusPopup_HeadlineTitle_4": "Nebentalente mit Auswirkung auf das Team",
+  "PokemonTeamStatusPopup_HeadlineTitle_5": "Helferdaten",
   "PokemonTeamStatusSkillCell_SkillLevel": "Lv. \u000e\u0002\u0002\u0002\u0000",
-  "PokemonTeamStatusPopup_SlotNumber": "Team #\u000e\u0002\u0001\u0002\u0000"
+  "PokemonTeamStatusPopup_SlotNumber": "Team #\u000e\u0002\u0001\u0002\u0000",
+  "PokemonTeamStatusPopup_SubSkillDetail": "\u000e\u0003\f\u0002촀 × \u000e\u0002\u0000\u0002촁 (Gesamt: \u000e\u0002\u0004\u0004\u0002촁 %)",
+  "PokemonTeamStatusPopup_UnitSubskillNothing": "Keine anzuwendende Nebentalente",
+  "PokemonTeamStatusPopup_UnitLv": "\u000e\u0000\u0003\u0004쨗ｎLv. \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "PokemonTeamStatusPopup_UnitName": "\u000e\u0003\n\u0002촀",
+  "PokemonTeamStatusPopup_UnitPickupTimeLabel": "Häufigkeit",
+  "PokemonTeamStatusPopup_UnitPickupTime": "Nach \u000e\t\u0000\u0018\u0014hhhhmmmsss\u0000",
+  "PokemonTeamStatusPopup_UnitPickupTime_lessthan1h": "Nach \u000e\t\u0000\u0014\u0010mmmmssss\u0000",
+  "PokemonTeamStatusPopup_UnitMainSkillTitle": "Haupttalente",
+  "PokemonTeamStatusPopup_Detile_Title": "Helferdaten des Teams",
+  "PokemonTeamStatusPopup_Detile_Text_1": "Dies sind die Daten des Teams, mit den\nEffekten der Nebentalente eingerechnet.",
+  "PokemonTeamStatusPopup_Detile_Text_2": "Die Häufigkeit wird anhand der Zeit\nbestimmt, die bei den Daten jedes\nPokémon in der Pokémon-Box zu sehen ist,\nund entsprechend den Effekten\nder Nebentalente des Teams angepasst.",
+  "PokemonTeamStatusPopup_Detile_Text_3": "Der maximale Effekt zur Zeitverkürzung\ndurch Nebentalente beträgt maximal 35 %\npro Pokémon.",
+  "PokemonTeamStatusPopup_Detile_Text_4": "Effekte von Items wie dem Profi-\nCamping-Ticket und von Eventboni\nwerden nicht angezeigt."
 }

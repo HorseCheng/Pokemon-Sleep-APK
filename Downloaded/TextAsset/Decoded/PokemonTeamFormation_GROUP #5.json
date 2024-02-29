@@ -30,6 +30,21 @@
   "PokemonTeamStatusPopup_HeadlineTitle": "樹果",
   "PokemonTeamStatusPopup_HeadlineTitle_2": "食材",
   "PokemonTeamStatusPopup_HeadlineTitle_3": "主技能",
+  "PokemonTeamStatusPopup_HeadlineTitle_4": "與隊伍相關的副技能",
+  "PokemonTeamStatusPopup_HeadlineTitle_5": "幫忙能力",
   "PokemonTeamStatusSkillCell_SkillLevel": "Lv.\u000e\u0002\u0002\u0002\u0000",
-  "PokemonTeamStatusPopup_SlotNumber": "第\u000e\u0002\u0001\u0002\u0000個欄位"
+  "PokemonTeamStatusPopup_SlotNumber": "第\u000e\u0002\u0001\u0002\u0000個欄位",
+  "PokemonTeamStatusPopup_SubSkillDetail": "\u000e\u0003\f\u0002촀×\u000e\u0002\u0000\u0002촁（合計：\u000e\u0002\u0004\u0004\u0002촁％）",
+  "PokemonTeamStatusPopup_UnitSubskillNothing": "\u000e\u0000\u0003\u0004췍ￍ無符合條件的副技能\u000e\u0000\u0003\u0004\u0000＀",
+  "PokemonTeamStatusPopup_UnitLv": "\u000e\u0000\u0003\u0004쨗ｎLv. \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "PokemonTeamStatusPopup_UnitName": "\u000e\u0003\n\u0002촀",
+  "PokemonTeamStatusPopup_UnitPickupTimeLabel": "幫忙間隔",
+  "PokemonTeamStatusPopup_UnitPickupTime": "每\u000e\t\u0000\u0018\u0014hhhhmmmsss\u0000",
+  "PokemonTeamStatusPopup_UnitPickupTime_lessthan1h": "每\u000e\t\u0000\u0014\u0010mmmmssss\u0000",
+  "PokemonTeamStatusPopup_UnitMainSkillTitle": "主技能",
+  "PokemonTeamStatusPopup_Detile_Title": "在隊伍中的幫忙能力",
+  "PokemonTeamStatusPopup_Detile_Text_1": "此幫忙能力數值已反映出\n與隊伍相關的副技能所造成的影響。",
+  "PokemonTeamStatusPopup_Detile_Text_2": "此幫忙間隔數值已反映出可以在寶可夢盒裡\n確認到的寶可夢各別的幫忙間隔，\n套用了與隊伍相關的副技能之後的效果。",
+  "PokemonTeamStatusPopup_Detile_Text_3": "透過副技能可縮短幫忙間隔的合計效果\n以每隻寶可夢縮短35%為上限。",
+  "PokemonTeamStatusPopup_Detile_Text_4": "並未反映好露營券等道具\n或活動相關獎勵等的效果。"
 }

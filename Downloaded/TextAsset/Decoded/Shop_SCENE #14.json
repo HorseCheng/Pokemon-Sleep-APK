@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁",
   "ShopScene_Content_Title": "Boutique générale",
+  "ShopScene_Content_Bundle_News_LimitNumber": "Vous pouvez en acheter \u000e\u0002\u0001\u0002\u0000 de plus",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "Contient des objets et des Diamants",
+  "ShopScene_Content_Bundle_News_LimitDay": "Disponible à l'achat jusqu'au \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "De nouveaux lots sont disponibles à l'achat.",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "Voir les articles",
+  "ShopScene_Content_Bundle_News_Limit_Text": "La période d'achat se termine bientôt.",
+  "ShopScene_Content_Bundle_News_Limit_0day": "La période d'achat se termine dans \u000e\u0002\u0002\u0002\u0000 jour\u000e\u0004\u0000\b\u0000\u0002s촀.",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "La période d'achat se termine dans \u000e\u0002\u0002\u0002\u0000 heure\u000e\u0004\u0000\b\u0000\u0002s촀.",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "La période d'achat se termine dans \u000e\u0002\u0002\u0002\u0000 minute\u000e\u0004\u0000\b\u0000\u0002s촀.",
   "ShopScene_Content_Desc": "Diamants et nombreux articles en vente !",
   "ShopScene_Content_Title_2": "Lots à durée limitée (encore \u000e\u0002\u0001\u0002\u0000 \u000e\u0004\u0000\u0018\bjour\njours촀)",
   "ShopScene_Content_Title_2_0day": "Lots à durée limitée (encore \u000e\u0002\u0001\u0002\u0000 h)",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "Encore \u000e\u0002\u0001\u0002\u0000 jour\u000e\u0004\u0000\b\u0000\u0002s촀",
   "ShopScene_Hub_UpdateDate_0day": "Encore \u000e\u0002\u0001\u0002\u0000 heure\u000e\u0004\u0000\b\u0000\u0002s촀",
   "ShopScene_Hub_UpdateDate_0hour": "Encore \u000e\u0002\u0001\u0002\u0000 minute\u000e\u0004\u0000\b\u0000\u0002s촀",
+  "ShopScene_ShopPopup_Bundle_News": "Lots à durée limitée disponibles !",
   "ShopScene_ShopPopup_Limited_Label": "Limité",
   "ShopScene_ShopPopup_Limited_LeftNum": "Reste \u000e\u0002\u0001\u0002\u0000",
   "ShopScene_ShopPopup_Limited_Soldout": "Épuisé",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "Vous ne pouvez pas recevoir cet objet\ncar votre nombre de Diamants possédés\nest négatif. Veuillez revenir à\nun compte de zéro diamant ou plus.",
   "ShopScene_ShopPopup_StoreRefund_Title": "Note importante",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Un de vos articles achetés\nvia l'App Store a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : App Store\nObjet : \u000e\u0003\u0012\u0002촀\nDate d'achat : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nDate de remboursement : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : \u000e\u0003\u0012\u0002촀\nDate d'achat : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nDate de remboursement : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : \u000e\u0003\u0012\u0002촀\nDate d'achat : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nDate de remboursement : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Un de vos articles achetés\nvia l'App Store a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : App Store\nObjet : Diamant × \u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcheté le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRemboursé le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : Diamant × \u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcheté le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRemboursé le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

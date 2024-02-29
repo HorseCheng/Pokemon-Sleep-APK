@@ -30,6 +30,21 @@
   "PokemonTeamStatusPopup_HeadlineTitle": "Bacche",
   "PokemonTeamStatusPopup_HeadlineTitle_2": "Ingredienti",
   "PokemonTeamStatusPopup_HeadlineTitle_3": "Abilità principali",
+  "PokemonTeamStatusPopup_HeadlineTitle_4": "Abilità secondarie attive sulla squadra",
+  "PokemonTeamStatusPopup_HeadlineTitle_5": "Statistiche aiuto",
   "PokemonTeamStatusSkillCell_SkillLevel": "L. \u000e\u0002\u0002\u0002\u0000",
-  "PokemonTeamStatusPopup_SlotNumber": "Fascia \u000e\u0002\u0001\u0002\u0000"
+  "PokemonTeamStatusPopup_SlotNumber": "Fascia \u000e\u0002\u0001\u0002\u0000",
+  "PokemonTeamStatusPopup_SubSkillDetail": "\u000e\u0003\f\u0002촀 ×\u000e\u0002\u0000\u0002촁 (\u000e\u0002\u0004\u0004\u0002촁%)",
+  "PokemonTeamStatusPopup_UnitSubskillNothing": "Nessuna abilità secondaria rilevante.",
+  "PokemonTeamStatusPopup_UnitLv": "\u000e\u0000\u0003\u0004쨗ｎL. \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "PokemonTeamStatusPopup_UnitName": "\u000e\u0003\n\u0002촀",
+  "PokemonTeamStatusPopup_UnitPickupTimeLabel": "Frequenza",
+  "PokemonTeamStatusPopup_UnitPickupTime": "Ogni \u000e\t\u0000\u0018\u0014hhhhmmmsss\u0000",
+  "PokemonTeamStatusPopup_UnitPickupTime_lessthan1h": "Ogni \u000e\t\u0000\u0014\u0010mmmmssss\u0000",
+  "PokemonTeamStatusPopup_UnitMainSkillTitle": "Abilità principale",
+  "PokemonTeamStatusPopup_Detile_Title": "Statistiche aiuto squadra",
+  "PokemonTeamStatusPopup_Detile_Text_1": "In questa sezione trovi le statistiche\ndella squadra comprensive degli\neffetti delle abilità secondarie.",
+  "PokemonTeamStatusPopup_Detile_Text_2": "La frequenza qui indicata è costituita\ndal tempo base mostrato nelle info del\nPokémon, visibile nel Box Pokémon,\ncon l'aggiunta degli effetti delle\nabilità secondarie attive sulla squadra.",
+  "PokemonTeamStatusPopup_Detile_Text_3": "L'accelerazione dell'aiuto del Pokémon\ndovuta alle abilità secondarie può essere\nal massimo del 35%.",
+  "PokemonTeamStatusPopup_Detile_Text_4": "Gli effetti di strumenti come il Biglietto\ncampeggio buono e i bonus degli eventi\nnon vengono presi in considerazione."
 }

@@ -8,5 +8,6 @@
   "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀のおてつだいが\u000e\u0002\u0004\u0004\u0001촁回進んだ！",
   "SkillEffect_PickupIngredientRandom": "食材を\u000e\u0002\u0002\u0002\u0000個ゲット！",
   "SkillEffect_CookingIngredientNumLimitUp": "料理のなべの容量が\u000e\u0002\u0002\u0002\u0000個増えた！",
-  "SkillAction_SelectSkillRandom": ""
+  "SkillAction_SelectSkillRandom": "",
+  "SkillEffect_CookingSuccessPerUp": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000％上がった！"
 }

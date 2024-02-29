@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "Action impossible",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "Vous ne pouvez générer de nouveau\ncode de transfert qu'une seule fois\npar heure.",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆVeuillez réessayer plus tard.\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "Il semble que votre compte était uniquement\nassocié à Facebook. \u000e\u0000\u0003\u0004毿ＷLa fonctionnalité\npermettant cette association avec Facebook \na été retirée\u000e\u0000\u0003\u0004\u0000＀ le 29/02/2024. Nous vous\nrecommandons de \u000e\u0000\u0003\u0004毿Ｗpasser par une autre\nplateforme\u000e\u0000\u0003\u0004\u0000＀ ou de \u000e\u0000\u0003\u0004毿Ｗgénérer un code de transfert\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "Ajout de données",
   "ManualReportDescPopup_Title": "Ajout manuel de données de sommeil",

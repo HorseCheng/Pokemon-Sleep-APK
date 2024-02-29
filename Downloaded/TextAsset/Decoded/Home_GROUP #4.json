@@ -46,6 +46,7 @@
   "CampSetPopup_Desc_Notime": "1張票券可以租用好露營組合1週，\n讓睡眠研究更舒適、更有效率。",
   "CampSetPopup_SectionHeader_Effect": "效果一覽",
   "CampSetPopup_EffectDesc_1": "會增加1隻在睡眠研究時前來的寶可夢，\n且該寶可夢必定會是貪吃狀態。",
+  "CampSetPopup_EffectDesc_Add1": "會增加1隻在睡眠研究時前來的寶可夢，\n且該寶可夢必定會處於貪吃狀態。\n※只會在當天的第1次睡眠研究發揮效果。",
   "CampSetPopup_EffectDesc_2": "鍋子容量（可放的食材數量上限）變成1.5倍",
   "CampSetPopup_EffectDesc_3": "幫手速度變成1.2倍",
   "CampSetPopup_EffectDesc_4": "幫手可持有的數量上限變成1.2倍",

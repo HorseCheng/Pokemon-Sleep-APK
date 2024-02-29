@@ -46,6 +46,7 @@
   "CampSetPopup_Desc_Notime": "睡眠リサーチがより快適になるキャンプセットが\nチケット1枚で1週間レンタルできます",
   "CampSetPopup_SectionHeader_Effect": "効果の一覧",
   "CampSetPopup_EffectDesc_1": "睡眠リサーチで来るポケモンが1匹増え、\nそのポケモンはチャンス確定になります",
+  "CampSetPopup_EffectDesc_Add1": "睡眠リサーチで来るポケモンが1匹増え、\nそのポケモンはチャンス確定になります\n※その日の1回目の睡眠リサーチでのみ\n効果を発揮します",
   "CampSetPopup_EffectDesc_2": "なべの容量(食材の投入上限数)が 1.5倍",
   "CampSetPopup_EffectDesc_3": "おてつだいスピードが 1.2倍",
   "CampSetPopup_EffectDesc_4": "おてつだい所持上限が 1.2倍",

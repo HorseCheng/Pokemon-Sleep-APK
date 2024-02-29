@@ -136,5 +136,5 @@
   "Signup_SCENE_SoftBAN_Popup_Text": "由於系統偵測到可能會導致\n遊戲運作發生異常的遊玩方式，\n目前已暫時限制了遊玩。\n請稍後再重新啟動應用程式。",
   "Signup_SCENE_ShortStorage_Popup_Title": "裝置的儲存空間不足",
   "Signup_SCENE_ShortStorage_Popup_Text": "由於裝置目前剩餘的儲存空間\n不足以遊玩《Pokémon Sleep》，\n在遊玩時可能會發生異常問題。\n請刪除不必要的應用程式、影音或照片等，\n以確保裝置有足夠的儲存空間。",
-  "Signup_SCENE_DeletedAccount_Popup_Text_1": "由於帳號已被刪除，\n無法遊玩《Pokémon Sleep》。\n請先刪除並再次下載應用程式後，\n再試一次。"
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "由於帳號已被刪除，\n您無法遊玩《Pokémon Sleep》。\n若要重新開始遊玩，請在刪除應用程式後，\n再次安裝並試著開啟遊戲。"
 }

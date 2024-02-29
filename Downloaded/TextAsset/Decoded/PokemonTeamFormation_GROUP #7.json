@@ -30,6 +30,21 @@
   "PokemonTeamStatusPopup_HeadlineTitle": "나무열매",
   "PokemonTeamStatusPopup_HeadlineTitle_2": "식재료",
   "PokemonTeamStatusPopup_HeadlineTitle_3": "메인 스킬",
+  "PokemonTeamStatusPopup_HeadlineTitle_4": "チームに関わるサブスキル",
+  "PokemonTeamStatusPopup_HeadlineTitle_5": "おてつだい能力",
   "PokemonTeamStatusSkillCell_SkillLevel": "Lv.\u000e\u0002\u0002\u0002\u0000",
-  "PokemonTeamStatusPopup_SlotNumber": "\u000e\u0002\u0001\u0002\u0000칸째"
+  "PokemonTeamStatusPopup_SlotNumber": "\u000e\u0002\u0001\u0002\u0000칸째",
+  "PokemonTeamStatusPopup_SubSkillDetail": "\u000e\u0003\f\u0002촀 x\u000e\u0002\u0000\u0002촁 （合計：\u000e\u0002\u0004\u0004\u0002촁％）",
+  "PokemonTeamStatusPopup_UnitSubskillNothing": "該当するサブスキルはありません",
+  "PokemonTeamStatusPopup_UnitLv": "\u000e\u0000\u0003\u0004쨗ｎLv. \u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "PokemonTeamStatusPopup_UnitName": "\u000e\u0003\n\u0002촀",
+  "PokemonTeamStatusPopup_UnitPickupTimeLabel": "おてつだい時間",
+  "PokemonTeamStatusPopup_UnitPickupTime": "\u000e\t\u0000\u0018\u0014hhhhmmmsss\u0000ごと",
+  "PokemonTeamStatusPopup_UnitPickupTime_lessthan1h": "\u000e\t\u0000\u0014\u0010mmmmssss\u0000ごと",
+  "PokemonTeamStatusPopup_UnitMainSkillTitle": "メインスキル",
+  "PokemonTeamStatusPopup_Detile_Title": "チームでのおてつだい能力",
+  "PokemonTeamStatusPopup_Detile_Text_1": "チームに関わるサブスキルの影響が\n反映されたおてつだい能力です",
+  "PokemonTeamStatusPopup_Detile_Text_2": "おてつだい時間は、ポケモンボックスで\n確認できるポケモン個別のおてつだい時間に、\nチームに関わるサブスキルの効果を\n反映した値になっています",
+  "PokemonTeamStatusPopup_Detile_Text_3": "サブスキルによるおてつだい時間短縮の\n効果の合計は各ポケモンで上限35%となります",
+  "PokemonTeamStatusPopup_Detile_Text_4": "いいキャンプチケットなどのアイテムの効果や\nイベントに関わるボーナスなどは反映されて\nいません"
 }

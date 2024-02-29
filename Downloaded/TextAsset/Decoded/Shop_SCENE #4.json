@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁",
   "ShopScene_Content_Title": "General Store",
+  "ShopScene_Content_Bundle_News_LimitNumber": "\u000e\u0002\u0001\u0002\u0000 more can be purchased",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "Item + Diamond Set",
+  "ShopScene_Content_Bundle_News_LimitDay": "Available for purchase until \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "New bundles are now available for purchase.",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "To product",
+  "ShopScene_Content_Bundle_News_Limit_Text": "The purchase period will end soon.",
+  "ShopScene_Content_Bundle_News_Limit_0day": "The purchase period will end in \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u0014\u0006day\bdays촀.",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "The purchase period will end in \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u0018\bhour\nhours촀.",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "The purchase period will end in \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000 \fminute\u000eminutes촀.",
   "ShopScene_Content_Desc": "Get items and diamonds here!",
   "ShopScene_Content_Title_2": "Limited-Time Bundles (\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0014\u0006day\bdays촀 left)",
   "ShopScene_Content_Title_2_0day": "Limited-Time Bundles (\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0010\u0004hr\u0006hrs촀 left)",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0014\u0006day\bdays촀 till update",
   "ShopScene_Hub_UpdateDate_0day": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0010\u0004hr\u0006hrs촀 till update",
   "ShopScene_Hub_UpdateDate_0hour": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0014\u0006min\bmins촀 till update",
+  "ShopScene_ShopPopup_Bundle_News": "Limited-time bundles available now!",
   "ShopScene_ShopPopup_Limited_Label": "Limited",
   "ShopScene_ShopPopup_Limited_LeftNum": "\u000e\u0002\u0001\u0002\u0000 Left",
   "ShopScene_ShopPopup_Limited_Soldout": "Sold Out",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "Because you have a negative diamond\nbalance, you can’t receive this item.\nPlease bring your diamond balance up\nto zero or higher.",
   "ShopScene_ShopPopup_StoreRefund_Title": "Important Notice",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "A product has been refunded through\nthe App Store.\nThe product in question is no longer\nin your inventory.\n\nStore: App Store\nItem: \u000e\u0003\u0012\u0002촀\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "A product has been refunded through\nthe App Store.\nThe product in question is no longer\nin your inventory.\n\nStore: App Store\nItem: Diamond ×\u000e\u0002\u0004\u0004\u0000촁 ( \u000e\u0003\u0003\u0004ȁ촀 )\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: Diamond ×\u000e\u0002\u0004\u0004\u0000촁 ( \u000e\u0003\u0003\u0004ȁ촀 )\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

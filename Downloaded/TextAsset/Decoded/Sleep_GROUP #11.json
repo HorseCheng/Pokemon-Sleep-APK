@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "No valid sleep data was found.",
   "SleepDataSalvageLoader_Text_8": "An error has occurred on the server.",
   "SleepDataSalvageLoader_Text_9": "Sleep Data Error",
+  "SleepDataSalvageLoader_Text_10": "Valid sleep sessions found: \u000e\u0002\u0001\u0002\u0000\n(Invalid sleep sessions: \u000e\u0002\u0001\u0002\u0001)",
   "SleepingFaceAssetDownloadLoader_Text_1": "Download Error",
   "SleepingFaceAssetDownloadLoader_Text_2": "An error occurred while downloading.\nPlease wait awhile, then try\ndownloading again.",
   "SleepingFaceAssetDownloadLoader_Text_3": "Error",

@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "Aucune donnée de sommeil valable n'a\nété trouvée.",
   "SleepDataSalvageLoader_Text_8": "Erreur du serveur.",
   "SleepDataSalvageLoader_Text_9": "Erreur de données de sommeil",
+  "SleepDataSalvageLoader_Text_10": "Sessions valides trouvées : \u000e\u0002\u0001\u0002\u0000\n(sessions invalides : \u000e\u0002\u0001\u0002\u0001)",
   "SleepingFaceAssetDownloadLoader_Text_1": "Erreur de téléchargement",
   "SleepingFaceAssetDownloadLoader_Text_2": "Une erreur est survenue pendant le\ntéléchargement. Veuillez réessayer\nultérieurement.",
   "SleepingFaceAssetDownloadLoader_Text_3": "Erreur",

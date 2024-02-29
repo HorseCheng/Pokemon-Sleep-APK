@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "Aktion nicht verfügbar",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "Du kannst nur einmal pro Stunde einen\nneuen Übertragungscode generieren.",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆBitte versuche es später erneut.\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "Wenn du diese Nachricht siehst, hast du dein\nKonto ausschließlich mit Facebook verknüpft.\n\u000e\u0000\u0003\u0004毿ＷDie Funktion, dein Konto mit Facebook zu\nverknüpfen, wurde\u000e\u0000\u0003\u0004\u0000＀ am 29.02.2024 \u000e\u0000\u0003\u0004毿Ｗdeaktiviert\u000e\u0000\u0003\u0004\u0000＀.\n\u000e\u0000\u0003\u0004毿ＷVerknüpfe es mit anderen sozialen Medien\n\u000e\u0000\u0003\u0004\u0000＀oder \u000e\u0000\u0003\u0004毿Ｗgeneriere einen Übertragungscode\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "Schlafdaten nachtragen",
   "ManualReportDescPopup_Title": "Schlafdaten manuell nachtragen",

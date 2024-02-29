@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000개",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁개",
   "ShopScene_Content_Title": "통합 숍",
+  "ShopScene_Content_Bundle_News_LimitNumber": "앞으로 \u000e\u0002\u0001\u0002\u0000회만 구입 가능",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "아이템과 다이아 세트",
+  "ShopScene_Content_Bundle_News_LimitDay": "판매 기간: \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000까지",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "새로운 번들의\n판매가 시작되었습니다",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "상품으로",
+  "ShopScene_Content_Bundle_News_Limit_Text": "판매 기한이 곧 종료됩니다",
+  "ShopScene_Content_Bundle_News_Limit_0day": "남은 판매 기간: \u000e\u0002\u0002\u0002\u0000일",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "남은 판매 기간: \u000e\u0002\u0002\u0002\u0000시간",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "남은 판매 기간: \u000e\u0002\u0002\u0002\u0000분",
   "ShopScene_Content_Desc": "각종 아이템과 다이아를 구입할 수 있습니다",
   "ShopScene_Content_Title_2": "기간 한정 팩: 앞으로 \u000e\u0002\u0001\u0002\u0000일",
   "ShopScene_Content_Title_2_0day": "기간 한정 팩: 앞으로 \u000e\u0002\u0001\u0002\u0000시간",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "갱신까지 앞으로 \u000e\u0002\u0001\u0002\u0000일",
   "ShopScene_Hub_UpdateDate_0day": "갱신까지 앞으로 \u000e\u0002\u0001\u0002\u0000시간",
   "ShopScene_Hub_UpdateDate_0hour": "갱신까지 앞으로 \u000e\u0002\u0001\u0002\u0000분",
+  "ShopScene_ShopPopup_Bundle_News": "한정 번들 판매 중",
   "ShopScene_ShopPopup_Limited_Label": "한정",
   "ShopScene_ShopPopup_Limited_LeftNum": "앞으로 \u000e\u0002\u0001\u0002\u0000개",
   "ShopScene_ShopPopup_Limited_Soldout": "품절",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "소지 다이아 수가 마이너스이므로\n이 아이템을 받을 수 없습니다\n소지 다이아 수를 0 이상으로 만들어 주십시오",
   "ShopScene_ShopPopup_StoreRefund_Title": "중요한 알림",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "App Store에서 환불 처리된 상품이 있습니다.\n해당 상품을 회수했습니다.\n\n스토어: App Store\n아이템: \u000e\u0003\u0012\u0002촀\n구입 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n환불 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Google Play에서 환불 처리된 상품이 있습니다.\n해당 상품을 회수했습니다.\n\n스토어: Google Play\n아이템: \u000e\u0003\u0012\u0002촀\n구입 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n환불 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Google Play에서 환불 처리된 상품이 있습니다.\n해당 상품을 회수했습니다.\n\n스토어: Google Play\n아이템: \u000e\u0003\u0012\u0002촀\n구입 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n환불 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "App Store에서 환불 처리된 상품이 있습니다.\n해당 상품을 회수했습니다.\n\n스토어: App Store\n아이템: 다이아 x\u000e\u0002\u0004\u0004\u0000촁\n(\u000e\u0003\u0003\u0004ȁ촀)\n구입 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n환불 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Google Play에서 환불 처리된 상품이 있습니다.\n해당 상품을 회수했습니다.\n\n스토어: Google Play\n아이템: 다이아 x\u000e\u0002\u0004\u0004\u0000촁 \n(\u000e\u0003\u0003\u0004ȁ촀)\n구입 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n환불 일시: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

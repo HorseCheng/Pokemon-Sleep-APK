@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "유효한 수면 데이터가 없습니다",
   "SleepDataSalvageLoader_Text_8": "서버에서 에러가 발생했습니다",
   "SleepDataSalvageLoader_Text_9": "수면 데이터 에러",
+  "SleepDataSalvageLoader_Text_10": "유효한 수면 데이터를 \u000e\u0002\u0001\u0002\u0000개\n발견했습니다\n(유효하지 않은 수면 데이터: \u000e\u0002\u0001\u0002\u0001개)",
   "SleepingFaceAssetDownloadLoader_Text_1": "다운로드 에러",
   "SleepingFaceAssetDownloadLoader_Text_2": "데이터 다운로드 에러가 발생했습니다\n시간을 두고 다시 다운로드를 시도해 주십시오",
   "SleepingFaceAssetDownloadLoader_Text_3": "에러",

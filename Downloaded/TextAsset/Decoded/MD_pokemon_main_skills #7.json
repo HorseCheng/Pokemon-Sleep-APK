@@ -24,5 +24,7 @@
   "md_pokemon_main_skills_name_12": "タイプブーストS",
   "md_pokemon_main_skills_desc_12": "チーム内の\u000e\u0003\u0002\u0002촀タイプの\nポケモンのおてつだいが\u000e\t\u0000\n\u0006mmm\u0001進む",
   "md_pokemon_main_skills_name_13": "ゆびをふる",
-  "md_pokemon_main_skills_desc_13": "すべてのメインスキルの中から\nどれか1つをくりだす"
+  "md_pokemon_main_skills_desc_13": "すべてのメインスキルの中から\nどれか1つをくりだす",
+  "md_pokemon_main_skills_name_14": "料理チャンスS",
+  "md_pokemon_main_skills_desc_14": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000%上がる\n効果は料理が大成功するか、\nフィールドを移動するまで持続する"
 }

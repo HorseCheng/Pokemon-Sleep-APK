@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000個",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁個",
   "ShopScene_Content_Title": "総合ショップ",
+  "ShopScene_Content_Bundle_News_LimitNumber": "あと\u000e\u0002\u0001\u0002\u0000回だけ購入可能",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "アイテムとダイヤのセット",
+  "ShopScene_Content_Bundle_News_LimitDay": "販売期間 \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000まで",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "新しいバンドルが\n販売開始されました",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "商品へ",
+  "ShopScene_Content_Bundle_News_Limit_Text": "販売期限が近づいています",
+  "ShopScene_Content_Bundle_News_Limit_0day": "販売期間 あと\u000e\u0002\u0002\u0002\u0000日",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "販売期間 あと\u000e\u0002\u0002\u0002\u0000時間",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "販売期間 あと\u000e\u0002\u0002\u0002\u0000分",
   "ShopScene_Content_Desc": "各種アイテムやダイヤを購入することができます",
   "ShopScene_Content_Title_2": "期間限定パック：あと\u000e\u0002\u0001\u0002\u0000日",
   "ShopScene_Content_Title_2_0day": "期間限定パック：あと\u000e\u0002\u0001\u0002\u0000時間",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "更新まで あと\u000e\u0002\u0001\u0002\u0000日",
   "ShopScene_Hub_UpdateDate_0day": "更新まで あと\u000e\u0002\u0001\u0002\u0000時間",
   "ShopScene_Hub_UpdateDate_0hour": "更新まで あと\u000e\u0002\u0001\u0002\u0000分",
+  "ShopScene_ShopPopup_Bundle_News": "限定バンドル販売中",
   "ShopScene_ShopPopup_Limited_Label": "限定",
   "ShopScene_ShopPopup_Limited_LeftNum": "あと\u000e\u0002\u0001\u0002\u0000個",
   "ShopScene_ShopPopup_Limited_Soldout": "売り切れ",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "ダイヤ残高がマイナスになっているため\nこのアイテムを受け取ることができません\nダイヤ残高を0以上にしてください",
   "ShopScene_ShopPopup_StoreRefund_Title": "重要なお知らせ",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "AppStoreで返金処理が行われた商品があります。\n該当する商品を回収させていただきました。\n\nストア：AppStore\nアイテム名：\u000e\u0003\u0012\u0002촀\n購入日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n返金日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "GooglePlayで返金処理が行われた商品があります。\n該当する商品を回収させていただきました。\n\nストア：GooglePlay\nアイテム名：\u000e\u0003\u0012\u0002촀\n購入日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n返金日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "GooglePlayで返金処理が行われた商品があります。\n該当する商品を回収させていただきました。\n\nストア：GooglePlay\nアイテム名：\u000e\u0003\u0012\u0002촀\n購入日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n返金日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "AppStoreで返金処理が行われた商品があります。\n該当する商品を回収させていただきました。\n\nストア：AppStore\nアイテム名：ダイヤ x\u000e\u0002\u0004\u0004\u0000촁 \n( \u000e\u0003\u0003\u0004ȁ촀 )\n購入日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n返金日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "GooglePlayで返金処理が行われた商品があります。\n該当する商品を回収させていただきました。\n\nストア：GooglePlay\nアイテム名：ダイヤ x\u000e\u0002\u0004\u0004\u0000촁 \n( \u000e\u0003\u0003\u0004ȁ촀 )\n購入日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n返金日時：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

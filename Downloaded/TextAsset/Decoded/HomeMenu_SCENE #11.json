@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "재발행할 수 없습니다",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "이어받기 코드는\n한 시간에 한 번만 재발행할 수 있습니다",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ잠시 시간을 두고 시도해 주십시오\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "이 메시지는 Facebook으로만\n연동한 고객님에게만 표시됩니다\n2024년 2월 29일의 업데이트로\n\u000e\u0000\u0003\u0004毿ＷFacebook과의 어카운트 연동이 중지\u000e\u0000\u0003\u0004\u0000＀되었습니다\n\u000e\u0000\u0003\u0004毿Ｗ다른 SNS와 연동\u000e\u0000\u0003\u0004\u0000＀하거나\n\u000e\u0000\u0003\u0004毿Ｗ이어받기 코드를 발행\u000e\u0000\u0003\u0004\u0000＀해 주십시오",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "수면 데이터 추가",
   "ManualReportDescPopup_Title": "수면 데이터 매뉴얼 등록",

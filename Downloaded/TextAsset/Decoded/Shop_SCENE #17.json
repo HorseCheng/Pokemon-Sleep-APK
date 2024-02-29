@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁",
   "ShopScene_Content_Title": "Standardshop",
+  "ShopScene_Content_Bundle_News_LimitNumber": "Noch \u000e\u0002\u0001\u0002\u0000 Mal verfügbar",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "Set mit Items und Diamanten",
+  "ShopScene_Content_Bundle_News_LimitDay": "Zum Kauf verfügbar bis \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "Neue Sets sind jetzt zum Kauf verfügbar.",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "Zum Produkt",
+  "ShopScene_Content_Bundle_News_Limit_Text": "Der Verkaufszeitraum ended bald.",
+  "ShopScene_Content_Bundle_News_Limit_0day": "Der Verkaufszeitraum ended in \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u0016\u0006Tag\nTagen촀.",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "Der Verkaufszeitraum endet in \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000 \fStunde\u000eStunden촀.",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "Der Verkaufszeitraum endet in \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000 \fMinute\u000eMinuten촀.",
   "ShopScene_Content_Desc": "Diamanten und verschiedene Items",
   "ShopScene_Content_Title_2": "Zeitlich limitierte Sets (noch \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000\u0014\u0006Tag\bTage촀)",
   "ShopScene_Content_Title_2_0day": "Zeitlich limitierte Sets (noch \u000e\u0002\u0001\u0002\u0000 Std.)",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "Update in: \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000\u0016\u0006Tag\nTagen촀",
   "ShopScene_Hub_UpdateDate_0day": "Update in: \u000e\u0002\u0001\u0002\u0000 Std.",
   "ShopScene_Hub_UpdateDate_0hour": "Update in: \u000e\u0002\u0001\u0002\u0000 Min.",
+  "ShopScene_ShopPopup_Bundle_News": "Zeitlich limitierte Sets jetzt verfügbar!",
   "ShopScene_ShopPopup_Limited_Label": "Limitiert",
   "ShopScene_ShopPopup_Limited_LeftNum": "\u000e\u0002\u0001\u0002\u0000 übrig",
   "ShopScene_ShopPopup_Limited_Soldout": "Ausverkauft",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "Weil sich deine Menge an Diamanten im\nMinus befindet, kannst du dieses Item\nnicht erhalten. Bitte erhöhe die Menge\ndeiner Diamanten auf Null oder mehr.",
   "ShopScene_ShopPopup_StoreRefund_Title": "Wichtiger Hinweis",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Ein Produkt wurde über den App Store\nzurückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: App Store\nItem: \u000e\u0003\u0012\u0002촀\nGekauft am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nErstattet am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nzurückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nGekauft am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nErstattet am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nzurückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nGekauft am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nErstattet am: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Ein Produkt wurde über den App Store\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: App Store\nItem: Diamant ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: Diamant ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "無法重新發行",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "每1個小時只能\n重新發行1次繼承碼。",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ請稍後再試。\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "若您收到此訊息，即表示您的帳號\n僅和Facebook進行了帳號連結。\n由於《Pokémon Sleep》已在2024年2月29日\n更新版本時\u000e\u0000\u0003\u0004毿Ｗ停止和Facebook帳號進行連結\u000e\u0000\u0003\u0004\u0000＀，\n敬請和\u000e\u0000\u0003\u0004毿Ｗ其他SNS帳號進行連結\u000e\u0000\u0003\u0004\u0000＀或\u000e\u0000\u0003\u0004毿Ｗ發行繼承碼\u000e\u0000\u0003\u0004\u0000＀。",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "追加睡眠資料",
   "ManualReportDescPopup_Title": "手動登錄睡眠資料",

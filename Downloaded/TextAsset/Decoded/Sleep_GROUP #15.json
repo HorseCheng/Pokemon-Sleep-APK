@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "有効な睡眠データがありませんでした",
   "SleepDataSalvageLoader_Text_8": "サーバーでエラーが発生しました",
   "SleepDataSalvageLoader_Text_9": "睡眠データエラー",
+  "SleepDataSalvageLoader_Text_10": "有効な睡眠データが\u000e\u0002\u0001\u0002\u0000つ\n見つかりました\n(無効な睡眠データ：\u000e\u0002\u0001\u0002\u0001つ)",
   "SleepingFaceAssetDownloadLoader_Text_1": "ダウンロードエラー",
   "SleepingFaceAssetDownloadLoader_Text_2": "データのダウンロードエラーが\n発生しました。時間をおいてから\n再度、ダウンロードをお試しください",
   "SleepingFaceAssetDownloadLoader_Text_3": "エラー",

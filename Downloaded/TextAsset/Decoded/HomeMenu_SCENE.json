@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "Azione non disponibile",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "Puoi generare un solo codice\ndi trasferimento all'ora.",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆRiprova più tardi.\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "Se vedi questo messaggio significa che\nil tuo account era collegato solamente\na Facebook. \u000e\u0000\u0003\u0004毿ＷLa funzione di collegamento\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗa Facebook è stata rimossa\u000e\u0000\u0003\u0004\u0000＀ il 29 febbraio 2024.\n\u000e\u0000\u0003\u0004毿ＷCollegati a un altro account social media\u000e\u0000\u0003\u0004\u0000＀\no \u000e\u0000\u0003\u0004毿Ｗgenera un codice di trasferimento\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "Aggiungi dati sonno",
   "ManualReportDescPopup_Title": "Aggiungere dati del sonno manualmente",

@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "找不到有效的睡眠資料。",
   "SleepDataSalvageLoader_Text_8": "伺服器發生錯誤。",
   "SleepDataSalvageLoader_Text_9": "睡眠資料錯誤",
+  "SleepDataSalvageLoader_Text_10": "找到了\u000e\u0002\u0001\u0002\u0000件有效的睡眠資料。\n（無效的睡眠資料：\u000e\u0002\u0001\u0002\u0001件）",
   "SleepingFaceAssetDownloadLoader_Text_1": "下載錯誤",
   "SleepingFaceAssetDownloadLoader_Text_2": "下載資料時發生錯誤。\n請稍後再次下載。",
   "SleepingFaceAssetDownloadLoader_Text_3": "錯誤",

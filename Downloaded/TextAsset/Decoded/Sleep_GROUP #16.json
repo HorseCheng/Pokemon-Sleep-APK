@@ -8,6 +8,7 @@
   "SleepDataSalvageLoader_Text_7": "Nessun dato del sonno valido.",
   "SleepDataSalvageLoader_Text_8": "Si è verificato un errore nel server.",
   "SleepDataSalvageLoader_Text_9": "Errore dati del sonno",
+  "SleepDataSalvageLoader_Text_10": "Sessioni di sonno valide rilevate: \u000e\u0002\u0001\u0002\u0000\n(Sessioni di sonno non valide: \u000e\u0002\u0001\u0002\u0001)",
   "SleepingFaceAssetDownloadLoader_Text_1": "Errore download",
   "SleepingFaceAssetDownloadLoader_Text_2": "Si è verificato un errore durante il download.\nRiprova tra qualche tempo.",
   "SleepingFaceAssetDownloadLoader_Text_3": "Errore",

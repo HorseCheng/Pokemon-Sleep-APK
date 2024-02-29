@@ -24,5 +24,7 @@
   "md_pokemon_main_skills_name_12": "타입 부스트S",
   "md_pokemon_main_skills_desc_12": "팀 내의 \u000e\u0003\u0002\u0002촀타입 포켓몬의 도움이\n\u000e\t\u0000\n\u0006mmm\u0001 진행된다",
   "md_pokemon_main_skills_name_13": "손가락흔들기",
-  "md_pokemon_main_skills_desc_13": "모든 메인 스킬 중\n어느 하나를 날린다"
+  "md_pokemon_main_skills_desc_13": "모든 메인 스킬 중\n어느 하나를 날린다",
+  "md_pokemon_main_skills_name_14": "料理チャンスS",
+  "md_pokemon_main_skills_desc_14": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000%上がる\n効果は料理が大成功するか、\nフィールドを移動するまで持続する"
 }

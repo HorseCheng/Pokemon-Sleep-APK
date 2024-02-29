@@ -8,5 +8,6 @@
   "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀完成了\u000e\u0002\u0004\u0004\u0001촁次幫忙！",
   "SkillEffect_PickupIngredientRandom": "得到\u000e\u0002\u0002\u0002\u0000個食材！",
   "SkillEffect_CookingIngredientNumLimitUp": "鍋子能多放\u000e\u0002\u0006\u0004\u0000촁個食材了！",
-  "SkillAction_SelectSkillRandom": ""
+  "SkillAction_SelectSkillRandom": "",
+  "SkillEffect_CookingSuccessPerUp": "料理的漂亮成功機率已提升\u000e\u0002\u0002\u0002\u0000％！"
 }

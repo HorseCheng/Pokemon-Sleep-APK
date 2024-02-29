@@ -17,6 +17,16 @@
   "ShopConsumableItemCell_Text_1": "\u000e\u0002\u0002\u0002\u0000",
   "ShopConsumableItemCell_Text_1_DiaVer": "\u000e\u0002\u0003\u0004\u0000촁",
   "ShopScene_Content_Title": "Negozio di generi vari",
+  "ShopScene_Content_Bundle_News_LimitNumber": "Acquistabile \u000e\u0002\u0001\u0002\u0000 volt\u000e\u0005\u0000\n\u0002a\u0002e촀",
+  "ShopScene_Content_Bundle_News_BundleName": "\u000e\u0003\u0003\u0004Ā촀",
+  "ShopScene_Content_Bundle_News_BundleName_Text": "Set strumenti + diamanti",
+  "ShopScene_Content_Bundle_News_LimitDay": "Fine disponibilità: \u000e\t\u0000&\"yyyyyMMMddd_hh:mm\u0000",
+  "ShopScene_Content_Bundle_News_NewBundle_Text": "Ci sono nuovi pacchetti\ndisponibili per l'acquisto.",
+  "ShopScene_Content_Bundle_News_Button_ToBundle": "Articolo",
+  "ShopScene_Content_Bundle_News_Limit_Text": "Fine disponibilità a breve",
+  "ShopScene_Content_Bundle_News_Limit_0day": "Fine disponibilità fra \u000e\u0002\u0002\u0002\u0000 giorn\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "ShopScene_Content_Bundle_News_Limit_0hour": "Fine disponibilità fra \u000e\u0002\u0002\u0002\u0000 or\u000e\u0005\u0000\n\u0002a\u0002e촀",
+  "ShopScene_Content_Bundle_News_Limit_0minute": "Fine disponibilità fra \u000e\u0002\u0002\u0002\u0000 minut\u000e\u0005\u0000\n\u0002o\u0002i촀",
   "ShopScene_Content_Desc": "Qui puoi ottenere diamanti e strumenti vari!",
   "ShopScene_Content_Title_2": "Pacchetti a tempo limitato (ancora \u000e\u0002\u0001\u0002\u0000 g)",
   "ShopScene_Content_Title_2_0day": "Pacchetti a tempo limitato (ancora \u000e\u0002\u0001\u0002\u0000 h)",
@@ -99,6 +109,7 @@
   "ShopScene_Hub_UpdateDate": "Aggiornato tra \u000e\u0002\u0001\u0002\u0000 g",
   "ShopScene_Hub_UpdateDate_0day": "Aggiornato tra \u000e\u0002\u0001\u0002\u0000 h",
   "ShopScene_Hub_UpdateDate_0hour": "Aggiornato tra \u000e\u0002\u0001\u0002\u0000 m",
+  "ShopScene_ShopPopup_Bundle_News": "Pacchetti a tempo limitato ora disponibili!",
   "ShopScene_ShopPopup_Limited_Label": "Limitato",
   "ShopScene_ShopPopup_Limited_LeftNum": "\u000e\u0002\u0001\u0002\u0000 rimast\u000e\u0005\u0000\n\u0002o\u0002i촀",
   "ShopScene_ShopPopup_Limited_Soldout": "Esaurito",
@@ -131,5 +142,7 @@
   "ShopScene_ShopPopup_BagMinusDiaPopup_Text": "Non puoi ottenere questo strumento\nperché il saldo dei diamanti\nè negativo. Riporta il saldo a zero\no a una cifra positiva.",
   "ShopScene_ShopPopup_StoreRefund_Title": "Comunicazione importante",
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Un prodotto è stato rimborsato\nattraverso l'App Store.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: App Store\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
-  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002"
+  "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Un prodotto è stato rimborsato\nattraverso l'App Store.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: App Store\nStrumento: diamanti ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: diamanti ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
 }

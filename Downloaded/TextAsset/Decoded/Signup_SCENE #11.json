@@ -130,11 +130,11 @@
   "Signup_SCENE_MENU_Content_3": "Nous contacter",
   "Signup_SCENE_InitialError_Popup_Title": "Erreur",
   "Signup_SCENE_InitialError_Popup_Text": "Une erreur s'est produite.\nL'application va redémarrer.",
-  "Signup_SCENE_CSverBAN_Popup_Title": "Compte invalide",
-  "Signup_SCENE_CSverBAN_Popup_Text": "Ce compte est limité.",
+  "Signup_SCENE_CSverBAN_Popup_Title": "Correction des données de jeu",
+  "Signup_SCENE_CSverBAN_Popup_Text": "Nous sommes actuellement en train\nde corriger vos données de jeu. Vous\npourrez jouer de nouveau une fois que\nces corrections seront terminées.\nVeuillez patienter un moment\navant de redémarrer l'application,\npuis de réessayer.",
   "Signup_SCENE_SoftBAN_Popup_Title": "Suspension temporaire du jeu",
   "Signup_SCENE_SoftBAN_Popup_Text": "Une activité pouvant entraîner des\nirrégularités dans le fonctionnement\ndu jeu a été détectée.\nLe jeu a été momentanément\nsuspendu. Veuillez redémarrer\nl'application puis réessayer.",
   "Signup_SCENE_ShortStorage_Popup_Title": "Espace de stockage insuffisant",
   "Signup_SCENE_ShortStorage_Popup_Text": "Votre appareil ne dispose pas de\nsuffisamment d'espace de stockage\npour pouvoir jouer à Pokémon Sleep.\nPour prévenir l'apparition potentielle\nde problèmes en jeu, veuillez libérer\nde l'espace en supprimant vos photos,\nvidéos, ou applications inutiles.",
-  "Signup_SCENE_DeletedAccount_Popup_Text_1": "Pokémon Sleep cannot be played\nbecause this account has been\ndeleted.\nIf you would like to start fresh,\nplease delete the app, reinstall it, and\nthen try again."
+  "Signup_SCENE_DeletedAccount_Popup_Text_1": "Vous ne pouvez pas jouer à Pokémon\nSleep, car ce compte a été supprimé.\nSi vous souhaitez recommencer le jeu\ndepuis le début, veuillez supprimer\nl'application, la réinstaller, puis\nréessayer."
 }

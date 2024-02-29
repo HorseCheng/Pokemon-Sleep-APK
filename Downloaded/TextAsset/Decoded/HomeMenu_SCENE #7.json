@@ -229,6 +229,7 @@
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Title": "Action Unavailable",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_1": "You can only generate a new\nTransfer Code once per hour.",
   "HomeMenu_SCENE_AccountLinkage_ReissueFailureDialog_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆPlease try again later.\u000e\u0000\u0003\u0004\u0000＀",
+  "HomeMenu_SCENE_AccountLinkage_MessageToFacebookUser": "If you are seeing this message, it means that\nyour account was linked only with Facebook.\nAs of February 29, 2024, \u000e\u0000\u0003\u0004毿Ｗthe function to link\nwith Facebook has been discontinued\u000e\u0000\u0003\u0004\u0000＀.\nPlease \u000e\u0000\u0003\u0004毿Ｗlink to a different social media account\n\u000e\u0000\u0003\u0004\u0000＀or \u000e\u0000\u0003\u0004毿Ｗgenerate a Transfer Code\u000e\u0000\u0003\u0004\u0000＀.",
   "HomeMenuScene_GraphScorePerDay": "\u000e\u0002\u0002\u0002\u0000",
   "HomeMenuScene_HomeMenuView_AddSleepData": "Add Sleep Data",
   "ManualReportDescPopup_Title": "Manual Addition of Sleep Data",

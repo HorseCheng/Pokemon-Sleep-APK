@@ -8,5 +8,6 @@
   "SkillEffect_PickupFinishRandom": "¡Ayuda extra de\n\u000e\u0003\n\u0002촀 (×\u000e\u0002\u0004\u0004\u0001촁)!",
   "SkillEffect_PickupIngredientRandom": "¡Has obtenido \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀!",
   "SkillEffect_CookingIngredientNumLimitUp": "¡Aún cabría\u000e\u0007\u0000\b\u0000\u0002n촀 \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀 más\nen el puchero!",
-  "SkillAction_SelectSkillRandom": ""
+  "SkillAction_SelectSkillRandom": "",
+  "SkillEffect_CookingSuccessPerUp": "¡La probabilidad de elaborar un plato\nriquísimo ha aumentado un \u000e\u0002\u0002\u0002\u0000 %!"
 }

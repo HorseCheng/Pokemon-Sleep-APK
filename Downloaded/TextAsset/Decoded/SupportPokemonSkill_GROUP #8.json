@@ -8,5 +8,6 @@
   "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀\u000e\b\u0000\u0002촃 \u000e\u0002\u0004\u0004\u0001촁회 도와주었다!",
   "SkillEffect_PickupIngredientRandom": "식재료 \u000e\u0002\u0002\u0002\u0000개 획득!",
   "SkillEffect_CookingIngredientNumLimitUp": "요리 냄비의 용량이 \u000e\u0002\u0002\u0002\u0000개 늘었다!",
-  "SkillAction_SelectSkillRandom": ""
+  "SkillAction_SelectSkillRandom": "",
+  "SkillEffect_CookingSuccessPerUp": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 올랐다!"
 }
