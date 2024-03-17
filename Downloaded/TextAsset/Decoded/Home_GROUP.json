@@ -46,7 +46,7 @@
   "CampSetPopup_Desc_Notime": "수면 리서치를 더욱 쾌적하게 진행할 수 있는 캠프세트를\n티켓 1장으로 일주일간 대여할 수 있습니다",
   "CampSetPopup_SectionHeader_Effect": "효과 일람",
   "CampSetPopup_EffectDesc_1": "수면 리서치로 찾아오는 포켓몬이 1마리 늘고\n그 포켓몬은 반드시 찬스 상태가 됩니다",
-  "CampSetPopup_EffectDesc_Add1": "수면 리서치로 찾아오는 포켓몬이 1마리 늘고\n그 포켓몬은 반드시 찬스 상태가 됩니다\n※효과는 하루에 한 번 발휘됩니다",
+  "CampSetPopup_EffectDesc_Add1": "수면 리서치로 찾아오는 포켓몬이 1마리 늘고\n그 포켓몬은 반드시 찬스 상태가 됩니다\n※그날의 첫 번째 수면 리서치에서만\n효과가 발휘됩니다",
   "CampSetPopup_EffectDesc_2": "냄비 용량(식재료 투입 상한) 1.5배",
   "CampSetPopup_EffectDesc_3": "도우미 스피드 1.2배",
   "CampSetPopup_EffectDesc_4": "도우미 소지 상한 1.2배",

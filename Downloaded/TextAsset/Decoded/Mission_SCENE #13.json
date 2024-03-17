@@ -20,7 +20,7 @@
   "MissionScene_Footer_GetAllButton": "Alles annehmen",
   "MissionScene_Header_Title": "Missionen",
   "WeeklyMissionCell_ItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
-  "WeeklyMissionCell_Progress": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "WeeklyMissionCell_Progress": "\u000e\u0002\u0003\u0004\u0000촁/\u000e\u0002\u0003\u0004\u0001촁",
   "WeeklyMissionCell_BalloonMessage": "Rauch",
   "WeeklyMissionCell_Clear": "FERTIG!",
   "WeeklyMissionCell_RewardGetButton": "Annehmen",

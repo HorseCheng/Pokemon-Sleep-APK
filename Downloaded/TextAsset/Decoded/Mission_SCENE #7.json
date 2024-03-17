@@ -20,7 +20,7 @@
   "MissionScene_Footer_GetAllButton": "모두 받는다",
   "MissionScene_Header_Title": "미션",
   "WeeklyMissionCell_ItemNum": "x\u000e\u0002\u0004\u0004\u0000촁",
-  "WeeklyMissionCell_Progress": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "WeeklyMissionCell_Progress": "\u000e\u0002\u0003\u0004\u0000촁/\u000e\u0002\u0003\u0004\u0001촁",
   "WeeklyMissionCell_BalloonMessage": "향로",
   "WeeklyMissionCell_Clear": "CLEAR",
   "WeeklyMissionCell_RewardGetButton": "받는다",
