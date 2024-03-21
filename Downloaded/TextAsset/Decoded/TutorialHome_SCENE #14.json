@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "피카츄나 나무열매를 탭해 주십시오",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "잠자는 모습을 7종류 모아\n도감 목표를 달성하면 이용할 수 있게 됩니다",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "잠자는 모습을 12종류 모아\n도감 목표를 달성하면 이용할 수 있게 됩니다",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "잠자는 모습을 35종류 모아\n도감 목표를 달성하면 이용할 수 있게 됩니다"
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "잠자는 모습을 35종류 모아\n도감 목표를 달성하면 이용할 수 있게 됩니다",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "알림",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "현재 연둣빛 본섬에서\n이벤트가 개최되고 있습니다\n이벤트 필드로 이동하여\n다른 잠만보와 새로 만납니다"
 }

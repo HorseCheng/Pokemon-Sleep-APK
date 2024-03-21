@@ -6,6 +6,7 @@
   "SkillEffect_OtherPokemonPowerUp": "¡\u000e\u0003\n\u0002촁 ha recuperado\n\u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía!",
   "SkillEffect_AllActivePokemonPowerUp": "¡El equipo ha recuperado\n\u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía!",
   "SkillEffect_PickupFinishRandom": "¡\u000e\u0003\n\u0002촀 te ayuda\n\u000e\u0002\u0004\u0004\u0000촁 ve\u000e\u0007\u0000\u000e\u0002z\u0006ces촀 más!",
+  "SkillEffect_PokemonTypePickupFinishRandom": "¡Recibes \u000e\u0002\u0001\u0002\u0000 veces más ayuda de todos\nlos integrantes del equipo!",
   "SkillEffect_PickupIngredientRandom": "¡Has obtenido \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀!",
   "SkillEffect_CookingIngredientNumLimitUp": "¡Aún cabría\u000e\u0007\u0000\b\u0000\u0002n촀 \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀 más\nen el puchero!",
   "SkillAction_SelectSkillRandom": "",

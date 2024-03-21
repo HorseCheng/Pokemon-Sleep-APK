@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "Saciado",
   "SleepResearchSceneController_Text_5": "Este Pokémon está saciado. No puedes\ndarle más Pokégalletas.",
   "SleepResearchSceneController_Text_9": "¿Quieres darle una \u000e\u0003\u0003\u0004Ā촀?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Confirmación",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "¿Seguro que quieres darle una\nMegagalleta a\n\u000e\u0003\u0001\u0002\u0000?",
   "SleepResearchScene_ResearchFinishCutin_Message": "¡Ya has estudiado a todos los\nPokémon presentes!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Hora del picoteo",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "¿Qué es la hora del picoteo?",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿ＷPodrías toparte con un Pokémon variocolor.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷPodrías toparte con Pokémon variocolor.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "\u000e\u0000\u0003\u0004毿ＷObtendrás más fragmentos de sueños\u000e\u0000\u0003\u0004\u0000＀\ntras el estudio del sueño.",
-  "SleepResearchScene_EventPopup_Text_8": "Aparecerá al menos un Pokémon hambriento\nen el primer estudio del sueño del día."
+  "SleepResearchScene_EventPopup_Text_8": "Aparecerá al menos un Pokémon hambriento\nen el primer estudio del sueño del día.",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "No puedes dar una \u000e\u0003\u0003\u0004Ā촀\na este Pokémon.",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento"
 }

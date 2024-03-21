@@ -20,5 +20,7 @@
   "CommonGroup_TimeZoneCautionPopup_Title": "Die Zeitzone wurde geändert",
   "CommonGroup_TimeZoneCautionPopup_Text": "Es scheint, als hätte sich die Zeitzone\ndeines Geräts wiederholt geändert.\nSei bitte vorsichtig, da dies dazu\nführen kann, dass Spieldaten\nbeschädigt werden.",
   "CommonGroup_TimeManipulationPopup_Title": "Zeit des Geräts wurde geändert",
-  "CommonGroup_TimeManipulationPopup_Text": "Es wurde eine Änderung der Zeit\ndeines Geräts festgestellt, seit du\ndas letzte Mal gespielt hast. Änderst\ndu diese zu häufig, kann dadurch dein\nSpielerlebnis negativ beeinflusst\nwerden, also sei bitte vorsichtig."
+  "CommonGroup_TimeManipulationPopup_Text": "Es wurde eine Änderung der Zeit\ndeines Geräts festgestellt, seit du\ndas letzte Mal gespielt hast. Änderst\ndu diese zu häufig, kann dadurch dein\nSpielerlebnis negativ beeinflusst\nwerden, also sei bitte vorsichtig.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "Dieser Tausch kann nicht getätigt\nwerden, weil du dann mehr Exemplare\ndieses Items hättest, als du tragen\nkannst.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Du kannst dieses Item nicht erhalten,\nweil du dann mehr Exemplare dieses\nItems hättest, als du tragen kannst."
 }

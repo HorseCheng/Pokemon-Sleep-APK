@@ -89,6 +89,7 @@
   "md_pokemon_incense_name_199": "ヤドキングのおこう",
   "md_pokemon_incense_name_208": "ハガネールのおこう",
   "md_pokemon_incense_name_214": "ヘラクロスのおこう",
+  "md_pokemon_incense_name_243": "ライコウのおこう",
   "md_pokemon_incense_name_246": "ヨーギラスのおこう",
   "md_pokemon_incense_name_247": "サナギラスのおこう",
   "md_pokemon_incense_name_248": "バンギラスのおこう",
@@ -126,6 +127,7 @@
   "md_pokemon_incense_name_760": "キテルグマのおこう",
   "md_pokemon_incense_name_702": "デデンネのおこう",
   "md_pokemon_incense_desc_1": "\u000e\u0003\u0001\u0002\u0000が好む香りのおこう。\nねむる前にセットする。",
+  "md_pokemon_incense_desc_1_long": "\u000e\u0003\u0001\u0002\u0000が好む香りのおこう。\n次回の睡眠リサーチで、\n\u000e\u0003\u0001\u0002\u0000が１匹追加で出現する。",
   "md_pokemon_incense_name_9001": "ピカチュウ(ハロウィン)のおこう",
   "md_pokemon_incense_name_9002": "ピカチュウ(ホリデー)のおこう"
 }

@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "現在、利用できません",
   "SocialResearch_SCENE_NoUseCamera_Text": "写真と動画の撮影が許可されていないため\nこの機能を利用することができません\n\n端末の設定からカメラへの\nアクセスを許可してください",
   "SocialResearch_SCENE_NoFriendList_Text": "フレンドがいません\nリサーチャーコードを送って\nフレンドを招待しましょう！",
-  "SocialResearch_SCENE_NoApprovalList_Text": "届いているフレンド申請はありません"
+  "SocialResearch_SCENE_NoApprovalList_Text": "届いているフレンド申請はありません",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "を追加で受け取りました",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "親密度"
 }

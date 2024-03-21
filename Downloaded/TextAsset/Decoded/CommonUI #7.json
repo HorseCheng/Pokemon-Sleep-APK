@@ -19,6 +19,7 @@
   "CommonUI_Order_Asc": "筆畫遞增",
   "CommonUI_Order_Desc": "筆畫遞減",
   "ItemCount": "×\u000e\u0002\u0005\u0004\u0000촁",
+  "ItemCount_plus": "+ \u000e\u0002\u0005\u0004\u0000촁",
   "CommonUI_DatePicker_Date": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000",
   "ItemName_Count": "\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\t\u0004\u0002촁",
   "DrumrollHour": "\u000e\u0002\u0001\u0002\u0000",

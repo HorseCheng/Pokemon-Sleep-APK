@@ -34,6 +34,8 @@
   "item_name_33": "Seme abilità secondaria",
   "item_name_34": "Affiataroma",
   "item_name_35": "Pietralbore",
+  "item_name_36": "Crini di Raikou",
+  "item_name_37": "Biscotto Raikou",
   "item_desc_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
   "item_desc_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
   "item_desc_3": "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
@@ -41,7 +43,8 @@
   "item_desc_5": "Cuscino ad hoc che fa recuperare\nenergie a un solo Pokémon\naiutante (+50).\n\n\u000e\n\u0000\u0002촀Note: è possibile che con questo\nstrumento l'energia di un Pokémon\nsuperi il valore di 100. Non si può\nusare su un Pokémon con energia\ngià superiore a 100.\u000f\n\u0000",
   "item_desc_6": "Fischietto molto energizzante.\nBasta un fischio e la squadra di\naiutanti raccoglierà subito le bacche\ne gli ingredienti ottenibili in tre ore.\nLe abilità principali, però, non saranno\nattivate.\n\n\u000e\n\u0000\u0002촀Note: il valore è calcolato usando\nle \"Statistiche aiuto\" nella pagina\n\"Info\" (nella schermata \"Cambia\nsquadra\"), come se il Pokémon avesse\nl'energia al massimo. Non si applicano\ngli effetti di strumenti come\ni Biglietti campeggio buono e\ndei bonus degli eventi.\u000f\n\u0000",
   "item_desc_7": "Biglietto speciale che permette\ndi spostarsi in un altro punto\nin qualunque momento.\n\u000e\n\u0000\u0002촀(Si può andare solo verso aree\ngià sbloccate).\n(Spostandosi, il rango di Snorlax e\nle ricompense di alcune missioni\nverranno azzerati.)\u000f\n\u0000",
-  "item_desc_8": "Permette di prendere in prestito\nper 7 giorni (168 ore) un Set da\ncampeggio buono, utile per le\nricerche e per far crescere Snorlax.\n\n• Per la ricerca sul sonno apparirà\nun Pokémon in più, e avrà fame.\nNota: l'effetto si attiva solo per la\nprima ricerca sul sonno della giornata.\n• La pentola sarà più grande del 50%\ne avrà spazio per più ingredienti.\n• Gli aiutanti saranno più veloci\ndel 20%.\n• Gli aiutanti potranno trasportare\nil 20% in più di bacche o ingredienti.",
+  "item_desc_8": "Permette di prendere in prestito\nper 7 giorni (168 ore) un Set da\ncampeggio buono, utile per le\nricerche e per far crescere Snorlax.",
+  "item_desc_8_v2": "Permette di prendere in prestito\nper 7 giorni (168 ore) un Set da\ncampeggio buono, utile per le\nricerche e per far crescere Snorlax.\n\n• Per la ricerca sul sonno apparirà\nun Pokémon in più, e avrà fame.\nNota: l'effetto si attiva solo per la\nprima ricerca sul sonno della giornata.\n• La pentola sarà più grande del 50%\ne avrà spazio per più ingredienti.\n• Gli aiutanti saranno più veloci\ndel 20%.\n• Gli aiutanti potranno trasportare\nil 20% in più di bacche o ingredienti.",
   "item_desc_9": "Dolcetto che rende un po' più amici\ni Pokémon. Dà 1 punto amicizia.",
   "item_desc_10": "Buon dolcetto che rende molto più\namici i Pokémon. Dà 3 punti amicizia.",
   "item_desc_11": "Dolcetto speciale che rende i Pokémon\npiù amici che mai. Porta al massimo\ni punti amicizia.",
@@ -69,6 +72,7 @@
   "item_desc_33": "Seme misterioso che fa aumentare\ndi 1 livello la qualità di un'abilità\nsecondaria a caso di un Pokémon.\n\u000e\n\u0000\u0002촀Nota: non può essere usato se\ntutte le abilità secondarie sbloccate\ndel Pokémon sono al livello massimo e\nnon avrà effetto su abilità che hanno\ngià raggiunto la qualità più alta.\u000f\n\u0000",
   "item_desc_34": "Fa sì che per lo spuntino appaia\nalmeno un Pokémon affamato a caso.\nDura una sola sessione di sonno\ne poi sparisce.",
   "item_desc_35": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ luccicante come gli occhi.",
+  "item_desc_37": "Dolcetto speciale che rende molto\npiù amico Raikou. Aumenta i punti\namicizia di 6.\n\n\u000e\n\u0000\u0002촀Nota: al termine del periodo\ndi scambio allo scambio evento,\nquesto strumento diventerà \nun Megabiscotto.\nControlla le date in cui è possibile\nfare lo scambio nelle comunicazioni\nsull'evento.\u000f\n\u0000",
   "item_desc_short_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.",
   "item_desc_short_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.",
   "item_desc_short_3": "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno.",
@@ -103,5 +107,6 @@
   "item_desc_short_32": "Un seme misterioso che fa aumentare\ndi 1 livello le tecniche principali.",
   "item_desc_short_33": "Seme misterioso che migliora di 1\nla qualità di un'abilità secondaria\na caso di un Pokémon. ",
   "item_desc_short_34": "Fa sì che per lo spuntino\nappaia almeno un Pokémon\nparticolarmente affamato.",
-  "item_desc_short_35": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ luccicante come gli occhi."
+  "item_desc_short_35": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ luccicante come gli occhi.",
+  "item_desc_short_37": "Dolcetto solo per Raikou\nche lo rende molto più amico.\nAumenta i punti amicizia di 6."
 }

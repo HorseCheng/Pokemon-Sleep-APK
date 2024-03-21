@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "표시 전환",
   "PokemonTeamFormationScene_Footer_Value": "레벨",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "현재 팀",
-  "PokemonTeamFormationSceneController_Text_7": "팀 변경 사항이 저장되지 않았습니다\n현재 팀에서 이 팀으로 변경할 경우\n[이 팀으로 변경] 버튼을 눌러 주십시오\n\n팀을 변경하지 않고 돌아가겠습니까?"
+  "PokemonTeamFormationSceneController_Text_7": "팀 변경 사항이 저장되지 않았습니다\n현재 팀에서 이 팀으로 변경할 경우\n[이 팀으로 변경] 버튼을 눌러 주십시오\n\n팀을 변경하지 않고 돌아가겠습니까?",
+  "PokemonTeamFormationSceneController_Text_8": "팀 내에 이미 \u000e\u0000\u0003\u0004毿Ｗ특별한 포켓몬\u000e\u0000\u0003\u0004\u0000＀이 있습니다.\n특별한 포켓몬은 \u000e\u0000\u0003\u0004毿Ｗ같은 팀에 1마리\u000e\u0000\u0003\u0004\u0000＀만\n편성할 수 있습니다.\n현재 편성되어 있는 포켓몬을\n팀에서 제외하겠습니까?"
 }

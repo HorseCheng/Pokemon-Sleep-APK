@@ -34,6 +34,8 @@
   "item_name_33": "Semilla Habilidad Secundaria",
   "item_name_34": "Incienso Afecto",
   "item_name_35": "Piedra Alba",
+  "item_name_36": "Melena de Raikou",
+  "item_name_37": "Galleta Raikou",
   "item_desc_1": "Duplica la EXP de estudio obtenida\ntras una sesión de estudio del sueño.\nSe consume al usarlo.",
   "item_desc_2": "Duplica la cantidad de fragmentos de\nsueños obtenidos tras una sesión de\nestudio. Se consume al usarlo.",
   "item_desc_3": "Duplica la EXP de los Pokémon\nayudantes tras una sesión de estudio.\nSe consume al usarlo.",
@@ -41,7 +43,8 @@
   "item_desc_5": "Almohada especial que restablece\n50 puntos de energía a un Pokémon\nayudante.\n\n\u000e\n\u0000\u0002촀Este objeto permite alcanzar valores\nsuperiores a 100, pero no se puede\nusar si el Pokémon ya tiene 100 o más\npuntos de energía.\u000f\n\u0000",
   "item_desc_6": "Hace que los ayudantes traigan al\ninstante las bayas e ingredientes que\nhabrían tardado 3 horas en recoger.\nNo activa las habilidades principales.\n\n\u000e\n\u0000\u0002촀El efecto se calcula en base a los\nrecursos de ayuda mostrados en la\nventana Características del equipo\n(accesible tocando el icono de datos\nen la pantalla Organizar equipos) con\nla energía del Pokémon al máximo.\nNo se aplican los efectos de los bonus\nde evento u objetos como el Cupón de\nAcampada.\u000f\n\u0000",
   "item_desc_7": "Billete que permite desplazarse en\ncualquier momento a una zona de\nestudio ya desbloqueada.\n\u000e\n\u0000\u0002촀Solo puedes desplazarte a zonas que\nya has visitado.\nCambiar de zona reiniciará la\nvaloración de Snorlax y determinados\npremios de tus misiones.\u000f\n\u0000",
-  "item_desc_8": "Permite alquilar durante 168 horas\n(7 días) un Lote de Acampada, útil\npara el estudio del sueño y criar a\nSnorlax.\n\n• Se sumará a tu estudio un Pokémon\nadicional. ¡Estará muy hambriento! Se\naplica solo a la primera sesión del día.\n• El tamaño de tu puchero aumentará\nun 50 %, lo que te permitirá echar\nmás ingredientes.\n• Los ayudantes realizarán su labor\nun 20 % más rápido.\n• Los ayudantes podrán llevar un\n20 % más de bayas o ingredientes.",
+  "item_desc_8": "Permite alquilar durante 168 horas\n(7 días) un Lote de Acampada, útil\npara el estudio del sueño y criar a\nSnorlax.",
+  "item_desc_8_v2": "Permite alquilar durante 168 horas\n(7 días) un Lote de Acampada, útil\npara el estudio del sueño y criar a\nSnorlax.\n\n• Se sumará a tu estudio un Pokémon\nadicional. ¡Estará muy hambriento! Se\naplica solo a la primera sesión del día.\n• El tamaño de tu puchero aumentará\nun 50 %, lo que te permitirá echar\nmás ingredientes.\n• Los ayudantes realizarán su labor\nun 20 % más rápido.\n• Los ayudantes podrán llevar un\n20 % más de bayas o ingredientes.",
   "item_desc_9": "Dulce que aumenta ligeramente el\nnivel de amistad de un Pokémon.\nProporciona un punto de amistad.",
   "item_desc_10": "Dulce que aumenta bastante el nivel\nde amistad de un Pokémon.\nProporciona tres puntos de amistad.",
   "item_desc_11": "Dulce especial que aumenta mucho el\nnivel de amistad de un Pokémon.\nSube al máximo los puntos de amistad.",
@@ -69,6 +72,7 @@
   "item_desc_33": "Semilla misteriosa que sube un nivel\nuna habilidad secundaria al azar\nde un Pokémon.\n\u000e\n\u0000\u0002촀No se puede usar si el Pokémon tiene\ntodas sus habilidades secundarias\ndesbloqueadas al máximo nivel, o si la\nhabilidad ya no se puede mejorar más.\u000f\n\u0000",
   "item_desc_34": "Incienso que asegura la visita de al\nmenos un Pokémon hambriento a la\nhora del picoteo. Se consume al\nusarlo.",
   "item_desc_35": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Brilla como un lucero.",
+  "item_desc_37": "Dulce especial que aumenta mucho el\nnivel de amistad de Raikou.\nProporciona seis puntos de amistad.\n\n\u000e\n\u0000\u0002촀Una vez finalizado el período de\nintercambio en el rincón de\nintercambio del evento, se convertirá\nautomáticamente en una Supergalleta.\nConsulta la sección Noticias para\nconocer más detalles.\u000f\n\u0000",
   "item_desc_short_1": "Duplica la EXP de estudio recibida\ntras un estudio del sueño.",
   "item_desc_short_2": "Duplica los fragmentos de sueños\nrecibidos tras un estudio del sueño.",
   "item_desc_short_3": "Duplica la EXP que reciben los\nPokémon ayudantes tras un estudio\ndel sueño.",
@@ -103,5 +107,6 @@
   "item_desc_short_32": "Semilla misteriosa que sube un nivel\nla habilidad principal de un\nPokémon.",
   "item_desc_short_33": "Semilla misteriosa que mejora un\nnivel los efectos de una habilidad\nsecundaria al azar de un Pokémon.",
   "item_desc_short_34": "Incienso que asegura la aparición de\nal menos un Pokémon especialmente\nhambriento a la hora del picoteo.",
-  "item_desc_short_35": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Brilla como un lucero."
+  "item_desc_short_35": "Curiosa piedra que hace evolucionar\na determinadas especies de\nPokémon. Brilla como un lucero.",
+  "item_desc_short_37": "Dulce especial que aumenta mucho\nel nivel de amistad de Raikou.\nProporciona seis puntos de amistad."
 }

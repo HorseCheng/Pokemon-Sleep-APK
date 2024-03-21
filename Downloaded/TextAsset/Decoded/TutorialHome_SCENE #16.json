@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "Prova a toccare Pikachu\no le sue bacche!",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Potrai usare questa funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n7 stili di sonno nel Sonnodex.",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Potrai usare questa funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n12 stili di sonno nel Sonnodex.",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Potrai usare questa funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n35 stili di sonno nel Sonnodex."
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Potrai usare questa funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n35 stili di sonno nel Sonnodex.",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "Avviso",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "Sull'Isola Erbaverde\nc'è un evento in corso.\nTi sposterai nell'area dell'evento\ne incontrerai un nuovo Snorlax."
 }

@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "Función no disponible",
   "SocialResearch_SCENE_NoUseCamera_Text": "No es posible usar esta función porque\nla aplicación no tiene permiso para\ntomar fotografías ni grabar vídeos.\n\nAccede a los ajustes de tu dispositivo\ny concede permiso a la aplicación para\nutilizar la cámara.",
   "SocialResearch_SCENE_NoFriendList_Text": "No tienes amigos en tu lista. Puedes invitar\na tus amigos enviándoles tu ID de estudio.",
-  "SocialResearch_SCENE_NoApprovalList_Text": "No tienes solicitudes de amistad."
+  "SocialResearch_SCENE_NoApprovalList_Text": "No tienes solicitudes de amistad.",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "extra para ti",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "Afinidad"
 }

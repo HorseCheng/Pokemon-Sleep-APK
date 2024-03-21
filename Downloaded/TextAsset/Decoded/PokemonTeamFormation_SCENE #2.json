@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "Visualizza",
   "PokemonTeamFormationScene_Footer_Value": "Livello",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Squadra attuale",
-  "PokemonTeamFormationSceneController_Text_7": "Non hai ancora cambiato squadra.\nSe vuoi scegliere questa al posto\ndi quella attuale, tocca l'icona\n\"Scegli questa squadra\"!\n\nVuoi davvero continuare con\nla squadra attuale?"
+  "PokemonTeamFormationSceneController_Text_7": "Non hai ancora cambiato squadra.\nSe vuoi scegliere questa al posto\ndi quella attuale, tocca l'icona\n\"Scegli questa squadra\"!\n\nVuoi davvero continuare con\nla squadra attuale?",
+  "PokemonTeamFormationSceneController_Text_8": "Hai già un \u000e\u0000\u0003\u0004毿ＷPokémon speciale\n\u000e\u0000\u0003\u0004\u0000＀in squadra. Puoi avere \u000e\u0000\u0003\u0004毿Ｗun solo\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷPokémon speciale in ogni squadra\u000e\u0000\u0003\u0004\u0000＀.\nVuoi rimuovere l'altro Pokémon\nspeciale dalla squadra?"
 }

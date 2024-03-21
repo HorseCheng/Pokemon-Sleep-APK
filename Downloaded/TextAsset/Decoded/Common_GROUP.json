@@ -20,5 +20,7 @@
   "CommonGroup_TimeZoneCautionPopup_Title": "타임 존 변경을 감지했습니다",
   "CommonGroup_TimeZoneCautionPopup_Text": "단말기의 타임 존 설정이 잦은 빈도로\n변경된 것 같습니다\n게임 데이터 파손으로 이어질\n우려가 있으므로 주의해 주십시오",
   "CommonGroup_TimeManipulationPopup_Title": "단말기의 시간 설정이 변경되었습니다",
-  "CommonGroup_TimeManipulationPopup_Text": "지난 플레이 이후로 단말기의 시간 설정이\n변경된 것을 감지했습니다\n단말기의 시간 설정이 빈번하게 변경되면\n플레이에 지장을 줄 수 있으므로\n주의해 주십시오"
+  "CommonGroup_TimeManipulationPopup_Text": "지난 플레이 이후로 단말기의 시간 설정이\n변경된 것을 감지했습니다\n단말기의 시간 설정이 빈번하게 변경되면\n플레이에 지장을 줄 수 있으므로\n주의해 주십시오",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "이 아이템의 소지 상한을 넘으므로\n교환할 수 없습니다",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "이 아이템의 소지 상한을 넘으므로\n받을 수 없습니다"
 }

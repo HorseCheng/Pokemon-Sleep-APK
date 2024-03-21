@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "Versuche auf Pikachu, oder die Beeren\nzu tippen!",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Du kannst diese Funktion nutzen,\nsobald du 7 Schlafposen im Schlafdex\nregistriert hast.",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Du kannst diese Funktion nutzen,\nsobald du 12 Schlafposen im Schlafdex\nregistriert hast.",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Du kannst diese Funktion nutzen,\nsobald du 35 Schlafposen im Schlafdex\nregistriert hast."
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Du kannst diese Funktion nutzen,\nsobald du 35 Schlafposen im Schlafdex\nregistriert hast.",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "Hinweis",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "Es findet gerade ein Event auf der\nGrasgrün-Insel statt. Du wirst in ein\nGebiet versetzt, in dem du ein neues\nRelaxo triffst."
 }

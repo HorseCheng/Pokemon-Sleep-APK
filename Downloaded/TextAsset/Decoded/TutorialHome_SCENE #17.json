@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "Potrai usare questa funzione\ndopo il tutorial",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Potrai usare queta funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n7 stili di sonno.",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Potrai usare queta funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n12 stili di sonno.",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Potrai usare queta funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n35 stili di sonno."
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Potrai usare queta funzione\nuna volta completato l'obiettivo\nche richiede di registrare\n35 stili di sonno.",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "Avviso",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "C'è un evento in corso sull'Isola\nErbaverde. Ti sposterai nell'area\ndell'evento, dove incontrerai\nun nuovo Snorlax."
 }

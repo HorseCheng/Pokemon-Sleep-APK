@@ -25,7 +25,7 @@
   "SleepPassExchangeShopSceneController_Text_3": "Échange premium",
   "SleepPassExchangeShopSceneController_Text_5": "Article nécessitant d'être en\npossession d'un Pass premium.",
   "SleepPassExchangeShopSceneController_Text_6": "Échange",
-  "SleepPassExchangeShopSceneController_Text_7": "Vous avez atteint la limite d'échanges\nautorisée pour cet article ce mois-ci.",
+  "SleepPassExchangeShopSceneController_Text_7": "Vous avez atteint la limite d'échanges\nautorisée pour cet article.",
   "SleepPassExchangeShopSceneController_Text_9": "Le stock d'objet a été renouvelé car\nun nouveau mois a commencé !",
   "SleepPassExchangeShopScene_Content_ItemNum": "×\u000e\u0002\u0002\u0002\u0000",
   "SleepPassExchangeShopScene_Content_ExchangeLimit": "En stock",

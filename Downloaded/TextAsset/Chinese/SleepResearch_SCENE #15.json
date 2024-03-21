@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "吃飽了",
   "SleepResearchSceneController_Text_5": "這隻寶可夢已經吃飽了。\n無法再給牠更多寶可沙布蕾。",
   "SleepResearchSceneController_Text_9": "確定要給牠\u000e\u0003\u0003\u0004Ā촀嗎？",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "大師沙布蕾使用確認",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "確定要把大師沙布蕾\n給\u000e\u0003\u0001\u0002\u0000吃嗎？",
   "SleepResearchScene_ResearchFinishCutin_Message": "完成所有寶可夢的研究了！",
   "SleepResearchScene_BaitBallInforPopup_Title": "關於點心時間",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "點心時間",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿Ｗ幸運的話，將能遇見異色的寶可夢。\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿Ｗ幸運的話，\n也許還能遇見特定的異色寶可夢。\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "睡眠研究後的\u000e\u0000\u0003\u0004毿Ｗ夢之碎片獲得量提升\u000e\u0000\u0003\u0004\u0000＀。",
-  "SleepResearchScene_EventPopup_Text_8": "在第1次睡眠研究時，\n必定會有1隻寶可夢處於貪吃狀態。"
+  "SleepResearchScene_EventPopup_Text_8": "在第1次睡眠研究時，\n必定會有1隻寶可夢處於貪吃狀態。",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "無法給這隻寶可夢吃\n\u000e\u0003\u0003\u0004Ā촀。",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "活動道具"
 }

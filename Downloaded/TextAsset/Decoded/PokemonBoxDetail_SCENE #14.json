@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "由於到達了特定等級，\n已開放副技能。",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "已開放食材",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "由於到達了特定等級，\n已開放新的食材。",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "等級"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "等級",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "幫手加速（\u000e\u0003\u0002\u0002촀）",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "主技能Lv.\u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "隊伍中的所有幫手寶可夢\n會立刻完成\u000e\u0002\u0001\u0002\u0000次幫忙。\n隊伍中有越多不同種類的\u000e\u0003\u0002\u0002촁屬性幫手寶可夢，\n技能的效果量就會提升得越多，\n充分發揮出技能的價值。",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "在目前的主技能等級，\n不同的寶可夢種類數量各別可提升的效果量如下。",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "數量為1隻時：+ \u000e\u0002\u0001\u0002\u0000次",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "數量為2隻時：+ \u000e\u0002\u0001\u0002\u0000次",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "數量為3隻時：+ \u000e\u0002\u0001\u0002\u0000次",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "數量為4隻時：+ \u000e\u0002\u0001\u0002\u0000次",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "數量為5隻時：+ \u000e\u0002\u0001\u0002\u0000次",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "※主技能可提升的效果量，\n會根據主技能可發動時的隊伍成員來決定。"
 }

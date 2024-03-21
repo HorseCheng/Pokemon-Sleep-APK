@@ -20,5 +20,7 @@
   "CommonGroup_TimeZoneCautionPopup_Title": "Rilevato cambio fuso orario",
   "CommonGroup_TimeZoneCautionPopup_Text": "Sembra che le impostazioni del\nfuso orario del tuo dispositivo\nsiano cambiate spesso.\nFai attenzione, questa operazione\npotrebbe danneggiare i dati di gioco.",
   "CommonGroup_TimeManipulationPopup_Title": "Rilevato cambio orario dispositivo",
-  "CommonGroup_TimeManipulationPopup_Text": "Dall'ultima volta che hai giocato\nè stata rilevata una modifica\ndell'ora del tuo dispositivo.\nFai attenzione, perché se le\nimpostazioni dell'ora vengono\ncambiate troppo spesso l'esperienza\ndi gioco potrebbe peggiorare."
+  "CommonGroup_TimeManipulationPopup_Text": "Dall'ultima volta che hai giocato\nè stata rilevata una modifica\ndell'ora del tuo dispositivo.\nFai attenzione, perché se le\nimpostazioni dell'ora vengono\ncambiate troppo spesso l'esperienza\ndi gioco potrebbe peggiorare.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "Non puoi eseguire lo scambio\nperché supereresti il limite\nper questo strumento.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Non puoi ottenere questo strumento\nperché supereresti il limite."
 }

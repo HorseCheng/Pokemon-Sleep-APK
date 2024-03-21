@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "Touchez Pikachu ou les Baies !",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "Cette fonctionnalité sera disponible\nune fois que l'objectif d'enregistrer\n7 styles de dodo dans le Dododex\nsera atteint.",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "Cette fonctionnalité sera disponible\nune fois que l'objectif d'enregistrer\n12 styles de dodo dans le Dododex\nsera atteint.",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Cette fonctionnalité sera disponible\nune fois que l'objectif d'enregistrer\n35 styles de dodo dans le Dododex\nsera atteint."
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "Cette fonctionnalité sera disponible\nune fois que l'objectif d'enregistrer\n35 styles de dodo dans le Dododex\nsera atteint.",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "Annonce",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "Un évènement est en cours sur l'Île\nVertepousse. Déplacement vers la\nzone de l'évènement, où vous attend\nun nouveau Ronflex."
 }

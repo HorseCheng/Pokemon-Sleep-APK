@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "Display",
   "PokemonTeamFormationScene_Footer_Value": "Level",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Current Team",
-  "PokemonTeamFormationSceneController_Text_7": "You haven’t changed your current\nteam yet. If you’d like to change from\nyour current team to this one, tap\nthe “Use This Team” button!\n\nOr are you OK sticking with your\ncurrent team instead?"
+  "PokemonTeamFormationSceneController_Text_7": "You haven’t changed your current\nteam yet. If you’d like to change from\nyour current team to this one, tap\nthe “Use This Team” button!\n\nOr are you OK sticking with your\ncurrent team instead?",
+  "PokemonTeamFormationSceneController_Text_8": "You already have a \u000e\u0000\u0003\u0004毿ＷSpecial Pokémon\u000e\u0000\u0003\u0004\u0000＀ on\nyour team. You can have \u000e\u0000\u0003\u0004毿Ｗonly one\nSpecial Pokémon on the same team\u000e\u0000\u0003\u0004\u0000＀ at\na time. Do you want to remove the\nother Special Pokémon from your\nteam?"
 }

@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "Actuellement non disponible",
   "SocialResearch_SCENE_NoUseCamera_Text": "Cette fonctionnalité ne peut pas être\nutilisée, car l'application n'est pas\nautorisée à prendre des photos et\nfilmer des vidéos.\n\nVeuillez accéder aux paramètres de\nvotre appareil pour permettre à\nl'application d'utiliser l'appareil\nphoto.",
   "SocialResearch_SCENE_NoFriendList_Text": "Votre liste d'amis est vide. Vous pouvez\nenvoyer votre ID de recherche pour inviter\ndes personnes.",
-  "SocialResearch_SCENE_NoApprovalList_Text": "Vous n'avez pas de demande amicale."
+  "SocialResearch_SCENE_NoApprovalList_Text": "Vous n'avez pas de demande amicale.",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "en bonus !",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "Affinité"
 }

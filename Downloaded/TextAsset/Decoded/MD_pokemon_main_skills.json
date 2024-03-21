@@ -26,5 +26,7 @@
   "md_pokemon_main_skills_name_13": "揮指",
   "md_pokemon_main_skills_desc_13": "從全部的主技能中隨機選出1招使出。",
   "md_pokemon_main_skills_name_14": "料理成功S",
-  "md_pokemon_main_skills_desc_14": "料理的漂亮成功機率提升\u000e\u0002\u0002\u0002\u0000%的效果會\n持續到料理發生漂亮成功或移動營地為止。"
+  "md_pokemon_main_skills_desc_14": "料理的漂亮成功機率提升\u000e\u0002\u0002\u0002\u0000%的效果會\n持續到料理發生漂亮成功或移動營地為止。",
+  "md_pokemon_main_skills_name_15": "幫手加速",
+  "md_pokemon_main_skills_desc_15": "隊伍中的所有幫手寶可夢\n會立刻完成\u000e\u0002\u0001\u0002\u0000次幫忙。\n滿足特定條件效後效果就會進一步提升。"
 }

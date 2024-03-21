@@ -20,5 +20,7 @@
   "CommonGroup_TimeZoneCautionPopup_Title": "Time Zone Change Detected",
   "CommonGroup_TimeZoneCautionPopup_Text": "It seems like your device’s time zone\nsettings have been changed quite\nfrequently. This can damage game\ndata, so please be careful.",
   "CommonGroup_TimeManipulationPopup_Title": "Device Time Change Detected",
-  "CommonGroup_TimeManipulationPopup_Text": "A time change has been detected in\nyour device since the last time you\nplayed. If the time settings on your\ndevice are changed too often, it can\nhinder your gameplay experience, so\nplease be careful."
+  "CommonGroup_TimeManipulationPopup_Text": "A time change has been detected in\nyour device since the last time you\nplayed. If the time settings on your\ndevice are changed too often, it can\nhinder your gameplay experience, so\nplease be careful.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "You can’t make this exchange because\nit would give you more of this item\nthan you can carry.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "You can’t receive this item because\ndoing so would give you more of this\nitem than you can carry."
 }

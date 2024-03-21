@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "Dieses Pokémon kann jetzt ein neues\nNebentalent benutzen!",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Zutat freigeschaltet",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "Dieses Pokémon kann jetzt eine neue\nZutat finden!",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Level hoch!"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Level hoch!",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Helfer-Boost (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Haupttalent-Level \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Die Hilfe eines Pokémon wird auf der\nStelle \u000e\u0002\u0001\u0002\u0000 Mal durchgeführt.\nJe mehr verschiedene Arten von\nElektro-Pokémon sich in deinem Team\nbefinden, desto stärker ist der Effekt\ndes Talents.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "Auf diesem Haupttalent-Level ist die Menge an\nBonus-Hilfe, die du pro Pokémon erhältst, wie folgt:",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1 zutreffendes Pokémon: + \u000e\u0002\u0001\u0002\u0000× die übliche\nMenge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2 zutreffende Pokémon: + \u000e\u0002\u0001\u0002\u0000× die übliche\nMenge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3 zutreffende Pokémon: + \u000e\u0002\u0001\u0002\u0000× die übliche\nMenge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4 zutreffende Pokémon: + \u000e\u0002\u0001\u0002\u0000× die übliche\nMenge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5 zutreffende Pokémon: + \u000e\u0002\u0001\u0002\u0000× die übliche\nMenge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "Hinweis: Die Wirksamkeit des Haupttalents\nhängt von der Zusammenstellung deines Teams\nab, zum Zeitpunkt, zu dem es auslösbar wurde."
 }

@@ -26,5 +26,7 @@
   "md_pokemon_main_skills_name_13": "손가락흔들기",
   "md_pokemon_main_skills_desc_13": "모든 메인 스킬 중\n어느 하나를 날린다",
   "md_pokemon_main_skills_name_14": "料理チャンスS",
-  "md_pokemon_main_skills_desc_14": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000%上がる\n効果は料理が大成功するか、\nフィールドを移動するまで持続する"
+  "md_pokemon_main_skills_desc_14": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000%上がる\n効果は料理が大成功するか、\nフィールドを移動するまで持続する",
+  "md_pokemon_main_skills_name_15": "おてつだいブースト",
+  "md_pokemon_main_skills_desc_15": "チームのポケモン全員のおてつだいが\n\u000e\u0002\u0001\u0002\u0000回分すぐに完了する\n特定の条件を満たすとさらに効果アップ"
 }

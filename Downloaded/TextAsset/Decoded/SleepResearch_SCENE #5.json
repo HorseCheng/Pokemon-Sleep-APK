@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "Sazio",
   "SleepResearchSceneController_Text_5": "È già sazio. Non puoi\nsomministrare altre escasfere.",
   "SleepResearchSceneController_Text_9": "Vuoi davvero usare \u000e\u0003\u0003\u0004Ā촀?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Conferma Masterbiscotto",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Vuoi davvero dare un Masterbiscotto\na \u000e\u0003\u0001\u0002\u0000?",
   "SleepResearchScene_ResearchFinishCutin_Message": "Hai studiato tutti i Pokémon\nnei dintorni!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Lo spuntino",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "Cosa si fa all'ora dello spuntino?",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿ＷPotresti incontrare un Pokémon cromatico.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷPotresti incontrare alcuni Pokémon\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗcromatici.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "I ricercatori \u000e\u0000\u0003\u0004毿Ｗotterranno più frammenti\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗdi sogno\u000e\u0000\u0003\u0004\u0000＀ con la ricerca sul sonno.",
-  "SleepResearchScene_EventPopup_Text_8": "Un Pokémon avrà sicuramente fame durante\nla prima ricerca sul sonno del giorno."
+  "SleepResearchScene_EventPopup_Text_8": "Un Pokémon avrà sicuramente fame durante\nla prima ricerca sul sonno del giorno.",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "Non puoi dare lo strumento\n\u000e\u0003\u0003\u0004Ā촀\na questo Pokémon.",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Strumenti evento"
 }

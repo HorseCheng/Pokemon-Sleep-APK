@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "切換顯示",
   "PokemonTeamFormationScene_Footer_Value": "等級",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "目前的隊伍",
-  "PokemonTeamFormationSceneController_Text_7": "隊伍變更尚未儲存。\n要從現在的隊伍變更為此隊伍，\n請按下「變更為這個隊伍」按鍵。\n\n要取消隊伍變更並返回嗎？"
+  "PokemonTeamFormationSceneController_Text_7": "隊伍變更尚未儲存。\n要從現在的隊伍變更為此隊伍，\n請按下「變更為這個隊伍」按鍵。\n\n要取消隊伍變更並返回嗎？",
+  "PokemonTeamFormationSceneController_Text_8": "隊伍中已有\u000e\u0000\u0003\u0004毿Ｗ特別的寶可夢\u000e\u0000\u0003\u0004\u0000＀。\n\u000e\u0000\u0003\u0004毿Ｗ同一隊伍\u000e\u0000\u0003\u0004\u0000＀僅限編組\u000e\u0000\u0003\u0004毿Ｗ1隻\u000e\u0000\u0003\u0004\u0000＀特別的寶可夢。\n確定要從隊伍中移除該寶可夢嗎？"
 }

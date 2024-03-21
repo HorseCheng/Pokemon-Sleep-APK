@@ -1,11 +1,12 @@
 {
-  "Message_ActivatePokemonSkill": "Compétence Principale activée !",
+  "Message_ActivatePokemonSkill": "Compétence principale activée !",
   "SkillEffect_FoodPowerUp": "Ronflex gagne une puissance de \u000e\u0002\u0004\u0004\u0000촁 !",
   "SkillEffect_CoinGet": "\u000e\u0002\u0004\u0004\u0000촁 Fragment\u000e\u0004\u0000\b\u0000\u0002s촀 de Rêve obtenu\u000e\u0004\u0000\b\u0000\u0002s촀 !",
   "SkillEffect_SelfPokemonPowerUp": "Récupération de \u000e\u0002\u0002\u0002\u0000 point\u000e\u0004\u0000\b\u0000\u0002s촀 d'énergie !",
   "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀 a récupéré\n\u000e\u0002\u0002\u0002\u0001 point\u000e\u0004\u0000\b\u0000\u0002s촁 d'énergie !",
   "SkillEffect_AllActivePokemonPowerUp": "L'équipe a récupéré \u000e\u0002\u0002\u0002\u0000 point\u000e\u0004\u0000\b\u0000\u0002s촀 d'énergie !",
   "SkillEffect_PickupFinishRandom": "Aide supplémentaire de la part\nde \u000e\u0003\n\u0002촀 (× \u000e\u0002\u0004\u0004\u0001촁) !",
+  "SkillEffect_PokemonTypePickupFinishRandom": "Vous avez obtenu \u000e\u0002\u0001\u0002\u0000 fois\nle soutien de toute votre équipe !",
   "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 ingrédient\u000e\u0004\u0000\b\u0000\u0002s촀 obtenu\u000e\u0004\u0000\b\u0000\u0002s촀 !",
   "SkillEffect_CookingIngredientNumLimitUp": "La marmite peut contenir\n\u000e\u0002\u0002\u0002\u0000 ingrédient\u000e\u0004\u0000\b\u0000\u0002s촀 supplémentaire\u000e\u0004\u0000\b\u0000\u0002s촀 !",
   "SkillAction_SelectSkillRandom": "",

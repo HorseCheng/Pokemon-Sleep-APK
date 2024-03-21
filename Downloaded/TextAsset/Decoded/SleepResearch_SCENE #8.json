@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "Pokémon rassasié",
   "SleepResearchSceneController_Text_5": "Ce pokémon a le ventre plein. Vous ne\npouvez pas lui donner plus de Biscuits.",
   "SleepResearchSceneController_Text_9": "Donner un \u000e\u0003\u0003\u0004Ā촀\nà ce Pokémon ?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Master Biscuit : confirmation",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Voulez-vous donner un Master Biscuit\nà \u000e\u0003\u0001\u0002\u0000 ?",
   "SleepResearchScene_ResearchFinishCutin_Message": "Vous avez analysé tous\nles Pokémon présents !",
   "SleepResearchScene_BaitBallInforPopup_Title": "L'heure du goûter",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "Que se passe-t-il à l'heure du goûter ?",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿ＷVous pourrez peut-être rencontrer\nun Pokémon chromatique.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷVous pourrez peut-être rencontrer\ncertains Pokémon chromatiques.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Vous \u000e\u0000\u0003\u0004毿Ｗgagnerez plus de Fragments de Rêve\u000e\u0000\u0003\u0004\u0000＀\nlors de vos recherches sur le sommeil.",
-  "SleepResearchScene_EventPopup_Text_8": "Au moins un Pokémon sera affamé lors de\nla première session de sommeil du jour."
+  "SleepResearchScene_EventPopup_Text_8": "Au moins un Pokémon sera affamé lors de\nla première session de sommeil du jour.",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "Impossible de donner l'objet\nci-dessous à ce Pokémon :\n\u000e\u0003\u0003\u0004Ā촀",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objets de l'évènement"
 }

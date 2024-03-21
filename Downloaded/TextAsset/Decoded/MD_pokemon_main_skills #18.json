@@ -26,5 +26,7 @@
   "md_pokemon_main_skills_name_13": "Metronom",
   "md_pokemon_main_skills_desc_13": "Setzt ein zufälliges Haupttalent ein.",
   "md_pokemon_main_skills_name_14": "Köstlichkeitsrate S",
-  "md_pokemon_main_skills_desc_14": "Erhöht die Rate für köstliche\nGerichte um X %. Der Effekt hält an,\nbis du ein köstliches Gericht kochst,\noder das Gebiet wechselst."
+  "md_pokemon_main_skills_desc_14": "Erhöht die Rate für köstliche\nGerichte um X %. Der Effekt hält an,\nbis du ein köstliches Gericht kochst,\noder das Gebiet wechselst.",
+  "md_pokemon_main_skills_name_15": "Helfer-Boost",
+  "md_pokemon_main_skills_desc_15": "Verschafft dir sofort \u000e\u0002\u0001\u0002\u0000 Mal der\nHilfe aller Pokémon im Team. Erfüllte\nBedingungen verstärken den Effekt."
 }

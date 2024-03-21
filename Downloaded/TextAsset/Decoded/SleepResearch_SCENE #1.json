@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "Satt",
   "SleepResearchSceneController_Text_5": "Dieses Pokémon ist satt. Du kannst\nihm keine weiteren Pokékekse geben.",
   "SleepResearchSceneController_Text_9": "Möchtest du diesem Pokémon einen\n\u000e\u0003\u0003\u0004Ā촀 geben?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Meisterkeks geben?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Möchtest du\n\u000e\u0003\u0001\u0002\u0000\nwirklich einen Meisterkeks geben?",
   "SleepResearchScene_ResearchFinishCutin_Message": "Du hast alle versammelten \nPokémon erforscht!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Snackzeit",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "Was passiert eigentlich in der Snackzeit?",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿ＷVielleicht begegnest du ja einem\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷSchillernden Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷVielleicht begegnest du ja bestimmten\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷSchillernden Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Forscher \u000e\u0000\u0003\u0004毿Ｗerhalten\u000e\u0000\u0003\u0004\u0000＀ \u000e\u0000\u0003\u0004毿Ｗmehr Traumsplitter\u000e\u0000\u0003\u0004\u0000＀ bei\nder Schlafforschung.",
-  "SleepResearchScene_EventPopup_Text_8": "Bei deiner ersten Schlafforschung des\nTages wird garantiert ein hungriges\nPokémon erscheinen."
+  "SleepResearchScene_EventPopup_Text_8": "Bei deiner ersten Schlafforschung des\nTages wird garantiert ein hungriges\nPokémon erscheinen.",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items"
 }

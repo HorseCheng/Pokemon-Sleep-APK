@@ -26,5 +26,7 @@
   "md_pokemon_main_skills_name_13": "손가락흔들기",
   "md_pokemon_main_skills_desc_13": "모든 메인 스킬 중\n어느 하나를 날린다",
   "md_pokemon_main_skills_name_14": "요리 찬스S",
-  "md_pokemon_main_skills_desc_14": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 오른다\n효과는 요리를 대성공하거나\n필드를 이동할 때까지 지속된다"
+  "md_pokemon_main_skills_desc_14": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 오른다\n효과는 요리를 대성공하거나\n필드를 이동할 때까지 지속된다",
+  "md_pokemon_main_skills_name_15": "도우미 부스트",
+  "md_pokemon_main_skills_desc_15": "팀의 도우미 포켓몬 전원으로부터\n즉시 \u000e\u0002\u0001\u0002\u0000회만큼 도움받을 수 있다\n특정 조건을 만족하면 효과가 더욱 상승한다"
 }

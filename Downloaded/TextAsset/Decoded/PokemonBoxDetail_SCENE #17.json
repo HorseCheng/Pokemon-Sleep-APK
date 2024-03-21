@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "¡El Pokémon ha adquirido un nueva\nhabilidad secundaria al subir de nivel!",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Ingrediente desbloqueado",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "¡Tras la subida de nivel, este Pokémon\npuede encontrar ingredientes nuevos!",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "¡NIVEL ↑!"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "¡NIVEL ↑!",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Mejora de ayuda (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Habilidad principal Nv. \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Otorga al instante \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda que\nproporcionarían normalmente todos tus\nPokémon de apoyo.\nCuantas más especies de Pokémon de tipo\n\u000e\u0003\u0002\u0002촁 distintas tengas en el equipo,\nmayor será el efecto de la habilidad. ",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "Con la habilidad principal a este nivel, cada\nayudante te proporcionará lo siguiente:",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "Si tienes 1 Pokémon que cumpla los requisitos:\nextra equivalente a \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda habitual.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "Si tienes 2 Pokémon que cumplan los requisitos:\nextra equivalente a \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda habitual.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "Si tienes 3 Pokémon que cumplan los requisitos:\nextra equivalente a \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda habitual.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "Si tienes 4 Pokémon que cumplan los requisitos:\nextra equivalente a \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda habitual.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "Si tienes 5 Pokémon que cumplan los requisitos:\nextra equivalente a \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 la ayuda habitual.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "El aumento en la eficacia de la habilidad\nprincipal dependerá de la configuración del\nequipo en el momento de su activación."
 }

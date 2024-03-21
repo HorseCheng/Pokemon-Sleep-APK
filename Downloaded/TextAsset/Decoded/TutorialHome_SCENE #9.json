@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "ピカチュウ・きのみをタップしてください",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "図鑑目標「寝顔を7種類集める」を\n達成すると、利用できるようになります",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "図鑑目標「寝顔を12種類集める」を\n達成すると、利用できるようになります",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "図鑑目標「寝顔を35種類集める」を\n達成すると、利用できるようになります"
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "図鑑目標「寝顔を35種類集める」を\n達成すると、利用できるようになります",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "お知らせ",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "現在、ワカクサ本島では\nイベントが開催されています\nイベントに移動し、\n新しく別のカビゴンと出会います"
 }

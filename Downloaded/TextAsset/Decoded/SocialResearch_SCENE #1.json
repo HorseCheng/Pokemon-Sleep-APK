@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "Derzeit nicht verfügbar",
   "SocialResearch_SCENE_NoUseCamera_Text": "Diese Funktion kann nicht verwendet\nwerden, da die App nicht die Erlaubnis\nhat, Bilder oder Videos aufzunehmen.\n\nBitte erlaube der App in den\nEinstellungen deines Geräts Zugriff\nauf die Kamera.",
   "SocialResearch_SCENE_NoFriendList_Text": "Du hast keine Freunde im Spiel. Du kannst\nFreunden deine Forschungs-ID schicken und\nsie einladen.",
-  "SocialResearch_SCENE_NoApprovalList_Text": "Du hast keine Freundschaftsanfragen."
+  "SocialResearch_SCENE_NoApprovalList_Text": "Du hast keine Freundschaftsanfragen.",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "hast du ebenfalls erhalten.",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "Verbundenheit"
 }

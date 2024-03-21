@@ -89,6 +89,7 @@
   "md_pokemon_incense_name_199": "Slowking Incense",
   "md_pokemon_incense_name_208": "Steelix Incense",
   "md_pokemon_incense_name_214": "Heracross Incense",
+  "md_pokemon_incense_name_243": "Raikou Incense",
   "md_pokemon_incense_name_246": "Larvitar Incense",
   "md_pokemon_incense_name_247": "Pupitar Incense",
   "md_pokemon_incense_name_248": "Tyranitar Incense",
@@ -126,6 +127,7 @@
   "md_pokemon_incense_name_760": "Bewear Incense",
   "md_pokemon_incense_name_702": "Dedenne Incense",
   "md_pokemon_incense_desc_1": "An incense adored by \u000e\u0003\u0001\u0002\u0000.\nIt should be used before sleeping.",
+  "md_pokemon_incense_desc_1_long": "An incense loved by\n\u000e\u0003\u0001\u0002\u0000.\nDuring your next sleep research, one\nadditional \u000e\u0003\u0001\u0002\u0000 will\nappear.",
   "md_pokemon_incense_name_9001": "Pikachu (Halloween) Incense",
   "md_pokemon_incense_name_9002": "Pikachu (Holiday) Incense"
 }

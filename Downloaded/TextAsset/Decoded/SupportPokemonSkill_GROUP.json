@@ -6,6 +6,7 @@
   "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀 hat\n\u000e\u0002\u0002\u0002\u0001 Energie wieder aufgefüllt!",
   "SkillEffect_AllActivePokemonPowerUp": "Dein Team hat \u000e\u0002\u0002\u0002\u0000 Energie wieder\naufgefüllt!",
   "SkillEffect_PickupFinishRandom": "Bonus-Hilfe von\u000e\u0003\n\u0002촀\n(×\u000e\u0002\u0004\u0004\u0001촁)!",
+  "SkillEffect_PokemonTypePickupFinishRandom": "Du hast \u000e\u0002\u0001\u0002\u0001 Mal die übliche Hilfe von\nallen Mitgliedern deines Teams\nerhalten!",
   "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀 erhalten!",
   "SkillEffect_CookingIngredientNumLimitUp": "Dein Kochtopf hat Platz für\n\u000e\u0002\u0002\u0002\u0000 zusätzliche \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀!",
   "SkillAction_SelectSkillRandom": "",

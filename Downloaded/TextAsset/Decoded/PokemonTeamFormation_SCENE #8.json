@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "表示切替",
   "PokemonTeamFormationScene_Footer_Value": "レベル",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "現在のチーム",
-  "PokemonTeamFormationSceneController_Text_7": "チーム変更が保存されていません\n現在のチームから変更する場合\n「このチームに変更」ボタンを押してください\n\nチームを変更せずに戻りますか？"
+  "PokemonTeamFormationSceneController_Text_7": "チーム変更が保存されていません\n現在のチームから変更する場合\n「このチームに変更」ボタンを押してください\n\nチームを変更せずに戻りますか？",
+  "PokemonTeamFormationSceneController_Text_8": "チーム内にすでに \u000e\u0000\u0003\u0004毿Ｗ特別なポケモン\u000e\u0000\u0003\u0004\u0000＀ がいます。\n特別なポケモンは \u000e\u0000\u0003\u0004毿Ｗ同じチームに1匹\u000e\u0000\u0003\u0004\u0000＀ しか\n入れられません。そのポケモンはチームから\n外されますが、よろしいですか？"
 }

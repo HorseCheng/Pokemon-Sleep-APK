@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "Il Pokémon è salito di livello e ha\nimparato una nuova abilità secondaria!",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Ingrediente sbloccato",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "Il Pokémon è salito di livello e ora può\ntrovare un nuovo tipo di ingrediente!",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "L. ↑ "
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "L. ↑ ",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Potenzia aiutanti (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Abilità principale L. \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Fa completare subito \u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀 a tutti\ni Pokémon in squadra. Più Pokémon di tipo\n\u000e\u0003\u0002\u0002촁 di specie diverse hai in squadra,\nmaggiori saranno gli effetti dell'abilità.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "Ecco l'aiuto bonus che riceverai da ogni\nPokémon con l'abilità a questo livello.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "Un Pokémon idoneo: +\u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "Due Pokémon idonei: +\u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "Tre Pokémon idonei: +\u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "Quattro Pokémon idonei: +\u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "Cinque Pokémon idonei: +\u000e\u0002\u0001\u0002\u0000 intervent\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "Nota: l'efficacia dell'abilità principale\ndipende dai Pokémon che hai in squadra\nquando si attiva l'abilità stessa."
 }

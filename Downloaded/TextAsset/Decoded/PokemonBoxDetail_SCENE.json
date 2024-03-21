@@ -49,8 +49,18 @@
   "PokemonBoxDetailScene_Footer_Name": "Envoyer à Néroli",
   "PokemonBoxDetailScene_Footer_Name_2": "Utiliser des objets",
   "PokemonBoxDetailScene_NewSkill_Popup_Title": "Compétence débloquée",
-  "PokemonBoxDetailScene_NewSkill_Popup_Text": "Ce Pokémon a monté de niveau et \nappris une Compétence Secondaire !",
+  "PokemonBoxDetailScene_NewSkill_Popup_Text": "Ce Pokémon a monté de niveau et \nappris une compétence secondaire !",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Ingrédient débloqué",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "Ce Pokémon a monté de niveau et peut\ntrouver un nouveau type d'ingrédient !",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Niveau + 1 !"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Niveau + 1 !",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Super Soutien (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Comp. principale niv. \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Octroie immédiatement l'équivalent de\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de tous les Pokémon de\nsoutien de votre équipe.\nPlus il y aura de Pokémon de type \u000e\u0003\u0002\u0002촁\ndifférents dans votre équipe, plus l'effet\nde cette compétence sera renforcé.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "Le niveau actuel de la compétence principale\nvous octroiera les bonus de soutien suivants :",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1 Pokémon répondant aux critères :\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de soutien",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2 Pokémon répondant aux critères :\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de soutien",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3 Pokémon répondant aux critères :\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de soutien",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4 Pokémon répondant aux critères :\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de soutien",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5 Pokémon répondant aux critères :\n\u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀 de soutien",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "Note : l'effet de la compétence principale\ndépend de la composition de l'équipe au moment\noù il devient possible de l'activer."
 }

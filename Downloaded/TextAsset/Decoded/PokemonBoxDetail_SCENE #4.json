@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "Das Pokémon hat beim Levelaufstieg\nein neues Nebentalent erlernt!",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Neue Zutat",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "Das Pokémon kann durch den\nLevelaufstieg eine neue Zutat finden!",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Lv. ↑"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Lv. ↑",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Helfer-Boost (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Haupttalent-Level \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Die Hilfe aller Pokémon im Team wird auf\nder Stelle \u000e\u0002\u0001\u0002\u0000 Mal durchgeführt.\nJe mehr verschiedene Arten von Pokémon\nvom Typ \u000e\u0003\u0002\u0002촁 sich in deinem Team\nbefinden, desto stärker ist der Effekt des\nTalents.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "Auf diesem Haupttalent-Level ergibt sich die\nMenge an Bonus-Hilfe pro Pokémon wie folgt:",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1 teilnahmeberechtigtes Pokémon:\n+ \u000e\u0002\u0001\u0002\u0000 Mal die übliche Menge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2 teilnahmeberechtigte Pokémon:\n+ \u000e\u0002\u0001\u0002\u0000 Mal die übliche Menge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3 teilnahmeberechtigte Pokémon:\n+ \u000e\u0002\u0001\u0002\u0000 Mal die übliche Menge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4 teilnahmeberechtigte Pokémon:\n+ \u000e\u0002\u0001\u0002\u0000 Mal die übliche Menge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5 teilnahmeberechtigte Pokémon:\n+ \u000e\u0002\u0001\u0002\u0000 Mal die übliche Menge an Hilfe",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "Hinweis: Die Wirksamkeit des Haupttalents\nhängt von der Zusammenstellung deines Teams\nab, sobald das Talent auslösbar wurde."
 }

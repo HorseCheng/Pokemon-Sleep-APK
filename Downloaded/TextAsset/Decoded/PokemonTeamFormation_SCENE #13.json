@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "Anzeige",
   "PokemonTeamFormationScene_Footer_Value": "Level",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Aktives Team",
-  "PokemonTeamFormationSceneController_Text_7": "Du hast dein aktives Team noch nicht\ngeändert. Wenn du dieses Team mit\ndem aktuellen Team auswechseln\nmöchtest, tippe „Team auswählen“ an.\n\nMöchtest du wirklich bei deinem\naktuellen Team bleiben?"
+  "PokemonTeamFormationSceneController_Text_7": "Du hast dein aktives Team noch nicht\ngeändert. Wenn du dieses Team mit\ndem aktuellen Team auswechseln\nmöchtest, tippe „Team auswählen“ an.\n\nMöchtest du wirklich bei deinem\naktuellen Team bleiben?",
+  "PokemonTeamFormationSceneController_Text_8": "Es ist bereits ein \u000e\u0000\u0003\u0004毿ＷBesonderes Pokémon\n\u000e\u0000\u0003\u0004\u0000＀in deinem Team. Du kannst jeweils\n\u000e\u0000\u0003\u0004毿Ｗnur ein Besonderes Pokémon im selben\nTeam \u000e\u0000\u0003\u0004\u0000＀haben. Möchtest du das andere\nBesondere Pokémon aus deinem Team\nentfernen?"
 }

@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "現在無法使用。",
   "SocialResearch_SCENE_NoUseCamera_Text": "由於您未允許拍攝照片和影片，\n因此無法使用這個功能。\n\n請從裝置的設定\n允許應用程式存取相機。",
   "SocialResearch_SCENE_NoFriendList_Text": "尚無好友。\n傳送研究者代碼\n來邀請好友吧！",
-  "SocialResearch_SCENE_NoApprovalList_Text": "並未收到好友申請。"
+  "SocialResearch_SCENE_NoApprovalList_Text": "並未收到好友申請。",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "已追加領取上述道具。",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "友誼度"
 }

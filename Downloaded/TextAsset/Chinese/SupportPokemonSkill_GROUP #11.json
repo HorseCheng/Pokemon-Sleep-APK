@@ -6,6 +6,7 @@
   "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀的活力回復\u000e\u0002\u0002\u0002\u0001！",
   "SkillEffect_AllActivePokemonPowerUp": "隊伍的活力回復\u000e\u0002\u0002\u0002\u0000！",
   "SkillEffect_PickupFinishRandom": "\u000e\u0003\n\u0002촀完成了\u000e\u0002\u0004\u0004\u0001촁次幫忙！",
+  "SkillEffect_PokemonTypePickupFinishRandom": "全隊成員完成了\u000e\u0002\u0001\u0002\u0000次幫忙！",
   "SkillEffect_PickupIngredientRandom": "獲得\u000e\u0002\u0002\u0002\u0000個食材！",
   "SkillEffect_CookingIngredientNumLimitUp": "鍋子能多放\u000e\u0002\u0006\u0004\u0000촁個食材了！",
   "SkillAction_SelectSkillRandom": "",

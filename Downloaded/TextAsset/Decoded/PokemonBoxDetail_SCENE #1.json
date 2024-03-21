@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "\u000e\u0003\f\u0002촀\u000e\b\u0000\u0002촃 개방되었습니다",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "새로운 식재료 개방",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃 개방되었습니다",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃 개방되었습니다"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃 개방되었습니다",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "おてつだいブースト(\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "メインスキルレベル \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "チームのポケモン全員のおてつだいが\n\u000e\u0002\u0001\u0002\u0000回分すぐに完了する\nチームに異なる種類の\u000e\u0003\u0002\u0002촁タイプの\nポケモンが多いほどさらに効果量がUPし、\n真価を発揮する",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "現在のメインスキルレベルにおいて、\nポケモンの数ごとの効果量UPは以下のとおりです",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1匹の場合：+ \u000e\u0002\u0001\u0002\u0000回",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2匹の場合：+ \u000e\u0002\u0001\u0002\u0000回",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3匹の場合：+ \u000e\u0002\u0001\u0002\u0000回",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4匹の場合：+ \u000e\u0002\u0001\u0002\u0000回",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5匹の場合：+ \u000e\u0002\u0001\u0002\u0000回",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "※メインスキルの効果量UPは、メインスキルが\n発動可能になった時点のチーム編成で決定されます"
 }

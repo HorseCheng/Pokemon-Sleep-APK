@@ -18,5 +18,7 @@
   "HomeSceneTutorialController_Text_32": "請點擊皮卡丘或樹果。",
   "HomeSceneTutorialController_CannotUse_LevelUp_Text": "達成睡姿圖鑑的目標\n「研究7種睡姿」即可使用。",
   "HomeSceneTutorialController_CannotUse_CookingChoice_Text": "達成睡姿圖鑑的目標\n「研究12種睡姿」即可使用。",
-  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "達成睡姿圖鑑的目標\n「研究35種睡姿」即可使用。"
+  "HomeSceneTutorialController_CannotUse_PotExpand_Text": "達成睡姿圖鑑的目標\n「研究35種睡姿」即可使用。",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Title": "通知",
+  "HomeSceneTutorialController_NewSnorlaxPopup_Text": "萌綠之島正在舉辦活動。\n移動到活動營地，新遇見其他的卡比獸。"
 }

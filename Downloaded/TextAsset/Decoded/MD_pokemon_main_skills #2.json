@@ -26,5 +26,7 @@
   "md_pokemon_main_skills_name_13": "Métronome",
   "md_pokemon_main_skills_desc_13": "Lance une Compétence Principale au\nhasard",
   "md_pokemon_main_skills_name_14": "Plat Super Bon S",
-  "md_pokemon_main_skills_desc_14": "Augmente le taux de « Super bon ! »\nde \u000e\u0002\u0002\u0002\u0000 % jusqu'à l'obtention d'un plat\nSuper bon ou un changement de zone."
+  "md_pokemon_main_skills_desc_14": "Augmente le taux de « Super bon ! »\nde \u000e\u0002\u0002\u0002\u0000 % jusqu'à l'obtention d'un plat\nSuper bon ou un changement de zone.",
+  "md_pokemon_main_skills_name_15": "Super Soutien",
+  "md_pokemon_main_skills_desc_15": "Octroie l'équivalent de \u000e\u0002\u0001\u0002\u0000 utilisation\u000e\u0004\u0000\b\u0000\u0002s촀\nde toute votre équipe de soutien.\nEffet renforcé sous certaines conditions."
 }

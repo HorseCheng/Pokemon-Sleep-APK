@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "Mostrar",
   "PokemonTeamFormationScene_Footer_Value": "Nivel",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Equipo activo",
-  "PokemonTeamFormationSceneController_Text_7": "No has modificado tu equipo activo.\nSi prefieres cambiarlo por este,\ntoca en \"Usar este equipo\".\n¿O prefieres mantener el que tenías?"
+  "PokemonTeamFormationSceneController_Text_7": "No has modificado tu equipo activo.\nSi prefieres cambiarlo por este,\ntoca en \"Usar este equipo\".\n¿O prefieres mantener el que tenías?",
+  "PokemonTeamFormationSceneController_Text_8": "Ya tienes un \u000e\u0000\u0003\u0004毿ＷPokémon especial\u000e\u0000\u0003\u0004\u0000＀ en el\nequipo activo. Solo es posible tener \u000e\u0000\u0003\u0004毿Ｗun\nPokémon especial en el equipo\u000e\u0000\u0003\u0004\u0000＀.\n¿Quieres eliminar del equipo al\nPokémon especial que tienes ahora?"
 }

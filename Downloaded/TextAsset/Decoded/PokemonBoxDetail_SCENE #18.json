@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "특정 레벨에 도달하여\n서브 스킬이 개방되었습니다",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "식재료 개방",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "특정 레벨에 도달하여\n새로운 식재료가 개방되었습니다",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "레벨"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "레벨",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "도우미 부스트(\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "메인 스킬 레벨 \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "팀의 도우미 포켓몬 전원으로부터\n즉시 \u000e\u0002\u0001\u0002\u0000회만큼 도움받을 수 있다\n팀에 다른 종류의 \u000e\u0003\u0002\u0002촁타입 포켓몬이\n많을수록 효과가 더욱 상승하며 진가를 발휘한다",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "현재의 메인 스킬 레벨에서, 포켓몬의 수에 따라\n도움받을 수 있는 횟수는 아래와 같이 증가합니다",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1마리인 경우: +\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2마리인 경우: +\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3마리인 경우: +\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4마리인 경우: +\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5마리인 경우: +\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "※메인 스킬의 효과는 메인 스킬의 발동이\n가능해진 시점의 팀 편성에 의해 결정됩니다"
 }

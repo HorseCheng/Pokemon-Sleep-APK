@@ -214,5 +214,7 @@
   "SocialResearch_SCENE_NoUseCamera_Title": "Attualmente non disponibile",
   "SocialResearch_SCENE_NoUseCamera_Text": "Non è possibile usare questa\nfunzione perché non è stata\nfornita all'app l'autorizzazione\na scattare foto e a registrare video.\n\nConsenti l'accesso dell'app\nalla fotocamera nelle impostazioni\ndel tuo dispositivo.",
   "SocialResearch_SCENE_NoFriendList_Text": "Non hai amici nel gioco. Puoi inviare il tuo\nID ricerca per invitare i tuoi amici.",
-  "SocialResearch_SCENE_NoApprovalList_Text": "Non hai richieste di amicizia."
+  "SocialResearch_SCENE_NoApprovalList_Text": "Non hai richieste di amicizia.",
+  "SocialResearch_SCENE_Event_RewardDialog_Text_Number_2": "in più per te!",
+  "SocialResearch_SCENE_Event_RewardDialog_prop_1": "Confidenza"
 }

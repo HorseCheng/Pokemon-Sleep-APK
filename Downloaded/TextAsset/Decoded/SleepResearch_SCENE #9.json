@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "Full",
   "SleepResearchSceneController_Text_5": "This Pokémon is full. You can't feed\nit any more Poké Biscuits.",
   "SleepResearchSceneController_Text_9": "Feed this Pokémon a \u000e\u0003\u0003\u0004Ā촀?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Master Biscuit Confirmation",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Are you sure you want to give a\nMaster Biscuit to\n\u000e\u0003\u0001\u0002\u0000?",
   "SleepResearchScene_ResearchFinishCutin_Message": "You studied all the\ngathered Pokémon!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Snack Time",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "What's Snack Time All About?",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿ＷYou may encounter a shiny Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷYou may meet certain Shiny Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Researchers will \u000e\u0000\u0003\u0004毿Ｗgain more Dream Shards\n\u000e\u0000\u0003\u0004\u0000＀from sleep research.",
-  "SleepResearchScene_EventPopup_Text_8": "During the first sleep research of the day,\none Pokémon will for sure be hungry."
+  "SleepResearchScene_EventPopup_Text_8": "During the first sleep research of the day,\none Pokémon will for sure be hungry.",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "You can’t give the following item\nto this Pokémon: \u000e\u0003\u0003\u0004Ā촀",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event Items"
 }

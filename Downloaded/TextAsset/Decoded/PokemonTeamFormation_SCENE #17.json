@@ -18,5 +18,6 @@
   "PokemonTeamFormationScene_Footer_Title": "Affichage",
   "PokemonTeamFormationScene_Footer_Value": "Niveau",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Équipe actuelle",
-  "PokemonTeamFormationSceneController_Text_7": "Vous n'avez pas confirmé la nouvelle\nformation de votre équipe. Si vous\nsouhaitez l'utiliser, appuyez sur le\nbouton « Utiliser cette équipe » !\n\nContinuer malgré tout avec votre\nformation actuelle ?"
+  "PokemonTeamFormationSceneController_Text_7": "Vous n'avez pas confirmé la nouvelle\nformation de votre équipe. Si vous\nsouhaitez l'utiliser, appuyez sur le\nbouton « Utiliser cette équipe » !\n\nContinuer malgré tout avec votre\nformation actuelle ?",
+  "PokemonTeamFormationSceneController_Text_8": "Votre équipe contient déjà un\n\u000e\u0000\u0003\u0004毿ＷPokémon spécial\u000e\u0000\u0003\u0004\u0000＀. Vous ne pouvez avoir\nqu'\u000e\u0000\u0003\u0004毿Ｗun Pokémon spécial à la fois dans \nvotre équipe\u000e\u0000\u0003\u0004\u0000＀. Voulez-vous remplacer\nle Pokémon spécial de votre équipe ?"
 }

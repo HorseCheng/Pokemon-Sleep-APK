@@ -20,5 +20,7 @@
   "CommonGroup_TimeZoneCautionPopup_Title": "Cambio de zona horaria detectado",
   "CommonGroup_TimeZoneCautionPopup_Text": "Parece que los ajustes de zona horaria\nde tu dispositivo se han modificado\ncon bastante frecuencia. Ten cuidado,\nya que esto podría dañar los datos de\njuego.",
   "CommonGroup_TimeManipulationPopup_Title": "Cambio de hora detectado",
-  "CommonGroup_TimeManipulationPopup_Text": "Se ha detectado un cambio en los\najustes de la hora de tu dispositivo\nmóvil desde la última vez que usaste\nla aplicación. Cambiar repetidamente\nestos ajustes podría perjudicar la\nexperiencia de juego."
+  "CommonGroup_TimeManipulationPopup_Text": "Se ha detectado un cambio en los\najustes de la hora de tu dispositivo\nmóvil desde la última vez que usaste\nla aplicación. Cambiar repetidamente\nestos ajustes podría perjudicar la\nexperiencia de juego.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "No puedes realizar el intercambio\nporque superarías el máximo de\nunidades permitidas para el objeto.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "No puedes recibir este objeto porque\nsuperarías el máximo de unidades\npermitidas."
 }

@@ -52,5 +52,15 @@
   "PokemonBoxDetailScene_NewSkill_Popup_Text": "This Pokémon learned a new\nsub skill after leveling up!",
   "PokemonBoxDetailScene_NewFood_Popup_Title": "Ingredient Unlocked",
   "PokemonBoxDetailScene_NewFood_Popup_Text": "This Pokémon can find a new type of\ningredient now that it leveled up!",
-  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Lv. Up!"
+  "PokemonBoxDetailScene_NewFood_Popup_LevelUnit": "Lv. Up!",
+  "PokemonBoxDetailScene_main_skills_name_15_Element_type": "Helper Boost (\u000e\u0003\u0002\u0002촀)",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_level": "Main Skill Level \u000e\u0002\u0001\u0002\u0000",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_head": "Instantly gets you ×\u000e\u0002\u0001\u0002\u0000 the usual help from\nall of the helper Pokémon on your team.\nThe more different species of \u000e\u0003\u0002\u0002촁-\ntype Pokémon you have on your team, the\nmore this skill is able to truly shine,\nincreasing its effects.",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body": "At this main skill level, the amount of bonus\nhelp you will get per Pokémon is as follows:",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_1": "1 qualifying Pokémon: + \u000e\u0002\u0001\u0002\u0000× the usual help",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_2": "2 qualifying Pokémon: + \u000e\u0002\u0001\u0002\u0000× the usual help",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_3": "3 qualifying Pokémon: + \u000e\u0002\u0001\u0002\u0000× the usual help",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_4": "4 qualifying Pokémon: + \u000e\u0002\u0001\u0002\u0000× the usual help",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_point_5": "5 qualifying Pokémon: + \u000e\u0002\u0001\u0002\u0000× the usual help",
+  "PokemonBoxDetailScene_main_skills_name_15_Detaile_body_caution": "Note: Effectiveness of the main skill depends\non the team lineup at the time the main skill\nbecame possible to trigger."
 }

@@ -61,6 +61,8 @@
   "SleepResearchSceneController_Text_4": "満腹",
   "SleepResearchSceneController_Text_5": "おなかがいっぱいで\nこれ以上ポケサブレをあげられません",
   "SleepResearchSceneController_Text_9": "\u000e\u0003\u0003\u0004Ā촀をつかいます\nよろしいですか？",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Title": "マスターサブレの確認",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message": "\u000e\u0003\u0001\u0002\u0000にマスターサブレをあげます\nよろしいですか？",
   "SleepResearchScene_ResearchFinishCutin_Message": "すべてのポケモンのリサーチが\n完了しました",
   "SleepResearchScene_BaitBallInforPopup_Title": "おやつタイムについて",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "おやつタイム",
@@ -90,5 +92,7 @@
   "SleepResearchScene_EventPopup_Text_5": "\u000e\u0000\u0003\u0004毿Ｗ運が良ければ色違いのポケモン\nと出会える\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿Ｗ運が良ければ特定の色違いのポケモン\nと出会える\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "睡眠リサーチでの\u000e\u0000\u0003\u0004毿Ｗゆめのかけら獲得量UP\u000e\u0000\u0003\u0004\u0000＀",
-  "SleepResearchScene_EventPopup_Text_8": "1回目の睡眠リサーチで1匹チャンス確定"
+  "SleepResearchScene_EventPopup_Text_8": "1回目の睡眠リサーチで1匹チャンス確定",
+  "SleepResearch_Scene_UniqueBaitBall_Unusable": "このポケモンには\u000e\u0003\u0003\u0004Ā촀を\nあげることは出来ません",
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "イベントアイテム"
 }
