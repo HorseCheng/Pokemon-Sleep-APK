@@ -24,7 +24,7 @@
   "MapScene_EventEffectPopup_Text": "In diesem Gebiet erhältst du keine\nEffekte des Halloween-Events.",
   "MapScene_EventEffectPopup_Text_2": "In diesem Gebiet erhältst du keine\nEffekte des Festtags-Events.",
   "MapScene_EventEffectPopup_Text_Common": "In diesem Gebiet erhältst du keine\nEffekte des Events\n„\u000e\u0003\u0014\u0002\u0000“.",
-  "MapDetailConfirmPopup_Desc": "Möchtest du deine nächste\nForschungswoche hier verbringen?",
+  "MapDetailConfirmPopup_Desc_v150": "Möchtest du in dieses Gebiet reisen?",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿ＷIn diesem Gebiet erhältst du keine Effekte des\nHalloween-Events.\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿ＷIn diesem Gebiet erhältst du keine Effekte des\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷFesttags-Events.\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_Common": "\u000e\u0000\u0003\u0004毿ＷIn diesem Gebiet erhältst du keine Effekte des\nEvents „\u000e\u0003\u0014\u0002\u0000“.\u000e\u0000\u0003\u0004\u0000＀",

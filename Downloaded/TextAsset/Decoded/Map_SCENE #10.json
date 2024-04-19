@@ -24,7 +24,7 @@
   "MapScene_EventEffectPopup_Text": "このフィールドでは\nハロウィンイベントの効果が\n適用されません",
   "MapScene_EventEffectPopup_Text_2": "このフィールドでは\nホリデーイベントの効果が\n適用されません",
   "MapScene_EventEffectPopup_Text_Common": "このフィールドでは\n\u000e\u0003\u0014\u0002\u0000の効果が\n適用されません",
-  "MapDetailConfirmPopup_Desc": "に移動して1週間過ごします\nよろしいですか？",
+  "MapDetailConfirmPopup_Desc_v150": "に移動します。よろしいですか？",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿Ｗ※このフィールドでは\nハロウィンイベントの効果が適用されません\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿Ｗ※このフィールドでは\nホリデーイベントの効果が適用されません\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_Common": "\u000e\u0000\u0003\u0004毿Ｗ※このフィールドでは\n\u000e\u0003\u0014\u0002\u0000の効果が適用されません\u000e\u0000\u0003\u0004\u0000＀",

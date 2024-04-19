@@ -33,6 +33,7 @@
   "ProfileIconSettingPopup_Title": "Icono del perfil",
   "ProfileIconSettingPopup_SubTitle_Common": "Genérico",
   "ProfileIconSettingPopup_SubTitle_Pokemon": "Pokémon",
+  "ProfileIconSettingPopup_SubTitle_shiny": "Pokémon variocolor",
   "ProfileIconSettingPopup_ChangeButton": "Cambiar",
   "ProfileIconChangeFinishPopup_Title": "¡Listo!",
   "ProfileIconChangeFinishPopup_Text": "Se ha cambiado tu icono del perfil."

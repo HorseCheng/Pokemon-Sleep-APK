@@ -24,7 +24,7 @@
   "MapScene_EventEffectPopup_Text": "Vous ne bénéficierez d'aucun effet\nlié à l'évènement d'Halloween dans\ncette zone.",
   "MapScene_EventEffectPopup_Text_2": "Vous ne bénéficierez d'aucun effet lié à\nl'évènement des Fêtes dans cette zone.",
   "MapScene_EventEffectPopup_Text_Common": "Vous ne bénéficierez d'aucun effet lié\nà l'évènement \u000e\u0003\u0014\u0002\u0000\ndans cette zone.",
-  "MapDetailConfirmPopup_Desc": "Les recherches seront menées dans cette\nzone pendant une semaine. Continuer ?",
+  "MapDetailConfirmPopup_Desc_v150": "Voulez-vous vous déplacer ici ?",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿ＷVous ne bénéficierez d'aucun effet lié à\nl'évènement d'Halloween dans cette zone.\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_2": "Vous ne bénéficierez d'aucun effet lié à\nl'évènement des Fêtes dans cette zone.",
   "MapDetailConfirmPopup_Desc_NoEventEffect_Common": "\u000e\u0000\u0003\u0004毿ＷVous ne bénéficierez d'aucun effet lié à l'évènement\n\u000e\u0003\u0014\u0002\u0000 dans cette zone.\u000e\u0000\u0003\u0004\u0000＀",

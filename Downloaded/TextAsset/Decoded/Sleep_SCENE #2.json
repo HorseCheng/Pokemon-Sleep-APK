@@ -115,6 +115,7 @@
   "SleepScene_SleepPowerView_SleepOthersEffectPopup_Title": "Bonus Details",
   "SleepScene_SleepPowerView_SleepOthersEffectPopup_Heading": "Bonus List",
   "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD": "Good Sleep Day",
+  "SleepScene_SleepPowerView_SleepOthersEffectPopup_Common": "Drowsy Power Bonus Event",
   "SleepScene_SleepPowerView_SleepOthersEffectPopup_GSD_Effect": "\u000e\u0000\u0003\u0004毿ＷDrowsy Power ×\u000e\u0000\u0003\u0004\u0000＀ \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
   "SleepScene_Event_Popup_BonusPower_Text_1": "Event Bonus",
   "SleepScene_Event_Popup_BonusPower_Text_2": "Drowsy Power × \u000e\u0002\u0001\u0002\u0000",

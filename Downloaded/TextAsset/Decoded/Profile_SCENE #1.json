@@ -33,6 +33,7 @@
   "ProfileIconSettingPopup_Title": "프로필 아이콘",
   "ProfileIconSettingPopup_SubTitle_Common": "공통",
   "ProfileIconSettingPopup_SubTitle_Pokemon": "포켓몬",
+  "ProfileIconSettingPopup_SubTitle_shiny": "色違いのポケモン",
   "ProfileIconSettingPopup_ChangeButton": "변경한다",
   "ProfileIconChangeFinishPopup_Title": "完了",
   "ProfileIconChangeFinishPopup_Text": "プロフィールアイコンを変更しました"

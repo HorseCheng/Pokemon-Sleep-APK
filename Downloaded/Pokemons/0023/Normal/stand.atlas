@@ -17,10 +17,6 @@ eye-left_1
 bounds:792,691,26,32
 offsets:175,236,418,418
 rotate:90
-eye-left_2
-bounds:826,690,26,32
-offsets:175,236,418,418
-rotate:90
 eyeball-left_1
 bounds:808,810,29,35
 offsets:173,235,418,418
@@ -95,7 +91,7 @@ mouth_3
 bounds:602,698,96,96
 offsets:120,193,418,418
 neck-shadow_1
-bounds:784,671,18,18
+bounds:826,698,18,18
 offsets:216,269,418,418
 neck1_1
 bounds:602,796,104,61

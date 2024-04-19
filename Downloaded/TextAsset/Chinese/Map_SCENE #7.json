@@ -24,7 +24,7 @@
   "MapScene_EventEffectPopup_Text": "這個營地不會發生萬聖節活動的效果。",
   "MapScene_EventEffectPopup_Text_2": "這個營地不會發生佳節活動的效果。",
   "MapScene_EventEffectPopup_Text_Common": "這個營地不會發生\u000e\u0003\u0014\u0002\u0000的效果。",
-  "MapDetailConfirmPopup_Desc": "確定要前往這裡\n度過一週嗎？",
+  "MapDetailConfirmPopup_Desc_v150": "確定要移動到這個營地嗎？",
   "MapDetailConfirmPopup_Desc_NoEventEffect": "\u000e\u0000\u0003\u0004毿Ｗ※這個營地不會發生萬聖節活動的效果。\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_2": "\u000e\u0000\u0003\u0004毿Ｗ※這個營地不會發生佳節活動的效果。\u000e\u0000\u0003\u0004\u0000＀",
   "MapDetailConfirmPopup_Desc_NoEventEffect_Common": "\u000e\u0000\u0003\u0004毿Ｗ※這個營地不會發生\n\u000e\u0003\u0014\u0002\u0000的效果。\u000e\u0000\u0003\u0004\u0000＀",
