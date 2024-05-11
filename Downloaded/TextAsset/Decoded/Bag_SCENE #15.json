@@ -115,5 +115,6 @@
   "BagSceneConsumableItem_Text_33": "",
   "BagSceneSortPopup_Header_Title": "Sort Contents",
   "BagSceneSortPopup_Headline_Title": "Choose a parameter to sort by",
-  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energy"
+  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energy",
+  "BagScene_NoTargetPokemon_Text": "There are no Pokémon you\ncan use this item on."
 }

@@ -46,6 +46,7 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "Terminer",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "Il vous reste au moins un Biscuit Bonus.\nLes Biscuit Bonus en trop seront donnés à l'un\nde vos Pokémon au hasard.\nMettre fin au goûter ?",
+  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "Impossible d'utiliser de Biscuit Bonus, car tous\nles Pokémon sont rassasiés ou ont leurs points\nd'amitié au max. Impossible de transférer ces\nbiscuits vers la 2e session de sommeil du jour.",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "Résultats du Biscuit Bonus",
   "SleepResearchBonusBaitBallResultPopup_Count": "×\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "Vous avez donné tous vos Biscuits Bonus.",

@@ -46,6 +46,7 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "結束",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "尚未給出今天的獎勵沙布蕾。\n剩下的獎勵沙布蕾會自動送給\n隨機挑選的寶可夢。\n確定要結束點心時間嗎？",
+  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "由於所有寶可夢皆是友情點數MAX或已吃飽了，\n無法給予獎勵沙布蕾。請結束點心時間。\n※獎勵沙布蕾無法保留到\n　 1天當中的第2次睡眠測量。",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "獎勵沙布蕾的結果",
   "SleepResearchBonusBaitBallResultPopup_Count": "×\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "把獎勵沙布蕾全都給寶可夢了！",

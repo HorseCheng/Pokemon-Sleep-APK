@@ -115,5 +115,6 @@
   "BagSceneConsumableItem_Text_33": "",
   "BagSceneSortPopup_Header_Title": "정렬",
   "BagSceneSortPopup_Headline_Title": "항목",
-  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "기력"
+  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "기력",
+  "BagScene_NoTargetPokemon_Text": "도구를 사용할 수 있는 포켓몬이 없습니다"
 }

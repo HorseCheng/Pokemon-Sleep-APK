@@ -94,7 +94,7 @@
   "AutoCookingScene_CookingSuccessBonusNum_1": "메인 스킬: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀\n(대성공하거나 필드를 이동할 때까지 지속됩니다)",
   "AutoCookingScene_CookingSuccessBonusNum_2": "일요일 보너스: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀",
   "AutoCookingScene_CookingSuccessBonusPopup_Text": "요리가 대성공할 확률이 증가합니다",
-  "AutoCookingScene_EventBonusPopup_Text_1": "이벤트 기간 중 요리는 \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\u000e\b\u0000\u0002촅로 고정",
+  "AutoCookingScene_EventBonusPopup_Text_1_Ver160": "이벤트 기간 중 요리는 \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\u000e\b\u0000\u0002촃 된다",
   "AutoCookingScene_EventBonusPopup_Text_2": "요리로 획득할 수 있는 \u000e\u0000\u0003\u0004毿Ｗ에너지가 \u000e\u0002\u0001\u0002\u0000배\u000e\u0000\u0003\u0004\u0000＀가 된다",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "기한 만료",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "좋은캠프티켓의 효과가 사라졌습니다\n식재료를 다시 선택해 주십시오",

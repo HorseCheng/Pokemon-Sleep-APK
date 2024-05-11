@@ -94,7 +94,7 @@
   "AutoCookingScene_CookingSuccessBonusNum_1": "Compétence Principale : \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0002\u0002\u0000 %\n\u000e\u0000\u0003\u0004\u0000＀(Actif jusqu'à obtention d'un plat super bon\nou en cas de changement de zone)",
   "AutoCookingScene_CookingSuccessBonusNum_2": "Bonus de fin de semaine : \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0002\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀",
   "AutoCookingScene_CookingSuccessBonusPopup_Text": "Vos plats cuisinés sont plus\nsusceptibles d'être super bons.",
-  "AutoCookingScene_EventBonusPopup_Text_1": "Les \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000 \u000e\u0000\u0003\u0004\u0000＀seront à l'honneur\nau cours de cet évènement.",
+  "AutoCookingScene_EventBonusPopup_Text_1_Ver160": "Les \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ sont à l'honneur\nau cours de cet évènement.",
   "AutoCookingScene_EventBonusPopup_Text_2": "La \u000e\u0000\u0003\u0004毿Ｗpuissance\u000e\u0000\u0003\u0004\u0000＀ obtenue en cuisinant sera\nmultipliée par \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Fin de la location",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "La période de location du Kit de\nCamping est terminée.\nVeuillez sélectionner à nouveau\nles ingrédients.",

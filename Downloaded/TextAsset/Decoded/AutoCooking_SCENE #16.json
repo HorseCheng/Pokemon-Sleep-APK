@@ -94,7 +94,7 @@
   "AutoCookingScene_CookingSuccessBonusNum_1": "Haupttalent: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀\n(Hält an, bis ein köstliches Gericht gekocht\nwird oder du das Gebiet wechselst.)",
   "AutoCookingScene_CookingSuccessBonusNum_2": "Bonus zum Ende der Woche: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀",
   "AutoCookingScene_CookingSuccessBonusPopup_Text": "Köstliche Gerichte werden\nwahrscheinlicher sein.",
-  "AutoCookingScene_EventBonusPopup_Text_1": "Gerichte während des Events sind auf\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ eingestellt.",
+  "AutoCookingScene_EventBonusPopup_Text_1_Ver160": "Während des Events sind Gerichte auf\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ \neingestellt.",
   "AutoCookingScene_EventBonusPopup_Text_2": "Durch Gerichte erhaltene \u000e\u0000\u0003\u0004毿ＷStärke \u000e\u0000\u0003\u0004\u0000＀wird\n\u000e\u0000\u0003\u0004毿Ｗmit \u000e\u0002\u0001\u0002\u0000 multipliziert\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Leihperiode beendet",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "Die Leihperiode für dein\nProfi-Camping-Set ist abgelaufen.\nBitte wähle deine Zutaten erneut.",

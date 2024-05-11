@@ -115,5 +115,6 @@
   "BagSceneConsumableItem_Text_33": "",
   "BagSceneSortPopup_Header_Title": "Ordina contenuto",
   "BagSceneSortPopup_Headline_Title": "Scegli un criterio",
-  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energia"
+  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energia",
+  "BagScene_NoTargetPokemon_Text": "Non hai Pokémon su cui usare lo strumento."
 }

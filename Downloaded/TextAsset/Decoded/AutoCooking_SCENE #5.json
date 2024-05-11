@@ -94,7 +94,7 @@
   "AutoCookingScene_CookingSuccessBonusNum_1": "Habilidad principal: \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀\n(Hasta preparar un plato riquísimo\no cambiar de ubicación).",
   "AutoCookingScene_CookingSuccessBonusNum_2": "Bonus dominguero: \u000e\u0000\u0003\u0004毿Ｗ+ \u000e\u0002\u0002\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀",
   "AutoCookingScene_CookingSuccessBonusPopup_Text": "Mayor probabilidad de preparar\nun plato riquísimo",
-  "AutoCookingScene_EventBonusPopup_Text_1": "Durante el evento, todos los platos serán\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002Ȁ\u000e\u0000\u0003\u0004\u0000＀.",
+  "AutoCookingScene_EventBonusPopup_Text_1_Ver160": "Durante el evento, todos los platos serán\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002Ȁ\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_EventBonusPopup_Text_2": "El \u000e\u0000\u0003\u0004毿Ｗvigor\u000e\u0000\u0003\u0004\u0000＀ obtenido por los platos\n\u000e\u0000\u0003\u0004毿Ｗse multiplicará por \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "Vencimiento del alquiler",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "El período de alquiler de tu Lote de\nAcampada ha terminado. Vuelve a\nseleccionar ingredientes.",

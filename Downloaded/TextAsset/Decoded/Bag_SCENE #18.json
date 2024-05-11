@@ -115,5 +115,6 @@
   "BagSceneConsumableItem_Text_33": "",
   "BagSceneSortPopup_Header_Title": "排序",
   "BagSceneSortPopup_Headline_Title": "項目",
-  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "活力"
+  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "活力",
+  "BagScene_NoTargetPokemon_Text": "沒有可對其使用道具的寶可夢。"
 }

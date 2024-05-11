@@ -115,5 +115,6 @@
   "BagSceneConsumableItem_Text_33": "",
   "BagSceneSortPopup_Header_Title": "정렬",
   "BagSceneSortPopup_Headline_Title": "항목",
-  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "げんき"
+  "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "げんき",
+  "BagScene_NoTargetPokemon_Text": "どうぐを使用可能なポケモンがいません"
 }

@@ -46,6 +46,7 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "Sí",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "Aún te queda por dar al menos una Galleta\nExtra. ¿Quieres entregar las que te sobren a\nPokémon escogidos al azar y dejarlo aquí?",
+  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "Todos los Pokémon están saciados o tienen los\npuntos de amistad al máximo, por lo que no les\npuedes dar Galleta Extra. Las sobrantes no se\npueden pasar a la segunda sesión del día.",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "Efectos de la Galleta Extra",
   "SleepResearchBonusBaitBallResultPopup_Count": "×\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "Has dado todas tus Galletas Extra.",

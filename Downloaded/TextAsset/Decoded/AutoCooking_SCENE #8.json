@@ -94,7 +94,7 @@
   "AutoCookingScene_CookingSuccessBonusNum_1": "メインスキル： \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000%\n\u000e\u0000\u0003\u0004\u0000＀(大成功する、またはフィールド移動するまで\n持続します)",
   "AutoCookingScene_CookingSuccessBonusNum_2": "ウィークエンドボーナス： \u000e\u0000\u0003\u0004毿Ｗ+\u000e\u0002\u0002\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀",
   "AutoCookingScene_CookingSuccessBonusPopup_Text": "料理の大成功の確率がアップします",
-  "AutoCookingScene_EventBonusPopup_Text_1": "イベント期間中の料理は \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀",
+  "AutoCookingScene_EventBonusPopup_Text_1_Ver160": "이벤트 기간 중 요리는 \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u000f\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\u000e\b\u0000\u0002촃 된다",
   "AutoCookingScene_EventBonusPopup_Text_2": "料理で獲得できる \u000e\u0000\u0003\u0004毿Ｗエナジーが\u000e\u0002\u0001\u0002\u0000倍\u000e\u0000\u0003\u0004\u0000＀ になる",
   "AutoCookingScene_CampTicketExpired_Popup_Title": "期限切れ",
   "AutoCookingScene_CampTicketExpired_Popup_Text": "いいキャンプチケットの効果が切れました\n再度食材を選択してください",
