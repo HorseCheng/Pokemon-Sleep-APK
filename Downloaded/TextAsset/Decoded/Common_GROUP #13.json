@@ -22,5 +22,7 @@
   "CommonGroup_TimeManipulationPopup_Title": "裝置的時間設定有變更",
   "CommonGroup_TimeManipulationPopup_Text": "系統偵測到裝置的時間設定\n自上次遊玩後有所變更。\n若裝置的時間設定頻繁變更，\n有可能會導致遊玩發生問題，\n敬請注意。",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "會超過此道具的持有上限，\n所以無法兌換。",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "會超過此道具的持有上限，\n所以無法領取。"
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "此道具的持有上限為\u000e\u0002\u0000\u0002촀個。\n會超過持有上限，所以無法兌換。\n請在使用此道具後，再次嘗試兌換。",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "會超過此道具的持有上限，\n所以無法領取。",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "此道具的持有上限為\u000e\u0002\u0000\u0002촀個。\n會超過持有上限，所以無法領取。\n請在使用此道具後，再次嘗試領取。"
 }

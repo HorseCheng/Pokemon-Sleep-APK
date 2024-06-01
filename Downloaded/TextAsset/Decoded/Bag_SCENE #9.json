@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "Ingrandisci",
   "BagScene_Content_Title_Food": "Ingredienti",
+  "BagScene_Content_Title_Food_v170": "Ingredienti",
   "BagScene_Content_Title_Item": "Strumenti",
+  "BagScene_Content_Title_Item_v170": "Strumenti",
+  "BagScene_Content_Title_Candy": "Caramelle\nPokémon",
   "BagScene_Content_Tab_Ttile_Food": "Ingredienti",
   "BagScene_Content_Tab_Ttile_Item": "Strumenti",
+  "BagScene_Content_Tab_Title_Candy": "Caramelle Pokémon",
   "BagScene_Content_Tab_Desc_Food": "Qui puoi vedere it tuoi ingredienti per cucinare.",
+  "BagScene_Content_Tab_Desc_Candy": "Qui puoi vedere le tue caramelle Pokémon.",
   "BagScene_Content_SectionHeader_Title": "Ordine per: \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000 specie",
   "BagSceneCookingFoodSellPopup_Title": "Vendi ingredienti",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "Da vendere",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "Ordina contenuto",
   "BagSceneSortPopup_Headline_Title": "Scegli un criterio",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energia",
-  "BagScene_NoTargetPokemon_Text": "Non hai Pokémon su cui usare lo strumento."
+  "BagScene_NoTargetPokemon_Text": "Non hai Pokémon su cui usare lo strumento.",
+  "BagScene_Item_species_candies_name": "Caramelle Pokémon",
+  "BagScene_Item_species_candies_name_Desc": "Caramelle per far crescere i Pokémon.\nSi possono ottenere con la ricerca\nsul sonno e in altri modi."
 }

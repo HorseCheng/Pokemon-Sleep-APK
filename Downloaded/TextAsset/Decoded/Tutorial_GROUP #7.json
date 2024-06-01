@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "7回限定",
   "Tutorial_NewComerBonusPopup_Points": "x 600",
   "Tutorial_NewComerBonusPopup_Text_1": "睡眠リサーチをすると１日1回ボーナス\n\u000e\u0000\u0003\u0004ꈝ￿スリープポイント x 600\u000e\u0000\u0003\u0004\u0000＀ をプレゼント！\n最大7回分の4200ポイントを貯めて、スリープ\nポイント交換所で \u000e\u0000\u0003\u0004ꈝ￿マスターサブレ\u000e\u0000\u0003\u0004\u0000＀ を手に入れてみよう",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※ ボーナススリープポイントが獲得できるのは1日1回\nのみです。2回目の睡眠リサーチでは獲得できません。\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※ ボーナススリープポイントが獲得できるのは1日1回\nのみです。2回目の睡眠リサーチでは獲得できません。\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ※特典1を獲得できるのは1日1回のみです。\n1日2回目の睡眠リサーチでは獲得できません。\nまた、「睡眠データのマニュアル登録」では獲得できません。\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "睡眠リサーチをすると \u000e\u0000\u0003\u0004ꈝ￿特典をプレゼント！\u000e\u0000\u0003\u0004\u0000＀\n特典を活用してリサーチをどんどん進めましょう！",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "●特典1 (1日1回 / 7回限定)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "・ボーナススリープポイント \u000e\u0000\u0003\u0004ꈝ￿x\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\n・睡眠リサーチでのおやつタイムで \u000e\u0000\u0003\u0004ꈝ￿ポケモンが1匹\n　「チャンス」確定\u000e\u0000\u0003\u0004\u0000＀ になる",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "●特典2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "・1週間のリサーチを終えた後に得られる\n　\u000e\u0000\u0003\u0004ꈝ￿フィールドボーナスが \u000e\u0002\u0001\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀になる\n　(全フィールドでの合計が\u000e\u0002\u0002\u0002\u0001%になるまで)"
 }

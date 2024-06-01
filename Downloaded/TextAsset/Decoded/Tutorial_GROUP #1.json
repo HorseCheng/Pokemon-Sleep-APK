@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "Massimo 7 volte",
   "Tutorial_NewComerBonusPopup_Points": "×600",
   "Tutorial_NewComerBonusPopup_Text_1": "Riceverai \u000e\u0000\u0003\u0004ꈝ￿600 punti sonno\u000e\u0000\u0003\u0004\u0000＀ bonus una volta al giorno per i primi sette giorni di ricerca sul sonno (fino a 4.200 punti)! Puoi usarli per ottenere strumenti come i \u000e\u0000\u0003\u0004ꈝ￿Masterbiscotti\u000e\u0000\u0003\u0004\u0000＀ tramite scambio punti.",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Otterrai questi punti bonus solo per la prima\nsessione di ricerca sul sonno del giorno.)\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Otterrai questi punti bonus solo per la prima\nsessione di ricerca sul sonno del giorno.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ(Otterrai il primo bonus extra solo per la prima\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004蚆ﾆsessione di ricerca sul sonno del giorno. Non vale\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004蚆ﾆin caso di inserimento manuale dei dati del sonno.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "Con la ricerca sul sonno \u000e\u0000\u0003\u0004ꈝ￿otterrai dei bonus\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004ꈝ￿extra\u000e\u0000\u0003\u0004\u0000＀ che faranno avanzare le tue ricerche!",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "● Extra 1 (uno solo al giorno; max 7 volte)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "• Punti sonno bonus \u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\n• Durante la ricerca sul sonno, per lo spuntino\n   \u000e\u0000\u0003\u0004ꈝ￿apparirà un Pokémon che avrà sicuramente\u000e\u0000\u0003\u0004\u0000＀\n   \u000e\u0000\u0003\u0004ꈝ￿fame\u000e\u0000\u0003\u0004\u0000＀!",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "● Extra 2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "• Dopo una settimana di ricerca, il bonus area\n   aumenterà del \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000% \u000e\u0000\u0003\u0004\u0000＀(finché la somma di tutti\n   i bonus non raggiungerà il 100%)."
 }

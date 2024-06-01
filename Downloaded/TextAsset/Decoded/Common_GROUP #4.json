@@ -22,5 +22,7 @@
   "CommonGroup_TimeManipulationPopup_Title": "Rilevato cambio orario dispositivo",
   "CommonGroup_TimeManipulationPopup_Text": "Dall'ultima volta che hai giocato\nè stato rilevato un cambio nell'ora\ndel tuo dispositivo. Fai attenzione\nperché, se le impostazioni dell'ora\nvengono cambiate troppo spesso,\nl'esperienza di gioco potrebbe\npeggiorare.",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "Non puoi eseguire lo scambio perché\nraggiungeresti il limite per\nquesto strumento.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Non puoi ricevere questo strumento\nperché raggiungeresti il limite."
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "La quantità massima che puoi avere\nper questo strumento è \u000e\u0002\u0000\u0002촀.\nNon puoi eseguire lo scambio perché\nsupereresti questo limite.\n\nRiprova a eseguire lo scambio dopo\naver usato gli strumenti che hai già.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Non puoi ricevere questo strumento\nperché raggiungeresti il limite.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "La quantità massima che puoi avere\nper questo strumento è \u000e\u0002\u0000\u0002촀.\nNon puoi ottenere lo strumento perché\nsupereresti questo limite.\n\nRiprova a ottenerlo dopo aver usato\ngli strumenti che hai già."
 }

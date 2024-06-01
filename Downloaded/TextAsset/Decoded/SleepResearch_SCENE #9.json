@@ -46,7 +46,6 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "Finish",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "You still have at least one Bonus Biscuit\nto give out. Leftover Bonus Biscuits will\nbe given to randomly chosen Pokémon.\nAre you still OK to finish up?",
-  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "All Pokémon are full or have max friendship\npoints, so you won’t be giving out a Bonus\nBiscuit. Note: You can’t carry Bonus Biscuits\nover to the second sleep session of the day.",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "Bonus Biscuit Results",
   "SleepResearchBonusBaitBallResultPopup_Count": "×\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "Your Bonus Biscuits were all given out!",

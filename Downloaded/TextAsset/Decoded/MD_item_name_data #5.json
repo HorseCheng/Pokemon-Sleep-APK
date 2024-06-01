@@ -90,6 +90,8 @@
   "item_name_89": "Typ-Unlicht-Bonbon L",
   "item_name_90": "Typ-Stahl-Bonbon L",
   "item_name_91": "Typ-Fee-Bonbon L",
+  "item_name_92": "Entei-Keks",
+  "item_name_93": "Entei-Mähne",
   "item_desc_1": "Verdoppelt die bei der\nSchlafforschung erhaltenen\nForschungspunkte. Wird nach einer\nVerwendung aufgebraucht.",
   "item_desc_2": "Verdoppelt die bei der\nSchlafforschung erhaltenen\nTraumsplitter. Wird nach einer\nVerwendung aufgebraucht.",
   "item_desc_3": "Verdoppelt die EP, die\nHelfer-Pokémon bei der\nSchlafforschung erhalten. Wird nach\neinem Mal Schlafen aufgebraucht.",
@@ -130,6 +132,7 @@
   "item_desc_38_to_55": "Ein kleines, aber besonderes Bonbon,\ndas in 4 Bonbons für jedes beliebige\nPokémon vom Typ \u000e\u0003\u0002\u0002촀 verwandelt\nwerden kann.",
   "item_desc_56_to_73": "Ein besonderes Bonbon, das in\n25 Bonbons für jedes beliebige\nPokémon vom Typ \u000e\u0003\u0002\u0002촀 verwandelt\nwerden kann.",
   "item_desc_74_to_91": "Ein großes, besonderes Bonbon, das\nin 125 Bonbons für jedes beliebige\nPokémon vom Typ \u000e\u0003\u0002\u0002촀 verwandelt\nwerden kann.",
+  "item_desc_92": "Ein spezieller Snack für Entei, der\nes erheblich freundlicher stimmt.\nDieser Keks erhöht Enteis\nFreundespunkte um 6.\n\n\u000e\n\u0000\u0002촀Hinweis: Wenn der Zeitraum für den\nEvent-Tausch abgelaufen ist, wird\ndieses Item automatisch in einen\nSuperkeks umgewandelt. Die genauen\nDaten für den Tauschzeitraum findest\ndu in den Event-Neuigkeiten.\u000f\n\u0000",
   "item_desc_short_1": "Verdoppelt die bei der\nSchlafforschung erhaltenen\nForschungspunkte.",
   "item_desc_short_2": "Verdoppelt die bei der\nSchlafforschung erhaltenen\nTraumsplitter.",
   "item_desc_short_3": "Verdoppelt bei der Schlafforschung\nerhaltene EP von Helfer-Pokémon.",
@@ -168,5 +171,6 @@
   "item_desc_short_37": "Ein spezieller Snack für Raikou.\nDieser Keks verleiht Raikou\n6 Freundespunkte.",
   "item_desc_short_38_to_55": "Ein kleines Bonbon, das in 4 Bonbons\nfür jedes Pokémon vom Typ \u000e\u0003\u0002\u0002촀\nverwandelt werden kann.",
   "item_desc_short_56_to_73": "Ein Bonbon, das in 25 Bonbons für\njedes Pokémon vom Typ \u000e\u0003\u0002\u0002촀\nverwandelt werden kann.",
-  "item_desc_short_74_to_91": "Großes Bonbon, das in 125 Bonbons\nfür jedes Pokémon vom Typ \u000e\u0003\u0002\u0002촀\nverwandelt werden kann."
+  "item_desc_short_74_to_91": "Großes Bonbon, das in 125 Bonbons\nfür jedes Pokémon vom Typ \u000e\u0003\u0002\u0002촀\nverwandelt werden kann.",
+  "item_desc_short_92": "Ein spezieller Snack für Entei.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher."
 }

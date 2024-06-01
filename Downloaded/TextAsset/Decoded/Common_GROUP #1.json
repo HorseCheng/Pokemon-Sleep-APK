@@ -22,5 +22,7 @@
   "CommonGroup_TimeManipulationPopup_Title": "Zeiteinstellungen wurden geändert",
   "CommonGroup_TimeManipulationPopup_Text": "Es wurde eine Änderung der Zeit bei\ndeinem Gerät festgestellt. Änderst\ndu diese zu häufig, kann dies zu einer\nEinschränkung deines Spielerlebnisses\nführen, also sei bitte vorsichtig.\n\n",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "Dieser Tausch kann nicht getätigt\nwerden, weil du dann mehr Exemplare\ndieses Items hättest, als du tragen\nkannst.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Du kannst dieses Item nicht erhalten,\nweil du dann mehr Exemplare davon\nhättest, als du tragen kannst."
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "Du kannst bis zu \u000e\u0002\u0000\u0002촀 Exemplare dieses\nItems besitzen.\nDieser Tausch kann nicht getätigt\nwerden, weil die Anzahl Exemplare\nsonst über diesem Limit läge.\n\nBitte versuche erneut zu tauschen,\nnachdem du die Exemplare in deinem\nBesitz verwendet hast.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Du kannst dieses Item nicht erhalten,\nweil du dann mehr Exemplare davon\nhättest, als du tragen kannst.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "Du kannst maximal bis zu \u000e\u0002\u0000\u0002촀 Exemplare\ndieses Items besitzen.\nDu kannst das Item nicht erhalten,\nweil die Anzahl Exemplare sonst über\ndiesem Limit läge.\n\nBitte versuche es erneut zu erhalten,\nnachdem du die Exemplare in deinem\nBesitz verwendet hast."
 }

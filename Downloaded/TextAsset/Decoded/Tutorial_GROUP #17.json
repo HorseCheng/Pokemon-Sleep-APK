@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "僅限7次",
   "Tutorial_NewComerBonusPopup_Points": "x 600",
   "Tutorial_NewComerBonusPopup_Text_1": "只要研究睡眠，每天就會贈送1次\n600點的\u000e\u0000\u0003\u0004ꈝ￿睡眠點數\u000e\u0000\u0003\u0004\u0000＀！\n獲得7次並累積4200點，\n在睡眠點數兌換所裡兌換\u000e\u0000\u0003\u0004ꈝ￿大師沙布蕾\u000e\u0000\u0003\u0004\u0000＀吧。",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※1天只能獲得獎勵睡眠點數1次。\n第2次的睡眠研究無法獲得獎勵。\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※1天只能獲得獎勵睡眠點數1次。\n第2次的睡眠研究無法獲得獎勵。\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ※特典1天僅限領取1次。\n　在第2次的睡眠研究後並無法獲得特典。\n　此外，使用「手動登錄睡眠資料」並無法獲得特典。\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "只要進行睡眠研究，\u000e\u0000\u0003\u0004ꈝ￿就會贈送特典\u000e\u0000\u0003\u0004\u0000＀！\n讓特典為您增添遊戲樂趣，並請積極推進研究吧！",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "●特典1（1日1次且限領7次）",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "・紅利睡眠點數\u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀。\n・在睡眠研究後的點心時間時，\n　\u000e\u0000\u0003\u0004ꈝ￿必定會有1隻寶可夢處於「貪吃」狀態\u000e\u0000\u0003\u0004\u0000＀。",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "●特典2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "・結束為期一週的研究後，\n　\u000e\u0000\u0003\u0004ꈝ￿可獲得的營地獎勵會是\u000e\u0002\u0001\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀。\n　（至所有營地的營利獎勵合計達\u000e\u0002\u0002\u0002\u0001%為止。）"
 }

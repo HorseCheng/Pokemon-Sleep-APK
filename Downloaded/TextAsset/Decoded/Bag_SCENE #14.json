@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "Ampliar",
   "BagScene_Content_Title_Food": "Ingredientes",
+  "BagScene_Content_Title_Food_v170": "Ingredientes",
   "BagScene_Content_Title_Item": "Objetos",
+  "BagScene_Content_Title_Item_v170": "Objetos",
+  "BagScene_Content_Title_Candy": "Caramelos\nPokémon",
   "BagScene_Content_Tab_Ttile_Food": "Ingredientes",
   "BagScene_Content_Tab_Ttile_Item": "Objetos",
+  "BagScene_Content_Tab_Title_Candy": "Caramelos Pokémon",
   "BagScene_Content_Tab_Desc_Food": "Una lista con los ingredientes de los que dispones.",
+  "BagScene_Content_Tab_Desc_Candy": "Una lista con los caramelos de los que dispones.",
   "BagScene_Content_SectionHeader_Title": "Ordenar por: \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000 especie\u000e\u0007\u0000\b\u0000\u0002s촀",
   "BagSceneCookingFoodSellPopup_Title": "Vender ingredientes",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "Vas a vender",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "Ordenar",
   "BagSceneSortPopup_Headline_Title": "Escoge un parámetro",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energía",
-  "BagScene_NoTargetPokemon_Text": "No tienes ningún Pokémon con el que\npuedas usar este objeto."
+  "BagScene_NoTargetPokemon_Text": "No tienes ningún Pokémon con el que\npuedas usar este objeto.",
+  "BagScene_Item_species_candies_name": "Caramelos Pokémon",
+  "BagScene_Item_species_candies_name_Desc": "Dulce útil para cuidar de tus Pokémon.\nSe puede obtener, entre otras formas,\nmediante el estudio del sueño."
 }

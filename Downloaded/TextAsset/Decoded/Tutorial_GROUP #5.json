@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "7 fois uniquement",
   "Tutorial_NewComerBonusPopup_Points": "× 600",
   "Tutorial_NewComerBonusPopup_Text_1": "Vous recevrez \u000e\u0000\u0003\u0004ꈝ￿600 dodopoints\u000e\u0000\u0003\u0004\u0000＀ bonus par jour\npour les 7 premiers jours au cours desquels\nvous mesurez votre sommeil (jusqu'à\n4 200 dodopoints) ! Vous pouvez les échanger\ncontre un \u000e\u0000\u0003\u0004ꈝ￿Master Biscuit\u000e\u0000\u0003\u0004\u0000＀ via l'échange\nde dodopoints.",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Ces dodopoints bonus vous seront attribués\nuniquement pour la première session du jour.)\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Ces dodopoints bonus vous seront attribués\nuniquement pour la première session du jour.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ(Le bénéfice 1 vous sera attribué uniquement pour\nla première session du jour. Il ne s'applique pas\naux données de sommeil saisies manuellement.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "Vous \u000e\u0000\u0003\u0004ꈝ￿recevrez des bénéfices\u000e\u0000\u0003\u0004\u0000＀ lorsque vous\nmènerez des recherches sur le sommeil !\nVous pouvez les utiliser pour les poursuivre\ndavantage !",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "● Bénéfice 1 (un par jour / sept fois max.)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "• Dodopoints bonus \u000e\u0000\u0003\u0004ꈝ￿× \u000e\u0002\u0002\u0002\u0000\n\u000e\u0000\u0003\u0004\u0000＀• Pendant vos recherches sur le sommeil,\n  \u000e\u0000\u0003\u0004ꈝ￿un Pokémon sera affamé à coup sûr\u000e\u0000\u0003\u0004\u0000＀ à l'heure\n  du goûter !",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "● Bénéfice 2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "• Quand vous aurez fini votre semaine de\n  recherches, votre bonus de zone augmentera\n  de \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀ jusqu'à ce que le total des bonus de\n  zone atteigne les \u000e\u0002\u0002\u0002\u0001 %."
 }

@@ -22,5 +22,7 @@
   "CommonGroup_TimeManipulationPopup_Title": "Device Time Change Detected",
   "CommonGroup_TimeManipulationPopup_Text": "A time change has been detected in\nyour device since the last time you\nplayed. If the time settings on your\ndevice are changed too often, it can\nhinder your gameplay experience, so\nplease be careful.",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "You can’t make this exchange because\nit would give you more of this item\nthan you can carry.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "You can’t receive this item because\ndoing so would give you more of this\nitem than you can carry."
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "The maximum number of this item\nthat you can hold is \u000e\u0002\u0000\u0002촀.\nYou can’t make this exchange because\nit would bring you over this limit.\n\nPlease try exchanging again after you\nhave used what you already have.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "You can’t receive this item because\ndoing so would give you more of this\nitem than you can carry.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "The maximum number of this item\nthat you can hold is \u000e\u0002\u0000\u0002촀.\nYou can’t receive this because doing\nso would bring you over this limit.\n\nPlease try receiving again after you\nhave used what you already have."
 }

@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "Erweitern",
   "BagScene_Content_Title_Food": "Zutaten",
+  "BagScene_Content_Title_Food_v170": "Zutaten",
   "BagScene_Content_Title_Item": "Items",
+  "BagScene_Content_Title_Item_v170": "Items",
+  "BagScene_Content_Title_Candy": "Pokémon-\nBonbons",
   "BagScene_Content_Tab_Ttile_Food": "Zutaten",
   "BagScene_Content_Tab_Ttile_Item": "Items",
+  "BagScene_Content_Tab_Title_Candy": "Pokémon-Bonbons",
   "BagScene_Content_Tab_Desc_Food": "Hier kannst du deine Kochzutaten sehen.",
+  "BagScene_Content_Tab_Desc_Candy": "Hier kannst du deine Pokémon-Bonbons sehen.",
   "BagScene_Content_SectionHeader_Title": "Sortiert nach: \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u0016\u0006Art\nArten촀",
   "BagSceneCookingFoodSellPopup_Title": "Zutaten verkaufen",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "Zu verkaufen",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "Inhalt sortieren",
   "BagSceneSortPopup_Headline_Title": "Wähle aus, wonach du sortieren möchtest.",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energie",
-  "BagScene_NoTargetPokemon_Text": "Du hast keine Pokémon, bei denen\ndu dieses Item einsetzen kannst."
+  "BagScene_NoTargetPokemon_Text": "Du hast keine Pokémon, bei denen\ndu dieses Item einsetzen kannst.",
+  "BagScene_Item_species_candies_name": "Pokémon-Bonbons",
+  "BagScene_Item_species_candies_name_Desc": "Bonbons, um Pokémon zu stärken.\nDu erhältst sie unter anderem bei\nder Schlafforschung."
 }

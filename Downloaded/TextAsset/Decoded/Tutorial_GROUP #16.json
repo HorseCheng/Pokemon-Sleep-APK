@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "(7 sesiones máx.)",
   "Tutorial_NewComerBonusPopup_Points": "×600",
   "Tutorial_NewComerBonusPopup_Text_1": "Recibirás un bonus diario de \u000e\u0000\u0003\u0004ꈝ￿600 puntos de sueño\u000e\u0000\u0003\u0004\u0000＀\nlos primeros siete días que lleves a cabo tu estudio.\n¡Acumula hasta 4200 puntos y canjéalos para obtener\nobjetos como \u000e\u0000\u0003\u0004ꈝ￿Megagalletas\u000e\u0000\u0003\u0004\u0000＀!",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Los puntos adicionales se otorgarán solo\npara la primera sesión del día).\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(Los puntos adicionales se otorgarán solo\npara la primera sesión del día).\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆLa ventaja 1 se otorgará solo por la primera sesión\ndel día, y no se aplicará a los datos introducidos\nmanualmente.\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "\u000e\u0000\u0003\u0004ꈝ￿Obtendrás ventajas\u000e\u0000\u0003\u0004\u0000＀ por llevar a cabo tu\nestudio del sueño que podrás aprovechar\npara progresar en el mismo.",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "• Ventaja 1 (una vez al día / 7 sesiones máx.)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "- Puntos de sueño adicionales \u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.\n- Se sumará a tu estudio del sueño \u000e\u0000\u0003\u0004ꈝ￿un Pokémon\nque estará hambriento\u000e\u0000\u0003\u0004\u0000＀.",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "• Ventaja 2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "- Tras completar una semana de estudio, tu\nbonus de zona aumentará un \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004毿Ｗ \u000e\u0000\u0003\u0004ꈝ￿% \u000e\u0000\u0003\u0004\u0000＀(hasta que\nla suma total de todos tus bonus de zona\nalcance el \u000e\u0002\u0002\u0002\u0001\u000e\u0000\u0003\u0004毿Ｗ \u000e\u0000\u0003\u0004\u0000＀%)."
 }

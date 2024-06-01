@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "7-Time Limit",
   "Tutorial_NewComerBonusPopup_Points": "×600",
   "Tutorial_NewComerBonusPopup_Text_1": "You’ll receive a bonus \u000e\u0000\u0003\u0004ꈝ￿600 sleep points \u000e\u0000\u0003\u0004\u0000＀once\neach day for the first seven days that you\nconduct sleep research (up to 4,200 points)!\nYou can use these points to obtain items like\n\u000e\u0000\u0003\u0004ꈝ￿Master Biscuits \u000e\u0000\u0003\u0004\u0000＀at the Sleep Point Exchanges.",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(These bonus points will be awarded only for\nthe first instance of sleep research each day.)\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ(These bonus points will be awarded only for\nthe first instance of sleep research each day.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ(Perk 1 will be awarded only for the first instance\nof sleep research each day. Also, this perk does not\napply to manual sleep data entry.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "You’ll \u000e\u0000\u0003\u0004ꈝ￿receive perks \u000e\u0000\u0003\u0004\u0000＀if you conduct sleep\nresearch! You can use them to further your\nresearch!!",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "● Perk 1 (once per day / seven times only)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "・ Bonus sleep points \u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\n・ During sleep research, \u000e\u0000\u0003\u0004ꈝ￿one Pokémon will for\n  sure arrive hungry\u000e\u0000\u0003\u0004\u0000＀ at snack time!",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "● Perk 2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "• After you finish a week of research, your\n  area bonus will increase by \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000%\u000e\u0000\u0003\u0004\u0000＀ (until all of\n  your area bonuses add up to \u000e\u0002\u0002\u0002\u0001%)."
 }

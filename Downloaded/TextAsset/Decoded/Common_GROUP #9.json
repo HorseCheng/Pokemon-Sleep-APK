@@ -22,5 +22,7 @@
   "CommonGroup_TimeManipulationPopup_Title": "Zona horaria cambiada",
   "CommonGroup_TimeManipulationPopup_Text": "Se ha detectado un cambio en los\najustes de zona horaria de tu\ndispositivo móvil desde la última vez\nque usaste la aplicación.\nTen presente que la modificación\nrepetida de estos ajustes podría\nperjudicar la experiencia de juego.",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "No puedes realizar el intercambio\nporque superarías el máximo de\nunidades permitidas para el objeto.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "No puedes recibir este objeto porque\nsuperarías el máximo de unidades\npermitidas."
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "El máximo de unidades permitidas para\neste objeto es de \u000e\u0002\u0000\u0002촀.\nNo puedes realizar el intercambio\nporque superarías este límite.\n\nVuelve a intentarlo cuando hayas\nhecho hueco en tu inventario.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "No puedes recibir este objeto porque\nsuperarías el máximo de unidades\npermitidas.",
+  "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "El máximo de unidades permitidas para\neste objeto es de \u000e\u0002\u0000\u0002촀.\nNo puedes recibir este objeto porque\nsuperarías este límite.\n\nVuelve a intentarlo cuando hayas\nhecho hueco en tu inventario."
 }

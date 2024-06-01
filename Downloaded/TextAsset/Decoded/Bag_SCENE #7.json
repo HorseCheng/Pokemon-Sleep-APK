@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "Agrandir",
   "BagScene_Content_Title_Food": "Ingrédients",
+  "BagScene_Content_Title_Food_v170": "Ingrédients",
   "BagScene_Content_Title_Item": "Objets",
+  "BagScene_Content_Title_Item_v170": "Objets",
+  "BagScene_Content_Title_Candy": "Bonbons\nPokémon",
   "BagScene_Content_Tab_Ttile_Food": "Ingrédients",
   "BagScene_Content_Tab_Ttile_Item": "Objets",
+  "BagScene_Content_Tab_Title_Candy": "Bonbons Pokémon",
   "BagScene_Content_Tab_Desc_Food": "Voici la liste de vos ingrédients.",
+  "BagScene_Content_Tab_Desc_Candy": "Voici la liste de vos Bonbons Pokémon.",
   "BagScene_Content_SectionHeader_Title": "Trier par : \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000 espèce\u000e\u0004\u0000\b\u0000\u0002s촀",
   "BagSceneCookingFoodSellPopup_Title": "Vendre des ingrédients",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "× \u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "À vendre",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "Trier",
   "BagSceneSortPopup_Headline_Title": "Choisissez un critère de tri",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Énergie",
-  "BagScene_NoTargetPokemon_Text": "Aucun Pokémon ne peut\nbénéficier de cet objet."
+  "BagScene_NoTargetPokemon_Text": "Aucun Pokémon ne peut\nbénéficier de cet objet.",
+  "BagScene_Item_species_candies_name": "Bonbons Pokémon",
+  "BagScene_Item_species_candies_name_Desc": "Des Bonbons pour rendre les Pokémon\namicaux. Vous pouvez en obtenir\ngrâce, entre autres, aux recherches\nsur le sommeil."
 }

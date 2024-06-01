@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "Expand",
   "BagScene_Content_Title_Food": "Ingredients",
+  "BagScene_Content_Title_Food_v170": "Ingredients",
   "BagScene_Content_Title_Item": "Items",
+  "BagScene_Content_Title_Item_v170": "Items",
+  "BagScene_Content_Title_Candy": "Pokémon\nCandies",
   "BagScene_Content_Tab_Ttile_Food": "Ingredients",
   "BagScene_Content_Tab_Ttile_Item": "Items",
+  "BagScene_Content_Tab_Title_Candy": "Pokémon Candies",
   "BagScene_Content_Tab_Desc_Food": "View all your cooking ingredients here.",
+  "BagScene_Content_Tab_Desc_Candy": "View all your Pokémon Candies here.",
   "BagScene_Content_SectionHeader_Title": "Sorted by: \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000 species",
   "BagSceneCookingFoodSellPopup_Title": "Sell Ingredients",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "To Sell",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "Sort Contents",
   "BagSceneSortPopup_Headline_Title": "Choose a parameter to sort by",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energy",
-  "BagScene_NoTargetPokemon_Text": "There are no Pokémon you\ncan use this item on."
+  "BagScene_NoTargetPokemon_Text": "There are no Pokémon you\ncan use this item on.",
+  "BagScene_Item_species_candies_name": "Pokémon Candies",
+  "BagScene_Item_species_candies_name_Desc": "Candies for raising Pokémon. You can\nget them from sleep research and\nother sources."
 }

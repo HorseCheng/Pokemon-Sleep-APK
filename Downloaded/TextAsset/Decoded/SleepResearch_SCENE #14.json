@@ -46,7 +46,6 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "종료한다",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "오늘의 보너스 사블레가 아직 남았습니다\n남은 보너스 사블레는 랜덤으로 선택된\n포켓몬에게 자동으로 주어집니다\n계속하겠습니까?",
-  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "모든 포켓몬의 프렌드 포인트가 MAX거나 배가 불러\n보너스 사블레를 주지 않고 넘어갑니다.\n※보너스 사블레는 하루에 2번째로\n　진행한 수면 계측으로 이월되지 않습니다",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "보너스 사블레 결과",
   "SleepResearchBonusBaitBallResultPopup_Count": "x\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "보너스 사블레를 모두 주었습니다",

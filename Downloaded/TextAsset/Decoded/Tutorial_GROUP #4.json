@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "7回限定",
   "Tutorial_NewComerBonusPopup_Points": "x 600",
   "Tutorial_NewComerBonusPopup_Text_1": "睡眠リサーチをすると１日1回ボーナス\n\u000e\u0000\u0003\u0004ꈝ￿スリープポイント x 600\u000e\u0000\u0003\u0004\u0000＀ をプレゼント！\n最大7回分の4200ポイントを貯めて、スリープ\nポイント交換所で \u000e\u0000\u0003\u0004ꈝ￿マスターサブレ\u000e\u0000\u0003\u0004\u0000＀ を手に入れてみよう",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※ ボーナススリープポイントが獲得できるのは1日1回\nのみです。2回目の睡眠リサーチでは獲得できません。\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004蚆ﾆ※ ボーナススリープポイントが獲得できるのは1日1回\nのみです。2回目の睡眠リサーチでは獲得できません。\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ※특전1은 하루에 한 번만 받을 수 있습니다.\n하루의 2번째 수면 리서치에서는 획득할 수 없습니다.\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "수면 리서치를 진행하면 \u000e\u0000\u0003\u0004ꈝ￿특전을 선물!\u000e\u0000\u0003\u0004\u0000＀\n특전을 활용해서 계속 리서치를 진행해 봅시다!",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "●특전1(1일 1회 / 7회 한정)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "・보너스 슬립 포인트 \u000e\u0000\u0003\u0004ꈝ￿x\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\n・수면 리서치의 간식 타임에서 \u000e\u0000\u0003\u0004ꈝ￿포켓몬 1마리가\n　반드시 [찬스] 상태\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "●특전2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "・일주일간의 리서치를 마친 뒤 받을 수 있는\n　\u000e\u0000\u0003\u0004ꈝ￿필드 보너스가 \u000e\u0002\u0001\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀%가 된다\n　(모든 필드에서의 합계가 \u000e\u0002\u0002\u0002\u0001%가 될 때까지)"
 }

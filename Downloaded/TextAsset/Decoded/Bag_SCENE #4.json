@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "확장한다",
   "BagScene_Content_Title_Food": "식재료",
+  "BagScene_Content_Title_Food_v170": "식재료",
   "BagScene_Content_Title_Item": "도구",
+  "BagScene_Content_Title_Item_v170": "도구",
+  "BagScene_Content_Title_Candy": "포켓몬의\n사탕",
   "BagScene_Content_Tab_Ttile_Food": "가방: 식재료",
   "BagScene_Content_Tab_Ttile_Item": "가방: 도구",
+  "BagScene_Content_Tab_Title_Candy": "가방: 포켓몬의 사탕",
   "BagScene_Content_Tab_Desc_Food": "가지고 있는 식재료 일람입니다",
+  "BagScene_Content_Tab_Desc_Candy": "가지고 있는 포켓몬의 사탕 일람입니다",
   "BagScene_Content_SectionHeader_Title": "표시 순서: \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000종류",
   "BagSceneCookingFoodSellPopup_Title": "식재료를 판다",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "x\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "판매할 개수",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "정렬",
   "BagSceneSortPopup_Headline_Title": "항목",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "げんき",
-  "BagScene_NoTargetPokemon_Text": "どうぐを使用可能なポケモンがいません"
+  "BagScene_NoTargetPokemon_Text": "どうぐを使用可能なポケモンがいません",
+  "BagScene_Item_species_candies_name": "포켓몬의 사탕",
+  "BagScene_Item_species_candies_name_Desc": "포켓몬을 육성할 때 사용하는 사탕.\n수면 리서치 등을 통해 획득할 수 있다."
 }

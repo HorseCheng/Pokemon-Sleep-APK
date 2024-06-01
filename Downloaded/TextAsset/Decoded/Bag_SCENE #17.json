@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "拡張する",
   "BagScene_Content_Title_Food": "食材",
+  "BagScene_Content_Title_Food_v170": "食材",
   "BagScene_Content_Title_Item": "どうぐ",
+  "BagScene_Content_Title_Item_v170": "どうぐ",
+  "BagScene_Content_Title_Candy": "ポケモンの\nアメ",
   "BagScene_Content_Tab_Ttile_Food": "バッグ - 食材",
   "BagScene_Content_Tab_Ttile_Item": "バッグ - どうぐ",
+  "BagScene_Content_Tab_Title_Candy": "バッグ - ポケモンのアメ",
   "BagScene_Content_Tab_Desc_Food": "もっている食材の一覧です",
+  "BagScene_Content_Tab_Desc_Candy": "もっているポケモンのアメの一覧です",
   "BagScene_Content_SectionHeader_Title": "表示順 - \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000種類",
   "BagSceneCookingFoodSellPopup_Title": "食材を売る",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "x\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "売る個数",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "並び替え",
   "BagSceneSortPopup_Headline_Title": "項目",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "げんき",
-  "BagScene_NoTargetPokemon_Text": "どうぐを使用可能なポケモンがいません"
+  "BagScene_NoTargetPokemon_Text": "どうぐを使用可能なポケモンがいません",
+  "BagScene_Item_species_candies_name": "ポケモンのアメ",
+  "BagScene_Item_species_candies_name_Desc": "ポケモンの育成につかえるアメ。\n睡眠リサーチなどで手に入る。"
 }

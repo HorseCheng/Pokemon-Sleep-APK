@@ -69,5 +69,11 @@
   "Tutorial_NewComerBonusPopup_Heading": "7 Mal verfügbar",
   "Tutorial_NewComerBonusPopup_Points": "×600",
   "Tutorial_NewComerBonusPopup_Text_1": "Du erhältst einmal pro Tag einen Bonus\nvon \u000e\u0000\u0003\u0004ꈝ￿600 Schlafpunkten \u000e\u0000\u0003\u0004\u0000＀für die ersten\n7 Tage (bis zu 4200 Punkte), an denen\ndu Schlafforschung durchführst!\nDu kannst diese Punkte nutzen, um sie\nim Schlafpunktetausch gegen Items wie\n\u000e\u0000\u0003\u0004ꈝ￿Meisterkekse \u000e\u0000\u0003\u0004\u0000＀einzutauschen!",
-  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004香ﾙ(Du erhältst diese Bonuspunkte nur bei der\nersten Schlafforschung des jeweiligen Tages.)\u000e\u0000\u0003\u0004\u0000＀"
+  "Tutorial_NewComerBonusPopup_Text_2": "\u000e\u0000\u0003\u0004香ﾙ(Du erhältst diese Bonuspunkte nur bei der\nersten Schlafforschung des jeweiligen Tages.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_2_v170": "\u000e\u0000\u0003\u0004蚆ﾆ(Du erhältst Vorteil 1 nur bei der ersten Forschung\ndes jeweiligen Tages. Dieser Bonus wird nicht bei\nmanuell eingetragenen Schlafdaten angewendet.)\u000e\u0000\u0003\u0004\u0000＀",
+  "Tutorial_NewComerBonusPopup_Text_1_v170": "Du \u000e\u0000\u0003\u0004ꈝ￿erhältst Vorteile\u000e\u0000\u0003\u0004\u0000＀, wenn du Schlafforschung\ndurchführst! Diese helfen dir, deine Forschung\nvoranzutreiben!",
+  "Tutorial_NewComerBonusPopup_Text_3_1": "- Vorteil 1 (1 Mal täglich/7 Mal insgesamt)",
+  "Tutorial_NewComerBonusPopup_Text_3_2": "- Bonus-Schlafpunkte \u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀\n- Während der Schlafforschung wird \u000e\u0000\u0003\u0004ꈝ￿ein\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004ꈝ￿Pokémon zur Snackzeit garantiert\nhungrig sein\u000e\u0000\u0003\u0004\u0000＀.",
+  "Tutorial_NewComerBonusPopup_Text_4_1": "- Vorteil 2",
+  "Tutorial_NewComerBonusPopup_Text_4_2": "- Nachdem du eine Woche Schlafforschung\ndurchgeführt hast, erhöht sich dein\nGebietsbonus um \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀ (bis die Summe all\ndeiner Gebietsboni \u000e\u0002\u0002\u0002\u0001 % beträgt)."
 }

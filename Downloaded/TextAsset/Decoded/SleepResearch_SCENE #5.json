@@ -46,7 +46,6 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "Termina",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "Ti resta almeno un Biscotto bonus da dare.\nI Biscotti bonus rimasti verranno dati\na dei Pokémon a caso.\nVuoi ugualmente terminare qui?",
-  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "Tutti i Pokémon sono sazi o i loro punti\namicizia sono al massimo, perciò non puoi\ndargli il Biscotto bonus. Nota: non puoi\ntrasferire i Biscotti bonus a un'altra sessione.",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "Effetti escasfera bonus",
   "SleepResearchBonusBaitBallResultPopup_Count": "x\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "Biscotti bonus distribuiti!",

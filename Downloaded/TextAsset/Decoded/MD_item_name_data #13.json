@@ -90,6 +90,8 @@
   "item_name_89": "Bonbon de type Ténèbres L",
   "item_name_90": "Bonbon de type Acier L",
   "item_name_91": "Bonbon de type Fée L",
+  "item_name_92": "Biscuit Entei",
+  "item_name_93": "Crinière d'Entei",
   "item_desc_1": "Un encens qui double les points\nde recherche obtenus pendant une\nsession de recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
   "item_desc_2": "Un encens qui double les Fragments\nde Rêve obtenus pendant une session\nde recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
   "item_desc_3": "Un encens qui double les points\nd'expérience obtenus par les Pokémon\nde soutien pendant une session\nde recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
@@ -130,6 +132,7 @@
   "item_desc_38_to_55": "Un petit Bonbon spécial pouvant\ndevenir 4 Bonbons pour n'importe\nquel Pokémon de type \u000e\u0003\u0002\u0002촀.",
   "item_desc_56_to_73": "Un Bonbon spécial pouvant devenir\n25 Bonbons pour n'importe quel\nPokémon de type \u000e\u0003\u0002\u0002촀.",
   "item_desc_74_to_91": "Un gros Bonbon spécial pouvant\ndevenir 125 Bonbons pour n'importe\nquel Pokémon de type \u000e\u0003\u0002\u0002촀.",
+  "item_desc_92": "Une friandise spéciale réservée à\nEntei qui renforcera énormément\nvos liens avec lui en augmentant\nde 6 ses points d'amitié.\n\n\u000e\n\u0000\u0002촀Note : à la fin de la période d'échange\nde l'évènement, cet objet sera\nautomatiquement converti en un\nSuper Biscuit. Veuillez vérifier\nles dates de la période d'échange dans\nles annonces de l'évènement.\u000f\n\u0000",
   "item_desc_short_1": "Double les points de recherche\nobtenus pendant les recherches.",
   "item_desc_short_2": "Double les Fragments de Rêve\nobtenus pendant les recherches.",
   "item_desc_short_3": "Double les points d'expérience\nobtenus par les Pokémon de soutien\npendant les recherches.",
@@ -168,5 +171,6 @@
   "item_desc_short_37": "Une friandise spéciale réservée à\nRaikou. Renforce vos liens avec lui\nde 6 points d'amitié.",
   "item_desc_short_38_to_55": "Peut devenir 4 Bonbons pour\nn'importe quel Pokémon de type\n\u000e\u0003\u0002\u0002촀.",
   "item_desc_short_56_to_73": "Peut devenir 25 Bonbons pour\nn'importe quel Pokémon de type\n\u000e\u0003\u0002\u0002촀.",
-  "item_desc_short_74_to_91": "Peut devenir 125 Bonbons pour\nn'importe quel Pokémon de type\n\u000e\u0003\u0002\u0002촀."
+  "item_desc_short_74_to_91": "Peut devenir 125 Bonbons pour\nn'importe quel Pokémon de type\n\u000e\u0003\u0002\u0002촀.",
+  "item_desc_short_92": "Une friandise spéciale réservée à\nEntei. Renforce vos liens avec lui\nde 6 points d'amitié."
 }

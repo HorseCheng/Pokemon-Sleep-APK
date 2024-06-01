@@ -67,6 +67,8 @@
   "md_species_candies_name_228_plu": "Hunduster-Bonbons",
   "md_species_candies_name_243": "Raikou-Bonbon",
   "md_species_candies_name_243_plu": "Raikou-Bonbons",
+  "md_species_candies_name_244": "Entei-Bonbon",
+  "md_species_candies_name_244_plu": "Entei-Bonbons",
   "md_species_candies_name_246": "Larvitar-Bonbon",
   "md_species_candies_name_246_plu": "Larvitar-Bonbons",
   "md_species_candies_name_287": "Bummelz-Bonbon",
@@ -218,5 +220,7 @@
   "md_species_candies_narrow_name_764": "Curelei-\nBonbon",
   "md_species_candies_narrow_name_764_plu": "Curelei-\nBonbons",
   "md_species_candies_narrow_name_243": "Raikou-\nBonbon",
-  "md_species_candies_narrow_name_243_plu": "Raikou-\nBonbons"
+  "md_species_candies_narrow_name_243_plu": "Raikou-\nBonbons",
+  "md_species_candies_narrow_name_244": "Entei-\nBonbon",
+  "md_species_candies_narrow_name_244_plu": "Entei-\nBonbons"
 }

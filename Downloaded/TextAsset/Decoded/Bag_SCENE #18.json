@@ -1,12 +1,18 @@
 {
   "BagScene_Header_ExpandButton_Title": "擴充",
   "BagScene_Content_Title_Food": "食材",
+  "BagScene_Content_Title_Food_v170": "食材",
   "BagScene_Content_Title_Item": "道具",
+  "BagScene_Content_Title_Item_v170": "道具",
+  "BagScene_Content_Title_Candy": "寶可夢的\n糖果",
   "BagScene_Content_Tab_Ttile_Food": "包包 - 食材",
   "BagScene_Content_Tab_Ttile_Item": "包包 - 道具",
+  "BagScene_Content_Tab_Title_Candy": "寶可夢的糖果包包",
   "BagScene_Content_Tab_Desc_Food": "您持有的食材一覽。",
+  "BagScene_Content_Tab_Desc_Candy": "可以一覽目前持有的寶可夢的糖果。",
   "BagScene_Content_SectionHeader_Title": "顯示順序 - \u000e\u0003\u0006\u0002\u0000",
   "BagScene_Content_Count": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
+  "BagScene_Content_Count_Candy": "\u000e\u0002\u0002\u0002\u0000種",
   "BagSceneCookingFoodSellPopup_Title": "出售食材",
   "BagSceneCookingFoodSellPopup_Icon_ItemNum": "x\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneCookingFoodSellPopup_SellCount_Title": "出售個數",
@@ -116,5 +122,7 @@
   "BagSceneSortPopup_Header_Title": "排序",
   "BagSceneSortPopup_Headline_Title": "項目",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "活力",
-  "BagScene_NoTargetPokemon_Text": "沒有可對其使用道具的寶可夢。"
+  "BagScene_NoTargetPokemon_Text": "沒有可對其使用道具的寶可夢。",
+  "BagScene_Item_species_candies_name": "寶可夢的糖果",
+  "BagScene_Item_species_candies_name_Desc": "可用來培育寶可夢的糖果。\n能透過睡眠研究等獲得。"
 }
