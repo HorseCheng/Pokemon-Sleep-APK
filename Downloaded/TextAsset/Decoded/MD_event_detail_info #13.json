@@ -22,6 +22,8 @@
   "md_event_detail_name_15": "エンテイリサーチ",
   "md_event_detail_short_name_15": "エンテイ1",
   "md_event_detail_short_name_15_2": "エンテイ2",
+  "md_event_detail_name_16": "サマーフェスティバル",
+  "md_event_detail_short_name_16": "サマー",
   "md_event_detail_name_indirect_4": "グッドスリープデー",
   "md_event_detail_name_indirect_5": "ハロウィン",
   "md_event_detail_name_indirect_6": "イーブイウィーク",
@@ -33,5 +35,6 @@
   "md_event_detail_name_indirect_12": "ライコウリサーチ",
   "md_event_detail_name_indirect_13": "フラワーフェスティバル",
   "md_event_detail_name_indirect_14": "ほのおタイプウィーク",
-  "md_event_detail_name_indirect_15": "エンテイリサーチ"
+  "md_event_detail_name_indirect_15": "エンテイリサーチ",
+  "md_event_detail_name_indirect_16": "サマーフェスティバル"
 }

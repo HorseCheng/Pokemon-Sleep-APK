@@ -22,6 +22,8 @@
   "md_event_detail_name_15": "炎帝研究",
   "md_event_detail_short_name_15": "炎帝研究1",
   "md_event_detail_short_name_15_2": "炎帝研究2",
+  "md_event_detail_name_16": "夏日嘉年華",
+  "md_event_detail_short_name_16": "夏日嘉年華",
   "md_event_detail_name_indirect_4": "好眠日",
   "md_event_detail_name_indirect_5": "萬聖節",
   "md_event_detail_name_indirect_6": "伊布週",
@@ -33,5 +35,6 @@
   "md_event_detail_name_indirect_12": "雷公研究",
   "md_event_detail_name_indirect_13": "百花嘉年華",
   "md_event_detail_name_indirect_14": "火屬性週",
-  "md_event_detail_name_indirect_15": "炎帝研究"
+  "md_event_detail_name_indirect_15": "炎帝研究",
+  "md_event_detail_name_indirect_16": "夏日嘉年華"
 }

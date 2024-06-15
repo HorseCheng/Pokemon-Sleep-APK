@@ -46,6 +46,7 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "Termina",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "Ti resta almeno un Biscotto bonus da dare.\nI Biscotti bonus rimasti verranno dati\na dei Pokémon a caso.\nVuoi terminare qui ugualmente?",
+  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "Tutti i Pokémon sono sazi o con punti\namicizia al massimo. Non puoi dare\nil Biscotto bonus (e non puoi trasferirlo\na un'altra sessione).",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "Risultati Biscotto bonus",
   "SleepResearchBonusBaitBallResultPopup_Count": "×\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "Biscotti bonus distribuiti!",

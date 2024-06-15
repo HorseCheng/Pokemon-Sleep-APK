@@ -111,6 +111,8 @@
   "md_species_candies_name_702_plu": "Bonbons Dedenne",
   "md_species_candies_name_764": "Bonbon Guérilande",
   "md_species_candies_name_764_plu": "Bonbons Guérilande",
+  "md_species_candies_name_845": "Bonbon Nigosier",
+  "md_species_candies_name_845_plu": "Bonbons Nigosier",
   "md_species_candies_narrow_name_25": "Bonbon\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Bonbons\nPikachu",
   "md_species_candies_narrow_name_133": "Bonbon\nÉvoli",
@@ -222,5 +224,7 @@
   "md_species_candies_narrow_name_243": "Bonbon\nRaikou",
   "md_species_candies_narrow_name_243_plu": "Bonbons\nRaikou",
   "md_species_candies_narrow_name_244": "Bonbon\nEntei",
-  "md_species_candies_narrow_name_244_plu": "Bonbons\nEntei"
+  "md_species_candies_narrow_name_244_plu": "Bonbons\nEntei",
+  "md_species_candies_narrow_name_845": "Bonbon\nNigosier",
+  "md_species_candies_narrow_name_845_plu": "Bonbons\nNigosier"
 }

@@ -21,7 +21,7 @@
   "PresentBox_AboutPopup_Text_1": "Abgelaufene Geschenke werden\nautomatisch gelöscht.",
   "PresentBox_AboutPopup_Text_2": "Du kannst bis zu 100 Geschenke auf\neinmal annehmen.",
   "PresentBox_AboutPopup_Text_3": "Du kannst dir angenommene Geschenke\nder letzten 30 Tage ansehen.",
-  "PresentBox_NoReceivedDialog_Part_Title": "Annehmen einiger Geschenke nicht möglich",
+  "PresentBox_NoReceivedDialog_Part_Title": "Nicht alle Geschenke annehmbar",
   "PresentBox_NoReceivedDialog_Part_Text": "Einige Geschenke konnten nicht\nangenommen werden, weil du keinen\nPlatz für sie hast.",
   "PresentBox_NoReceivedDialog_One_Expired_Text": "Dieses Geschenk konnte nicht\nangenommen werden, weil es\nabgelaufen ist.",
   "PresentBox_NoReceivedDialog_Part_Expired_Text": "Einige Geschenke konnten nicht\nangenommen werden, weil sie\nabgelaufen sind.",

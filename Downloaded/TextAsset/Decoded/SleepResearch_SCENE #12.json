@@ -46,6 +46,7 @@
   "SleepResearchBaitBallPhaseEndConfirmPopup_OK": "終了する",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Count": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc": "今日のボーナスサブレがまだ残っています\n残ったボーナスサブレはランダムに選ばれた\nポケモンに自動であげます\nよろしいですか？",
+  "SleepResearchBaitBallPhaseEndConfirmWithBonusBallPopup_Desc_2": "すべてのポケモンのフレンドポイントがMAX、\nまたは満腹のため、\nボーナスサブレはあげずに進みます。\n※ボーナスサブレは1日の中で\n2回目の睡眠計測に持ち越されません",
   "SleepResearchBonusBaitBallResultPopup_Header_Title": "ボーナスサブレの結果",
   "SleepResearchBonusBaitBallResultPopup_Count": "x\u000e\u0002\u0001\u0002\u0000",
   "SleepResearchBonusBaitBallResultPopup_Title": "ボーナスサブレをすべてあげました",
