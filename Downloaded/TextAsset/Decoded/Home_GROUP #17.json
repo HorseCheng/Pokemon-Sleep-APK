@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankListPopup_Title": "Valutazioni di Snorlax",
   "SnorlaxRankListPopup_RankTitle_Best": "Miglior valutazione raggiunta: \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 - \u000e\u0002\u0002\u0002\u0002 \u000e\u0005\u0000\u001a\nstile\nstili촀 di sonno",
   "SnorlaxRankListPopup_RankDesc": "Quando Snorlax diventa abbastanza potente,\nla sua valutazione migliora e potresti trovare\nnuove specie di Pokémon addormentati.",
   "SnorlaxRankListPopup_Title_2": "Valutazioni",
   "SnorlaxRankupCutin_Title": "Valutazione \u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "Specie totali: ???",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankupDetailPopup_Message": "Il potere sonno di Snorlax è aumentato!\nSembra che ora potrai vedere più stili\ndi sonno diversi qui.",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "La finestra sul rango non apparirà più.",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "(Potrai cambiare da\n\"Impostazioni generali\".)"
 }

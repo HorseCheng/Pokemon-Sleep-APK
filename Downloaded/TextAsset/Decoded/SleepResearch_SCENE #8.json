@@ -94,6 +94,7 @@
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷVous pourrez peut-être rencontrer\ncertains Pokémon chromatiques.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Vous \u000e\u0000\u0003\u0004毿Ｗgagnerez plus de Fragments de Rêve\u000e\u0000\u0003\u0004\u0000＀\nlors de vos recherches sur le sommeil.",
   "SleepResearchScene_EventPopup_Text_8": "Au moins un Pokémon sera affamé lors de\nla première session de sommeil du jour.",
+  "SleepResearchScene_EventPopup_Text_9": "Les \u000e\u0000\u0003\u0004毿Ｗpoints de recherche\u000e\u0000\u0003\u0004\u0000＀ obtenus à partir\ndes recherches sur le sommeil seront\nmultipliés par \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Impossible de donner l'objet\nci-dessous à ce Pokémon :\n\u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objets de l'évènement"
 }

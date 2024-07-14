@@ -113,6 +113,12 @@
   "md_species_candies_name_764_plu": "Bonbons Guérilande",
   "md_species_candies_name_845": "Bonbon Nigosier",
   "md_species_candies_name_845_plu": "Bonbons Nigosier",
+  "md_species_candies_name_906": "Bonbon Poussacha",
+  "md_species_candies_name_906_plu": "Bonbons Poussacha",
+  "md_species_candies_name_909": "Bonbon Chochodile",
+  "md_species_candies_name_909_plu": "Bonbons Chochodile",
+  "md_species_candies_name_912": "Bonbon Coiffeton",
+  "md_species_candies_name_912_plu": "Bonbons Coiffeton",
   "md_species_candies_narrow_name_25": "Bonbon\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Bonbons\nPikachu",
   "md_species_candies_narrow_name_133": "Bonbon\nÉvoli",
@@ -226,5 +232,11 @@
   "md_species_candies_narrow_name_244": "Bonbon\nEntei",
   "md_species_candies_narrow_name_244_plu": "Bonbons\nEntei",
   "md_species_candies_narrow_name_845": "Bonbon\nNigosier",
-  "md_species_candies_narrow_name_845_plu": "Bonbons\nNigosier"
+  "md_species_candies_narrow_name_845_plu": "Bonbons\nNigosier",
+  "md_species_candies_narrow_name_906": "Bonbon\nPoussacha",
+  "md_species_candies_narrow_name_906_plu": "Bonbons\nPoussacha",
+  "md_species_candies_narrow_name_909": "Bonbon\nChochodile",
+  "md_species_candies_narrow_name_909_plu": "Bonbons\nChochodile",
+  "md_species_candies_narrow_name_912": "Bonbon\nCoiffeton",
+  "md_species_candies_narrow_name_912_plu": "Bonbons\nCoiffeton"
 }

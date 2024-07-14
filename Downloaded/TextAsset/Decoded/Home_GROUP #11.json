@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촂",
   "SnorlaxRankListPopup_Title": "Snorlax Ratings",
   "SnorlaxRankListPopup_RankTitle_Best": "Your Best-Ever Snorlax Rating: \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 — \u000e\u0002\u0002\u0002\u0002 sleep \u000e\u0001\u0000\u001c\nstyle\fstyles촂",
   "SnorlaxRankListPopup_RankDesc": "When a Snorlax gains enough Strength, its\nrating will go up, and you may find that new\nPokémon species will start coming to sleep.",
   "SnorlaxRankListPopup_Title_2": "Ratings",
   "SnorlaxRankupCutin_Title": "New Rating: \u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "Total species: ?",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankupDetailPopup_Message": "Snorlax’s Drowsy Power has increased!\nYou may now see a wider variety\nof sleep styles here.",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "The rating pop-up will not appear.",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "(You can change this in\nGeneral Settings.)"
 }

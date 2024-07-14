@@ -113,6 +113,12 @@
   "md_species_candies_name_764_plu": "Caramelle Comfey",
   "md_species_candies_name_845": "Caramella Cramorant",
   "md_species_candies_name_845_plu": "Caramelle Cramorant",
+  "md_species_candies_name_906": "Caramella Sprigatito",
+  "md_species_candies_name_906_plu": "Caramelle Sprigatito",
+  "md_species_candies_name_909": "Caramella Fuecoco",
+  "md_species_candies_name_909_plu": "Caramelle Fuecoco",
+  "md_species_candies_name_912": "Caramella Quaxly",
+  "md_species_candies_name_912_plu": "Caramelle Quaxly",
   "md_species_candies_narrow_name_25": "Caramella\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Caramelle\nPikachu",
   "md_species_candies_narrow_name_133": "Caramella\nEevee",
@@ -226,5 +232,11 @@
   "md_species_candies_narrow_name_244": "Caramella\nEntei",
   "md_species_candies_narrow_name_244_plu": "Caramelle\nEntei",
   "md_species_candies_narrow_name_845": "Caramella\nCramorant",
-  "md_species_candies_narrow_name_845_plu": "Caramelle\nCramorant"
+  "md_species_candies_narrow_name_845_plu": "Caramelle\nCramorant",
+  "md_species_candies_narrow_name_906": "Caramella\nSprigatito",
+  "md_species_candies_narrow_name_906_plu": "Caramelle\nSprigatito",
+  "md_species_candies_narrow_name_909": "Caramella\nFuecoco",
+  "md_species_candies_narrow_name_909_plu": "Caramelle\nFuecoco",
+  "md_species_candies_narrow_name_912": "Caramella\nQuaxly",
+  "md_species_candies_narrow_name_912_plu": "Caramelle\nQuaxly"
 }

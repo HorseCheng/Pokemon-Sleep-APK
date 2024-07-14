@@ -255,7 +255,7 @@
   "ManualReportErrorPopup_Text_6": "Veuillez vérifier les données que vous\navez saisies et réessayez.",
   "ManualReportErrorPopup_Text_7": "Consultez les rapports en attente\navant d'essayer d'ajouter des données\nmanuellement.",
   "ManualReportNoBonusDescPopup_Title": "Confirmation",
-  "ManualReportNoBonusDescPopup_Message": "Comme il s'agit de votre deuxième\nsession de sommeil aujourd'hui, vous\nne recevrez pas de dodopoints,\nvos Pokémon ne récupéreront pas\nd'énergie et ne gagneront pas de\npoints d'expérience.",
+  "ManualReportNoBonusDescPopup_Message": "Comme il s'agit de votre deuxième\nsession de sommeil aujourd'hui,\nvous ne recevrez pas de dodopoints,\nvos Pokémon ne récupéreront pas\nd'énergie et ne gagneront pas\nde Points d'Expérience.",
   "ManualReportGPPNotificationPopup_Title": "Confirmation",
   "ManualReportGPPNotificationPopup_Text": "Si votre Pokémon GO Plus + contient\ndes données de sommeil que vous\nn'avez pas encore rapportées, veuillez\nd'abord le synchroniser.",
   "ManualReportGPPNotificationPopup_Button_1": "Procéder",

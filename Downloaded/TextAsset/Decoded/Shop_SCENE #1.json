@@ -1,4 +1,7 @@
 {
+  "ShopScene_Content_Restricted_Day": " (aggiornato tra \u000e\u0002\u0001\u0002\u0000 g)",
+  "ShopScene_Content_Restricted_Hour": " (aggiornato tra \u000e\u0002\u0001\u0002\u0000 h)",
+  "ShopScene_Content_Restricted_Minutes": " (aggiornato tra \u000e\u0002\u0001\u0002\u0000 m)",
   "ShopSceneController_Text_3": "Pokédiamanti insufficienti",
   "ShopSceneController_Text_4": "Non hai abbastanza Pokédiamanti",
   "ShopSceneController_Text_7": "Fatto!",
@@ -144,5 +147,7 @@
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Un prodotto è stato rimborsato\nattraverso l'App Store.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: App Store\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001",
   "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: \u000e\u0003\u0012\u0002촀\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Un prodotto è stato rimborsato\nattraverso l'App Store.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: App Store\nStrumento: diamanti ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
-  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: diamanti ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un prodotto è stato rimborsato\nattraverso Google Play.\nIl prodotto in questione non è più\nnel tuo inventario.\n\nNegozio: Google Play\nStrumento: diamanti ×\u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcquistato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRimborsato: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_DiscountPerOFF_1": "\u000e\u0002\u0001\u0002\u0000% ",
+  "ShopScene_DiscountPerOFF_2": "di sconto"
 }

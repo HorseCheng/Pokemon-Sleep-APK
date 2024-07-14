@@ -94,6 +94,7 @@
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷYou may meet certain Shiny Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Researchers will \u000e\u0000\u0003\u0004毿Ｗgain more Dream Shards\n\u000e\u0000\u0003\u0004\u0000＀from sleep research.",
   "SleepResearchScene_EventPopup_Text_8": "During your first sleep research of the day,\none Pokémon will for sure be hungry.",
+  "SleepResearchScene_EventPopup_Text_9": "\u000e\u0000\u0003\u0004毿ＷResearch EXP\u000e\u0000\u0003\u0004\u0000＀ from sleep research will be\nmultiplied by \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "You can’t give the following item\nto this Pokémon: \u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event Items"
 }

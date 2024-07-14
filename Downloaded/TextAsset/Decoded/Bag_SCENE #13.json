@@ -90,6 +90,6 @@
   "BagSceneSortPopup_Headline_Title": "Wähle aus, wonach du sortieren möchtest.",
   "BagSceneConsumableItemUsePopup_UseUnit_Power_Title": "Energie",
   "BagScene_NoTargetPokemon_Text": "Du hast keine Pokémon, bei denen\ndu dieses Item einsetzen kannst.",
-  "BagScene_Item_species_candies_name": "Pokémon-Bonbons",
-  "BagScene_Item_species_candies_name_Desc": "Bonbons, um Pokémon zu stärken.\nDu erhältst sie unter anderem bei\nder Schlafforschung."
+  "BagScene_Item_species_candies_name": "Pokémon-Bonbon",
+  "BagScene_Item_species_candies_name_Desc": "Ein Bonbon, um Pokémon zu stärken.\nDu erhältst es unter anderem bei der\nSchlafforschung."
 }

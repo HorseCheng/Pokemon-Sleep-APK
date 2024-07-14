@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankListPopup_Title": "Valoraciones de Snorlax",
   "SnorlaxRankListPopup_RankTitle_Best": "Mejor valoración hasta el momento: \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 - \u000e\u0002\u0002\u0002\u0002 postura\u000e\u0007\u0000\b\u0000\u0002s촂",
   "SnorlaxRankListPopup_RankDesc": "Cuando un Snorlax gana suficiente vigor, mejora\nsu valoración, lo que a su vez propicia la aparición\nde nuevas especies de Pokémon.",
   "SnorlaxRankListPopup_Title_2": "Valoraciones",
   "SnorlaxRankupCutin_Title": "Nueva valoración: \u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "Total: (?)",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankupDetailPopup_Message": "El poder Zzz de Snorlax ha aumentado.\nAhora verás más posturas en esta zona.",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "Desactivar la ventana de valoración.",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "Puede cambiarse más tarde\nen Configuración general."
 }

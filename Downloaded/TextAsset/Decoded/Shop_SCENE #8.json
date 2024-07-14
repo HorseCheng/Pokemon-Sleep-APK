@@ -1,4 +1,7 @@
 {
+  "ShopScene_Content_Restricted_Day": "：距離更新還剩\u000e\u0002\u0001\u0002\u0000天",
+  "ShopScene_Content_Restricted_Hour": "：距離更新還剩\u000e\u0002\u0001\u0002\u0000小時",
+  "ShopScene_Content_Restricted_Minutes": "：距離更新還剩\u000e\u0002\u0001\u0002\u0000分鐘",
   "ShopSceneController_Text_3": "鑽石不足",
   "ShopSceneController_Text_4": "鑽石不足。",
   "ShopSceneController_Text_7": "購買完成",
@@ -144,5 +147,7 @@
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "有透過App Store完成退款的商品。\n該商品現已被回收。\n\n商店：App Store\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_StoreRefund_Text_Google": "有透過Google Play完成退款的商品。\n該商品現已被回收。\n\n商店：Google Play\n道具名稱：\u000e\u0003\u0012\u0002촀\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "有透過App Store完成退款的商品。\n該商品現已被收回。\n\n商店：App Store\n道具名稱：鑽石×\u000e\u0002\u0004\u0004\u0000촁\n（\u000e\u0003\u0003\u0004ȁ촀）\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
-  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "有透過Google Play完成退款的商品。\n該商品現已被收回。\n\n商店：Google Play\n道具名稱：鑽石×\u000e\u0002\u0004\u0004\u0000촁\n（\u000e\u0003\u0003\u0004ȁ촀）\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "有透過Google Play完成退款的商品。\n該商品現已被收回。\n\n商店：Google Play\n道具名稱：鑽石×\u000e\u0002\u0004\u0004\u0000촁\n（\u000e\u0003\u0003\u0004ȁ촀）\n購買時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\n退款時間：\u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_DiscountPerOFF_1": "\u000e\u0002\u0001\u0002\u0000%",
+  "ShopScene_DiscountPerOFF_2": "OFF"
 }

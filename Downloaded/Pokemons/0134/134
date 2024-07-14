@@ -50,11 +50,6 @@
     "sleep_object_single_ui_position": {
         "pokemon_id": 1,
         "normal": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -226.04208374023438,
                 "y": 186.52267456054688,
@@ -67,11 +62,6 @@
             }
         },
         "drowse": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -206.55343627929688,
                 "y": 263.36749267578127,
@@ -84,11 +74,6 @@
             }
         },
         "rare": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -232.48532104492188,
                 "y": 137.71337890625,
@@ -145,11 +130,6 @@
             }
         },
         "additional_1": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -162,11 +142,6 @@
             }
         },
         "additional_2": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -179,11 +154,6 @@
             }
         },
         "additional_3": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -196,11 +166,6 @@
             }
         },
         "additional_4": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -213,11 +178,6 @@
             }
         },
         "additional_5": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -230,11 +190,6 @@
             }
         },
         "additional_6": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -247,11 +202,6 @@
             }
         },
         "additional_7": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -264,11 +214,6 @@
             }
         },
         "additional_8": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -281,11 +226,6 @@
             }
         },
         "additional_9": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -298,11 +238,6 @@
             }
         },
         "additional_10": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,

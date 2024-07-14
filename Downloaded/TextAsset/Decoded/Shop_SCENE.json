@@ -1,4 +1,7 @@
 {
+  "ShopScene_Content_Restricted_Day": " (\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0014\u0006day\bdays촀 till update)",
+  "ShopScene_Content_Restricted_Hour": " (\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0018\bhour\nhours촀 till update)",
+  "ShopScene_Content_Restricted_Minutes": " (\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000 \fminute\u000eminutes촀 till update)",
   "ShopSceneController_Text_3": "Not Enough Diamonds",
   "ShopSceneController_Text_4": "You don't have enough diamonds\nfor this.",
   "ShopSceneController_Text_7": "All Done!",
@@ -144,5 +147,7 @@
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "A product has been refunded through\nthe App Store.\nThe product in question is no longer\nin your inventory.\n\nStore: App Store\nItem: \u000e\u0003\u0012\u0002촀\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "A product has been refunded through\nthe App Store.\nThe product in question is no longer\nin your inventory.\n\nStore: App Store\nItem: Diamond ×\u000e\u0002\u0004\u0004\u0000촁 ( \u000e\u0003\u0003\u0004ȁ촀 )\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
-  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: Diamond ×\u000e\u0002\u0004\u0004\u0000촁 ( \u000e\u0003\u0003\u0004ȁ촀 )\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "A product has been refunded through\nGoogle Play.\nThe product in question is no longer\nin your inventory.\n\nStore: Google Play\nItem: Diamond ×\u000e\u0002\u0004\u0004\u0000촁 ( \u000e\u0003\u0003\u0004ȁ촀 )\nPurchased: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRefunded: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_DiscountPerOFF_1": "\u000e\u0002\u0001\u0002\u0000%",
+  "ShopScene_DiscountPerOFF_2": "OFF"
 }

@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankListPopup_Title": "Relaxo-Ränge",
   "SnorlaxRankListPopup_RankTitle_Best": "Dein höchster Relaxo-Rang: \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 - \u000e\u0002\u0002\u0002\u0002 \u000e\u0006\u00000\u0014Schlafpose\u0016Schlafposen촂",
   "SnorlaxRankListPopup_RankDesc": "Wenn Relaxo eine gewisse Stärke erreicht,\nerhöht sich sein Rang und neue Pokémon tauchen\nauf, um in seiner Umgebung zu schlafen.",
   "SnorlaxRankListPopup_Title_2": "Ränge",
   "SnorlaxRankupCutin_Title": "Neuer Rang: \u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "Gesamt: ?",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankupDetailPopup_Message": "Relaxos Schlafkraft ist gestiegen.\nDadurch kannst du nun wohl in diesem\nGebiet mehr Schlafposen entdecken.",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "Rang-Nachricht wird nicht angezeigt.",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "(Kann in Allg. Einstellungen\ngeändert werden)"
 }

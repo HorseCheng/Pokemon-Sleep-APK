@@ -1,4 +1,7 @@
 {
+  "ShopScene_Content_Restricted_Day": " (mise à jour dans \u000e\u0002\u0001\u0002\u0000 jour\u000e\u0004\u0000\b\u0000\u0002s촀)",
+  "ShopScene_Content_Restricted_Hour": " (mise à jour dans \u000e\u0002\u0001\u0002\u0000 heure\u000e\u0004\u0000\b\u0000\u0002s촀)",
+  "ShopScene_Content_Restricted_Minutes": " (mise à jour dans \u000e\u0002\u0001\u0002\u0000 minute\u000e\u0004\u0000\b\u0000\u0002s촀)",
   "ShopSceneController_Text_3": "Diamants insuffisants",
   "ShopSceneController_Text_4": "Vous ne possédez pas suffisamment de\nDiamants.",
   "ShopSceneController_Text_7": "Achat terminé",
@@ -144,5 +147,7 @@
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Un de vos articles achetés\nvia l'App Store a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : App Store\nObjet : \u000e\u0003\u0012\u0002촀\nDate d'achat : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nDate de remboursement : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : \u000e\u0003\u0012\u0002촀\nDate d'achat : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nDate de remboursement : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Un de vos articles achetés\nvia l'App Store a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : App Store\nObjet : Diamant × \u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcheté le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRemboursé le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
-  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : Diamant × \u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcheté le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRemboursé le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Un de vos articles achetés\nvia Google Play a fait l'objet\nd'un remboursement. Cet article\na été retiré de votre inventaire.\n\nStore : Google Play\nObjet : Diamant × \u000e\u0002\u0004\u0004\u0000촁 (\u000e\u0003\u0003\u0004ȁ촀)\nAcheté le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRemboursé le : \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_DiscountPerOFF_1": "- \u000e\u0002\u0001\u0002\u0000 %",
+  "ShopScene_DiscountPerOFF_2": "OFF"
 }

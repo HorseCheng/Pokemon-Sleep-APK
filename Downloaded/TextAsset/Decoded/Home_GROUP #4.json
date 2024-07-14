@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankListPopup_Title": "卡比獸評價一覽",
   "SnorlaxRankListPopup_RankTitle_Best": "過去最高評價 - \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀：\u000e\u0002\u0002\u0002\u0002種睡姿",
   "SnorlaxRankListPopup_RankDesc": "能量達到一定的標準時，\n卡比獸的評價會提升，\n而且可能會有新的寶可夢過來睡覺。",
   "SnorlaxRankListPopup_Title_2": "評價一覽",
   "SnorlaxRankupCutin_Title": "達到\u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "合計 ?種類",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁種類",
   "SnorlaxRankupDetailPopup_Message": "睡意之力變強了，\n在這個營地能看到的睡姿\n似乎也變多了。",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "今後不再顯示已達成的級別",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "（可以從基本設定變更）"
 }

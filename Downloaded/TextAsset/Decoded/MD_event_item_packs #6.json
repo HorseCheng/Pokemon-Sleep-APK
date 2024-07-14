@@ -2,6 +2,7 @@
   "md_event_item_packs_name_1": "Limitiertes Meisterkeks-Set",
   "md_event_item_packs_name_2": "Set für 100 Millionen Downloads",
   "md_event_item_packs_name_3": "Schlummertag-Set Nr. \u000e\u0002\u0002\u0002\u0000",
+  "md_event_item_packs_name_3_v190": "Schlummertag-Set Nr. \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "Veröffentlichungsfeier-Set S",
   "md_event_item_packs_name_6": "Veröffentlichungsfeier-Set M",
   "md_event_item_packs_name_7": "Set für 100 Mio. befreundete\nPokémon S",
@@ -51,5 +52,12 @@
   "md_event_item_packs_name_51": "Entei-Endspurt-Set Nr. \u000e\u0002\u0001\u0002\u0000 L",
   "md_event_item_packs_name_52": "Sommerfestival-Set Nr. \u000e\u0002\u0001\u0002\u0000 S",
   "md_event_item_packs_name_53": "Sommerfestival-Set Nr. \u000e\u0002\u0001\u0002\u0000 M",
-  "md_event_item_packs_name_54": "Sommerfestival-Set Nr. \u000e\u0002\u0001\u0002\u0000 L"
+  "md_event_item_packs_name_54": "Sommerfestival-Set Nr. \u000e\u0002\u0001\u0002\u0000 L",
+  "md_event_item_packs_name_55": "Wachstumswochen-Set Nr. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_57": "Pokémon-Freundschafts-Set (Krokel)\nNr. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_56": "Pokémon-Freundschafts-Set (Felori)\nNr. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_58": "Pokémon-Freundschafts-Set (Kwaks)\nNr. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_59": "1.-Jubiläums-Set S",
+  "md_event_item_packs_name_60": "1.-Jubiläums-Set M",
+  "md_event_item_packs_name_61": "1.-Jubiläums-Set L"
 }

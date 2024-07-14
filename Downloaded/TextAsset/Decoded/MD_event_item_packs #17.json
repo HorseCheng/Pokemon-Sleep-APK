@@ -2,6 +2,7 @@
   "md_event_item_packs_name_1": "マスターサブレ限定パック",
   "md_event_item_packs_name_2": "1億ダウンロード記念パック",
   "md_event_item_packs_name_3": "グッドスリープデーパックvol.\u000e\u0002\u0002\u0002\u0000",
+  "md_event_item_packs_name_3_v190": "グッドスリープデーパック vol.\u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "リリース記念パックS",
   "md_event_item_packs_name_6": "リリース記念パックM",
   "md_event_item_packs_name_7": "ポケモン1億GET記念パックS",
@@ -51,5 +52,12 @@
   "md_event_item_packs_name_51": "エンテイスパートパックL vol.\u000e\u0002\u0001\u0002\u0000",
   "md_event_item_packs_name_52": "サマーフェスティバルパックS vol.\u000e\u0002\u0001\u0002\u0000",
   "md_event_item_packs_name_53": "サマーフェスティバルパックM vol.\u000e\u0002\u0001\u0002\u0000",
-  "md_event_item_packs_name_54": "サマーフェスティバルパックL vol.\u000e\u0002\u0001\u0002\u0000"
+  "md_event_item_packs_name_54": "サマーフェスティバルパックL vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_55": "ポケモンすくすくパック vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_57": "ポケモンGETパック(ホゲータ) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_56": "ポケモンGETパック(ニャオハ) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_58": "ポケモンGETパック(クワッス) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_59": "1周年記念パックS",
+  "md_event_item_packs_name_60": "1周年記念パックM",
+  "md_event_item_packs_name_61": "1周年記念パックL"
 }

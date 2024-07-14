@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0002\u0002\u0000",
   "SnorlaxRankListPopup_Title": "잠만보 평가 일람",
   "SnorlaxRankListPopup_RankTitle_Best": "과거 최고 평가: \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 - 잠자는 모습 \u000e\u0002\u0002\u0002\u0002종류",
   "SnorlaxRankListPopup_RankDesc": "에너지가 일정치에 도달하면 잠만보 평가가 올라가고\n새로운 포켓몬이 잠을 자러 찾아오기도 합니다",
   "SnorlaxRankListPopup_Title_2": "평가 일람",
   "SnorlaxRankupCutin_Title": "\u000e\u0003\u0007\u0004Ā촀 도달",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "合計 ?種類",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+\u000e\u0002\u0003\u0004\u0000촁種類",
   "SnorlaxRankupDetailPopup_Message": "ねむけパワーが強くなり\nこのフィールドで見られる\n寝顔の種類が増えたようです",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "앞으로 이미 달성한 평가에서는\n이 팝업을 표시하지 않음",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "(기본 설정에서 변경할 수 있습니다)"
 }

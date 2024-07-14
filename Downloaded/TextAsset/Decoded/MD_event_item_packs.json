@@ -2,6 +2,7 @@
   "md_event_item_packs_name_1": "마스터 사블레 한정 팩",
   "md_event_item_packs_name_2": "1억 다운로드 기념 팩",
   "md_event_item_packs_name_3": "굿 슬립 데이 팩 vol.\u000e\u0002\u0002\u0002\u0000",
+  "md_event_item_packs_name_3_v190": "굿 슬립 데이 팩 vol.\u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "출시 기념 팩S",
   "md_event_item_packs_name_6": "출시 기념 팩M",
   "md_event_item_packs_name_7": "포켓몬 1억 GET 기념 팩S",
@@ -51,5 +52,12 @@
   "md_event_item_packs_name_51": "앤테이 스퍼트 팩L vol.\u000e\u0002\u0001\u0002\u0000",
   "md_event_item_packs_name_52": "서머 페스티벌 팩S vol.\u000e\u0002\u0001\u0002\u0000",
   "md_event_item_packs_name_53": "서머 페스티벌 팩M vol.\u000e\u0002\u0001\u0002\u0000",
-  "md_event_item_packs_name_54": "서머 페스티벌 팩L vol.\u000e\u0002\u0001\u0002\u0000"
+  "md_event_item_packs_name_54": "서머 페스티벌 팩L vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_55": "포켓몬 쑥쑥 팩 vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_57": "포켓몬 GET 팩(뜨아거) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_56": "포켓몬 GET 팩(나오하) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_58": "포켓몬 GET 팩(꾸왁스) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_59": "1주년 기념 팩S",
+  "md_event_item_packs_name_60": "1주년 기념 팩M",
+  "md_event_item_packs_name_61": "1주년 기념 팩L"
 }

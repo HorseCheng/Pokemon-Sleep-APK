@@ -1,4 +1,7 @@
 {
+  "ShopScene_Content_Restricted_Day": " (Update in: \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000\u0016\u0006Tag\nTagen촀)",
+  "ShopScene_Content_Restricted_Hour": " (Update in: \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000 \fStunde\u000eStunden촀)",
+  "ShopScene_Content_Restricted_Minutes": " (Update in: \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000 \fMinute\u000eMinuten촀)",
   "ShopSceneController_Text_3": "Nicht genügend Diamanten",
   "ShopSceneController_Text_4": "Du besitzt nicht genügend Diamanten.",
   "ShopSceneController_Text_7": "Alles erledigt!",
@@ -144,5 +147,7 @@
   "ShopScene_ShopPopup_StoreRefund_Text_Apple": "Ein Produkt wurde über den App Store\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: App Store\nItem: \u000e\u0003\u0012\u0002촀\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: \u000e\u0003\u0012\u0002촀\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0001\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0002",
   "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Apple": "Ein Produkt wurde über den App Store\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: App Store\nItem: Diamanten ×\u000e\u0002\u0004\u0004\u0000촃 (\u000e\u0003\u0003\u0004ȁ촀)\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
-  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: Diamanten ×\u000e\u0002\u0004\u0004\u0000촃 (\u000e\u0003\u0003\u0004ȁ촀)\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004"
+  "ShopScene_ShopPopup_Bundle_StoreRefund_Text_Google": "Ein Produkt wurde über Google Play\nrückerstattet. Das betreffende\nProdukt befindet sich nicht mehr in\ndeinem Inventar.\n\nStore: Google Play\nItem: Diamanten ×\u000e\u0002\u0004\u0004\u0000촃 (\u000e\u0003\u0003\u0004ȁ촀)\nGekauft: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0003\nRückerstattet: \u000e\t\u0000$ yyyy/MM/dd_hh:mm\u0004",
+  "ShopScene_DiscountPerOFF_1": "\u000e\u0002\u0001\u0002\u0000 %",
+  "ShopScene_DiscountPerOFF_2": "Rabatt"
 }

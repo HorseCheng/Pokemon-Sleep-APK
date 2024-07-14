@@ -21,6 +21,7 @@
   "MapScene_EventEffectPopup_Title": "No Halloween Event Effects Applied",
   "MapScene_EventEffectPopup_Title_2": "No Holiday Event Effects Applied",
   "MapScene_EventEffectPopup_Title_Common": "No \u000e\u0003\u0014\u0002\u0000 Effects Applied",
+  "MapScene_EventEffectPopup_Title_Common_v190": "No Event Effects Applied",
   "MapScene_EventEffectPopup_Text": "You won’t get any effects from the\nHalloween event in this area.",
   "MapScene_EventEffectPopup_Text_2": "You won’t get any effects from the\nholiday event in this area.",
   "MapScene_EventEffectPopup_Text_Common": "You won’t get any effects from the\n\u000e\u0003\u0014\u0002\u0000 event in\nthis area.",

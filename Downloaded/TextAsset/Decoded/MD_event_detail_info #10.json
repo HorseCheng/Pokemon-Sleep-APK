@@ -24,17 +24,8 @@
   "md_event_detail_short_name_15_2": "Entei 2",
   "md_event_detail_name_16": "Festa d'estate",
   "md_event_detail_short_name_16": "Estate",
-  "md_event_detail_name_indirect_4": "\"Giorno sogni d'oro\"",
-  "md_event_detail_name_indirect_5": "di Halloween",
-  "md_event_detail_name_indirect_6": "\"Settimana di Eevee\"",
-  "md_event_detail_name_indirect_7": "festivo",
-  "md_event_detail_name_indirect_8": "di Capodanno",
-  "md_event_detail_name_indirect_9": "\"Lago Lapislazzuli\"",
-  "md_event_detail_name_indirect_10": "\"Festa degli innamorati\"",
-  "md_event_detail_name_indirect_11": "\"Settimana Elettro\"",
-  "md_event_detail_name_indirect_12": "\"Ricerca su Raikou\"",
-  "md_event_detail_name_indirect_13": "\"Festa dei fiori\"",
-  "md_event_detail_name_indirect_14": "\"Settimana Fuoco\"",
-  "md_event_detail_name_indirect_15": "\"Ricerca su Entei\"",
-  "md_event_detail_name_indirect_16": "\"Festa d'estate\""
+  "md_event_detail_name_17": "Settimana della crescita",
+  "md_event_detail_name_18": "Festa 1° anniversario",
+  "md_event_detail_short_name_18_1": "Anniversario 1",
+  "md_event_detail_short_name_18_2": "Anniversario 2"
 }

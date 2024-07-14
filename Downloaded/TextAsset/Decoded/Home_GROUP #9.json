@@ -26,6 +26,7 @@
   "SnorlaxRankListCell_RewardNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankListPopup_Title": "Rangs de Ronflex",
   "SnorlaxRankListPopup_RankTitle_Best": "Meilleur rang de Ronflex : \u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankListPopup_RankAndSleepingfacesKind": "\u000e\u0003\u0007\u0004Ā촀 — \u000e\u0002\u0002\u0002\u0002 style\u000e\u0004\u0000\b\u0000\u0002s촂 de dodo",
   "SnorlaxRankListPopup_RankDesc": "Quand un Ronflex obtient suffisamment\nde puissance, il monte en rang et de nouveaux\nPokémon viennent dormir autour de lui.",
   "SnorlaxRankListPopup_Title_2": "Rangs",
   "SnorlaxRankupCutin_Title": "Nouveau rang : \u000e\u0003\u0007\u0004Ā촀",
@@ -90,5 +91,7 @@
   "SnorlaxRankupDetailPopup_TypeNumTotalStart": "Espèces au total : ?",
   "SnorlaxRankupDetailPopup_TypeNum_Add": "+ \u000e\u0002\u0003\u0004\u0000촁",
   "SnorlaxRankupDetailPopup_Message": "La dodoforce de Ronflex a augmenté !\nDavantage de styles de dodo seront\nvisibles dans cette zone.",
-  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀"
+  "SnorlaxRankupDetailPopup_RankTitle": "\u000e\u0003\u0007\u0004Ā촀",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_1": "Désactiver la notification de rang.",
+  "SnorlaxRankupDetailPopup_Rank_VisibilityOptions_Text_2": "(Peut être modifié dans\nles paramètres.)"
 }

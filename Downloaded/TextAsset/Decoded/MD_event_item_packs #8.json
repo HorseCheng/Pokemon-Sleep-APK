@@ -2,6 +2,7 @@
   "md_event_item_packs_name_1": "Pacchetto limitato Masterbiscotto",
   "md_event_item_packs_name_2": "Pacchetto 100 milioni di download",
   "md_event_item_packs_name_3": "Pacchetto giorno sogni d'oro vol. \u000e\u0002\u0002\u0002\u0000",
+  "md_event_item_packs_name_3_v190": "Pacchetto giorno sogni d'oro n° \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "Pacchetto per festeggiare l'uscita S",
   "md_event_item_packs_name_6": "Pacchetto per festeggiare l'uscita M",
   "md_event_item_packs_name_7": "Pacchetto per 100 milioni di amici\nPokémon S",
@@ -51,5 +52,12 @@
   "md_event_item_packs_name_51": "Pacchetto rush finale Entei n° \u000e\u0002\u0001\u0002\u0000 L",
   "md_event_item_packs_name_52": "Pacchetto festa d'estate n° \u000e\u0002\u0001\u0002\u0000 S",
   "md_event_item_packs_name_53": "Pacchetto festa d'estate n° \u000e\u0002\u0001\u0002\u0000 M",
-  "md_event_item_packs_name_54": "Pacchetto festa d'estate n° \u000e\u0002\u0001\u0002\u0000 M"
+  "md_event_item_packs_name_54": "Pacchetto festa d'estate n° \u000e\u0002\u0001\u0002\u0000 M",
+  "md_event_item_packs_name_55": "Pacchetto della crescita n° \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_57": "Pacchetto amicizia (Fuecoco) n° \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_56": "Pacchetto amicizia (Sprigatito) n° \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_58": "Pacchetto amicizia (Quaxly) n° \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_59": "Pacchetto primo anniversario S",
+  "md_event_item_packs_name_60": "Pacchetto primo anniversario M",
+  "md_event_item_packs_name_61": "Pacchetto primo anniversario L"
 }

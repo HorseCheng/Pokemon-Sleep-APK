@@ -113,6 +113,12 @@
   "md_species_candies_name_764_plu": "Comfey Candies",
   "md_species_candies_name_845": "Cramorant Candy",
   "md_species_candies_name_845_plu": "Cramorant Candies",
+  "md_species_candies_name_906": "Sprigatito Candy",
+  "md_species_candies_name_906_plu": "Sprigatito Candies",
+  "md_species_candies_name_909": "Fuecoco Candy",
+  "md_species_candies_name_909_plu": "Fuecoco Candies",
+  "md_species_candies_name_912": "Quaxly Candy",
+  "md_species_candies_name_912_plu": "Quaxly Candies",
   "md_species_candies_narrow_name_25": "Pikachu\nCandy",
   "md_species_candies_narrow_name_25_plu": "Pikachu\nCandies",
   "md_species_candies_narrow_name_133": "Eevee\nCandy",
@@ -226,5 +232,11 @@
   "md_species_candies_narrow_name_244": "Entei\nCandy",
   "md_species_candies_narrow_name_244_plu": "Entei\nCandies",
   "md_species_candies_narrow_name_845": "Cramorant\nCandy",
-  "md_species_candies_narrow_name_845_plu": "Cramorant\nCandies"
+  "md_species_candies_narrow_name_845_plu": "Cramorant\nCandies",
+  "md_species_candies_narrow_name_906": "Sprigatito\nCandy",
+  "md_species_candies_narrow_name_906_plu": "Sprigatito\nCandies",
+  "md_species_candies_narrow_name_909": "Fuecoco\nCandy",
+  "md_species_candies_narrow_name_909_plu": "Fuecoco\nCandies",
+  "md_species_candies_narrow_name_912": "Quaxly\nCandy",
+  "md_species_candies_narrow_name_912_plu": "Quaxly\nCandies"
 }

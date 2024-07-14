@@ -50,11 +50,6 @@
     "sleep_object_single_ui_position": {
         "pokemon_id": 0,
         "normal": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -278.5909729003906,
                 "y": 206.57373046875,
@@ -67,11 +62,6 @@
             }
         },
         "drowse": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -179.25128173828126,
                 "y": 453.63604736328127,
@@ -84,11 +74,6 @@
             }
         },
         "rare": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": -319.44793701171877,
                 "y": 238.334228515625,
@@ -145,11 +130,6 @@
             }
         },
         "additional_1": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -162,11 +142,6 @@
             }
         },
         "additional_2": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -179,11 +154,6 @@
             }
         },
         "additional_3": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -196,11 +166,6 @@
             }
         },
         "additional_4": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -213,11 +178,6 @@
             }
         },
         "additional_5": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -230,11 +190,6 @@
             }
         },
         "additional_6": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -247,11 +202,6 @@
             }
         },
         "additional_7": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -264,11 +214,6 @@
             }
         },
         "additional_8": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -281,11 +226,6 @@
             }
         },
         "additional_9": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -298,11 +238,6 @@
             }
         },
         "additional_10": {
-            "position": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
             "notif_icon_position": {
                 "x": 0.0,
                 "y": 0.0,
@@ -922,8 +857,8 @@
         },
         "stand": {
             "position": {
-                "x": -0.0557098388671875,
-                "y": 4.122562885284424,
+                "x": -0.18707275390625,
+                "y": 2.7186217308044435,
                 "z": 0.0
             },
             "scale": {

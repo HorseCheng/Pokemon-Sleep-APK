@@ -94,6 +94,7 @@
   "SleepResearchScene_EventPopup_Text_6": "\u000e\u0000\u0003\u0004毿ＷVielleicht begegnest du ja bestimmten\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷSchillernden Pokémon.\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearchScene_EventPopup_Text_7": "Forscher \u000e\u0000\u0003\u0004毿Ｗerhalten\u000e\u0000\u0003\u0004\u0000＀ \u000e\u0000\u0003\u0004毿Ｗmehr Traumsplitter\u000e\u0000\u0003\u0004\u0000＀ bei\nder Schlafforschung.",
   "SleepResearchScene_EventPopup_Text_8": "Bei deiner ersten Schlafforschung des\nTages wird garantiert ein hungriges\nPokémon erscheinen.",
+  "SleepResearchScene_EventPopup_Text_9": "Durch Schlafforschung erhaltene\n\u000e\u0000\u0003\u0004毿ＷForschungspunkte\u000e\u0000\u0003\u0004\u0000＀ werden mit\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ multipliziert.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items"
 }
