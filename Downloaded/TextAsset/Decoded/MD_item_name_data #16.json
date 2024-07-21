@@ -92,6 +92,7 @@
   "item_name_91": "Caramella Folletto L",
   "item_name_92": "Biscotto Entei",
   "item_name_93": "Crini di Entei",
+  "item_name_94": "Ultrabiscotto",
   "item_desc_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
   "item_desc_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
   "item_desc_3": "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola dormita e poi sparisce.",
@@ -133,6 +134,7 @@
   "item_desc_56_to_73": "Caramella molto speciale che si può\ntrasformare in 25 caramelle di\nPokémon di tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_74_to_91": "Caramella grande e molto speciale che\nsi può trasformare in 125 caramelle\ndi Pokémon di tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_92": "Dolcetto speciale che rende molto\npiù amico Entei. Aumenta i punti\namicizia di 6.\n\n\u000e\n\u0000\u0002촀Nota: quando i Crini di Raikou non\npotranno più essere scambiati,\nquesto strumento diventerà \nun Megabiscotto.\nControlla le date in cui è possibile\nfare lo scambio nelle comunicazioni\nsull'evento.\u000f\n\u0000",
+  "item_desc_94": "Dolcetto buonissimo che rende\nnotevolmente più amici i Pokémon.\nAumenta i punti amicizia di 5.",
   "item_desc_short_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.",
   "item_desc_short_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.",
   "item_desc_short_3": "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno.",
@@ -172,5 +174,6 @@
   "item_desc_short_38_to_55": "Caramella piccola ma molto speciale\nche si può trasformare in 4\ncaramelle di Pokémon di tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_short_56_to_73": "Caramella molto speciale che si può\ntrasformare in 25 caramelle di\nPokémon di tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_short_74_to_91": "Caramella grande e molto speciale\nche si può trasformare in 125\ncaramelle di Pokémon di tipo \u000e\u0003\u0002\u0002촀.",
-  "item_desc_short_92": "Dolcetto speciale che rende\nmolto più amico Entei.\nAumenta i punti amicizia di 6."
+  "item_desc_short_92": "Dolcetto speciale che rende\nmolto più amico Entei.\nAumenta i punti amicizia di 6.",
+  "item_desc_short_94": "Dolcetto buonissimo che rende\nnotevolmente più amici i Pokémon.\nAumenta i punti amicizia di 5."
 }

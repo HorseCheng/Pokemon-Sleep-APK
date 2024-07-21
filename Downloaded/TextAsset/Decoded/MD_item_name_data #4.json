@@ -92,6 +92,7 @@
   "item_name_91": "Caramelo Hada L",
   "item_name_92": "Galleta Entei",
   "item_name_93": "Melena de Entei",
+  "item_name_94": "Ultragalleta",
   "item_desc_1": "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del sueño.\nSe consume al usarlo.",
   "item_desc_2": "Duplica la cantidad de fragmentos de\nsueños obtenidos tras una sesión de\nestudio. Se consume al usarlo.",
   "item_desc_3": "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio. Se consume al usarlo.",
@@ -133,6 +134,7 @@
   "item_desc_56_to_73": "Caramelo especial que puede\nconvertirse en 25 para cualquier\nPokémon de tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_74_to_91": "Caramelo grande y especial que puede\nconvertirse en 125 para cualquier\nPokémon de tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_92": "Dulce especial que aumenta mucho el\nnivel de amistad de Entei.\nProporciona seis puntos de amistad.\n\n\u000e\n\u0000\u0002촀Una vez finalizado el período de\nintercambio en el rincón de\nintercambio del evento, se convertirá\nautomáticamente en una Supergalleta.\nConsulta la sección Noticias para\nconocer más detalles.\u000f\n\u0000",
+  "item_desc_94": "Dulce que aumenta mucho el nivel de\namistad de un Pokémon. Proporciona\ncinco puntos de amistad.",
   "item_desc_short_1": "Duplica los PE de estudio obtenidos\ntras una sesión de estudio del\nsueño. Se consume al usarlo.",
   "item_desc_short_2": "Duplica la cantidad de fragmentos\nde sueños obtenidos tras una sesión\nde estudio. Se consume al usarlo.",
   "item_desc_short_3": "Duplica los PE de estudio de los\nPokémon ayudantes tras una sesión\nde estudio. Se consume al usarlo.",
@@ -172,5 +174,6 @@
   "item_desc_short_38_to_55": "Caramelo pequeño que puede\nconvertirse en 4 para cualquier\nPokémon de tipo \u000e\u0003\u0002\u0002촀.",
   "item_desc_short_56_to_73": "Caramelo que puede convertirse en\n25 para cualquier Pokémon de tipo\n\u000e\u0003\u0002\u0002촀.",
   "item_desc_short_74_to_91": "Caramelo grande que puede\nconvertirse en 125 para cualquier\nPokémon de tipo \u000e\u0003\u0002\u0002촀.",
-  "item_desc_short_92": "Dulce especial que aumenta mucho\nel nivel de amistad de Entei.\nProporciona seis puntos de amistad."
+  "item_desc_short_92": "Dulce especial que aumenta mucho\nel nivel de amistad de Entei.\nProporciona seis puntos de amistad.",
+  "item_desc_short_94": "Dulce que aumenta mucho el nivel\nde amistad de un Pokémon.\nOtorga cinco puntos de amistad."
 }
