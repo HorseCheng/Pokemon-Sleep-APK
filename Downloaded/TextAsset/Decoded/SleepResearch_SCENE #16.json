@@ -96,5 +96,7 @@
   "SleepResearchScene_EventPopup_Text_8": "In der ersten Schlafforschung des Tages\nwird ein Pokémon in jedem Fall hungrig\nerscheinen.",
   "SleepResearchScene_EventPopup_Text_9": "Durch Schlafforschung erhaltene\n\u000e\u0000\u0003\u0004毿ＷForschungspunkte\u000e\u0000\u0003\u0004\u0000＀ werden mit\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀ multipliziert.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
-  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items"
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1": "Schneller Überblick",
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Zum nächsten\nPokémon"
 }

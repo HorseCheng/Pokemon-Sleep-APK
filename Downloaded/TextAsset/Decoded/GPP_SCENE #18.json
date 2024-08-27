@@ -156,6 +156,7 @@
   "GPPVoiceListPopup_Desc": "선택한 피카츄의 보이스를\nGO Plus +로 재생할 수 있습니다",
   "GPPVoiceListPopup_HeadlineTitle": "노멀 보이스",
   "GPPVoiceListPopup_HeadlineDesc": "친밀도가 오르면 새로운 보이스가 랜덤으로 개방됩니다",
+  "GPPVoiceListPopup_HeadlineDesc_v1100": "누적 수면 시간에 따라\n새로운 보이스가 랜덤으로 개방됩니다",
   "GPPVoiceListPopup_Name_2": "???",
   "GPPVoiceListPopup_HeadlineTitle_2": "스페셜 보이스",
   "GPPVoiceListPopup_HeadlineDesc_2": "특정 조건을 충족시키면 들을 수 있는 특별한 보이스입니다\n한번 GO Plus +로 들으면 이곳에서 재생할 수 있습니다",

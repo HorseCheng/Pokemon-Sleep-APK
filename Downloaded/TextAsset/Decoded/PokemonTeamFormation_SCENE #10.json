@@ -19,5 +19,7 @@
   "PokemonTeamFormationScene_Footer_Value": "Level",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Aktives Team",
   "PokemonTeamFormationSceneController_Text_7": "Du hast dein aktives Team noch nicht\ngeändert. Wenn du dieses Team mit\ndem aktuellen Team tauschen willst,\nberühre „Team auswählen“.\n\nMöchtest du bei deinem aktuellen\nTeam bleiben?",
-  "PokemonTeamFormationSceneController_Text_8": "Du hast bereits ein \u000e\u0000\u0003\u0004毿ＷBesonderes\nPokémon\u000e\u0000\u0003\u0004\u0000＀ in deinem Team. Du kannst\njeweils \u000e\u0000\u0003\u0004毿Ｗnur ein Besonderes Pokémon in\neinem Team \u000e\u0000\u0003\u0004\u0000＀haben. Möchtest du das\nandere Besondere Pokémon aus deinem\nTeam entfernen?"
+  "PokemonTeamFormationSceneController_Text_8": "Du hast bereits ein \u000e\u0000\u0003\u0004毿ＷBesonderes\nPokémon\u000e\u0000\u0003\u0004\u0000＀ in deinem Team. Du kannst\njeweils \u000e\u0000\u0003\u0004毿Ｗnur ein Besonderes Pokémon in\neinem Team \u000e\u0000\u0003\u0004\u0000＀haben. Möchtest du das\nandere Besondere Pokémon aus deinem\nTeam entfernen?",
+  "PokemonTeamFormationScene_Note_PopupTitle": "Hinweis zur Teamauswahl",
+  "PokemonTeamFormationScene_Note_PopupText_1": "Wählst du ein Pokémon für dein Team,\nwird \u000e\u0000\u0003\u0004毿Ｗdie Zeit der Hilfe dieses Pokémon\u000e\u0000\u0003\u0004\u0000＀\nund \u000e\u0000\u0003\u0004毿Ｗdie Haupttalente aller Pokémon in\u000e\u0000\u0003\u0004\u0000＀\ndeinem Team zurückgesetzt."
 }

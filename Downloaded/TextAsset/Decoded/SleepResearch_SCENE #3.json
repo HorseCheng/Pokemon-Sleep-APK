@@ -96,5 +96,7 @@
   "SleepResearchScene_EventPopup_Text_8": "1回目の睡眠リサーチで1匹チャンス確定",
   "SleepResearchScene_EventPopup_Text_9": "睡眠リサーチで獲得する\u000e\u0000\u0003\u0004毿ＷリサーチEXP\u000e\u0002\u0002\u0002\u0000倍\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "このポケモンには\u000e\u0003\u0003\u0004Ā촀を\nあげることは出来ません",
-  "SleepResearch_SCENE_EventItemGet_Popup_Title": "イベントアイテム"
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "イベントアイテム",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1": "모두 리서치",
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "다음 포켓몬으로"
 }

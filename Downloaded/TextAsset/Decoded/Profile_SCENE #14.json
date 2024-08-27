@@ -34,6 +34,8 @@
   "ProfileIconSettingPopup_SubTitle_Common": "共通",
   "ProfileIconSettingPopup_SubTitle_Pokemon": "ポケモン",
   "ProfileIconSettingPopup_SubTitle_shiny": "色違いのポケモン",
+  "ProfileIconSettingPopup_SubTitle_SleepRibbon": "おやすみリボン",
+  "ProfileIconSettingPopup_SubTitle_Bonus": "ボーナス",
   "ProfileIconSettingPopup_ChangeButton": "変更する",
   "ProfileIconChangeFinishPopup_Title": "完了",
   "ProfileIconChangeFinishPopup_Text": "プロフィールアイコンを変更しました"

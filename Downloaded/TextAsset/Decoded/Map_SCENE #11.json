@@ -50,5 +50,8 @@
   "MapScene_DataDownload_Series_Text": "Ton für ein neues Gebiet wird\nheruntergeladen. Bist du damit\neinverstanden?\n(\u000e\u0002\t\u0004\u0000촁 MB)",
   "MapScene_FieldMovePopup_Title": "Item einsetzen",
   "MapScene_FieldMovePopup_Text_1": "Du kannst ein Schlaftaxi-Ticket\nverwenden, um in ein anderes\nGebiet zu reisen.",
-  "MapScene_FieldMovePopup_Text_2": "(Reist du in ein anderes Gebiet, werden Relaxos\nRang und einige Missionsbelohnungen\nzurückgesetzt.)"
+  "MapScene_FieldMovePopup_Text_2": "(Reist du in ein anderes Gebiet, werden Relaxos\nRang und einige Missionsbelohnungen\nzurückgesetzt.)",
+  "MapScene_FieldBonus_LimitPopup_Title": "Limit für Gebietsbonus erreicht",
+  "MapScene_FieldBonus_LimitPopup_Text_1": "Erfahrungspunkte, die du hier bei deiner\nSchlafforschung erhältst, werden nun\nfür andere Gebiete verwendet.",
+  "MapScene_FieldBonus_LimitPopup_Text_2": "Der Gebietsbonus von \u000e\u0002\u0002\u0002\u0000 % wird geteilt und\nauf die anderen Gebiete verteilt."
 }

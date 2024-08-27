@@ -34,6 +34,8 @@
   "ProfileIconSettingPopup_SubTitle_Common": "공통",
   "ProfileIconSettingPopup_SubTitle_Pokemon": "포켓몬",
   "ProfileIconSettingPopup_SubTitle_shiny": "색이 다른 포켓몬",
+  "ProfileIconSettingPopup_SubTitle_SleepRibbon": "굿나잇리본",
+  "ProfileIconSettingPopup_SubTitle_Bonus": "보너스",
   "ProfileIconSettingPopup_ChangeButton": "변경한다",
   "ProfileIconChangeFinishPopup_Title": "완료",
   "ProfileIconChangeFinishPopup_Text": "프로필 아이콘을 변경했습니다"

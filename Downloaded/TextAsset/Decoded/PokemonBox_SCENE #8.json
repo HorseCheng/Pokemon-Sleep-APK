@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "\u000e\u0000\u0003\u0004毿ＷBesonders seltene Pokémon\u000e\u0000\u0003\u0004\u0000＀ wie dieses\nkönnen nicht verschickt werden.",
   "PokemonBoxItemPopupCell_UseButton": "Einsetzen",
   "PokemonBoxFilterPopup_LikeBerryButton": "Relaxos Lieblingsbeeren",
-  "PokemonBoxFilter_NoApplyPokemon": "Keines deiner Pokémon erfüllt diese\nBedingungen."
+  "PokemonBoxFilter_NoApplyPokemon": "Keines deiner Pokémon erfüllt diese\nBedingungen.",
+  "PokemonBoxFilter_Option_Header": "Optionen",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "Nur Pokémon, die dieses Talent\nfreigeschaltet haben",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "Alle Zutaten (Suche mit AND)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "Alle Nebentalente (Suche mit AND)"
 }

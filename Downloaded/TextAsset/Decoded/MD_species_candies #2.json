@@ -61,6 +61,8 @@
   "md_species_candies_name_175_plu": "Bonbons Togepi",
   "md_species_candies_name_179": "Bonbon Wattouat",
   "md_species_candies_name_179_plu": "Bonbons Wattouat",
+  "md_species_candies_name_194": "Bonbon Axoloto",
+  "md_species_candies_name_194_plu": "Bonbons Axoloto",
   "md_species_candies_name_214": "Bonbon Scarhino",
   "md_species_candies_name_214_plu": "Bonbons Scarhino",
   "md_species_candies_name_228": "Bonbon Malosse",
@@ -238,5 +240,7 @@
   "md_species_candies_narrow_name_909": "Bonbon\nChochodile",
   "md_species_candies_narrow_name_909_plu": "Bonbons\nChochodile",
   "md_species_candies_narrow_name_912": "Bonbon\nCoiffeton",
-  "md_species_candies_narrow_name_912_plu": "Bonbons\nCoiffeton"
+  "md_species_candies_narrow_name_912_plu": "Bonbons\nCoiffeton",
+  "md_species_candies_narrow_name_194": "Bonbon\nAxoloto",
+  "md_species_candies_narrow_name_194_plu": "Bonbons\nAxoloto"
 }

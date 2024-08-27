@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "\u000e\u0000\u0003\u0004毿Ｗとても珍しいポケモン\u000e\u0000\u0003\u0004\u0000＀ は\n博士に送ることができません",
   "PokemonBoxItemPopupCell_UseButton": "使う",
   "PokemonBoxFilterPopup_LikeBerryButton": "カビゴンの好きなきのみ",
-  "PokemonBoxFilter_NoApplyPokemon": "条件に当てはまるポケモンがいません"
+  "PokemonBoxFilter_NoApplyPokemon": "条件に当てはまるポケモンがいません",
+  "PokemonBoxFilter_Option_Header": "オプション",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "解放済みのポケモンだけを含む",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "すべての食材を含む(AND検索)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "すべてのサブスキルを含む(AND検索)"
 }

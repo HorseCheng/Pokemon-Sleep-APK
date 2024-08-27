@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "\u000e\u0000\u0003\u0004毿Ｗ매우 희귀한 포켓몬\u000e\u0000\u0003\u0004\u0000＀은\n박사에게 보낼 수 없습니다",
   "PokemonBoxItemPopupCell_UseButton": "사용한다",
   "PokemonBoxFilterPopup_LikeBerryButton": "잠만보가 좋아하는 나무열매",
-  "PokemonBoxFilter_NoApplyPokemon": "조건에 맞는 포켓몬이 없습니다"
+  "PokemonBoxFilter_NoApplyPokemon": "조건에 맞는 포켓몬이 없습니다",
+  "PokemonBoxFilter_Option_Header": "옵션",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "이미 개방된 포켓몬만 포함",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "모든 식재료 포함(AND 검색)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "모든 서브 스킬 포함(AND 검색)"
 }

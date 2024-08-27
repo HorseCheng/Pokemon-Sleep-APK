@@ -156,6 +156,7 @@
   "GPPVoiceListPopup_Desc": "選択したピカチュウのボイスを\nGO Plus + で再生することができます",
   "GPPVoiceListPopup_HeadlineTitle": "ノーマルボイス",
   "GPPVoiceListPopup_HeadlineDesc": "なつき度が上がることで新しいボイスがランダムで\n解放されます",
+  "GPPVoiceListPopup_HeadlineDesc_v1100": "累計睡眠時間によって\n新しいボイスがランダムで解放されます",
   "GPPVoiceListPopup_Name_2": "???",
   "GPPVoiceListPopup_HeadlineTitle_2": "スペシャルボイス",
   "GPPVoiceListPopup_HeadlineDesc_2": "ある条件を満たすと聴くことができる特別なボイスです\nGO Plus +で一度聴くと、ここから再生ができます",

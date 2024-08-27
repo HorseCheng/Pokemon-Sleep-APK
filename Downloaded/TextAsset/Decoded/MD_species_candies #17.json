@@ -61,6 +61,8 @@
   "md_species_candies_name_175_plu": "Caramelle Togepi",
   "md_species_candies_name_179": "Caramella Mareep",
   "md_species_candies_name_179_plu": "Caramelle Mareep",
+  "md_species_candies_name_194": "Caramella Wooper",
+  "md_species_candies_name_194_plu": "Caramelle Wooper",
   "md_species_candies_name_214": "Caramella Heracross",
   "md_species_candies_name_214_plu": "Caramelle Heracross",
   "md_species_candies_name_228": "Caramella Houndour",
@@ -238,5 +240,7 @@
   "md_species_candies_narrow_name_909": "Caramella\nFuecoco",
   "md_species_candies_narrow_name_909_plu": "Caramelle\nFuecoco",
   "md_species_candies_narrow_name_912": "Caramella\nQuaxly",
-  "md_species_candies_narrow_name_912_plu": "Caramelle\nQuaxly"
+  "md_species_candies_narrow_name_912_plu": "Caramelle\nQuaxly",
+  "md_species_candies_narrow_name_194": "Caramella\nWooper",
+  "md_species_candies_narrow_name_194_plu": "Caramelle\nWooper"
 }

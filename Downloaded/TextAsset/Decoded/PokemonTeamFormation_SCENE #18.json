@@ -19,5 +19,7 @@
   "PokemonTeamFormationScene_Footer_Value": "Nivel",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Equipo activo",
   "PokemonTeamFormationSceneController_Text_7": "No has modificado tu equipo activo.\nSi prefieres cambiarlo por este,\ntoca \"Usar este equipo\".\n¿O prefieres mantener el que tenías?",
-  "PokemonTeamFormationSceneController_Text_8": "Ya tienes un \u000e\u0000\u0003\u0004毿ＷPokémon especial\u000e\u0000\u0003\u0004\u0000＀ en el\nequipo activo. Solo es posible tener \u000e\u0000\u0003\u0004毿Ｗun\nPokémon especial en el mismo equipo\u000e\u0000\u0003\u0004\u0000＀.\n¿Quieres eliminar del equipo al\nPokémon especial que tienes ahora?"
+  "PokemonTeamFormationSceneController_Text_8": "Ya tienes un \u000e\u0000\u0003\u0004毿ＷPokémon especial\u000e\u0000\u0003\u0004\u0000＀ en el\nequipo activo. Solo es posible tener \u000e\u0000\u0003\u0004毿Ｗun\nPokémon especial en el mismo equipo\u000e\u0000\u0003\u0004\u0000＀.\n¿Quieres eliminar del equipo al\nPokémon especial que tienes ahora?",
+  "PokemonTeamFormationScene_Note_PopupTitle": "Acerca de la selección de miembros",
+  "PokemonTeamFormationScene_Note_PopupText_1": "Cuando selecciones un Pokémon para\ntu equipo, se reiniciará \u000e\u0000\u0003\u0004毿Ｗel tiempo de\nayuda del Pokémon seleccionado\u000e\u0000\u0003\u0004\u0000＀, así\ncomo \u000e\u0000\u0003\u0004毿Ｗlas habilidades principales de\ntodos los miembros del equipo\u000e\u0000\u0003\u0004\u0000＀."
 }

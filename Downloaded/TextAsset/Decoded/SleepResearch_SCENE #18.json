@@ -96,5 +96,7 @@
   "SleepResearchScene_EventPopup_Text_8": "Au moins un Pokémon sera affamé lors de\nla première session de sommeil du jeu.",
   "SleepResearchScene_EventPopup_Text_9": "Les \u000e\u0000\u0003\u0004毿Ｗpoints de recherche\u000e\u0000\u0003\u0004\u0000＀ obtenus à partir\ndes recherches sur le sommeil seront\nmultipliés par \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "\u000e\u0003\u0003\u0004Ā촀 :\nimpossible de donner cet objet à\nce Pokémon.",
-  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objets de l'évènement"
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objets de l'évènement",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1": "Analyse rapide",
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Pokémon suivant"
 }

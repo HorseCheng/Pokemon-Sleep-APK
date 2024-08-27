@@ -156,6 +156,7 @@
   "GPPVoiceListPopup_Desc": "Choose a Pikachu cry to hear it played\nback from your GO Plus +.",
   "GPPVoiceListPopup_HeadlineTitle": "Normal Cries",
   "GPPVoiceListPopup_HeadlineDesc": "New cries will be unlocked at random as Pikachu\ngrows more friendly toward you.",
+  "GPPVoiceListPopup_HeadlineDesc_v1100": "New cries will be unlocked at random based on\nyour total number of hours slept.",
   "GPPVoiceListPopup_Name_2": "???",
   "GPPVoiceListPopup_HeadlineTitle_2": "Special Cries",
   "GPPVoiceListPopup_HeadlineDesc_2": "These are special cries you can hear if you meet\ncertain conditions. Once you've heard them from\nyour GO Plus +, you can play them again here.",

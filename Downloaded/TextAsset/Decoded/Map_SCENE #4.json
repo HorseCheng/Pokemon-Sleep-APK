@@ -50,5 +50,8 @@
   "MapScene_DataDownload_Series_Text": "New area sound data will be\ndownloaded. Is this OK?\n(\u000e\u0002\t\u0004\u0000촁 MB)",
   "MapScene_FieldMovePopup_Title": "Use Item",
   "MapScene_FieldMovePopup_Text_1": "You can use one E-Zzz Travel Ticket\nto move to another site.",
-  "MapScene_FieldMovePopup_Text_2": "(Changing sites will reset Snorlax’s\nrating and certain mission rewards.)"
+  "MapScene_FieldMovePopup_Text_2": "(Changing sites will reset Snorlax’s\nrating and certain mission rewards.)",
+  "MapScene_FieldBonus_LimitPopup_Title": "Area Bonus Limit Reached",
+  "MapScene_FieldBonus_LimitPopup_Text_1": "The experience you gained from this\nsleep research will now be put toward\nother areas’ sleep research.",
+  "MapScene_FieldBonus_LimitPopup_Text_2": "The \u000e\u0002\u0002\u0002\u0000% area bonus will be divided and\nshared with other areas."
 }

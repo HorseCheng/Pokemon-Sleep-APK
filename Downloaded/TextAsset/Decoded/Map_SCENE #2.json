@@ -50,5 +50,8 @@
   "MapScene_DataDownload_Series_Text": "新しいフィールドのサウンドデータを\nダウンロードします。よろしいですか？\n（\u000e\u0002\t\u0004\u0000촁MB）",
   "MapScene_FieldMovePopup_Title": "どうぐを使う",
   "MapScene_FieldMovePopup_Text_1": "フィールドいどうチケットを1枚使って\nフィールドを移動できます",
-  "MapScene_FieldMovePopup_Text_2": "※移動すると現時点でのカビゴン評価と\n一部のミッションの報酬がリセットされます"
+  "MapScene_FieldMovePopup_Text_2": "※移動すると現時点でのカビゴン評価と\n一部のミッションの報酬がリセットされます",
+  "MapScene_FieldBonus_LimitPopup_Title": "필드 보너스 상한 도달",
+  "MapScene_FieldBonus_LimitPopup_Text_1": "이번 수면 리서치에서 얻은 경험을\n다른 필드에서의 수면 리서치에\n활용할 수 있게 되었습니다",
+  "MapScene_FieldBonus_LimitPopup_Text_2": "각 필드에 \u000e\u0002\u0002\u0002\u0000%의 필드 보너스가 할당됩니다"
 }

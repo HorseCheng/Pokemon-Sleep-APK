@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "Impossible d'envoyer des \u000e\u0000\u0003\u0004毿ＷPokémon\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗparticulièrement rares\u000e\u0000\u0003\u0004\u0000＀ comme celui-ci.",
   "PokemonBoxItemPopupCell_UseButton": "Utiliser",
   "PokemonBoxFilterPopup_LikeBerryButton": "Baies favorites de Ronflex",
-  "PokemonBoxFilter_NoApplyPokemon": "Vous n'avez pas de Pokémon qui remplit\nces conditions."
+  "PokemonBoxFilter_NoApplyPokemon": "Vous n'avez pas de Pokémon qui remplit\nces conditions.",
+  "PokemonBoxFilter_Option_Header": "Options",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "Inclut uniquement les Pokémon ayant\ndébloqué la compétence ci-dessus.",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "Inclut tous les ingrédients\n(recherche multicritères)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "Inclut toutes les compétences\nsecondaires (recherche multicritères)"
 }

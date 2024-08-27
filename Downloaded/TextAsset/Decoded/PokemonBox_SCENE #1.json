@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "I \u000e\u0000\u0003\u0004毿ＷPokémon molto rari\u000e\u0000\u0003\u0004\u0000＀ come questo non\npossono essere inviati.",
   "PokemonBoxItemPopupCell_UseButton": "Usa",
   "PokemonBoxFilterPopup_LikeBerryButton": "Bacche preferite di Snorlax",
-  "PokemonBoxFilter_NoApplyPokemon": "Non hai Pokémon corrispondenti\na questi criteri."
+  "PokemonBoxFilter_NoApplyPokemon": "Non hai Pokémon corrispondenti\na questi criteri.",
+  "PokemonBoxFilter_Option_Header": "Opzioni",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "Comprendi solo Pokémon con queste\nvoci sbloccate",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "Comprendi tutti gli ingredienti\n(cerca usando AND)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "Comprendi tutte le abilità secondarie\n(cerca usando AND)"
 }

@@ -96,5 +96,7 @@
   "SleepResearchScene_EventPopup_Text_8": "Aparecerá al menos un Pokémon hambriento\nen el primer estudio del sueño del día.",
   "SleepResearchScene_EventPopup_Text_9": "\u000e\u0000\u0003\u0004毿ＷEXP de estudio\u000e\u0000\u0003\u0004\u0000＀ obtenida tras el estudio del\nsueño multiplicada por \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "No puedes dar una \u000e\u0003\u0003\u0004Ā촀\na este Pokémon.",
-  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento"
+  "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1": "Revisión rápida",
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Siguiente\nPokémon"
 }

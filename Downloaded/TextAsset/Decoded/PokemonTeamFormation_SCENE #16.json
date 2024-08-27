@@ -19,5 +19,7 @@
   "PokemonTeamFormationScene_Footer_Value": "Niveau",
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Équipe actuelle",
   "PokemonTeamFormationSceneController_Text_7": "Vous n'avez pas confirmé la nouvelle\nformation de votre équipe. Si vous \nsouhaitez l'utiliser, appuyez sur le\nbouton « Utiliser cette équipe » !\n\nContinuer malgré tout avec votre\nformation actuelle ?",
-  "PokemonTeamFormationSceneController_Text_8": "Votre équipe contient déjà un \u000e\u0000\u0003\u0004毿ＷPokémon\nspécial\u000e\u0000\u0003\u0004\u0000＀. Vous ne pouvez avoir qu'\u000e\u0000\u0003\u0004毿Ｗun seul\nPokémon spécial à la fois dans votre\néquipe\u000e\u0000\u0003\u0004\u0000＀. Voulez-vous remplacer le\nPokémon spécial de votre équipe ?"
+  "PokemonTeamFormationSceneController_Text_8": "Votre équipe contient déjà un \u000e\u0000\u0003\u0004毿ＷPokémon\nspécial\u000e\u0000\u0003\u0004\u0000＀. Vous ne pouvez avoir qu'\u000e\u0000\u0003\u0004毿Ｗun seul\nPokémon spécial à la fois dans votre\néquipe\u000e\u0000\u0003\u0004\u0000＀. Voulez-vous remplacer le\nPokémon spécial de votre équipe ?",
+  "PokemonTeamFormationScene_Note_PopupTitle": "Choix des membres de votre équipe",
+  "PokemonTeamFormationScene_Note_PopupText_1": "Lorsque vous choisissez un Pokémon\npour l'intégrer à votre équipe,\n\u000e\u0000\u0003\u0004毿Ｗle soutien apporté par ce Pokémon\u000e\u0000\u0003\u0004\u0000＀ et\n\u000e\u0000\u0003\u0004毿Ｗla jauge de compétence principale de\ntous les Pokémon de l'équipe\u000e\u0000\u0003\u0004\u0000＀ sont\nréinitialisés."
 }

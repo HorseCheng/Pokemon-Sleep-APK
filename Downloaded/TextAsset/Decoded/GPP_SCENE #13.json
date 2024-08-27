@@ -156,6 +156,7 @@
   "GPPVoiceListPopup_Desc": "可以用GO Plus +播放\n選擇的皮卡丘語音。",
   "GPPVoiceListPopup_HeadlineTitle": "一般語音",
   "GPPVoiceListPopup_HeadlineDesc": "親密度提高時，會隨機開放新的語音。",
+  "GPPVoiceListPopup_HeadlineDesc_v1100": "會根據總睡眠時間，\n隨機開放新的叫聲。",
   "GPPVoiceListPopup_Name_2": "???",
   "GPPVoiceListPopup_HeadlineTitle_2": "特別語音",
   "GPPVoiceListPopup_HeadlineDesc_2": "滿足特定條件後可聆聽的特別語音。\n在GO Plus +聽過一次後，就能在這裡播放。",

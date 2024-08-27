@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "No puedes enviar al profesor \u000e\u0000\u0003\u0004毿ＷPokémon\nespecialmente raros\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxItemPopupCell_UseButton": "Usar",
   "PokemonBoxFilterPopup_LikeBerryButton": "Bayas favoritas de Snorlax",
-  "PokemonBoxFilter_NoApplyPokemon": "No tienes ningún Pokémon que cumpla\nestos requisitos."
+  "PokemonBoxFilter_NoApplyPokemon": "No tienes ningún Pokémon que cumpla\nestos requisitos.",
+  "PokemonBoxFilter_Option_Header": "Opciones",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "Incluir únicamente Pokémon con esta\nhabilidad desbloqueada.",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "Incluir todos los ingredientes\n(búsqueda con AND)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "Incluir todas las habilidades\nsecundarias (búsqueda con AND)"
 }

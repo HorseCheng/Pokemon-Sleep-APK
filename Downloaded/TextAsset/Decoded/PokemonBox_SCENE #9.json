@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "It's not possible to send away\n\u000e\u0000\u0003\u0004毿Ｗespecially rare Pokémon\u000e\u0000\u0003\u0004\u0000＀ like this one.",
   "PokemonBoxItemPopupCell_UseButton": "Use",
   "PokemonBoxFilterPopup_LikeBerryButton": "Snorlax's Favorite Berries",
-  "PokemonBoxFilter_NoApplyPokemon": "You don’t have any Pokémon that fit these\nconditions."
+  "PokemonBoxFilter_NoApplyPokemon": "You don’t have any Pokémon that fit these\nconditions.",
+  "PokemonBoxFilter_Option_Header": "Options",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "Include only Pokémon with the above\nunlocked",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "Include all ingredients\n(search using AND)",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "Include all sub skills\n(search using AND)"
 }

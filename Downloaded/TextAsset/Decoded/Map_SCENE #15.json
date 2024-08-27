@@ -50,5 +50,8 @@
   "MapScene_DataDownload_Series_Text": "새로운 필드의 사운드 데이터를 다운로드합니다.\n계속하겠습니까?\n(\u000e\u0002\t\u0004\u0000촁MB)",
   "MapScene_FieldMovePopup_Title": "도구를 사용한다",
   "MapScene_FieldMovePopup_Text_1": "필드 이동 티켓을 1장 사용하여\n필드를 이동할 수 있습니다",
-  "MapScene_FieldMovePopup_Text_2": "※이동하면 현시점에서의 잠만보 평가와\n일부 미션의 보상이 리셋됩니다"
+  "MapScene_FieldMovePopup_Text_2": "※이동하면 현시점에서의 잠만보 평가와\n일부 미션의 보상이 리셋됩니다",
+  "MapScene_FieldBonus_LimitPopup_Title": "필드 보너스 상한 도달",
+  "MapScene_FieldBonus_LimitPopup_Text_1": "이번 수면 리서치에서 얻은 경험을\n다른 필드에서의 수면 리서치에\n활용할 수 있게 되었습니다",
+  "MapScene_FieldBonus_LimitPopup_Text_2": "각 필드에 \u000e\u0002\u0002\u0002\u0000%의 필드 보너스가 분배됩니다"
 }

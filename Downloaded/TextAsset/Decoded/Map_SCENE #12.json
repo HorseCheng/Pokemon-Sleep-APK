@@ -50,5 +50,8 @@
   "MapScene_DataDownload_Series_Text": "Verranno scaricati i dati relativi ai\nsuoni di nuove aree. Vuoi continuare?\n(\u000e\u0002\t\u0004\u0000촁 MB)",
   "MapScene_FieldMovePopup_Title": "Usa strumento",
   "MapScene_FieldMovePopup_Text_1": "Puoi usare un Biglietto\nsonnotrasporto per\ncambiare punto di ricerca.",
-  "MapScene_FieldMovePopup_Text_2": "(Spostandosi, il rango di Snorlax e le ricompense\ndi alcune missioni verranno azzerati.)"
+  "MapScene_FieldMovePopup_Text_2": "(Spostandosi, il rango di Snorlax e le ricompense\ndi alcune missioni verranno azzerati.)",
+  "MapScene_FieldBonus_LimitPopup_Title": "Raggiunto limite bonus area",
+  "MapScene_FieldBonus_LimitPopup_Text_1": "L'esperienza ottenuta con questa\nricerca sul sonno verrà ora messa\na frutto per la ricerca nelle altre aree.",
+  "MapScene_FieldBonus_LimitPopup_Text_2": "Il bonus area (\u000e\u0002\u0002\u0002\u0000%) verrà\nsuddiviso tra le altre aree."
 }

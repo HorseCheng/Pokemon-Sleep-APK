@@ -115,5 +115,9 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "無法把\u000e\u0000\u0003\u0004毿Ｗ非常稀有的寶可夢\u000e\u0000\u0003\u0004\u0000＀\n傳送給博士。",
   "PokemonBoxItemPopupCell_UseButton": "使用",
   "PokemonBoxFilterPopup_LikeBerryButton": "卡比獸喜歡的樹果",
-  "PokemonBoxFilter_NoApplyPokemon": "沒有符合特定條件的寶可夢。"
+  "PokemonBoxFilter_NoApplyPokemon": "沒有符合特定條件的寶可夢。",
+  "PokemonBoxFilter_Option_Header": "選項",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_1": "僅包含已開放所選食材的寶可夢",
+  "PokemonBoxFilter_Option_Ingredients_SortOption_2": "包含所有的食材（AND搜尋）",
+  "PokemonBoxFilter_Option_SubSkill_SortOption_1": "包含所有的副技能（AND搜尋）"
 }
