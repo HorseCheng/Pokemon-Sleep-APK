@@ -1,10 +1,10 @@
 {
-  "TutorialStoryScene_Header_HeaderBg": "Per cominciare",
-  "TutorialStoryScene_PokemonGet_Header_Title": "Nuovo compagno",
-  "TutorialStoryScene_PokemonGet_Content_Title": "Hai trovato un nuovo compagno!",
-  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "Pikachu",
-  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "È il Pikachu che da oggi in poi\nti seguira per le ricerche.\nPiacere, Pikachu!\nPer prima cosa, mettigli un soprannome.\n",
-  "TutorialStoryScene_SetupSleepTime_Header_Title": "Impegno a dormire",
-  "TutorialSetupSceneController_Text_7": "Decidi a che ora tu e Pikachu volete\nandare a dormire ogni giorno per fare\nla ricerca sul sonno.\nSe vai a letto entro l'orario stabilito,\notterrai una ricompensa!",
-  "TutorialStoryScene_NameView_Name": "Prof. Neroli"
+  "TutorialStoryScene_Header_HeaderBg": "開始",
+  "TutorialStoryScene_PokemonGet_Header_Title": "新夥伴",
+  "TutorialStoryScene_PokemonGet_Content_Title": "有新夥伴了！",
+  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "皮卡丘",
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "這隻皮卡丘接下來會和你一起進行研究。\n你們要好好相處喔！\n何不先為牠取個暱稱呢？",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "就寢約定",
+  "TutorialSetupSceneController_Text_7": "為了今後一起進行睡眠研究，\n和皮卡丘設定就寢的目標時間吧。\n要是能在目標時間上床睡覺，\n就能得到獎勵喔。",
+  "TutorialStoryScene_NameView_Name": "橙夢博士"
 }

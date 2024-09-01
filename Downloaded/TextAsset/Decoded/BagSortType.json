@@ -1,8 +1,8 @@
 {
-  "BagSortType_1": "Predefinito",
-  "BagSortType_2": "Ottenuto",
-  "BagSortType_3": "Quantità",
-  "BagSortType_4": "Nome",
-  "BagSortType_5": "N° Pokédex",
-  "BagSortType_6": "Tipo"
+  "BagSortType_1": "기본",
+  "BagSortType_2": "획득일",
+  "BagSortType_3": "소지 수",
+  "BagSortType_4": "이름",
+  "BagSortType_5": "도감 번호",
+  "BagSortType_6": "타입"
 }

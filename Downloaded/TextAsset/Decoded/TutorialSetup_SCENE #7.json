@@ -1,11 +1,11 @@
 {
-  "TutorialSetupSceneController_Text_2": "Dai un soprannome al tuo aiutante",
-  "TutorialSetupSceneController_Text_3": "Decidi l'ora di dormire",
-  "TutorialSetupSceneController_Text_4": "Imposta l'ora di dormire",
-  "TutorialSetupSceneController_Text_5": "Tutto pronto!",
-  "TutorialSetupSceneController_Text_8": "Siamo pronti per iniziare a raccogliere\ndati per la ricerca, quindi torna pure\nquando stai per andare a dormire.\nNon te ne dimenticare, mi raccomando!",
-  "TutorialSetupScene_NameChangeView_Desc": "(Puoi sempre cambiare soprannome in seguito.)",
-  "TutorialSetupScene_NameChangeView_OKButton": "Conferma",
+  "TutorialSetupSceneController_Text_2": "ニックネーム",
+  "TutorialSetupSceneController_Text_3": "ねむりの約束",
+  "TutorialSetupSceneController_Text_4": "就寝の目標時刻の設定",
+  "TutorialSetupSceneController_Text_5": "準備完了",
+  "TutorialSetupSceneController_Text_8": "これで研究する準備は整ったよ\nそれじゃあ、今日の夜\nまた研究をしに戻ってきてほしい\n忘れずによろしくね！",
+  "TutorialSetupScene_NameChangeView_Desc": "※あとで変更することもできます",
+  "TutorialSetupScene_NameChangeView_OKButton": "決定する",
   "TutorialSetupScene_SleepTimeSetView_TimeChangeButton": "\u000e\t\u0000\u000e\nhh:mm\u0000",
-  "TutorialSetupScene_SleepTimeSetView_Desc": "Una notifica push ti avviserà 30 minuti\nprima dell'ora di dormire.\n(Puoi cambiare queste impostazioni.)"
+  "TutorialSetupScene_SleepTimeSetView_Desc": "目標時刻の30分前にプッシュ通知で\nお知らせします\n※あとで設定を変更することもできます"
 }

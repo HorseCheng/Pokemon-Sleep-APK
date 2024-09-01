@@ -1,11 +1,11 @@
 {
-  "SleepDataTopScene_Content_Title": "睡眠データ",
-  "SleepDataTopScene_Content_Desc": "睡眠に関するデータなどを閲覧できます",
-  "SleepDataTopScene_Content_Title_2": "睡眠について",
-  "SleepDataTopScene_Content_Title_3": "データの一覧",
-  "SleepDataTopScene_Content_Title_4": "データの統計",
-  "SleepDataTopScene_Content_Title_5": "睡眠リズム",
-  "SleepDataTopScene_Content_Title_6": "その他",
-  "SleepDataTopScene_Content_Title_7": "ポケモンとの約束",
-  "SleepDataTopScene_Header_Title": "睡眠 データ"
+  "SleepDataTopScene_Content_Title": "Dati del sonno",
+  "SleepDataTopScene_Content_Desc": "Puoi visionare i dati relativi al sonno",
+  "SleepDataTopScene_Content_Title_2": "Il sonno",
+  "SleepDataTopScene_Content_Title_3": "Lista dati",
+  "SleepDataTopScene_Content_Title_4": "Statistiche dati",
+  "SleepDataTopScene_Content_Title_5": "Regolarità sonno",
+  "SleepDataTopScene_Content_Title_6": "Altro",
+  "SleepDataTopScene_Content_Title_7": "Impegno con i Pokémon",
+  "SleepDataTopScene_Header_Title": "Dati sonno"
 }

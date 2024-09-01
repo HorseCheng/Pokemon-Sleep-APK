@@ -93,6 +93,8 @@
   "item_name_92": "Entei Biscuit",
   "item_name_93": "Entei Mane",
   "item_name_94": "Ultra Biscuit",
+  "item_name_95": "Suicune Biscuit",
+  "item_name_96": "Suicune Mane",
   "item_desc_1": "Doubles the research EXP gained\nafter sleep research. Good for one\nsleep session, then consumed.",
   "item_desc_2": "Doubles the Dream Shards received\nafter sleep research. Good for one\nsleep session, then consumed.",
   "item_desc_3": "Doubles the EXP that helpers gain\nafter sleep research. Good for one\nsleep session, then consumed.",
@@ -135,6 +137,7 @@
   "item_desc_74_to_91": "A large and special candy that can be\nturned into 125 candies for any\n\u000e\u0003\u0002\u0002촀-type Pokémon.",
   "item_desc_92": "A special treat only for Entei that\nwill make it a lot more friendly\ntoward you. This biscuit increases\nEntei’s friendship points by 6.\n\n\u000e\n\u0000\u0002촀Note: When the Event Exchange’s\nexchange period ends, this item\nwill be automatically converted into a\nGreat Biscuit. Please check the dates\nof the exchange period in the event\nnews.\u000f\n\u0000",
   "item_desc_94": "A nice treat that will make a Pokémon\nmuch more friendly toward you. This\nbiscuit gives 5 friendship points.",
+  "item_desc_95": "A special treat only for Suicune that\nwill make it a lot more friendly\ntoward you. This biscuit increases\nSuicune’s friendship points by 6.\n\n\u000e\n\u0000\u0002촀Note: When the Event Exchange’s\nexchange period ends, this item\nwill be automatically converted into a\nGreat Biscuit. Please check the dates\nof the exchange period in the event\nnews.\u000f\n\u0000",
   "item_desc_short_1": "Doubles the research EXP gained\nafter sleep research.",
   "item_desc_short_2": "Doubles the Dream Shards received\nafter sleep research.",
   "item_desc_short_3": "Doubles the EXP that helpers gain\nafter sleep research.",
@@ -175,5 +178,6 @@
   "item_desc_short_56_to_73": "A special candy that can be turned\ninto 25 candies for any\n\u000e\u0003\u0002\u0002촀-type Pokémon.",
   "item_desc_short_74_to_91": "A large and special candy that can\nbe turned into 125 candies for any\n\u000e\u0003\u0002\u0002촀-type Pokémon.",
   "item_desc_short_92": "A special treat only for Entei. It\ngives 6 friendship points to\nmake Entei a lot more friendly.",
-  "item_desc_short_94": "A nice treat that will make a\nPokémon much more friendly.\nGives 5 friendship points."
+  "item_desc_short_94": "A nice treat that will make a\nPokémon much more friendly.\nGives 5 friendship points.",
+  "item_desc_short_95": "A special treat only for Suicune. It\ngives 6 friendship points to\nmake Suicune a lot more friendly."
 }

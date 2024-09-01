@@ -1,10 +1,10 @@
 {
-  "TutorialStoryScene_Header_HeaderBg": "Getting Started",
-  "TutorialStoryScene_PokemonGet_Header_Title": "A New Helper",
-  "TutorialStoryScene_PokemonGet_Content_Title": "You've got yourself a new friend!",
-  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "Pikachu",
-  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "This Pikachu will aid you in your\nresearch starting today! Why not\nstart by giving him a nickname?",
-  "TutorialStoryScene_SetupSleepTime_Header_Title": "Your Bedtime",
-  "TutorialSetupSceneController_Text_7": "Let's set a goal for when you and\nPikachu should hit the hay each day\nin order to do your sleep research.\nIf you get to bed by the bedtime you\nset for yourself, you'll earn a reward!",
-  "TutorialStoryScene_NameView_Name": "Professor Neroli"
+  "TutorialStoryScene_Header_HeaderBg": "はじめに",
+  "TutorialStoryScene_PokemonGet_Header_Title": "新しい仲間",
+  "TutorialStoryScene_PokemonGet_Content_Title": "新しく仲間になりました！",
+  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "ピカチュウ",
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "これから一緒に研究していく\nピカチュウだよ。よろしくね！\nまずはニックネームをつけてあげよう",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "ねむりの約束",
+  "TutorialSetupSceneController_Text_7": "これから一緒に睡眠リサーチをするために\nピカチュウと\n就寝時刻の目標を設定しよう。\n目標の時刻にねむりにつくことができれば\nごほうびをプレゼントするよ。",
+  "TutorialStoryScene_NameView_Name": "ネロリ博士"
 }

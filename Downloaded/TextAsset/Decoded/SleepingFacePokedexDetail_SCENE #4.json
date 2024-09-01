@@ -1,11 +1,11 @@
 {
-  "SleepingFacePokedexDetailScene_Content_Title": "DormiDex",
-  "SleepingFacePokedexDetailScene_Content_Weight": "Peso:",
-  "SleepingFacePokedexDetailScene_Content_Height": "Altura:",
-  "SleepingFacePokedexDetailScene_Content_Type": "Tipo \u000e\u0003\u0002\u0002촀",
-  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "\u000e\u0002\u0002\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촀",
-  "SleepingFacePokedexDetailScene_Header_SleepType": "Sueño \u000e\u0003\u0004\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_ResearchCount": "Estudiados: \u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "Amigos: \u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Content_Title": "睡姿圖鑑",
+  "SleepingFacePokedexDetailScene_Content_Weight": "體重：",
+  "SleepingFacePokedexDetailScene_Content_Height": "身高：",
+  "SleepingFacePokedexDetailScene_Content_Type": "屬性：\u000e\u0003\u0002\u0002촀",
+  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "ID：\u000e\u0002\u0002\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촁",
+  "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000型",
+  "SleepingFacePokedexDetailScene_Header_ResearchCount": "研究次數：\u000e\u0002\u0001\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_GetCount": "成為夥伴總數：\u000e\u0002\u0003\u0004\u0000촁"
 }

@@ -1,16 +1,16 @@
 {
   "Achievement_LevelMax_Short": "MAX",
-  "Achievement_Level_Value": "Lv.\u000e\u0002\u0002\u0002\u0000",
-  "AchievementPopup_Title": "업적 상세",
+  "Achievement_Level_Value": "Lv. \u000e\u0002\u0002\u0002\u0000",
+  "AchievementPopup_Title": "Achievement Details",
   "AchievementPopup_LevelMax": "Lv. MAX",
   "AchievementPopup_Progress": "\u000e\u0002\t\u0004\u0000촁/\u000e\u0002\t\u0004\u0001촁",
-  "AchievementPopup_SectionTileList": "보상 일람",
-  "AchievementPopup_RewardItemNum": "x\u000e\u0002\u0004\u0004\u0000촁",
-  "AchievementPopup_RewardItemNum_DiaVer": "x\u000e\u0002\u0004\u0004\u0000촁",
-  "AchievementUnlockPopup_HeadTitle": "업적",
-  "AchievementUnlockPopup_AchievedNumLabel": "달성한 항목:",
-  "AchievementUnlockPopup_AchievedNumValue": "\u000e\u0002\u0003\u0004\u0000촁개",
-  "AchievementUnlockPopup_Desc": "메달을 획득하고\n달성 보상을 받았습니다",
-  "AchievementUnlockPopup_Desc_plu": "메달을 획득하고\n달성 보상을 받았습니다",
-  "AchievementUnlockPopup_SectionTitle": "달성한 항목"
+  "AchievementPopup_SectionTileList": "Rewards",
+  "AchievementPopup_RewardItemNum": "×\u000e\u0002\u0004\u0004\u0000촁",
+  "AchievementPopup_RewardItemNum_DiaVer": "×\u000e\u0002\u0004\u0004\u0000촁",
+  "AchievementUnlockPopup_HeadTitle": "Well Done!",
+  "AchievementUnlockPopup_AchievedNumLabel": "Medals received:",
+  "AchievementUnlockPopup_AchievedNumValue": "\u000e\u0002\u0003\u0004\u0000촁",
+  "AchievementUnlockPopup_Desc": "You earned a medal and\nreceived rewards!",
+  "AchievementUnlockPopup_Desc_plu": "You earned some medals\nand received rewards!",
+  "AchievementUnlockPopup_SectionTitle": "Achievements"
 }

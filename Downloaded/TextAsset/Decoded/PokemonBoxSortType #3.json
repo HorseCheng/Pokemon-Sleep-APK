@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "N° Pokédex",
-  "PokemonBoxSortType_2": "Livello",
-  "PokemonBoxSortType_3": "Nome",
-  "PokemonBoxSortType_4": "Data incontro",
-  "PokemonBoxSortType_5": "Energia",
-  "PokemonBoxSortType_6": "Tempo sonno",
-  "PokemonBoxSortType_7": "PR",
-  "PokemonBoxSortType_8": "Tipo di sonno"
+  "PokemonBoxSortType_1": "圖鑑編號",
+  "PokemonBoxSortType_2": "等級",
+  "PokemonBoxSortType_3": "名字",
+  "PokemonBoxSortType_4": "登錄日期",
+  "PokemonBoxSortType_5": "活力",
+  "PokemonBoxSortType_6": "睡眠時間",
+  "PokemonBoxSortType_7": "SP",
+  "PokemonBoxSortType_8": "睡眠類型"
 }

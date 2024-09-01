@@ -1,6 +1,6 @@
 dish_back.png
-size:256,256
+size:512,512
 filter:Linear,Linear
 dish_3
-bounds:2,2,213,223
-offsets:508,550,1200,1200
+bounds:2,120,299,181
+offsets:450,539,1200,1200

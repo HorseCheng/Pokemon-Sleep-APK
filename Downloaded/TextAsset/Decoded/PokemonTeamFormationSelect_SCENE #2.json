@@ -1,6 +1,6 @@
 {
-  "PokemonTeamFormationSelectSceneController_Text_1": "Ordine per: \u000e\u0003\u0005\u0002\u0000",
-  "PokemonTeamFormationSelectScene_Header_Title": "Seleziona",
-  "PokemonTeamFormationSelectScene_Note_Button": "Nota",
-  "PokemonTeamFormationSelectScene_Footer_OrderButton": "Dec."
+  "PokemonTeamFormationSelectSceneController_Text_1": "Sortiert nach: \u000e\u0003\u0005\u0002\u0000",
+  "PokemonTeamFormationSelectScene_Header_Title": "Auswählen",
+  "PokemonTeamFormationSelectScene_Note_Button": "Hinweis:",
+  "PokemonTeamFormationSelectScene_Footer_OrderButton": "Absteigend"
 }

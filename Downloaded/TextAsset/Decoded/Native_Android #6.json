@@ -1,8 +1,0 @@
-{
-  "Acceralation_Usage_Title": "正在讀取加速度數據",
-  "Acceralation_Usage_Message": "正在讀取加速度數據以測量睡眠。",
-  "NotificaionChannel_Name": "Pokémon Sleep",
-  "NotificaionChannel_Desc": "Pokémon Sleep會在測量睡眠時使用麥克風和加速度感測器。",
-  "SleepMicRecorderService_NotificationChannel_Name": "Pokémon Sleep",
-  "SleepMicRecorderService_NotificationChannel_Message": "正在使用麥克風測量睡眠。"
-}

@@ -1,8 +1,0 @@
-{
-  "Acceralation_Usage_Title": "Measuring Acceleration",
-  "Acceralation_Usage_Message": "Pokémon Sleep is measuring acceleration through your device in order to track your sleep.",
-  "NotificaionChannel_Name": "Pokémon Sleep",
-  "NotificaionChannel_Desc": "Pokémon Sleep uses your device's microphone and accelerometer while tracking sleep.",
-  "SleepMicRecorderService_NotificationChannel_Name": "Pokémon Sleep",
-  "SleepMicRecorderService_NotificationChannel_Message": "Pokémon Sleep is using your device's microphone in order to track your sleep."
-}

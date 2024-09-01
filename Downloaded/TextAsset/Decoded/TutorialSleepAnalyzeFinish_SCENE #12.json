@@ -1,7 +1,0 @@
-{
-  "TutorialSleepAnalyzeFinishSceneController_Text_1": "初めての睡眠計測が成功したようだね！\nこれから、睡眠リサーチについて\nレクチャーを始めるよ。",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "チュートリアル待機中",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "睡眠リサーチチュートリアル",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "準備ができたら睡眠リサーチを\n再開しましょう。\nまずは、計測した睡眠データの\n確認から始めます。",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "睡眠リサーチを再開する"
-}

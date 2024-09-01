@@ -1,10 +1,10 @@
 {
-  "SleepResearchSceneTutorialController_TapOtherPokemons": "Tocca i Pokémon restanti\nper completare la ricerca del sonno!",
-  "SleepResearchSceneTutorialController_BaitBallGuide": "Dai un Biscotto bonus a \u000e\u0003\u0001\u0002\u0001!",
-  "SleepResearchSceneTutorialController_Text_1": "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002\u0000.\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!",
-  "SleepResearchSceneTutorialController_MasterBaitBall_Guide": "Scorri lo schermo e cerca \u000e\u0003\u0001\u0002\u0000.\nQuando lo trovi, toccalo \nper condurre la ricerca del sonno!",
-  "SleepResearchSceneTutorialController_Text_13": "La prima ricerca",
-  "SleepResearchSceneTutorialController_Text_14": "Per iniziare, tocca \u000e\u0003\u0001\u0002\u0000!",
-  "SleepResearchSceneTutorialController_Text_20": "Dai Pokébiscotto",
-  "SleepResearchSceneTutorialController_Text_21": "Tocca \u000e\u0003\u0001\u0002\u0000\ne dagli un'escasfera!"
+  "SleepResearchSceneTutorialController_TapOtherPokemons": "残りのポケモンたちをタップして\n睡眠リサーチを完了しよう！",
+  "SleepResearchSceneTutorialController_BaitBallGuide": "ボーナスサブレを\n\u000e\u0003\u0001\u0002\u0001にあげよう",
+  "SleepResearchSceneTutorialController_Text_1": "画面をスワイプして\n\u000e\u0003\u0001\u0002\u0000を探そう。見つけたら、\nタップして睡眠リサーチをしよう！",
+  "SleepResearchSceneTutorialController_MasterBaitBall_Guide": "\u000e\u0000\u0003\u0004毿Ｗマスターサブレ \u000e\u0000\u0003\u0004\u0000＀を\nポケモンにあげてみよう",
+  "SleepResearchSceneTutorialController_Text_13": "最初のリサーチ",
+  "SleepResearchSceneTutorialController_Text_14": "最初は\u000e\u0003\u0001\u0002\u0000をタップしてみよう！",
+  "SleepResearchSceneTutorialController_Text_20": "ポケサブレ",
+  "SleepResearchSceneTutorialController_Text_21": "\u000e\u0003\u0001\u0002\u0000をタップして\nポケサブレをあげてみよう！"
 }

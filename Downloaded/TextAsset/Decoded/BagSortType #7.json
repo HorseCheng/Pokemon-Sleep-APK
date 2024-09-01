@@ -1,8 +1,8 @@
 {
-  "BagSortType_1": "Normal",
-  "BagSortType_2": "Erhalten",
-  "BagSortType_3": "Anzahl",
-  "BagSortType_4": "Name",
-  "BagSortType_5": "Pokédex-Nr.",
-  "BagSortType_6": "Typ"
+  "BagSortType_1": "Predefinito",
+  "BagSortType_2": "Ottenuto",
+  "BagSortType_3": "Quantità",
+  "BagSortType_4": "Nome",
+  "BagSortType_5": "N° Pokédex",
+  "BagSortType_6": "Tipo"
 }

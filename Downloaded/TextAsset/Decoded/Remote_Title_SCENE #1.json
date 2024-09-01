@@ -1,3 +1,11 @@
 {
-  "Remote_Title_MassagePopupTitle_1": "隱私權政策更新預告"
+  "Remote_Title_MassagePopupTitle_1": "プライバシーポリシー更新の予告",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupTitle": "まとめてリサーチ",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupHead_1": "まとめてリサーチについて",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_1": "まとめてリサーチは、Pokémon GO Plus +などで\n複数の睡眠データを同期したときに利用できます\n\n1回ずつの睡眠リサーチの手間を省き、\n一度に複数回分の結果を確認できます\n\n3件以上の睡眠データを同期した場合、最新の1件\n以外は自動でまとめてリサーチになりますので、\nご注意ください",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_2": "睡眠リサーチは \u000e\u0000\u0003\u0004毿Ｗ全てスキップ\u000e\u0000\u0003\u0004\u0000＀ されます",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_3": "おやつタイムの \u000e\u0000\u0003\u0004毿Ｗボーナスサブレはランダム\u000e\u0000\u0003\u0004\u0000＀ で\nあげられます",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_4": "「今日の一枚」は \u000e\u0000\u0003\u0004毿Ｗ自動で選ばれます\u000e\u0000\u0003\u0004\u0000＀",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_5": "げんき回復は睡眠リサーチの中で \u000e\u0000\u0003\u0004毿Ｗ直近のデータ\n1回分\u000e\u0000\u0003\u0004\u0000＀ が参照されます",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_6": "14日以上経過しているデータでは \u000e\u0000\u0003\u0004毿Ｗ睡眠リサーチは\n行われません\u000e\u0000\u0003\u0004\u0000＀"
 }

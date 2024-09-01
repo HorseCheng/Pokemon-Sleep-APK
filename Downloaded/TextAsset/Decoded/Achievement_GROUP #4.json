@@ -10,7 +10,7 @@
   "AchievementUnlockPopup_HeadTitle": "成就",
   "AchievementUnlockPopup_AchievedNumLabel": "達成的項目：",
   "AchievementUnlockPopup_AchievedNumValue": "\u000e\u0002\u0003\u0004\u0000촁個",
-  "AchievementUnlockPopup_Desc": "獲得了徽章，\n並且領取達成報酬。",
-  "AchievementUnlockPopup_Desc_plu": "獲得了徽章，\n並且領取達成報酬。",
+  "AchievementUnlockPopup_Desc": "獲得了徽章，\n並且領取了達成報酬。",
+  "AchievementUnlockPopup_Desc_plu": "獲得了徽章，\n並且領取了達成報酬。",
   "AchievementUnlockPopup_SectionTitle": "達成的項目"
 }

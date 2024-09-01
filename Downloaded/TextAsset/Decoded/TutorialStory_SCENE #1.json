@@ -1,10 +1,10 @@
 {
-  "TutorialStoryScene_Header_HeaderBg": "Erste Schritte",
-  "TutorialStoryScene_PokemonGet_Header_Title": "Neuer Helfer!",
-  "TutorialStoryScene_PokemonGet_Content_Title": "Du hast einen neuen Freund!",
+  "TutorialStoryScene_Header_HeaderBg": "Pour bien commencer",
+  "TutorialStoryScene_PokemonGet_Header_Title": "Nouveau partenaire",
+  "TutorialStoryScene_PokemonGet_Content_Title": "Nouveau Pokémon de soutien",
   "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "Pikachu",
-  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "Dieses Pikachu wird dir ab heute bei\ndeiner Forschung zur Hand gehen.\nWie wär’s mit einem Spitznamen?",
-  "TutorialStoryScene_SetupSleepTime_Header_Title": "Deine Schlafenszeit",
-  "TutorialSetupSceneController_Text_7": "Lass uns für deine Schlafforschung\neine Schlafenszeit festlegen, zu der\ndu und Pikachu jeden Tag schlafen\ngehen solltet. Wenn du diese Zeit\neinhältst, erhältst du eine Belohnung!",
-  "TutorialStoryScene_NameView_Name": "Professor Neroli"
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "Ce Pikachu t'aidera désormais dans\ntes recherches ! Pourquoi ne pas lui\ndonner un surnom dès maintenant ?",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "Heure du coucher",
+  "TutorialSetupSceneController_Text_7": "Déterminons l'heure à laquelle Pikachu\net toi voulez vous coucher chaque\njour pour mener vos recherches.\nSi tu vas te coucher avant l'heure\nfixée, tu recevras une récompense !",
+  "TutorialStoryScene_NameView_Name": "Professeur Néroli"
 }

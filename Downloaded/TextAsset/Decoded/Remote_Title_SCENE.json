@@ -1,3 +1,11 @@
 {
-  "Remote_Title_MassagePopupTitle_1": "Notice of Update to Privacy Notice"
+  "Remote_Title_MassagePopupTitle_1": "개인정보 처리방침 갱신 예고",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupTitle": "모두 리서치",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupHead_1": "모두 리서치에 대하여",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_1": "모두 리서치는 Pokémon GO Plus + 등으로\n복수의 수면 데이터를 동기화했을 때\n이용할 수 있습니다.\n\n데이터별로 수면 리서치를 하지 않고\n한 번에 복수의 수면 리서치 결과를 확인할 수 있습니다.\n\n수면 데이터를 3건 이상 동기화하면\n최신 1건의 데이터 외에는 자동으로\n모두 리서치가 진행되므로 주의해 주십시오.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_2": "수면 리서치는 \u000e\u0000\u0003\u0004毿Ｗ전부 스킵\u000e\u0000\u0003\u0004\u0000＀됩니다",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_3": "간식 타임의 \u000e\u0000\u0003\u0004毿Ｗ보너스 사블레는\n랜덤\u000e\u0000\u0003\u0004\u0000＀으로 부여됩니다",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_4": "[오늘의 한 장]은 \u000e\u0000\u0003\u0004毿Ｗ자동으로 선택됩니다\u000e\u0000\u0003\u0004\u0000＀",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_5": "기력은 \u000e\u0000\u0003\u0004毿Ｗ최신 수면 데이터를 참조하여\n1회치만\u000e\u0000\u0003\u0004\u0000＀ 회복됩니다",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_6": "14일 이상 경과한 데이터로는\n\u000e\u0000\u0003\u0004毿Ｗ수면 리서치를 진행할 수 없습니다\u000e\u0000\u0003\u0004\u0000＀"
 }

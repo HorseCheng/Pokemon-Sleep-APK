@@ -1,8 +1,8 @@
 {
-  "CookingGenre_Name_1": "咖哩、濃湯",
-  "CookingGenre_Name_2": "沙拉",
-  "CookingGenre_Name_3": "點心、飲料",
-  "CookingGenre_UnknownDishName_1": "\u000e\u0002\u0002\u0002\u0000種食材的咖哩",
-  "CookingGenre_UnknownDishName_2": "\u000e\u0002\u0002\u0002\u0000種食材的沙拉",
-  "CookingGenre_UnknownDishName_3": "\u000e\u0002\u0002\u0002\u0000種食材的點心"
+  "CookingGenre_Name_1": "Guisos y curris",
+  "CookingGenre_Name_2": "Ensaladas",
+  "CookingGenre_Name_3": "Postres y bebidas",
+  "CookingGenre_UnknownDishName_1": "Guiso o curri",
+  "CookingGenre_UnknownDishName_2": "Ensalada",
+  "CookingGenre_UnknownDishName_3": "Postre o bebida"
 }

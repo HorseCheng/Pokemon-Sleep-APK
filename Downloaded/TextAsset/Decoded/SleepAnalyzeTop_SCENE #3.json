@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "睡眠の分析",
-  "SleepAnalyzeTop_ContentTitle": "睡眠の分析",
-  "SleepAnalyzeTop_ContentDesc": "睡眠データをいろいろな角度から見てみましょう",
-  "SleepAnalyzeTop_RegularityButton": "睡眠リズム",
-  "SleepAnalyzeTop_StatisticButton": "睡眠の統計"
+  "SleepAnalyzeTop_HeadTitle": "睡眠分析",
+  "SleepAnalyzeTop_ContentTitle": "睡眠分析",
+  "SleepAnalyzeTop_ContentDesc": "從各種角度來查看睡眠資料吧。",
+  "SleepAnalyzeTop_RegularityButton": "睡眠節奏",
+  "SleepAnalyzeTop_StatisticButton": "睡眠統計"
 }

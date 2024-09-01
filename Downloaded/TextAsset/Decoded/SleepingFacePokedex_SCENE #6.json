@@ -1,15 +1,15 @@
 {
-  "SleepingFacePokedexScene_Content_Title": "Sleep Style Dex",
+  "SleepingFacePokedexScene_Content_Title": "Sonnodex",
   "SleepingFacePokedexScene_Content_Countum": "\u000e\u0002\u0002\u0002\u0000%",
-  "SleepingFacePokedexScene_Content_Desc": "Check out the Pokémon you've studied so far!",
-  "SleepingFacePokedexScene_Header_TitleText": "Sleep Style Dex",
-  "SleepingFacePokedexScene_Header_Title": "View Sleep Styles",
-  "SleepingFacePokedexScene_Footer_Title_2": "Clear Filters",
-  "SleepingFacePokedexScene_Footer_Title_3": "Sleep Type",
-  "SleepingFacePokedexScene_Order_Heading": "Sorted by: \u000e\u0003\u0013\u0002\u0000",
+  "SleepingFacePokedexScene_Content_Desc": "Guarda i Pokémon su cui hai fatto ricerche.",
+  "SleepingFacePokedexScene_Header_TitleText": "Sonnodex",
+  "SleepingFacePokedexScene_Header_Title": "Vedi stili",
+  "SleepingFacePokedexScene_Footer_Title_2": "Nessun filtro",
+  "SleepingFacePokedexScene_Footer_Title_3": "Tipo sonno",
+  "SleepingFacePokedexScene_Order_Heading": "Ordine per: \u000e\u0003\u0013\u0002\u0000",
   "SleepingFacePokedexScene_Secret": "???",
-  "SleepingFacePokedexScene_FaceChange_Popup_Title": "Change Appearance",
-  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "List",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "Select",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "Selected"
+  "SleepingFacePokedexScene_FaceChange_Popup_Title": "Cambia aspetto",
+  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "Lista",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "Seleziona",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "Selezionato"
 }

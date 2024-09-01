@@ -1,8 +1,8 @@
 {
-  "CookingGenre_Name_1": "Currys/Eintöpfe",
-  "CookingGenre_Name_2": "Salate",
-  "CookingGenre_Name_3": "Desserts/Getränke",
-  "CookingGenre_UnknownDishName_1": "Curry/Eintopf",
-  "CookingGenre_UnknownDishName_2": "Salat",
-  "CookingGenre_UnknownDishName_3": "Dessert/Getränk"
+  "CookingGenre_Name_1": "Curries/Stews",
+  "CookingGenre_Name_2": "Salads",
+  "CookingGenre_Name_3": "Desserts/Drinks",
+  "CookingGenre_UnknownDishName_1": "Curry/stew recipe",
+  "CookingGenre_UnknownDishName_2": "Salad recipe",
+  "CookingGenre_UnknownDishName_3": "Dessert/drink recipe"
 }

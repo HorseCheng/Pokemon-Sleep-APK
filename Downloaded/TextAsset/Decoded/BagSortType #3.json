@@ -1,8 +1,8 @@
 {
-  "BagSortType_1": "Estándar",
-  "BagSortType_2": "Fecha",
-  "BagSortType_3": "Cantidad",
-  "BagSortType_4": "Nombre",
-  "BagSortType_5": "N.º Pokédex",
-  "BagSortType_6": "Tipo"
+  "BagSortType_1": "Default",
+  "BagSortType_2": "Date found",
+  "BagSortType_3": "No. held",
+  "BagSortType_4": "Name",
+  "BagSortType_5": "Pokédex No.",
+  "BagSortType_6": "Type"
 }

@@ -1,8 +1,0 @@
-{
-  "Acceralation_Usage_Title": "Beschleunigung wird gemessen",
-  "Acceralation_Usage_Message": "Pokémon Sleep misst die Beschleunigung über dein Gerät, um deinen Schlaf aufzuzeichnen.",
-  "NotificaionChannel_Name": "Pokémon Sleep",
-  "NotificaionChannel_Desc": "Pokémon Sleep nutzt das Mikrofon und den Beschleunigungssensor deines Geräts, um Schlaf aufzuzeichnen.",
-  "SleepMicRecorderService_NotificationChannel_Name": "Pokémon Sleep",
-  "SleepMicRecorderService_NotificationChannel_Message": "Pokémon Sleep nutzt das Mikrofon deines Geräts, um deinen Schlaf aufzuzeichnen."
-}

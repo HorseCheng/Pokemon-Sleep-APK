@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "수면 분석",
-  "SleepAnalyzeTop_ContentTitle": "수면 분석",
-  "SleepAnalyzeTop_ContentDesc": "수면 데이터를 다양한 각도에서 확인해 봅시다",
-  "SleepAnalyzeTop_RegularityButton": "수면 리듬",
-  "SleepAnalyzeTop_StatisticButton": "수면 통계"
+  "SleepAnalyzeTop_HeadTitle": "Sleep Trends",
+  "SleepAnalyzeTop_ContentTitle": "Sleep Trends",
+  "SleepAnalyzeTop_ContentDesc": "See various breakdowns of your sleep data.",
+  "SleepAnalyzeTop_RegularityButton": "Sleep Consistency",
+  "SleepAnalyzeTop_StatisticButton": "Sleep Statistics"
 }

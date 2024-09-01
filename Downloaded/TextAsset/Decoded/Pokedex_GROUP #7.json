@@ -1,7 +1,7 @@
 {
-  "PokedexPokemonListCell_NumberTitle": "N° ",
-  "PokedexPokemonListCell_PokedexNumber": "\u000e\u0002\u0003\u0004\u0000촀",
+  "PokedexPokemonListCell_NumberTitle": "No.",
+  "PokedexPokemonListCell_PokedexNumber": "\u000e\u0002\u0003\u0004\u0000촁",
   "PokedexPokemonListCell_SleepingFaceCount": "\u000e\u0002\u0000\u0002촀/\u000e\u0002\u0000\u0002촁",
-  "PokedexPreviewPopup_PokedexSubId": "N° \u000e\u0002\u0001\u0002\u0000",
-  "PokedexPreviewPopup_ResearchCount": "Studiati: \u000e\u0002\u0004\u0004\u0000촁"
+  "PokedexPreviewPopup_PokedexSubId": "ID: \u000e\u0002\u0001\u0002\u0000",
+  "PokedexPreviewPopup_ResearchCount": "리서치 수: \u000e\u0002\u0004\u0004\u0000촁"
 }

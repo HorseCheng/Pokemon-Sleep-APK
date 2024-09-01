@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "Schlaftendenz",
-  "SleepAnalyzeTop_ContentTitle": "Schlaftendenz",
-  "SleepAnalyzeTop_ContentDesc": "Sieh dir Details zu deinen Schlafdaten an.",
-  "SleepAnalyzeTop_RegularityButton": "Schlafrhythmus",
-  "SleepAnalyzeTop_StatisticButton": "Schlafstatistik"
+  "SleepAnalyzeTop_HeadTitle": "睡眠の分析",
+  "SleepAnalyzeTop_ContentTitle": "睡眠の分析",
+  "SleepAnalyzeTop_ContentDesc": "睡眠データをいろいろな角度から見てみましょう",
+  "SleepAnalyzeTop_RegularityButton": "睡眠リズム",
+  "SleepAnalyzeTop_StatisticButton": "睡眠の統計"
 }

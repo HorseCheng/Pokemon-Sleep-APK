@@ -1,7 +1,0 @@
-{
-  "TutorialSleepAnalyzeFinishSceneController_Text_1": "On dirait que ta première\ncollecte de données s'est bien\npassée ! Parlons maintenant du\ndéroulement des recherches sur\nle sommeil.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial en cours",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Recherches sur le sommeil : Tutorial",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Nous reprendrons nos recherches dès que\nnous serons prêts. Pour l'heure, consultons\nles données que tu as mesurées.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Reprendre le tutorial"
-}

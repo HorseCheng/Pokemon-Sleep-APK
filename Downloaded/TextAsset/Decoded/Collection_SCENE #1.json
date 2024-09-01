@@ -1,8 +1,8 @@
 {
   "CollectionScene_Header_Title": "Note",
   "CollectionScene_Content_Title": "Note",
-  "CollectionScene_Content_Desc": "Vedi le informazioni e gli strumenti raccolti.",
-  "CollectionScene_Content_CompletePer_All": "Totale: \u000e\u0002\u0002\u0002\u0000%",
+  "CollectionScene_Content_Desc": "Qui puoi vedere le note e gli strumenti ottenuti.",
+  "CollectionScene_Content_CompletePer_All": "\u000e\u0002\u0002\u0002\u0000%",
   "CollectionScene_Content_Button_Berry": "Bacche",
   "CollectionScene_Content_Button_Per": "\u000e\u0002\u0002\u0002\u0000/\u000e\u0002\u0002\u0002\u0001",
   "CollectionScene_Content_Button_Ingredient": "Ingredienti",
@@ -11,15 +11,15 @@
   "CollectionItemListScene_Content_SectionHeader_Title": "Ordine per: \u000e\u0003\u0006\u0002\u0000",
   "CollectionItemCell_Name_Locked": "???",
   "CollectionItemDetailPopup_Title": "Info",
-  "CollectionItemDetailPopup_GetCount_Title": "Quantità:",
+  "CollectionItemDetailPopup_GetCount_Title": "Tot. finora:",
   "CollectionItemDetailPopup_GetCount_Value": "\u000e\u0002\u0005\u0004\u0000촁",
   "CollectionItemDetailPopup_SectionHeader_Title": "Descrizione",
   "CollectionSleepTipsCell_LabelBg_Number": "N° \u000e\u0002\u0002\u0002\u0000",
   "CollectionSleepTipsCell_LockedView_Title": "???",
   "CollectionSleepTipsDetailPopup_Popup_Title_Number": "Consiglio sul sonno n° \u000e\u0002\u0002\u0002\u0000",
-  "Collection_RegisterPopup_Title": "Note aggiunte",
+  "Collection_RegisterPopup_Title": "Aggiunta nota",
   "Collection_RegisterPopup_Dish_Desc": "\u000e\u0003\u0003\u0004Ā촀",
   "Collection_RegisterPopup_Pickup_Desc": "\u000e\u0003\u0003\u0004Ā촀",
-  "Collection_RegisterPopup_Reward_Desc": "Hai ottenuto una ricompensa per aver\naggiunto delle note!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁",
-  "CollectionItemDetailPopup_CookingCount_Title": "Preparati: "
+  "Collection_RegisterPopup_Reward_Desc": "Hai ottenuto una ricompensa\nper aver aggiunto delle note!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁",
+  "CollectionItemDetailPopup_CookingCount_Title": "Preparati:"
 }

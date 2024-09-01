@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "Evaluación",
-  "SleepAnalyzeTop_ContentTitle": "Evaluación del sueño",
-  "SleepAnalyzeTop_ContentDesc": "Consulta los detalles de tus datos de sueño.",
-  "SleepAnalyzeTop_RegularityButton": "Regularidad",
-  "SleepAnalyzeTop_StatisticButton": "Estadísticas"
+  "SleepAnalyzeTop_HeadTitle": "Schlaftrends",
+  "SleepAnalyzeTop_ContentTitle": "Schlaftrends",
+  "SleepAnalyzeTop_ContentDesc": "Sieh dir Details zu deinen Schlafdaten an.",
+  "SleepAnalyzeTop_RegularityButton": "Schlafgleichmäßigkeit",
+  "SleepAnalyzeTop_StatisticButton": "Schlafstatistiken"
 }

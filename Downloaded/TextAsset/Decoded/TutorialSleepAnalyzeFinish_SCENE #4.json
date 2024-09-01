@@ -1,7 +1,7 @@
 {
-  "TutorialSleepAnalyzeFinishSceneController_Text_1": "¡Veo que ya has registrado tus\nprimeros datos! ¡Fantástico!\nEs hora de enseñarte cómo\nfunciona el estudio del sueño.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial en espera",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Tutorial de estudio del sueño",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Cuando lo tengas todo listo, retomaremos\nnuestro estudio del sueño, empezando\npor ver los datos que has registrado.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Retomar tutorial"
+  "TutorialSleepAnalyzeFinishSceneController_Text_1": "看來你成功完成第一次的睡眠測量了！\n那麼，我要開始講解睡眠研究囉。",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "準備繼續",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "睡眠研究新手教學",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "準備好後，就繼續進行睡眠研究吧。\n首先是確認測量到的睡眠資料。",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "繼續睡眠研究"
 }

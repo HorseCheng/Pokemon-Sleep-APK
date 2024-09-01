@@ -1,11 +1,11 @@
 {
-  "SleepDataListScene_Content_Title": "睡眠データ一覧",
-  "SleepDataListScene_Content_Desc": "今までの睡眠データやリサーチ内容を確認できます",
-  "SleepDataListScene_Content_LimitButton": "30日間 （制限）",
-  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁日間（制限）",
-  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁日間",
-  "SleepDataListScene_Header_Title": "睡眠データ",
-  "SleepDataListScene_Header_CalendarButton": "カレンダー",
-  "SleepDataListScene_Header_ListButton": "リスト",
-  "SleepDataListScene_NoDataDesc": "睡眠データがまだありません"
+  "SleepDataListScene_Content_Title": "Dati del sonno",
+  "SleepDataListScene_Content_Desc": "Guarda i dati del sonno e i risultati delle ricerche.",
+  "SleepDataListScene_Content_LimitButton": "30 giorni (max)",
+  "SleepDataListScene_Content_LimitButton_locked": "Max \u000e\u0002\u0003\u0004\u0000촁 giorn\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁 giorn\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "SleepDataListScene_Header_Title": "Dati del sonno",
+  "SleepDataListScene_Header_CalendarButton": "Calendario",
+  "SleepDataListScene_Header_ListButton": "Lista",
+  "SleepDataListScene_NoDataDesc": "Non hai ancora dati del sonno."
 }

@@ -1,6 +1,6 @@
 {
-  "SleepType_99": "Ausgeglichen",
-  "SleepType_4": "Halbschlaf",
-  "SleepType_1": "Leichtschlaf",
-  "SleepType_0": "Tiefschlaf"
+  "SleepType_99": "とくちょうなし",
+  "SleepType_4": "うとうと",
+  "SleepType_1": "すやすや",
+  "SleepType_0": "ぐっすり"
 }

@@ -1,5 +1,5 @@
 {
-  "RecipeSortType_1": "Normal",
-  "RecipeSortType_2": "Stärke",
-  "RecipeSortType_3": "Rezeptlevel"
+  "RecipeSortType_1": "ID",
+  "RecipeSortType_2": "エナジー",
+  "RecipeSortType_3": "レシピレベル"
 }
