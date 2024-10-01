@@ -98,6 +98,7 @@
   "SleepScene_SleepResultView_Value": "\u000e\t\u0000\n\u0006mmm\u0000",
   "SleepScene_SleepResultView_Title_8": "\u000e\u0003\u0004\u0002\u0000的時間",
   "SleepScene_SleepResultView_Title_9": "無法測量的時間",
+  "SleepScene_SleepResultView_Title_10": "沒有波形的時間",
   "SleepScene_SleepResultView_Title_11": "今天的睡眠類型",
   "SleepScene_SleepResultView_Desc": "今天的睡眠傾向是……",
   "SleepScene_SleepResultView_SleepTypeLabel": "\u000e\u0003\u0004\u0002\u0000型",

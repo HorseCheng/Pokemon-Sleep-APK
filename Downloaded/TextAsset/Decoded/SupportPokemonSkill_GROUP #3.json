@@ -1,14 +1,14 @@
 {
   "Message_ActivatePokemonSkill": "¡Habilidad principal activada!",
-  "SkillEffect_FoodPowerUp": "¡El vigor de Snorlax ha aumentado\n\u000e\u0002\u0004\u0004\u0000촁 punto\u000e\u0007\u0000\b\u0000\u0002s촀!",
-  "SkillEffect_CoinGet": "¡Has obtenido \u000e\u0002\u0004\u0004\u0000촁 fragmento\u000e\u0007\u0000\b\u0000\u0002s촀\nde sueños!",
-  "SkillEffect_SelfPokemonPowerUp": "¡\u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía recuperado\u000e\u0007\u0000\b\u0000\u0002s촀!",
-  "SkillEffect_OtherPokemonPowerUp": "¡\u000e\u0003\n\u0002촀 ha recuperado\n\u000e\u0002\u0002\u0002\u0001 punto\u000e\u0007\u0000\b\u0000\u0002s촁 de energía!",
-  "SkillEffect_AllActivePokemonPowerUp": "¡El equipo ha recuperado\n\u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía!",
-  "SkillEffect_PickupFinishRandom": "¡Ayuda extra de\n\u000e\u0003\n\u0002촀 (×\u000e\u0002\u0004\u0004\u0001촁)!",
-  "SkillEffect_PokemonTypePickupFinishRandom": "¡Recibes \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 más ayuda de todos\nlos integrantes del equipo!",
-  "SkillEffect_PickupIngredientRandom": "¡Has obtenido \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀!",
-  "SkillEffect_CookingIngredientNumLimitUp": "¡Aún cabría\u000e\u0007\u0000\b\u0000\u0002n촀 \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀 más\nen el puchero!",
+  "SkillEffect_FoodPowerUp": "¡El vigor de Snorlax ha aumentado \u000e\u0002\u0004\u0004\u0000촁 punto\u000e\u0007\u0000\b\u0000\u0002s촀!",
+  "SkillEffect_CoinGet": "¡Has obtenido \u000e\u0002\u0004\u0004\u0000촁 fragmento\u000e\u0007\u0000\b\u0000\u0002s촀 de sueños!",
+  "SkillEffect_SelfPokemonPowerUp": "¡\u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía recuperado\u000e\u0007\u0000\b\u0000\u0002s촀!",
+  "SkillEffect_OtherPokemonPowerUp": "¡\u000e\u0003\n\u0002촀 ha recuperado \u000e\u0002\u0002\u0002\u0001 punto\u000e\u0007\u0000\b\u0000\u0002s촁 de energía!",
+  "SkillEffect_AllActivePokemonPowerUp": "¡El equipo ha recuperado \u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía!",
+  "SkillEffect_PickupFinishRandom": "¡Ayuda extra de \u000e\u0003\n\u0002촀 (×\u000e\u0002\u0004\u0004\u0001촁)!",
+  "SkillEffect_PokemonTypePickupFinishRandom": "¡Recibes \u000e\u0002\u0001\u0002\u0000 \u000e\u0007\u0000\u0016\u0006vez\nveces촀 más ayuda de todos los integrantes del equipo!",
+  "SkillEffect_PickupIngredientRandom": "¡Has obtenido \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀!",
+  "SkillEffect_CookingIngredientNumLimitUp": "¡Aún cabría\u000e\u0007\u0000\b\u0000\u0002n촀 \u000e\u0002\u0002\u0002\u0000 ingrediente\u000e\u0007\u0000\b\u0000\u0002s촀 más en el puchero!",
   "SkillAction_SelectSkillRandom": "",
-  "SkillEffect_CookingSuccessPerUp": "¡La probabilidad de elaborar un plato\nriquísimo ha aumentado un \u000e\u0002\u0002\u0002\u0000 %!"
+  "SkillEffect_CookingSuccessPerUp": "¡La probabilidad de elaborar un plato riquísimo ha aumentado un \u000e\u0002\u0002\u0002\u0000 %!"
 }

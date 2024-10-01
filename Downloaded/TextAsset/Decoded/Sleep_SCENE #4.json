@@ -98,6 +98,7 @@
   "SleepScene_SleepResultView_Value": "\u000e\t\u0000\f\bmmmm\u0000",
   "SleepScene_SleepResultView_Title_8": "\u000e\u0003\u0004\u0002\u0000 time",
   "SleepScene_SleepResultView_Title_9": "Untracked time",
+  "SleepScene_SleepResultView_Title_10": "Time with no waveform",
   "SleepScene_SleepResultView_Title_11": "Your Sleep Type",
   "SleepScene_SleepResultView_Desc": "What was your sleep like?",
   "SleepScene_SleepResultView_SleepTypeLabel": "\u000e\u0003\u0004\u0002\u0000 Type",

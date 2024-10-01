@@ -98,6 +98,7 @@
   "SleepScene_SleepResultView_Value": "\u000e\t\u0000\n\u0006mmm\u0000",
   "SleepScene_SleepResultView_Title_8": "\u000e\u0003\u0004\u0002\u0000 시간",
   "SleepScene_SleepResultView_Title_9": "계측하지 못한 시간",
+  "SleepScene_SleepResultView_Title_10": "파형이 없는 시간",
   "SleepScene_SleepResultView_Title_11": "오늘의 수면 타입",
   "SleepScene_SleepResultView_Desc": "오늘의 수면은 어땠을까?",
   "SleepScene_SleepResultView_SleepTypeLabel": "\u000e\u0003\u0004\u0002\u0000 타입",

@@ -98,6 +98,7 @@
   "SleepScene_SleepResultView_Value": "\u000e\t\u0000\f\bmmmm\u0000",
   "SleepScene_SleepResultView_Title_8": "Tiempo de sueño \u000e\u0003\u0004\u0002\u0000",
   "SleepScene_SleepResultView_Title_9": "Tiempo no registrado",
+  "SleepScene_SleepResultView_Title_10": "Tiempo sin forma de onda",
   "SleepScene_SleepResultView_Title_11": "Tipo de sueño",
   "SleepScene_SleepResultView_Desc": "¿Qué tal has dormido hoy?",
   "SleepScene_SleepResultView_SleepTypeLabel": "Sueño \u000e\u0003\u0004\u0002\u0000",

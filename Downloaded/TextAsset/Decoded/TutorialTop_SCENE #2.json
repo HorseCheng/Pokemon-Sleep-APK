@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "Amis",
   "TutorialTopScene_Canvas-UI_Title_7": "Coucher",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "Param. synchro",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "Sync./Param.",
   "TutorialTopMenuPopup_Title_4": "Dissocier votre appareil",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "Utilisation",
   "TutorialTopScene_GPPInfoPopup_Title": "Mesurer le sommeil avec le GO Plus +",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Mesurez votre sommeil avec votre\nPokémon GO Plus +, puis ouvrez\nPokémon Sleep, et la synchronisation\ns'établira automatiquement.",
   "TutorialTopScene_GPPInfoPopup_Text_2": "Si la synchronisation ne s'établit pas\nautomatiquement, appuyez sur\nle bouton « Param. synchro ».",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "Si la synchronisation ne s'établit pas\nautomatiquement, appuyez sur\nle bouton « Sync./Param. ».",
   "TutorialTopScene_GPPInfoPopup_Button": "Détails",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "Paramètres graphiques du jeu",
-  "TutorialTopScene_Option_Others_Quality_Text": "Remarque : Ce choix peut être modifié à tout\nmoment via les paramètres de l'application."
+  "TutorialTopScene_Option_Others_Quality_Text": "Remarque : Ce choix peut être modifié à tout\nmoment via les paramètres de l'application.",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "Commencer à mesurer votre sommeil",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Bienvenue dans le monde de Pokémon Sleep !\nPokémon Sleep vous permet de mesurer votre\nsommeil via les méthodes suivantes.",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "Mesurer avec un appareil mobile",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Mesurer avec le Pokémon GO Plus +",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "Mesurer avec une smartwatch",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "Avant de mesurer votre sommeil avec une\n\u000e\u0000\u0003\u0004毿Ｗsmartwatch \u000e\u0000\u0003\u0004\u0000＀ou avec le \u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀,\nveuillez associer votre appareil en touchant\nle bouton «\u000e\u0000\u0003\u0004毿Ｗ Associer\u000e\u0000\u0003\u0004\u0000＀ »."
 }

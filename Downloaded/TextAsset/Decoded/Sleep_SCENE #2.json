@@ -98,6 +98,7 @@
   "SleepScene_SleepResultView_Value": "\u000e\t\u0000\n\u0006mmm\u0000",
   "SleepScene_SleepResultView_Title_8": "\u000e\u0003\u0004\u0002\u0000の時間",
   "SleepScene_SleepResultView_Title_9": "計測できなかった時間",
+  "SleepScene_SleepResultView_Title_10": "波形なしの時間",
   "SleepScene_SleepResultView_Title_11": "今日の睡眠タイプ",
   "SleepScene_SleepResultView_Desc": "今日の睡眠はどういう傾向？",
   "SleepScene_SleepResultView_SleepTypeLabel": "\u000e\u0003\u0004\u0002\u0000タイプ",

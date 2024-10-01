@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "好友",
   "TutorialTopScene_Canvas-UI_Title_7": "變更約定",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "同步 / 設定",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "同步 / 設定",
   "TutorialTopMenuPopup_Title_4": "解除配對",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "測量方法",
   "TutorialTopScene_GPPInfoPopup_Title": "測量方法",
   "TutorialTopScene_GPPInfoPopup_Text_1": "用Pokémon GO Plus +\n測量睡眠後，\n只要開啟Pokémon Sleep，\n就會自動進行同步。",
   "TutorialTopScene_GPPInfoPopup_Text_2": "若沒有自動同步，\n請按下「同步 / 設定」按鈕。",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "若沒有自動同步，\n請按下「同步 / 設定」按鈕。",
   "TutorialTopScene_GPPInfoPopup_Button": "了解更多詳情",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "遊戲品質設定",
-  "TutorialTopScene_Option_Others_Quality_Text": "※之後也可以從應用程式內的設定變更。"
+  "TutorialTopScene_Option_Others_Quality_Text": "※之後也可以從應用程式內的設定變更。",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "開始睡眠測量吧！",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "歡迎來到《Pokémon Sleep》的世界！\n在《Pokémon Sleep》中，\n您可以使用接下來介紹的方法測量睡眠。",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "使用智慧型手機測量",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "使用Pokémon GO Plus +測量",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "使用智慧型手錶測量",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "若要使用\u000e\u0000\u0003\u0004毿Ｗ智慧型手錶\u000e\u0000\u0003\u0004\u0000＀或\u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀測量睡眠，\n請務必先由「\u000e\u0000\u0003\u0004毿Ｗ裝置連結\u000e\u0000\u0003\u0004\u0000＀」按鈕進行連結，\n再測量睡眠。"
 }

@@ -121,9 +121,15 @@
   "pokemon_height_281": "0,8 m",
   "pokemon_height_282": "1,6 m",
   "pokemon_height_475": "1,6 m",
+  "pokemon_height_736": "0,4 m",
+  "pokemon_height_737": "0,5 m",
   "pokemon_height_354": "1,1 m",
   "pokemon_height_37": "0,6 m",
   "pokemon_height_38": "1,1 m",
+  "pokemon_height_403": "0,5 m",
+  "pokemon_height_404": "0,9 m",
+  "pokemon_height_405": "1,4 m",
+  "pokemon_height_738": "1,5 m",
   "pokemon_height_759": "0,5 m",
   "pokemon_height_760": "2,1 m",
   "pokemon_height_702": "0,2 m",
@@ -142,5 +148,8 @@
   "pokemon_height_913": "1,2 m",
   "pokemon_height_914": "1,8 m",
   "pokemon_height_194": "0,4 m",
-  "pokemon_height_195": "1,4 m"
+  "pokemon_height_195": "1,4 m",
+  "pokemon_height_304": "0,4 m",
+  "pokemon_height_305": "0,9 m",
+  "pokemon_height_306": "2,1 m"
 }

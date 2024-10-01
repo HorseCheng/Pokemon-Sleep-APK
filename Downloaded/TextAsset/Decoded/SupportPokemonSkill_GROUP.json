@@ -3,12 +3,12 @@
   "SkillEffect_FoodPowerUp": "Relaxos Stärke wird um \u000e\u0002\u0004\u0004\u0000촁 erhöht!",
   "SkillEffect_CoinGet": "\u000e\u0002\u0004\u0004\u0000촁 Traumsplitter erhalten!",
   "SkillEffect_SelfPokemonPowerUp": "Energie um \u000e\u0002\u0002\u0002\u0000 aufgefüllt!",
-  "SkillEffect_OtherPokemonPowerUp": "Energie von \u000e\u0003\n\u0002촀\nwurde um \u000e\u0002\u0002\u0002\u0001 aufgefüllt!",
-  "SkillEffect_AllActivePokemonPowerUp": "Die Energie deines Teams wurde\num \u000e\u0002\u0002\u0002\u0000 aufgefüllt!",
-  "SkillEffect_PickupFinishRandom": "Extra-Hilfe von \u000e\u0003\n\u0002촀\n(×\u000e\u0002\u0004\u0004\u0001촁)!",
-  "SkillEffect_PokemonTypePickupFinishRandom": "Die Hilfe aller Pokémon im Team wurde\n\u000e\u0002\u0001\u0002\u0000 Mal durchgeführt.",
+  "SkillEffect_OtherPokemonPowerUp": "Energie von \u000e\u0003\n\u0002촀 wurde um \u000e\u0002\u0002\u0002\u0001 aufgefüllt!",
+  "SkillEffect_AllActivePokemonPowerUp": "Die Energie deines Teams wurde um \u000e\u0002\u0002\u0002\u0000 aufgefüllt!",
+  "SkillEffect_PickupFinishRandom": "Extra-Hilfe von \u000e\u0003\n\u0002촀 (×\u000e\u0002\u0004\u0004\u0001촁)!",
+  "SkillEffect_PokemonTypePickupFinishRandom": "Die Hilfe aller Pokémon im Team wurde \u000e\u0002\u0001\u0002\u0000 Mal durchgeführt.",
   "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀 erhalten!",
-  "SkillEffect_CookingIngredientNumLimitUp": "Dein Kochtopf hat Platz für\n\u000e\u0002\u0002\u0002\u0000 zusätzliche \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀!",
+  "SkillEffect_CookingIngredientNumLimitUp": "Dein Kochtopf hat Platz für \u000e\u0002\u0002\u0002\u0000 zusätzliche \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀!",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Köstliche Gerichte \u000e\u0002\u0002\u0002\u0000 % häufiger!"
 }

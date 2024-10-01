@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "Freunde",
   "TutorialTopScene_Canvas-UI_Title_7": "Schlafenszeit",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "GO Plus + synchr.",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "Synchr./Einst.",
   "TutorialTopMenuPopup_Title_4": "Gerät entkoppeln",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "Anleitung",
   "TutorialTopScene_GPPInfoPopup_Title": "Schlaf mit GO Plus + aufzeichnen",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Zeichne deinen Schlaf mit deinem\nPokémon GO Plus + auf, öffne dann\nPokémon Sleep und deine App wird\nsich automatisch mit dem Gerät\nsynchronisieren.",
   "TutorialTopScene_GPPInfoPopup_Text_2": "Wenn die Synchronisierung nicht\nautomatisch stattfindet, tippe auf\n„GO Plus + synchr.“.",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "Wenn die Synchronisierung nicht\nautomatisch stattfindet, tippe auf\n„Synchr./Einst.“.",
   "TutorialTopScene_GPPInfoPopup_Button": "Details",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "Grafikeinstellungen",
-  "TutorialTopScene_Option_Others_Quality_Text": "Hinweis: Dies kann später in den\nEinstellungen der App geändert werden."
+  "TutorialTopScene_Option_Others_Quality_Text": "Hinweis: Dies kann später in den\nEinstellungen der App geändert werden.",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "Beginne mit der Schlafaufzeichnung",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Willkommen in der Welt von Pokémon Sleep!\nPokémon Sleep ermöglicht es dir, deinen Schlaf\nmit den folgenden Methoden aufzuzeichnen.",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "Schlafaufzeichnung mit einem Mobilgerät",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Schlafaufzeichnung mit Pokémon GO Plus +",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "Schlafaufzeichnung mit der Smartwatch",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "Wenn du Schlaf mit einer \u000e\u0000\u0003\u0004毿ＷSmartwatch \u000e\u0000\u0003\u0004\u0000＀oder mit\n\u000e\u0000\u0003\u0004毿ＷPokémon Go Plus +\u000e\u0000\u0003\u0004\u0000＀ aufzeichnest, stelle sicher,\ndass du auf „\u000e\u0000\u0003\u0004毿ＷGerät koppeln\u000e\u0000\u0003\u0004\u0000＀“ tippst, um deine\nGeräte zu koppeln, bevor du Schlaf aufzeichnest."
 }

@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "Friends",
   "TutorialTopScene_Canvas-UI_Title_7": "Bedtime",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "Sync GO Plus +",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "Sync/Settings",
   "TutorialTopMenuPopup_Title_4": "Unpair Your Device",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "How to Use",
   "TutorialTopScene_GPPInfoPopup_Title": "Tracking Sleep with Pokémon GO Plus +",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Track your sleep with your Pokémon\nGO Plus +, then open Pokémon Sleep,\nand the device and app will sync\nautomatically.",
   "TutorialTopScene_GPPInfoPopup_Text_2": "If the automatic sync does not occur,\npress the Sync GO Plus + button.",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "If the automatic sync does not occur,\npress the “Sync/Settings” button.",
   "TutorialTopScene_GPPInfoPopup_Button": "Details",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "Game Quality Settings",
-  "TutorialTopScene_Option_Others_Quality_Text": "Note: This selection can be changed\nlater through the in-app settings."
+  "TutorialTopScene_Option_Others_Quality_Text": "Note: This selection can be changed\nlater through the in-app settings.",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "Start Tracking Your Sleep",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Welcome to the world of Pokémon Sleep!\nPokémon Sleep allows you to track your sleep\nwith the following devices.\n",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "Track Sleep with Smart Device",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Track Sleep with Pokémon GO Plus +",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "Track Sleep with Smartwatch",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "If you track your sleep with a \u000e\u0000\u0003\u0004毿Ｗsmartwatch\u000e\u0000\u0003\u0004\u0000＀ or\n\u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀, please make sure to tap\nthe \u000e\u0000\u0003\u0004毿ＷPair Device\u000e\u0000\u0003\u0004\u0000＀ button to pair your device\nbefore tracking your sleep."
 }

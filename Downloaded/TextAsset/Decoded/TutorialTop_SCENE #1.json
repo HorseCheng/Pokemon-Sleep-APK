@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "フレンド",
   "TutorialTopScene_Canvas-UI_Title_7": "約束の変更",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "同期・設定",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "同期・設定",
   "TutorialTopMenuPopup_Title_4": "ペアリングの解除",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "計測方法",
   "TutorialTopScene_GPPInfoPopup_Title": "計測方法",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Pokémon GO Plus +で\n睡眠計測を行った後\nPokémon Sleepを開くと\n自動で同期されます",
   "TutorialTopScene_GPPInfoPopup_Text_2": "もし自動で同期されない場合は\n「同期・設定ボタン」を押してください",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "もし自動で同期されない場合は\n「同期・設定ボタン」を押してください",
   "TutorialTopScene_GPPInfoPopup_Button": "詳しい使い方",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "ゲーム品質の設定",
-  "TutorialTopScene_Option_Others_Quality_Text": "※この設定は、アプリ内の設定からあとから\n変更することができます"
+  "TutorialTopScene_Option_Others_Quality_Text": "※この設定は、アプリ内の設定からあとから\n変更することができます",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "睡眠計測を始めましょう",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Pokémon Sleepの世界へようこそ！\nPokémon Sleepでは、次の方法で睡眠を\n計測することができます。",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "スマートフォンで計測する",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Pokémon GO Plus + で計測する",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "スマートウォッチで計測する",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "\u000e\u0000\u0003\u0004毿Ｗスマートウォッチ\u000e\u0000\u0003\u0004\u0000＀ または \u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀ で\n睡眠を計測する場合、必ず「\u000e\u0000\u0003\u0004毿Ｗデバイス連携\u000e\u0000\u0003\u0004\u0000＀」ボタン\nで連携を行ってから、睡眠を計測してください"
 }

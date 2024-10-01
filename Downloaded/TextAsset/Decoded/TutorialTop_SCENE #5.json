@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "친구",
   "TutorialTopScene_Canvas-UI_Title_7": "약속 변경",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "동기화/설정",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "동기화/설정",
   "TutorialTopMenuPopup_Title_4": "페어링 해제",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "계측 방법",
   "TutorialTopScene_GPPInfoPopup_Title": "계측 방법",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Pokémon GO Plus +로\n수면을 계측한 뒤\nPokémon Sleep을 켜면\n자동으로 동기화됩니다",
   "TutorialTopScene_GPPInfoPopup_Text_2": "만약 자동으로 동기화되지 않을 경우에는\n[동기화/설정] 버튼을 눌러 주십시오",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "만약 자동으로 동기화되지 않을 경우에는\n[동기화/설정] 버튼을 눌러 주십시오",
   "TutorialTopScene_GPPInfoPopup_Button": "자세한 사용 방법",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "게임 품질 설정",
-  "TutorialTopScene_Option_Others_Quality_Text": "※이 설정은 나중에 앱 내 설정에서\n변경할 수 있습니다"
+  "TutorialTopScene_Option_Others_Quality_Text": "※이 설정은 나중에 앱 내 설정에서\n변경할 수 있습니다",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "수면 계측을 시작하자",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Pokémon Sleep 세계에 어서 오세요!\nPokémon Sleep에서는 다음 방법으로\n수면을 계측할 수 있습니다.",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "스마트폰으로 계측한다",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Pokémon GO Plus +로 계측한다",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "스마트 워치로 계측한다",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "\u000e\u0000\u0003\u0004毿Ｗ스마트 워치\u000e\u0000\u0003\u0004\u0000＀나 \u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀ 로 수면을\n계측하는 경우, 반드시 [\u000e\u0000\u0003\u0004毿Ｗ디바이스 연동\u000e\u0000\u0003\u0004\u0000＀] 버튼을 눌러\n연동을 한 뒤에 수면을 계측해 주십시오"
 }

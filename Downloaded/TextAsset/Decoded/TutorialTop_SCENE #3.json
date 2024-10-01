@@ -27,12 +27,20 @@
   "TutorialTopScene_Canvas-UI_Title_6": "Amigos",
   "TutorialTopScene_Canvas-UI_Title_7": "Hora de dormir",
   "TutorialTopScene_Canvas-UI_GPPSyncButton": "Sincronizar",
+  "TutorialTopScene_Canvas-UI_GPPSyncButton_v200": "Sinc./Config.",
   "TutorialTopMenuPopup_Title_4": "Desvincular dispositivo",
   "TutorialTopScene_Canvas-UI_GPPInfoButton": "Instrucciones",
   "TutorialTopScene_GPPInfoPopup_Title": "Registro con Pokémon GO Plus +",
   "TutorialTopScene_GPPInfoPopup_Text_1": "Tras registrar tu sueño con\nPokémon GO Plus +, abre\nPokémon Sleep y la aplicación\nse sincronizará con tu dispositivo\nde forma automática.",
   "TutorialTopScene_GPPInfoPopup_Text_2": "Si no se sincroniza automáticamente\ncon tu Pokémon GO Plus +, pulsa\nel botón Sincronizar.",
+  "TutorialTopScene_GPPInfoPopup_Text_2_v200": "Si no se sincroniza automáticamente,\npulsa el botón Sinc./Config.",
   "TutorialTopScene_GPPInfoPopup_Button": "Detalles",
   "TutorialTopScene_Option_Others_Quality_Screen_Choice_Title": "Ajustes de calidad del juego",
-  "TutorialTopScene_Option_Others_Quality_Text": "Estos ajustes se pueden modificar\nmás adelante desde la aplicación."
+  "TutorialTopScene_Option_Others_Quality_Text": "Estos ajustes se pueden modificar\nmás adelante desde la aplicación.",
+  "TutorialTopScene_StartSleepTrackingPopup_Title_1": "Inicia tu registro del sueño",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_1": "Te damos la bienvenida al mundo de\nPokémon Sleep.\nPokémon Sleep te permite registrar tu sueño\nmediante los métodos siguientes.",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_2": "Registro con dispositivo inteligente",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_3": "Registro con Pokémon GO Plus +",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_4": "Registro con reloj inteligente",
+  "TutorialTopScene_StartSleepTrackingPopup_Text_5": "Si registras tu sueño con un \u000e\u0000\u0003\u0004毿Ｗreloj inteligente\u000e\u0000\u0003\u0004\u0000＀ o\ncon tu \u000e\u0000\u0003\u0004毿ＷPokémon GO Plus +\u000e\u0000\u0003\u0004\u0000＀, asegúrate\nde tocar el botón \u000e\u0000\u0003\u0004毿ＷVincular dispositivo\u000e\u0000\u0003\u0004\u0000＀ para\nvincular el dispositivo que estés usando\nantes de iniciar el registro."
 }
