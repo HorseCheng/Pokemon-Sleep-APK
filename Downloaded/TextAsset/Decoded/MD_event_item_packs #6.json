@@ -1,7 +1,6 @@
 {
   "md_event_item_packs_name_1": "Pacchetto limitato Masterbiscotto",
   "md_event_item_packs_name_2": "Pacchetto 100 milioni di download",
-  "md_event_item_packs_name_3": "Pacchetto giorno sogni d'oro n° \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_3_v190": "Pacchetto giorno sogni d'oro n° \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "Pacchetto per l'uscita del gioco S",
   "md_event_item_packs_name_6": "Pacchetto per l'uscita del gioco M",
@@ -77,5 +76,9 @@
   "md_event_item_packs_name_76": "Pacchetto scoperta stili n° \u000e\u0002\u0001\u0002\u0000 L",
   "md_event_item_packs_name_77": "Pacchetto Vecchia Centrale Oro S",
   "md_event_item_packs_name_78": "Pacchetto Vecchia Centrale Oro M",
-  "md_event_item_packs_name_79": "Pacchetto Vecchia Centrale Oro L"
+  "md_event_item_packs_name_79": "Pacchetto Vecchia Centrale Oro L",
+  "md_event_item_packs_name_80": "Pacchetto amicizia Pokémon\n(Drifloon) n° \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_81": "Pacchetto Halloween 2024 S",
+  "md_event_item_packs_name_82": "Pacchetto Halloween 2024 M",
+  "md_event_item_packs_name_83": "Pacchetto Halloween 2024 L"
 }

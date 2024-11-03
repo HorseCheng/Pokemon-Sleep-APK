@@ -235,6 +235,10 @@
   "md_pokedex_data_desc_36": "On raconte qu'il dort dans des lieux calmes et\nisolés, à la lumière de la lune. Dans son sommeil\npaisible, peut-être rêve-t-il de ses camarades\nvivant dans son lointain pays natal.",
   "md_pokedex_data_category_name_225": "Pokémon Livraison",
   "md_pokedex_data_desc_225": "Cadoizo a pour habitude de partager son repas avec\nd'autres Pokémon ou des humains. Même quand\nil dort, il sort parfois quelque chose de sa queue.\nEn l'observant attentivement, on peut voir ce qu'il\ncache à l'intérieur.",
+  "md_pokedex_data_category_name_425": "Pokémon Bouboule",
+  "md_pokedex_data_desc_425": "On le voit souvent s'approcher des enfants.\nPeut-être cherche-t-il de la compagnie ? En de rares\noccasions, on le voit dormir en tenant une peluche,\nqu'il a probablement confondue avec l'un d'entre eux.",
+  "md_pokedex_data_category_name_426": "Pokémon Ballon",
+  "md_pokedex_data_desc_426": "Grodrive a pour habitude de transporter des humains\net des Pokémon. Apparemment, certains seraient\nincapables de dormir paisiblement s'ils ne\nportent rien.",
   "md_pokedex_data_category_name_459": "Pokémon Arbregelé",
   "md_pokedex_data_desc_459": "À l'approche du printemps, il fait pousser des Baies\npareilles à des glaces au sirop autour de son ventre.\nQuand il dort, il lui arrive parfois de ne même pas\nremarquer les Pokémon qui viennent les manger.",
   "md_pokedex_data_category_name_460": "Pokémon Arbregelé",
@@ -304,5 +308,7 @@
   "md_pokedex_data_category_name_305": "Pokémon Armurfer",
   "md_pokedex_data_desc_305": "Galegon défend son territoire en luttant avec son\ncorps d'acier contre ses congénères. Il se nourrit de\nminerai de fer qu'il concasse à l'aide de son énorme\nmâchoire. Quand il perd un conflit de territoire,\nil souhaite gagner le prochain si fort qu'il lui arrive\nde s'endormir en dévorant du minerai de fer.",
   "md_pokedex_data_category_name_306": "Pokémon Armurfer",
-  "md_pokedex_data_desc_306": "Galeking prend pour territoire une montagne tout\nentière et patrouille avec vigilance pour empêcher\nque quiconque pénètre dans son environnement.\nEn de rares occasions, on peut l'apercevoir endormi,\nse nourrissant du fer qu'il a extrait de la montagne,\nsans doute éreinté par ses patrouilles."
+  "md_pokedex_data_desc_306": "Galeking prend pour territoire une montagne tout\nentière et patrouille avec vigilance pour empêcher\nque quiconque pénètre dans son environnement.\nEn de rares occasions, on peut l'apercevoir endormi,\nse nourrissant du fer qu'il a extrait de la montagne,\nsans doute éreinté par ses patrouilles.",
+  "md_pokedex_data_category_name_778": "Pokémon Fantômasque",
+  "md_pokedex_data_desc_778": "Mimiqui se cache sous des guenilles en forme\nde Pikachu pour avoir l'air moins effrayant\net se rapprocher des gens et des autres Pokémon.\nIl passe tant de temps à copier Pikachu qu'il l'imite\nparfois même dans sa façon de dormir."
 }

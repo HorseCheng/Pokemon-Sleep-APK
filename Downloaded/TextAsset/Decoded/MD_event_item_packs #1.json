@@ -1,7 +1,6 @@
 {
   "md_event_item_packs_name_1": "Lote exclusivo de Megagalletas",
   "md_event_item_packs_name_2": "Lote por 100 millones de descargas",
-  "md_event_item_packs_name_3": "Lote para dormilones vol. \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_3_v190": "Lote para dormilones vol. \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "Lote conmemorativo del lanzamiento S",
   "md_event_item_packs_name_6": "Lote conmemorativo del lanzamiento M",
@@ -77,5 +76,9 @@
   "md_event_item_packs_name_76": "Lote del Descubrimiento vol. \u000e\u0002\u0001\u0002\u0000 L",
   "md_event_item_packs_name_77": "Lote de la Antigua Central Dorada S",
   "md_event_item_packs_name_78": "Lote de la Antigua Central Dorada M",
-  "md_event_item_packs_name_79": "Lote de la Antigua Central Dorada L"
+  "md_event_item_packs_name_79": "Lote de la Antigua Central Dorada L",
+  "md_event_item_packs_name_80": "Lote amigos Pokémon (Drifloon)\nvol. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_81": "Lote de Halloween 2024 S",
+  "md_event_item_packs_name_82": "Lote de Halloween 2024 M",
+  "md_event_item_packs_name_83": "Lote de Halloween 2024 L"
 }

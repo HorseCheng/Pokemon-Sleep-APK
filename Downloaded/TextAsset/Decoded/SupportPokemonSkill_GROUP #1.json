@@ -9,6 +9,11 @@
   "SkillEffect_PokemonTypePickupFinishRandom": "Got ×\u000e\u0002\u0001\u0002\u0000 the usual help from all members of your team!",
   "SkillEffect_PickupIngredientRandom": "Obtained \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u00000\u0014ingredient\u0016ingredients촀!",
   "SkillEffect_CookingIngredientNumLimitUp": "The pot can hold \u000e\u0002\u0002\u0002\u0000 more \u000e\u0001\u00000\u0014ingredient\u0016ingredients촀!",
+  "SkillEffect_Stockpile_Energy": "Stockpiled \u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000*\u0012trigger’s\u0012triggers’촀 worth of Strength!",
+  "SkillEffect_SpitUp_Energy": "Spat up \u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000*\u0012trigger’s\u0012triggers’촀 worth of Strength! Snorlax got \u000e\u0002\t\u0004\u0001촁 Strength!",
+  "SkillEffect_Disguise": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 obtained!",
+  "SkillEffect_Disguise_GreatSuccess": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 obtained!\n\u000e\u0003\n\u0002촁’s disguise was busted!",
+  "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 recovered \u000e\u0002\u0002\u0002\u0001 Energy!\n\u000e\u0003\n\u0002촂 recovered \u000e\u0002\u0002\u0002\u0003 Energy!",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Extra Tasty rate raised by \u000e\u0002\u0002\u0002\u0000%!"
 }

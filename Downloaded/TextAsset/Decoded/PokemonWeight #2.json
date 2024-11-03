@@ -114,6 +114,8 @@
   "pokemon_weight_35": "7,5 kg",
   "pokemon_weight_36": "40,0 kg",
   "pokemon_weight_225": "16,0 kg",
+  "pokemon_weight_425": "1,2 kg",
+  "pokemon_weight_426": "15,0 kg",
   "pokemon_weight_459": "50,5 kg",
   "pokemon_weight_460": "135,5 kg",
   "pokemon_weight_353": "2,3 kg",
@@ -151,5 +153,6 @@
   "pokemon_weight_195": "75,0 kg",
   "pokemon_weight_304": "60,0 kg",
   "pokemon_weight_305": "120,0 kg",
-  "pokemon_weight_306": "360,0 kg"
+  "pokemon_weight_306": "360,0 kg",
+  "pokemon_weight_778": "0,7 kg"
 }

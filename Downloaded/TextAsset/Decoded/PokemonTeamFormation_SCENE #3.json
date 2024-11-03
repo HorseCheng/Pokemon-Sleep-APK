@@ -20,6 +20,10 @@
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "現在のチーム",
   "PokemonTeamFormationSceneController_Text_7": "チーム変更が保存されていません\n現在のチームから変更する場合\n「このチームに変更」ボタンを押してください\n\nチームを変更せずに戻りますか？",
   "PokemonTeamFormationSceneController_Text_8": "チーム内にすでに \u000e\u0000\u0003\u0004毿Ｗ特別なポケモン\u000e\u0000\u0003\u0004\u0000＀ がいます。\n特別なポケモンは \u000e\u0000\u0003\u0004毿Ｗ同じチームに1匹\u000e\u0000\u0003\u0004\u0000＀ しか\n入れられません。そのポケモンはチームから\n外されますが、よろしいですか？",
+  "PokemonTeamFormationSceneController_Text_9": "チーム内にメインスキルの効果が\n蓄積されているポケモンがいます\n現在のチームから外れる場合、\n蓄積されている効果はリセットされますが、\nよろしいですか？",
+  "PokemonTeamFormationSceneController_Text_9_SubHead": "対象のポケモン",
+  "PokemonTeamFormationSceneController_Text_9_Num": "\u000e\u0002\u0001\u0002\u0000回",
+  "PokemonTeamFormationSceneController_Text_10": "入れ替えるポケモンは\nすでに \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u0017\u0002촀を\u000e\u0002\u0001\u0002\u0001回\u000e\u0000\u0003\u0004\u0000＀ \n発動しています。\n現在のチームから外れる場合、\nたくわえた数はリセットされますが\nよろしいですか？",
   "PokemonTeamFormationScene_Note_PopupTitle": "入れかえ時の注意点",
   "PokemonTeamFormationScene_Note_PopupText_1": "チームのポケモンを入れかえると、\n\u000e\u0000\u0003\u0004毿Ｗ入れかえたポケモンのおてつだい\u000e\u0000\u0003\u0004\u0000＀ と、\n\u000e\u0000\u0003\u0004毿Ｗチームのすべてのポケモンのメインスキル\u000e\u0000\u0003\u0004\u0000＀ は\nリセットされます"
 }

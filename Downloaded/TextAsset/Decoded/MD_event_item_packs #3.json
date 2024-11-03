@@ -1,7 +1,6 @@
 {
   "md_event_item_packs_name_1": "Limitiertes Meisterkeks-Set",
   "md_event_item_packs_name_2": "Set für 100 Millionen Downloads",
-  "md_event_item_packs_name_3": "Schlummertag-Set Nr. \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_3_v190": "Schlummertag-Set Nr. \u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "Veröffentlichungsfeier-Set S",
   "md_event_item_packs_name_6": "Veröffentlichungsfeier-Set M",
@@ -77,5 +76,9 @@
   "md_event_item_packs_name_76": "Schlafposen-Entdeckungs-Set Nr. \u000e\u0002\u0001\u0002\u0000 L",
   "md_event_item_packs_name_77": "Altgold-Kraftwerk-Set S",
   "md_event_item_packs_name_78": "Altgold-Kraftwerk-Set M",
-  "md_event_item_packs_name_79": "Altgold-Kraftwerk-Set L"
+  "md_event_item_packs_name_79": "Altgold-Kraftwerk-Set L",
+  "md_event_item_packs_name_80": "Pokémon-Freundschafts-Set\n(Driftlon) Nr. \u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_81": "Halloween-Set S (2024)",
+  "md_event_item_packs_name_82": "Halloween-Set M (2024)",
+  "md_event_item_packs_name_83": "Halloween-Set L (2024)"
 }

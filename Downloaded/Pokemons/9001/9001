@@ -1069,7 +1069,7 @@
         "stand": {
             "position": {
                 "x": 0.0,
-                "y": 0.0
+                "y": 10.0
             },
             "scale": 1.0,
             "exact_scale": 1.0

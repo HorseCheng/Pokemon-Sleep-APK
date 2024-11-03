@@ -1,7 +1,6 @@
 {
   "md_event_item_packs_name_1": "マスターサブレ限定パック",
   "md_event_item_packs_name_2": "1億ダウンロード記念パック",
-  "md_event_item_packs_name_3": "グッドスリープデーパックvol.\u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_3_v190": "グッドスリープデーパック vol.\u000e\u0002\u0002\u0002\u0000",
   "md_event_item_packs_name_4": "リリース記念パックS",
   "md_event_item_packs_name_6": "リリース記念パックM",
@@ -77,5 +76,9 @@
   "md_event_item_packs_name_76": "ポケモン寝顔発見パックL vol.\u000e\u0002\u0001\u0002\u0000",
   "md_event_item_packs_name_77": "ゴールド旧発電所パックS",
   "md_event_item_packs_name_78": "ゴールド旧発電所パックM",
-  "md_event_item_packs_name_79": "ゴールド旧発電所パックL"
+  "md_event_item_packs_name_79": "ゴールド旧発電所パックL",
+  "md_event_item_packs_name_80": "ポケモンGETパック(フワンテ) vol.\u000e\u0002\u0001\u0002\u0000",
+  "md_event_item_packs_name_81": "ハロウィン2024パックS",
+  "md_event_item_packs_name_82": "ハロウィン2024パックM",
+  "md_event_item_packs_name_83": "ハロウィン2024パックL"
 }

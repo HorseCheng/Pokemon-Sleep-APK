@@ -9,6 +9,11 @@
   "SkillEffect_PokemonTypePickupFinishRandom": "全隊成員完成了\u000e\u0002\u0001\u0002\u0000次幫忙！",
   "SkillEffect_PickupIngredientRandom": "獲得\u000e\u0002\u0002\u0002\u0000個食材！",
   "SkillEffect_CookingIngredientNumLimitUp": "鍋子能多放\u000e\u0002\u0006\u0004\u0000촁個食材了！",
+  "SkillEffect_Stockpile_Energy": "蓄積了\u000e\u0002\u0001\u0002\u0000次的能量！",
+  "SkillEffect_SpitUp_Energy": "噴放了蓄積\u000e\u0002\u0001\u0002\u0000次的能量！\n獲得能量\u000e\u0002\t\u0004\u0001촁！",
+  "SkillEffect_Disguise": "獲得\u000e\u0002\u0003\u0004\u0000촁個樹果！",
+  "SkillEffect_Disguise_GreatSuccess": "獲得\u000e\u0002\u0003\u0004\u0000촁個樹果！！\n\u000e\u0003\n\u0002촁的畫皮脫落了！",
+  "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀的活力回復\u000e\u0002\u0002\u0002\u0001！\n\u000e\u0003\n\u0002촂的活力回復\u000e\u0002\u0002\u0002\u0003！",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "料理漂亮成功的機率提升\u000e\u0002\u0002\u0002\u0000％了！"
 }

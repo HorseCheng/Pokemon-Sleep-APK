@@ -360,6 +360,12 @@
   "md_sleeping_faces_name_225-2": "Dodo Debout",
   "md_sleeping_faces_name_225-1": "Dodo Paisible",
   "md_sleeping_faces_name_225-3": "Dodo Cadeau",
+  "md_sleeping_faces_name_425-2": "Dodo Flottant",
+  "md_sleeping_faces_name_425-1": "Dodo Rotation",
+  "md_sleeping_faces_name_425-3": "Dodo Apaisant",
+  "md_sleeping_faces_name_426-2": "Dodo Flottant",
+  "md_sleeping_faces_name_426-1": "Dodo Grande Rotation",
+  "md_sleeping_faces_name_426-3": "Dodo Apaisant",
   "md_sleeping_faces_name_459-2": "Dodo Debout",
   "md_sleeping_faces_name_459-1": "Dodo sur Séant",
   "md_sleeping_faces_name_459-3": "Dodo Porte-Baie",
@@ -465,5 +471,8 @@
   "md_sleeping_faces_name_306-1": "Dodo Gratte-Bidou",
   "md_sleeping_faces_name_306-2": "Dodo Imposant",
   "md_sleeping_faces_name_306-3": "Dodo Croque-Fer",
+  "md_sleeping_faces_name_778-1": "Dodo\nCherche-Position",
+  "md_sleeping_faces_name_778-2": "Dodo Démasqué",
+  "md_sleeping_faces_name_778-3": "Dodo Photocopie",
   "md_sleeping_faces_name_onSnorlax": "Dodo sur Gros Bidou"
 }

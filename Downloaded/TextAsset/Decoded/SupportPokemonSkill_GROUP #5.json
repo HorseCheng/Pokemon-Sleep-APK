@@ -9,6 +9,11 @@
   "SkillEffect_PokemonTypePickupFinishRandom": "チーム全員のおてつだいが\u000e\u0002\u0001\u0002\u0000回進んだ！",
   "SkillEffect_PickupIngredientRandom": "食材を\u000e\u0002\u0002\u0002\u0000個ゲット！",
   "SkillEffect_CookingIngredientNumLimitUp": "料理のなべの容量が\u000e\u0002\u0002\u0002\u0000個増えた！",
+  "SkillEffect_Stockpile_Energy": "\u000e\u0002\u0001\u0002\u0000回分のエナジーをたくわえた！",
+  "SkillEffect_SpitUp_Energy": "\u000e\u0002\u0001\u0002\u0000回分のエナジーをはきだした！\nエナジーを\u000e\u0002\t\u0004\u0001촁ゲット！",
+  "SkillEffect_Disguise": "きのみを\u000e\u0002\u0003\u0004\u0000촁個ゲット！",
+  "SkillEffect_Disguise_GreatSuccess": "きのみを\u000e\u0002\u0003\u0004\u0000촁個ゲット！！\n\u000e\u0003\n\u0002촁 の\nばけのかわが はがれた！",
+  "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀のげんきが\u000e\u0002\u0002\u0002\u0001回復！\n\u000e\u0003\n\u0002촂のげんきが\u000e\u0002\u0002\u0002\u0003回復！",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000％上がった！"
 }

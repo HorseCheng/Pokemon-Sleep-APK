@@ -360,6 +360,12 @@
   "md_sleeping_faces_name_225-2": "Aufrechtpose",
   "md_sleeping_faces_name_225-1": "Sorglospose",
   "md_sleeping_faces_name_225-3": "Geschenkpose",
+  "md_sleeping_faces_name_425-2": "Schwebepose",
+  "md_sleeping_faces_name_425-1": "Kreiselpose",
+  "md_sleeping_faces_name_425-3": "Beruhigungspose",
+  "md_sleeping_faces_name_426-2": "Schwebepose",
+  "md_sleeping_faces_name_426-1": "Großkreiselpose",
+  "md_sleeping_faces_name_426-3": "Beruhigungspose",
   "md_sleeping_faces_name_459-2": "Aufrechtpose",
   "md_sleeping_faces_name_459-1": "Päuschenpose",
   "md_sleeping_faces_name_459-3": "Beerentragpose",
@@ -465,5 +471,8 @@
   "md_sleeping_faces_name_306-1": "Bauchrubbelpose",
   "md_sleeping_faces_name_306-2": "Imposanzpose",
   "md_sleeping_faces_name_306-3": "Eisenmampfpose",
+  "md_sleeping_faces_name_778-1": "Einkugelwunsch-\npose",
+  "md_sleeping_faces_name_778-2": "Entlarvtpose",
+  "md_sleeping_faces_name_778-3": "Imitatorpose",
   "md_sleeping_faces_name_onSnorlax": "Bauchkissenpose"
 }

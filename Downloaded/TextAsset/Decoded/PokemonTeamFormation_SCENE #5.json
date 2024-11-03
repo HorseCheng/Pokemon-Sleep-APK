@@ -20,6 +20,10 @@
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "현재 팀",
   "PokemonTeamFormationSceneController_Text_7": "팀 변경 사항이 저장되지 않았습니다\n현재 팀에서 이 팀으로 변경할 경우\n[이 팀으로 변경] 버튼을 눌러 주십시오\n\n팀을 변경하지 않고 돌아가겠습니까?",
   "PokemonTeamFormationSceneController_Text_8": "팀 내에 이미 \u000e\u0000\u0003\u0004毿Ｗ특별한 포켓몬\u000e\u0000\u0003\u0004\u0000＀이 있습니다.\n특별한 포켓몬은 \u000e\u0000\u0003\u0004毿Ｗ같은 팀에 1마리\u000e\u0000\u0003\u0004\u0000＀만\n편성할 수 있습니다.\n현재 편성되어 있는 포켓몬을\n팀에서 제외하겠습니까?",
+  "PokemonTeamFormationSceneController_Text_9": "팀 내에 메인 스킬의 효과가\n축적된 포켓몬이 있습니다\n현재의 팀 편성에서 제외하면\n축적된 효과가 리셋됩니다\n계속하겠습니까?",
+  "PokemonTeamFormationSceneController_Text_9_SubHead": "대상 포켓몬",
+  "PokemonTeamFormationSceneController_Text_9_Num": "\u000e\u0002\u0001\u0002\u0000회",
+  "PokemonTeamFormationSceneController_Text_10": "교체하려는 포켓몬은\n이미 \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u0017\u0002촀\u000e\b\u0000\u0002촂 \u000e\u0002\u0001\u0002\u0001회\u000e\u0000\u0003\u0004\u0000＀\n발동했습니다.\n현재의 팀 편성에서 제외하면\n비축된 횟수가 리셋됩니다\n계속하겠습니까?",
   "PokemonTeamFormationScene_Note_PopupTitle": "교체 시 주의점",
   "PokemonTeamFormationScene_Note_PopupText_1": "팀의 포켓몬을 교체하면\n\u000e\u0000\u0003\u0004毿Ｗ교체된 포켓몬이 도와준 내용\u000e\u0000\u0003\u0004\u0000＀과\n\u000e\u0000\u0003\u0004毿Ｗ팀 포켓몬 전원의 메인 스킬\u000e\u0000\u0003\u0004\u0000＀이 리셋됩니다"
 }

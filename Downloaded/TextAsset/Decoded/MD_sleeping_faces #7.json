@@ -360,6 +360,12 @@
   "md_sleeping_faces_name_225-2": "Upright Sleep",
   "md_sleeping_faces_name_225-1": "Peaceful Sleep",
   "md_sleeping_faces_name_225-3": "Gift-Giving Sleep",
+  "md_sleeping_faces_name_425-2": "Floating Sleep",
+  "md_sleeping_faces_name_425-1": "Looping Sleep",
+  "md_sleeping_faces_name_425-3": "Pacifying Sleep",
+  "md_sleeping_faces_name_426-2": "Floating Sleep",
+  "md_sleeping_faces_name_426-1": "Big Loop Sleep",
+  "md_sleeping_faces_name_426-3": "Pacifying Sleep",
   "md_sleeping_faces_name_459-2": "Upright Sleep",
   "md_sleeping_faces_name_459-1": "Seated Sleep",
   "md_sleeping_faces_name_459-3": "Berry-Bearing Sleep",
@@ -465,5 +471,8 @@
   "md_sleeping_faces_name_306-1": "Tummy-Rub Sleep",
   "md_sleeping_faces_name_306-2": "Imposing Sleep",
   "md_sleeping_faces_name_306-3": "Iron-Eating Sleep",
+  "md_sleeping_faces_name_778-1": "Wanna-Curl-Up Sleep",
+  "md_sleeping_faces_name_778-2": "Busted Sleep",
+  "md_sleeping_faces_name_778-3": "Copycat Sleep",
   "md_sleeping_faces_name_onSnorlax": "Atop-Belly Sleep"
 }

@@ -101,6 +101,8 @@
   "md_species_candies_name_35_plu": "Piepi-Bonbons",
   "md_species_candies_name_225": "Botogel-Bonbon",
   "md_species_candies_name_225_plu": "Botogel-Bonbons",
+  "md_species_candies_name_425": "Driftlon-Bonbon",
+  "md_species_candies_name_425_plu": "Driftlon-Bonbons",
   "md_species_candies_name_459": "Shnebedeck-Bonbon",
   "md_species_candies_name_459_plu": "Shnebedeck-Bonbons",
   "md_species_candies_name_353": "Shuppet-Bonbon",
@@ -129,6 +131,8 @@
   "md_species_candies_name_912_plu": "Kwaks-Bonbons",
   "md_species_candies_name_304": "Stollunior-Bonbon",
   "md_species_candies_name_304_plu": "Stollunior-Bonbons",
+  "md_species_candies_name_778": "Mimigma-Bonbon",
+  "md_species_candies_name_778_plu": "Mimigma-Bonbons",
   "md_species_candies_narrow_name_25": "Pikachu-\nBonbon",
   "md_species_candies_narrow_name_25_plu": "Pikachu-\nBonbons",
   "md_species_candies_narrow_name_133": "Evoli-\nBonbon",
@@ -223,6 +227,8 @@
   "md_species_candies_narrow_name_35_plu": "Piepi-\nBonbons",
   "md_species_candies_narrow_name_225": "Botogel-\nBonbon",
   "md_species_candies_narrow_name_225_plu": "Botogel-\nBonbons",
+  "md_species_candies_narrow_name_425": "Driftlon-\nBonbon",
+  "md_species_candies_narrow_name_425_plu": "Driftlon-\nBonbons",
   "md_species_candies_narrow_name_459": "Shnebedeck-\nBonbon",
   "md_species_candies_narrow_name_459_plu": "Shnebedeck-\nBonbons",
   "md_species_candies_narrow_name_353": "Shuppet-\nBonbon",
@@ -258,5 +264,7 @@
   "md_species_candies_narrow_name_194": "Felino-\nBonbon",
   "md_species_candies_narrow_name_194_plu": "Felino-\nBonbons",
   "md_species_candies_narrow_name_304": "Stollunior-\nBonbon",
-  "md_species_candies_narrow_name_304_plu": "Stollunior-\nBonbons"
+  "md_species_candies_narrow_name_304_plu": "Stollunior-\nBonbons",
+  "md_species_candies_narrow_name_778": "Mimigma-\nBonbon",
+  "md_species_candies_narrow_name_778_plu": "Mimigma-\nBonbons"
 }

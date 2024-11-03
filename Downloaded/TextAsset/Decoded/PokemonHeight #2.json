@@ -114,6 +114,8 @@
   "pokemon_height_35": "2'",
   "pokemon_height_36": "4'3\"",
   "pokemon_height_225": "2'11\"",
+  "pokemon_height_425": "1'4\"",
+  "pokemon_height_426": "3'11\"",
   "pokemon_height_459": "3'3\"",
   "pokemon_height_460": "7'3\"",
   "pokemon_height_353": "2'",
@@ -151,5 +153,6 @@
   "pokemon_height_195": "4'7\"",
   "pokemon_height_304": "1'4\"",
   "pokemon_height_305": "2'11\"",
-  "pokemon_height_306": "6'11\""
+  "pokemon_height_306": "6'11\"",
+  "pokemon_height_778": "8\""
 }

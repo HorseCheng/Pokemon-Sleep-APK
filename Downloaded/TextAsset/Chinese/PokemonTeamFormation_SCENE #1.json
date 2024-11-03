@@ -20,6 +20,10 @@
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "目前的隊伍",
   "PokemonTeamFormationSceneController_Text_7": "尚未儲存本次的變更。\n若要更換隊伍，\n需點擊「變更為這個隊伍」。\n\n確定要維持目前的隊伍嗎？",
   "PokemonTeamFormationSceneController_Text_8": "隊伍中已有1隻\u000e\u0000\u0003\u0004毿Ｗ特別的寶可夢\u000e\u0000\u0003\u0004\u0000＀。\n\u000e\u0000\u0003\u0004毿Ｗ同一隊伍\u000e\u0000\u0003\u0004\u0000＀僅限編組\u000e\u0000\u0003\u0004毿Ｗ1隻\u000e\u0000\u0003\u0004\u0000＀特別的寶可夢。\n要將該寶可夢從隊伍中移除嗎？",
+  "PokemonTeamFormationSceneController_Text_9": "隊伍中有已蓄積了主技能效果的寶可夢。\n若將該寶可夢從目前的隊伍移除，\n已積蓄的效果就會重置。\n確定要繼續嗎？",
+  "PokemonTeamFormationSceneController_Text_9_SubHead": "對象寶可夢",
+  "PokemonTeamFormationSceneController_Text_9_Num": "\u000e\u0002\u0001\u0002\u0000次",
+  "PokemonTeamFormationSceneController_Text_10": "要替換的寶可夢已經發動了\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0001次\u000e\u0003\u0017\u0002촀\u000e\u0000\u0003\u0004\u0000＀。\n若將該寶可夢從目前的隊伍移除，\n已蓄積的次數就會重置。\n確定要繼續嗎？",
   "PokemonTeamFormationScene_Note_PopupTitle": "替換時的注意事項",
   "PokemonTeamFormationScene_Note_PopupText_1": "若是替換隊伍中的寶可夢，\n\u000e\u0000\u0003\u0004毿Ｗ替換的寶可夢的幫忙內容\u000e\u0000\u0003\u0004\u0000＀及\n\u000e\u0000\u0003\u0004毿Ｗ隊伍中所有寶可夢的主技能狀態\u000e\u0000\u0003\u0004\u0000＀\n就會重置。"
 }

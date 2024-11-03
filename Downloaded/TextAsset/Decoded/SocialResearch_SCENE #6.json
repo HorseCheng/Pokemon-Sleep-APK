@@ -50,6 +50,8 @@
   "SocialResearch_SCENE_TutorialPopup_Text_2": "리서치가 도착하면 \u000e\u0000\u0003\u0004旾ｷ포켓몬의 사탕\u000e\u0000\u0003\u0004\u0000＀을 받습니다",
   "SocialResearch_SCENE_TutorialPopup_Text_3": "친구의 리서치는 \u000e\u0000\u0003\u0004旾ｷ4시간마다 갱신\u000e\u0000\u0003\u0004\u0000＀되니\n정기적으로 확인해 봅시다",
   "SocialResearch_SCENE_TutorialPopup_Text_4": "친구에게 공유할 내용은\n\u000e\u0000\u0003\u0004旾ｷ공유 옵션\u000e\u0000\u0003\u0004\u0000＀에서 자세히 설정할 수 있습니다",
+  "SocialResearch_SCENE_ChangeSharingOptionsSetting_Popup_Text_1": "소셜 리서치의\n공유 옵션 설정이 변경되었습니다",
+  "SocialResearch_SCENE_ChangeSharingOptionsSetting_Popup_Text_2": "\u000e\u0000\u0003\u0004旾ｷ공유 옵션\u000e\u0000\u0003\u0004\u0000＀의 \u000e\u0000\u0003\u0004旾ｷ계측 디바이스의 종류\u000e\u0000\u0003\u0004\u0000＀를\n\u000e\u0000\u0003\u0004旾ｷON\u000e\u0000\u0003\u0004\u0000＀으로 변경했습니다",
   "SocialResearch_SCENE_RewardDialog_Title": "리서치가 도착했습니다",
   "SocialResearch_SCENE_RewardDialog_Text_Number_1": "\u000e\u0000\u0003\u0004旾ｷ도착한 리서치:\u000e\u0000\u0003\u0004\u0000＀",
   "SocialResearch_SCENE_RewardDialog_Text_Number_2": "\u000e\u0000\u0003\u0004旾ｷ\u000e\u0002\u0001\u0002\u0000건\u000e\u0000\u0003\u0004\u0000＀",

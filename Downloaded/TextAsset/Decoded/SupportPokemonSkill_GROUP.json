@@ -9,6 +9,11 @@
   "SkillEffect_PokemonTypePickupFinishRandom": "Die Hilfe aller Pokémon im Team wurde \u000e\u0002\u0001\u0002\u0000 Mal durchgeführt.",
   "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀 erhalten!",
   "SkillEffect_CookingIngredientNumLimitUp": "Dein Kochtopf hat Platz für \u000e\u0002\u0002\u0002\u0000 zusätzliche \u000e\u0006\u0000\u001e\nZutat\u000eZutaten촀!",
+  "SkillEffect_Stockpile_Energy": "Stärke in Höhe von \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000.\u0012Auslösung\u0016Auslösungen촀 gehortet!",
+  "SkillEffect_SpitUp_Energy": "Stärke in Höhe von \u000e\u0002\u0001\u0002\u0000 \u000e\u0006\u0000.\u0012Auslösung\u0016Auslösungen촀 entfesselt! Relaxos Stärke steigt um \u000e\u0002\t\u0004\u0001촁!",
+  "SkillEffect_Disguise": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 erhalten!",
+  "SkillEffect_Disguise_GreatSuccess": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 erhalten! \u000e\u0003\n\u0002촁s Tarnung ist aufgeflogen!",
+  "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 hat \u000e\u0002\u0002\u0002\u0001 Energie regeneriert!\n\u000e\u0003\n\u0002촂 hat \u000e\u0002\u0002\u0002\u0003 Energie regeneriert!",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Köstliche Gerichte \u000e\u0002\u0002\u0002\u0000 % häufiger!"
 }

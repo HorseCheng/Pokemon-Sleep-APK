@@ -235,6 +235,10 @@
   "md_pokedex_data_desc_36": "Se dice que duerme en lugares remotos bajo\nla plácida luz de la luna, quizás soñando\ncon su distante hogar y con los suyos.",
   "md_pokedex_data_category_name_225": "Pokémon Reparto",
   "md_pokedex_data_desc_225": "Tiene la costumbre de compartir su comida con todo\nel mundo, sea humano o Pokémon. En ocasiones, hace\nademán de sacar algo de la cola aun estando dormido.\nObservándolo de cerca, podría verse qué esconde.",
+  "md_pokedex_data_category_name_425": "Pokémon Globo",
+  "md_pokedex_data_desc_425": "A menudo se acercan a los niños, probablemente en\nbusca de compañía. En raras ocasiones se los ha visto\ndurmiendo abrazados a peluches, tal vez porque\nhayan confundido estos juguetes con niños.",
+  "md_pokedex_data_category_name_426": "Pokémon Dirigible",
+  "md_pokedex_data_desc_426": "Tiene la costumbre de transportar volando a gente\ny a Pokémon. Al parecer, algunos son incapaces de\nconciliar el sueño si no están asiendo algo.",
   "md_pokedex_data_category_name_459": "Pokémon Árbol Nieve",
   "md_pokedex_data_desc_459": "Al llegar la primavera, le crecen bayas alrededor de\nla barriga con pinta apetitosa. Algunos Pokémon se\nacercan con sigilo mientras duerme para comérselas,\nalgo de lo que él no parece percatarse.",
   "md_pokedex_data_category_name_460": "Pokémon Árbol Nieve",
@@ -304,5 +308,7 @@
   "md_pokedex_data_category_name_305": "Pokémon Coraza Férrea",
   "md_pokedex_data_desc_305": "Resuelve sus disputas territoriales embistiendo y\ngolpeando con su cuerpo de acero. Se alimenta de\nhierro, que hace añicos con su enorme mandíbula.\nCuando pierde una disputa territorial, tal es su\ndeseo de ganar la próxima que a veces se queda\ndormido en mitad de un festín de hierro.",
   "md_pokedex_data_category_name_306": "Pokémon Coraza Férrea",
-  "md_pokedex_data_desc_306": "Marca una montaña entera como su territorio y\npatrulla continuamente la zona para defenderlo.\nEn raras ocasiones se ha visto algún ejemplar que\nse había quedado dormido en pleno festín de hierro\nde la montaña, presa quizás del cansancio tras tanto\npatrullar."
+  "md_pokedex_data_desc_306": "Marca una montaña entera como su territorio y\npatrulla continuamente la zona para defenderlo.\nEn raras ocasiones se ha visto algún ejemplar que\nse había quedado dormido en pleno festín de hierro\nde la montaña, presa quizás del cansancio tras tanto\npatrullar.",
+  "md_pokedex_data_category_name_778": "Pokémon Disfraz",
+  "md_pokedex_data_desc_778": "Se cubre con un saco andrajoso con aspecto de\nPikachu para acercarse a otros Pokémon o a la gente.\nPasa tanto tiempo fingiendo ser un Pikachu que a\nveces llega hasta a dormir como ellos."
 }

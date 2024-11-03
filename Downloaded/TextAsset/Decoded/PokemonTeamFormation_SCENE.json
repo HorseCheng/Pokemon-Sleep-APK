@@ -20,6 +20,10 @@
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Squadra attuale",
   "PokemonTeamFormationSceneController_Text_7": "Non hai ancora cambiato squadra.\nSe vuoi scegliere questa al posto\ndi quella attuale, tocca l'icona\n\"Scegli questa squadra\"!\n\nVuoi davvero continuare con\nla squadra attuale?",
   "PokemonTeamFormationSceneController_Text_8": "Hai già un \u000e\u0000\u0003\u0004毿ＷPokémon speciale\n\u000e\u0000\u0003\u0004\u0000＀in squadra. Puoi avere \u000e\u0000\u0003\u0004毿Ｗun solo\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿ＷPokémon speciale in ogni squadra\u000e\u0000\u0003\u0004\u0000＀.\nVuoi rimuovere l'altro Pokémon\nspeciale dalla squadra?",
+  "PokemonTeamFormationSceneController_Text_9": "Almeno un Pokémon nella tua squadra\nha accumulato effetti dell'abilità\nprincipale. Se rimuovi dalla squadra\nattuale un Pokémon che ha accumulato\neffetti, questi verranno azzerati.\nVuoi procedere?",
+  "PokemonTeamFormationSceneController_Text_9_SubHead": "Pokémon interessati",
+  "PokemonTeamFormationSceneController_Text_9_Num": "\u000e\u0002\u0001\u0002\u0000 volt\u000e\u0005\u0000\n\u0002a\u0002e촀",
+  "PokemonTeamFormationSceneController_Text_10": "Il Pokémon che stai sostituendo\nha accumulato \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0001\u000e\u0000\u0003\u0004\u0000＀ attivazioni\ndi \u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u0017\u0002촀\u000e\u0000\u0003\u0004\u0000＀.\nSe lo rimuovi dalla squadra attuale,\nquesto numero sarà azzerato.\nVuoi continuare?",
   "PokemonTeamFormationScene_Note_PopupTitle": "Nota sulle modifiche alla squadra",
   "PokemonTeamFormationScene_Note_PopupText_1": "Quando selezioni un Pokémon\nda mettere in squadra,\n\u000e\u0000\u0003\u0004毿Ｗla durata dell'aiuto del Pokémon\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗselezionato\u000e\u0000\u0003\u0004\u0000＀ e \u000e\u0000\u0003\u0004毿Ｗgli utilizzi dell'abilità\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗprincipale di tutti i membri\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗdella squadra\u000e\u0000\u0003\u0004\u0000＀ vengono azzerati."
 }

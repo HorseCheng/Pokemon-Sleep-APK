@@ -360,6 +360,12 @@
   "md_sleeping_faces_name_225-2": "ぼうだち寝",
   "md_sleeping_faces_name_225-1": "おだやか寝",
   "md_sleeping_faces_name_225-3": "プレゼント寝",
+  "md_sleeping_faces_name_425-2": "ふゆう寝",
+  "md_sleeping_faces_name_425-1": "かいてん寝",
+  "md_sleeping_faces_name_425-3": "あやし寝",
+  "md_sleeping_faces_name_426-2": "ふゆう寝",
+  "md_sleeping_faces_name_426-1": "だいかいてん寝",
+  "md_sleeping_faces_name_426-3": "あやし寝",
   "md_sleeping_faces_name_459-2": "ぼうだち寝",
   "md_sleeping_faces_name_459-1": "すわり寝",
   "md_sleeping_faces_name_459-3": "きのみ寝",
@@ -465,5 +471,8 @@
   "md_sleeping_faces_name_306-1": "おなかさすり寝",
   "md_sleeping_faces_name_306-2": "におうだち寝",
   "md_sleeping_faces_name_306-3": "てつたべ寝",
+  "md_sleeping_faces_name_778-1": "まるまりたい寝",
+  "md_sleeping_faces_name_778-2": "ばればれ寝",
+  "md_sleeping_faces_name_778-3": "まねっこ寝",
   "md_sleeping_faces_name_onSnorlax": "おなかのうえ寝"
 }

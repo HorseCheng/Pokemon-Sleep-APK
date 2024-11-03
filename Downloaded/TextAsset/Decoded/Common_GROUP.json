@@ -21,8 +21,6 @@
   "CommonGroup_TimeZoneCautionPopup_Text": "Es scheint, als hätte sich die Zeitzone\ndeines Geräts wiederholt geändert.\nSei bitte vorsichtig, da dies dazu\nführen kann, dass Spieldaten\nbeschädigt werden.",
   "CommonGroup_TimeManipulationPopup_Title": "Zeit des Geräts wurde geändert",
   "CommonGroup_TimeManipulationPopup_Text": "Es wurde eine Änderung der Zeit\ndeines Geräts festgestellt, seit du\ndas letzte Mal gespielt hast. Änderst\ndu diese zu häufig, kann dadurch dein\nSpielerlebnis negativ beeinflusst\nwerden, also sei bitte vorsichtig.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_1": "Dieser Tausch kann nicht getätigt\nwerden, weil du dann mehr Exemplare\ndieses Items hättest, als du tragen\nkannst.",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_1_v170": "Du kannst bis zu \u000e\u0002\u0000\u0002촀 \u000e\u0006\u0000(\u0010Exemplar\u0012Exemplare촀 dieses\nItems besitzen.\nDer Tausch kann nicht durchgeführt\nwerden, weil du dieses Limit sonst\nüberschreiten würdest.\n\nBitte versuche, den Tausch erneut\ndurchzuführen, nachdem du die Items,\ndie bereits in deinem Besitz sind,\neingesetzt hast.",
-  "CommonGroup_ItemAlreadyLimitCountOver_Text_2": "Du kannst dieses Item nicht erhalten,\nweil du dann mehr Exemplare dieses\nItems hättest, als du tragen kannst.",
   "CommonGroup_ItemAlreadyLimitCountOver_Text_2_v170": "Du kannst maximal bis zu \u000e\u0002\u0000\u0002촀 \u000e\u0006\u0000(\u0010Exemplar\u0012Exemplare촀\ndieses Items besitzen.\nDu kannst dieses Item nicht erhalten,\nweil du dieses Limit sonst\nüberschreiten würdest.\n\nBitte versuche, das Item erneut zu\nerhalten, nachdem du die Items,\ndie bereits in deinem Besitz sind,\neingesetzt hast."
 }

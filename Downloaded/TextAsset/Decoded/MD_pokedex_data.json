@@ -235,6 +235,10 @@
   "md_pokedex_data_desc_36": "It is said to sleep in remote places on quiet, moonlit\nnights. Perhaps it’s dreaming about its friends in its\ndistant homeland as it peacefully sleeps.",
   "md_pokedex_data_category_name_225": "Delivery Pokémon",
   "md_pokedex_data_desc_225": "Delibird has a generous habit of sharing its food\nwith people and Pokémon. Sometimes it reaches into\nits tail to pull something out even while it’s sleeping.\nTry watching closely to see what’s inside.",
+  "md_pokedex_data_category_name_425": "Balloon Pokémon",
+  "md_pokedex_data_desc_425": "Perhaps seeking company, it’s often seen\napproaching children. In rare cases, Drifloon have\nbeen spotted holding plush toys while they sleep.\nMaybe they’ve mistaken the toys for children.",
+  "md_pokedex_data_category_name_426": "Blimp Pokémon",
+  "md_pokedex_data_desc_426": "Drifblim has a habit of carrying people and Pokémon.\nApparently some Drifblim can’t sleep peacefully\nwithout holding on to something.",
   "md_pokedex_data_category_name_459": "Frost Tree Pokémon",
   "md_pokedex_data_desc_459": "It grows berries with the texture of frozen treats\naround its belly when spring approaches. Even if\nother Pokémon sneak up to eat berries while it\nsleeps, Snover doesn’t seem to notice.",
   "md_pokedex_data_category_name_460": "Frost Tree Pokémon",
@@ -304,5 +308,7 @@
   "md_pokedex_data_category_name_305": "Iron Armor Pokémon",
   "md_pokedex_data_desc_305": "Lairon smashes its steely body against others to\nfight over territory. It crushes and eats iron ore\nwith its huge jaw. When a Lairon loses a territorial\ndispute, it wishes so strongly to win the next time\nthat it sometimes falls asleep in the middle of\ndevouring some iron ore.",
   "md_pokedex_data_category_name_306": "Iron Armor Pokémon",
-  "md_pokedex_data_desc_306": "Aggron claims an entire mountain as its own. This\nPokémon vigilantly patrols to make sure nothing\nviolates its territory. On rare occasions, it’s\nbeen spotted sleeping while eating iron ore it dug\nup from its mountain—perhaps it was tuckered\nout from its patrol."
+  "md_pokedex_data_desc_306": "Aggron claims an entire mountain as its own. This\nPokémon vigilantly patrols to make sure nothing\nviolates its territory. On rare occasions, it’s\nbeen spotted sleeping while eating iron ore it dug\nup from its mountain—perhaps it was tuckered\nout from its patrol.",
+  "md_pokedex_data_category_name_778": "Disguise Pokémon",
+  "md_pokedex_data_desc_778": "Mimikyu wears a rag fashioned into a Pikachu\ncostume in an effort to grow closer to people and\nother Pokémon. It spends so much time acting like a\nPikachu that sometimes it even sleeps like one."
 }

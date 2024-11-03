@@ -50,6 +50,8 @@
   "SocialResearch_SCENE_TutorialPopup_Text_2": "リサーチが届くと \u000e\u0000\u0003\u0004旾ｷポケモンのアメ\u000e\u0000\u0003\u0004\u0000＀ をもらえます",
   "SocialResearch_SCENE_TutorialPopup_Text_3": "フレンドのリサーチは \u000e\u0000\u0003\u0004旾ｷ4時間ごとに更新\u000e\u0000\u0003\u0004\u0000＀ されるの\nで定期的に確認しましょう",
   "SocialResearch_SCENE_TutorialPopup_Text_4": "フレンドに共有する内容については\n\u000e\u0000\u0003\u0004旾ｷ共有オプション\u000e\u0000\u0003\u0004\u0000＀ で細かく設定できます",
+  "SocialResearch_SCENE_ChangeSharingOptionsSetting_Popup_Text_1": "ソーシャルリサーチの\n共有オプションの設定に変更があります",
+  "SocialResearch_SCENE_ChangeSharingOptionsSetting_Popup_Text_2": "\u000e\u0000\u0003\u0004旾ｷ共有オプション\u000e\u0000\u0003\u0004\u0000＀ の \u000e\u0000\u0003\u0004旾ｷ計測デバイスの種類\u000e\u0000\u0003\u0004\u0000＀ を\n\u000e\u0000\u0003\u0004旾ｷON\u000e\u0000\u0003\u0004\u0000＀ に変更しました",
   "SocialResearch_SCENE_RewardDialog_Title": "リサーチが届きました",
   "SocialResearch_SCENE_RewardDialog_Text_Number_1": "\u000e\u0000\u0003\u0004旾ｷ届いたリサーチ：\u000e\u0000\u0003\u0004\u0000＀",
   "SocialResearch_SCENE_RewardDialog_Text_Number_2": "\u000e\u0000\u0003\u0004旾ｷ\u000e\u0002\u0001\u0002\u0000件\u000e\u0000\u0003\u0004\u0000＀",

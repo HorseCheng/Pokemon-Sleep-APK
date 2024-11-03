@@ -28,5 +28,11 @@
   "md_pokemon_main_skills_name_14": "Tasty Chance S",
   "md_pokemon_main_skills_desc_14": "Raises your Extra Tasty rate by\n\u000e\u0002\u0002\u0002\u0000%. The effect lasts until you cook\nan Extra Tasty dish or change sites.",
   "md_pokemon_main_skills_name_15": "Helper Boost",
-  "md_pokemon_main_skills_desc_15": "Instantly gets you ×\u000e\u0002\u0001\u0002\u0000 the usual help\nfrom all Pokémon on your team. Meet\ncertain conditions to boost effect."
+  "md_pokemon_main_skills_desc_15": "Instantly gets you ×\u000e\u0002\u0001\u0002\u0000 the usual help\nfrom all Pokémon on your team. Meet\ncertain conditions to boost effect.",
+  "md_pokemon_main_skills_name_16": "Stockpile (Charge Strength S)",
+  "md_pokemon_main_skills_desc_16": "Stockpile or Spit Up is selected.\nWhen Spit Up triggers, Snorlax gains\nStrength from Stockpile’s number.",
+  "md_pokemon_main_skills_name_17": "Disguise (Berry Burst)",
+  "md_pokemon_main_skills_desc_17": "Gets \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 plus \u000e\u0002\u0002\u0002\u0001 of each\nof the Berries other Pokémon on\nyour team collect.",
+  "md_pokemon_main_skills_name_18": "Moonlight (Charge Energy S)",
+  "md_pokemon_main_skills_desc_18": "Restores \u000e\u0002\u0006\u0004\u0000촂 Energy to the user.\nSometimes also restores \u000e\u0002\u0006\u0004\u0001촁 Energy\nto a random Pokémon on your team."
 }

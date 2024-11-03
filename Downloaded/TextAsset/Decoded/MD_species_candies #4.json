@@ -101,6 +101,8 @@
   "md_species_candies_name_35_plu": "ピッピのアメ",
   "md_species_candies_name_225": "デリバードのアメ",
   "md_species_candies_name_225_plu": "デリバードのアメ",
+  "md_species_candies_name_425": "フワンテのアメ",
+  "md_species_candies_name_425_plu": "フワンテのアメ",
   "md_species_candies_name_459": "ユキカブリのアメ",
   "md_species_candies_name_459_plu": "ユキカブリのアメ",
   "md_species_candies_name_353": "カゲボウズのアメ",
@@ -129,6 +131,8 @@
   "md_species_candies_name_912_plu": "クワッスのアメ",
   "md_species_candies_name_304": "ココドラのアメ",
   "md_species_candies_name_304_plu": "ココドラのアメ",
+  "md_species_candies_name_778": "ミミッキュのアメ",
+  "md_species_candies_name_778_plu": "ミミッキュのアメ",
   "md_species_candies_narrow_name_25": "ピカチュウ\nのアメ",
   "md_species_candies_narrow_name_25_plu": "ピカチュウ\nのアメ",
   "md_species_candies_narrow_name_133": "イーブイ\nのアメ",
@@ -223,6 +227,8 @@
   "md_species_candies_narrow_name_35_plu": "ピッピ\nのアメ",
   "md_species_candies_narrow_name_225": "デリバード\nのアメ",
   "md_species_candies_narrow_name_225_plu": "デリバード\nのアメ",
+  "md_species_candies_narrow_name_425": "フワンテ\nのアメ",
+  "md_species_candies_narrow_name_425_plu": "フワンテ\nのアメ",
   "md_species_candies_narrow_name_459": "ユキカブリ\nのアメ",
   "md_species_candies_narrow_name_459_plu": "ユキカブリ\nのアメ",
   "md_species_candies_narrow_name_353": "カゲボウズ\nのアメ",
@@ -258,5 +264,7 @@
   "md_species_candies_narrow_name_194": "ウパー\nのアメ",
   "md_species_candies_narrow_name_194_plu": "ウパー\nのアメ",
   "md_species_candies_narrow_name_304": "ココドラ\nのアメ",
-  "md_species_candies_narrow_name_304_plu": "ココドラ\nのアメ"
+  "md_species_candies_narrow_name_304_plu": "ココドラ\nのアメ",
+  "md_species_candies_narrow_name_778": "ミミッキュ\nのアメ",
+  "md_species_candies_narrow_name_778_plu": "ミミッキュ\nのアメ"
 }

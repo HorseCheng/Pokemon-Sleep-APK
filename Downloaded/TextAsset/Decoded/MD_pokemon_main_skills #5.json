@@ -28,5 +28,11 @@
   "md_pokemon_main_skills_name_14": "料理成功S",
   "md_pokemon_main_skills_desc_14": "料理漂亮成功的機率會提升\u000e\u0002\u0002\u0002\u0000%。\n效果會持續到料理漂亮成功\n或移動營地為止。",
   "md_pokemon_main_skills_name_15": "幫手加速",
-  "md_pokemon_main_skills_desc_15": "隊伍中的所有寶可夢會立刻完成\u000e\u0002\u0001\u0002\u0000次幫忙。\n滿足特定條件時，效果會進一步提升。"
+  "md_pokemon_main_skills_desc_15": "隊伍中的所有寶可夢會立刻完成\u000e\u0002\u0001\u0002\u0000次幫忙。\n滿足特定條件時，效果會進一步提升。",
+  "md_pokemon_main_skills_name_16": "蓄力（能量填充S）",
+  "md_pokemon_main_skills_desc_16": "發動時會蓄積或噴放能量。\n在噴放能量時，會根據蓄積的次數\n增加卡比獸的能量。",
+  "md_pokemon_main_skills_name_17": "畫皮（樹果遽增）",
+  "md_pokemon_main_skills_desc_17": "獲得\u000e\u0002\u0002\u0002\u0000個樹果，\n另外還會獲得各\u000e\u0002\u0002\u0002\u0001個\n隊伍中的寶可夢會撿來的樹果。",
+  "md_pokemon_main_skills_name_18": "月光（活力填充S）",
+  "md_pokemon_main_skills_desc_18": "讓自己回復活力\u000e\u0002\u0006\u0004\u0000촁。\n有時候還會讓隊伍的1隻寶可夢\n回復活力\u000e\u0002\u0006\u0004\u0001촁。"
 }

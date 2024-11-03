@@ -235,6 +235,10 @@
   "md_pokedex_data_desc_36": "Pixi soll in ruhigen, vom Mondschein erhellten\nNächten an abgeschiedenen Orten schlafen.\nVielleicht träumt es von Freunden in seiner\nfernen Heimat, während es friedlich schläft.",
   "md_pokedex_data_category_name_225": "Lieferanten-Pokémon",
   "md_pokedex_data_desc_225": "Botogel hat die Angewohnheit, seine eigene Nahrung\nmit Menschen und Pokémon zu teilen. Es greift sogar\nim Schlaf manchmal in seinen Schweif und holt etwas\nhervor. Wenn man ganz genau hinschaut, kann man\nmitunter erkennen, was sich darin befindet.",
+  "md_pokedex_data_category_name_425": "Ballon-Pokémon",
+  "md_pokedex_data_desc_425": "Es nähert sich oft Kindern, womöglich auf der Suche\nnach Freunden. In seltenen Fällen wurden Driftlon\ndabei beobachtet, wie sie im Schlaf Plüschpuppen\nfesthalten. Möglicherweise haben sie diese mit\nKindern verwechselt.",
+  "md_pokedex_data_category_name_426": "Luftschiff-Pokémon",
+  "md_pokedex_data_desc_426": "Drifzepeli transportiert Menschen und Pokémon.\nAnscheinend können einige Drifzepeli nicht friedlich\nschlafen, ohne sich an etwas festzuklammern.",
   "md_pokedex_data_category_name_459": "Frostbaum-Pokémon",
   "md_pokedex_data_desc_459": "Im Frühjahr wachsen um seinen Bauch herum Beeren,\ndie sich wie gefrorene Süßigkeiten anfühlen.\nWährend es schläft, schleichen sich andere Pokémon\nan Shnebedeck heran, um die Beeren zu fressen, doch\nes scheint dies nicht zu bemerken.",
   "md_pokedex_data_category_name_460": "Frostbaum-Pokémon",
@@ -304,5 +308,7 @@
   "md_pokedex_data_category_name_305": "Eisenpanzer-Pokémon",
   "md_pokedex_data_desc_305": "Bei Revierkämpfen stürzt es sich mit seinem\nstählernen Körper auf Kontrahenten. Es zermalmt\nEisenerz mit seinem riesigen Kiefer, um es zu essen.\nVerliert Stollrak einen Revierkampf, wünscht es sich\nso stark, nächstes Mal zu gewinnen, dass es\nmanchmal beim Verschlingen von Eisenerz einschläft.",
   "md_pokedex_data_category_name_306": "Eisenpanzer-Pokémon",
-  "md_pokedex_data_desc_306": "Stolloss nennt einen ganzen Berg sein Territorium.\nEs behält sein Territorium jederzeit im Auge, damit\nniemand eindringt. In seltenen Fällen hat man es im\nSchlaf Eisenerz fressen sehen, das aus dem Berg\nstammt. Vielleicht wurde es beim Wachehalten müde."
+  "md_pokedex_data_desc_306": "Stolloss nennt einen ganzen Berg sein Territorium.\nEs behält sein Territorium jederzeit im Auge, damit\nniemand eindringt. In seltenen Fällen hat man es im\nSchlaf Eisenerz fressen sehen, das aus dem Berg\nstammt. Vielleicht wurde es beim Wachehalten müde.",
+  "md_pokedex_data_category_name_778": "Kostümspuk-Pokémon",
+  "md_pokedex_data_desc_778": "Es verbirgt sich unter einem Lumpen, der wie ein\nPikachu aussieht, um sich Menschen und anderen\nPokémon zu nähern. Es verbringt so viel Zeit damit,\nsich wie ein Pikachu zu verhalten, dass es manchmal\nsogar wie eines schläft."
 }

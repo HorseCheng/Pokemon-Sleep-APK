@@ -360,6 +360,12 @@
   "md_sleeping_faces_name_225-2": "Stile in piedi",
   "md_sleeping_faces_name_225-1": "Stile tranquillo",
   "md_sleeping_faces_name_225-3": "Stile regalo",
+  "md_sleeping_faces_name_425-2": "Stile fluttuante",
+  "md_sleeping_faces_name_425-1": "Stile volteggio",
+  "md_sleeping_faces_name_425-3": "Stile rassicurante",
+  "md_sleeping_faces_name_426-2": "Stile fluttuante",
+  "md_sleeping_faces_name_426-1": "Stile gran volteggio",
+  "md_sleeping_faces_name_426-3": "Stile rassicurante",
   "md_sleeping_faces_name_459-2": "Stile in piedi",
   "md_sleeping_faces_name_459-1": "Stile seduto",
   "md_sleeping_faces_name_459-3": "Stile bacche",
@@ -465,5 +471,8 @@
   "md_sleeping_faces_name_306-1": "Stile grattapancia",
   "md_sleeping_faces_name_306-2": "Stile imponente",
   "md_sleeping_faces_name_306-3": "Stile mangiaferro",
+  "md_sleeping_faces_name_778-1": "Stile tentatondo",
+  "md_sleeping_faces_name_778-2": "Stile smascherato",
+  "md_sleeping_faces_name_778-3": "Stile copione",
   "md_sleeping_faces_name_onSnorlax": "Stile sopralapancia"
 }

@@ -20,6 +20,10 @@
   "PokemonTeamFormationScene_Header_CurrentTeamTag": "Current Team",
   "PokemonTeamFormationSceneController_Text_7": "You haven’t changed your current\nteam yet. If you’d like to change from\nyour current team to this one, tap\nthe “Use This Team” button!\n\nOr are you OK sticking with your\ncurrent team instead?",
   "PokemonTeamFormationSceneController_Text_8": "You already have a \u000e\u0000\u0003\u0004毿ＷSpecial Pokémon\u000e\u0000\u0003\u0004\u0000＀ on\nyour team. You can have \u000e\u0000\u0003\u0004毿Ｗonly one\nSpecial Pokémon on the same team\u000e\u0000\u0003\u0004\u0000＀ at\na time. Do you want to remove the\nother Special Pokémon from your\nteam?",
+  "PokemonTeamFormationSceneController_Text_9": "One or more Pokémon on your team\nhave Main Skill effects built up. If\nyou remove that Pokémon from your\ncurrent team, its built-up effects\nwill be reset. Is that OK?",
+  "PokemonTeamFormationSceneController_Text_9_SubHead": "Applicable Pokémon",
+  "PokemonTeamFormationSceneController_Text_9_Num": "\u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u0018\btime\ntimes촀",
+  "PokemonTeamFormationSceneController_Text_10": "The Pokémon you are swapping out has\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0002\u0001\u0002\u0001 \u000e\u0001\u0000$\u000etrigger\u0010triggers촁\u000e\u0000\u0003\u0004\u0000＀ of\u000e\u0000\u0003\u0004毿Ｗ \u000e\u0003\u0017\u0002촀 \u000e\u0000\u0003\u0004\u0000＀built up.\nIf you remove this Pokémon from your\ncurrent team, this number will reset.\nIs that OK?",
   "PokemonTeamFormationScene_Note_PopupTitle": "Note about Selecting Members",
   "PokemonTeamFormationScene_Note_PopupText_1": "When you select a Pokémon for your\nteam, \u000e\u0000\u0003\u0004毿Ｗthe selected Pokémon’s helping\ntime\u000e\u0000\u0003\u0004\u0000＀ and \u000e\u0000\u0003\u0004毿Ｗthe main skills for all\nPokémon on the team\u000e\u0000\u0003\u0004\u0000＀ will be reset."
 }

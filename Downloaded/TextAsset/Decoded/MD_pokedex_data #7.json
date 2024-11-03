@@ -235,6 +235,10 @@
   "md_pokedex_data_desc_36": "Si dice che nelle silenziose notti di luna piena\ndorma in luoghi isolati. Forse sogna i suoi amici\nnella lontana terra natia mentre dorme beato.",
   "md_pokedex_data_category_name_225": "Pokémon Consegna",
   "md_pokedex_data_desc_225": "Ama condividere il cibo con esseri umani e Pokémon.\nAnche mentre dorme, a volte si allunga verso la coda\nper tirarne fuori qualcosa. Osservando attentamente\nsi potrebbe scoprire che cosa contiene.",
+  "md_pokedex_data_category_name_425": "Pokémon Pallone",
+  "md_pokedex_data_desc_425": "Si avvicina ai bambini cercando compagnia.\nIn alcuni casi è stato visto dormire abbracciando\ndei peluche, che forse scambia per dei bambini.",
+  "md_pokedex_data_category_name_426": "Pokémon Dirigibile",
+  "md_pokedex_data_desc_426": "Ha l'abitudine di trasportare Pokémon e persone.\nPare che alcuni Drifblim non riescano a dormire\ntranquilli se non stanno tenendo qualcosa.",
   "md_pokedex_data_category_name_459": "Pokémon Albergelo",
   "md_pokedex_data_desc_459": "In primavera, attorno al ventre gli crescono\nbacche simili a ghiaccioli. Alcuni Pokémon gli\nsi avvicinano di nascosto mentre dorme per\nmangiarle, ma lui non sembra accorgersene.",
   "md_pokedex_data_category_name_460": "Pokémon Albergelo",
@@ -304,5 +308,7 @@
   "md_pokedex_data_category_name_305": "Pokémon Corazza",
   "md_pokedex_data_desc_305": "Lotta scagliandosi contro i suoi simili per\nla supremazia sul territorio. Si nutre di\nferro, spaccandolo con le grandi mascelle.\nQuando un Lairon perde una lotta per il territorio,\ndesidera la rivincita così intensamente che\na volte si addormenta mentre divora del ferro.",
   "md_pokedex_data_category_name_306": "Pokémon Corazza",
-  "md_pokedex_data_desc_306": "È solito delimitare un'intera montagna come suo\nterritorio esclusivo e pattuglia il proprio spazio\nper assicurarsi che nessuno ne violi i confini.\nRaramente è stato visto dormire mentre mangia\ndel ferro estratto della montagna, forse perché\ntroppo stanco dopo le sue ronde."
+  "md_pokedex_data_desc_306": "È solito delimitare un'intera montagna come suo\nterritorio esclusivo e pattuglia il proprio spazio\nper assicurarsi che nessuno ne violi i confini.\nRaramente è stato visto dormire mentre mangia\ndel ferro estratto della montagna, forse perché\ntroppo stanco dopo le sue ronde.",
+  "md_pokedex_data_category_name_778": "Pokémon Fantasmanto",
+  "md_pokedex_data_desc_778": "Per poter avvicinare gli esseri umani e gli altri\nPokémon, cela il suo aspetto sotto un panno che\nimita le fattezze di Pikachu. Passa così tanto\ntempo a fingersi un Pikachu che a volte lo imita\nanche nel sonno."
 }
