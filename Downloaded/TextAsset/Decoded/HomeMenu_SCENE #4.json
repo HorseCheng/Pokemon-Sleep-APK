@@ -245,7 +245,7 @@
   "ManualReportRegisterPopup_Desc": "현재 시각으로부터 30시간 전까지의\n수면 데이터를 입력할 수 있습니다",
   "ManualReportRegisterPopup_SleepStartTime_Title": "취침 일시",
   "ManualReportRegisterPopup_SleepTimeValue": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă",
-  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002촃",
+  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002\u0003",
   "ManualReportRegisterPopup_SleepEndTime_Title": "기상 일시",
   "ManualReportDescPopup_Section_Desc_RegisterButton": "데이터 등록",
   "ManualReportRegisterPopup_RegisterButton": "등록한다",

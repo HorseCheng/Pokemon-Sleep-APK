@@ -245,7 +245,7 @@
   "ManualReportRegisterPopup_Desc": "可以登錄過去30小時的睡眠資料。",
   "ManualReportRegisterPopup_SleepStartTime_Title": "就寢時間",
   "ManualReportRegisterPopup_SleepTimeValue": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă",
-  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002촃",
+  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000  \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002\u0003",
   "ManualReportRegisterPopup_SleepEndTime_Title": "起床時間",
   "ManualReportDescPopup_Section_Desc_RegisterButton": "登錄資料",
   "ManualReportRegisterPopup_RegisterButton": "登錄",

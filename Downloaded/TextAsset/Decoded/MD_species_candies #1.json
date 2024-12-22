@@ -107,6 +107,8 @@
   "md_species_candies_name_459_plu": "Bonbons Blizzi",
   "md_species_candies_name_353": "Bonbon Polichombr",
   "md_species_candies_name_353_plu": "Bonbons Polichombr",
+  "md_species_candies_name_215": "Bonbon Farfuret",
+  "md_species_candies_name_215_plu": "Bonbons Farfuret",
   "md_species_candies_name_280": "Bonbon Tarsal",
   "md_species_candies_name_280_plu": "Bonbons Tarsal",
   "md_species_candies_name_736": "Bonbon Larvibule",
@@ -133,6 +135,8 @@
   "md_species_candies_name_304_plu": "Bonbons Galekid",
   "md_species_candies_name_778": "Bonbon Mimiqui",
   "md_species_candies_name_778_plu": "Bonbons Mimiqui",
+  "md_species_candies_name_921": "Bonbon Pohm",
+  "md_species_candies_name_921_plu": "Bonbons Pohm",
   "md_species_candies_narrow_name_25": "Bonbon\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Bonbons\nPikachu",
   "md_species_candies_narrow_name_133": "Bonbon\nÉvoli",
@@ -233,6 +237,8 @@
   "md_species_candies_narrow_name_459_plu": "Bonbons\nBlizzi",
   "md_species_candies_narrow_name_353": "Bonbon\nPolichombr",
   "md_species_candies_narrow_name_353_plu": "Bonbons\nPolichombr",
+  "md_species_candies_narrow_name_215": "Bonbon\nFarfuret",
+  "md_species_candies_narrow_name_215_plu": "Bonbons\nFarfuret",
   "md_species_candies_narrow_name_280": "Bonbon\nTarsal",
   "md_species_candies_narrow_name_280_plu": "Bonbons\nTarsal",
   "md_species_candies_narrow_name_736": "Bonbon\nLarvibule",
@@ -266,5 +272,7 @@
   "md_species_candies_narrow_name_304": "Bonbon\nGalekid",
   "md_species_candies_narrow_name_304_plu": "Bonbons\nGalekid",
   "md_species_candies_narrow_name_778": "Bonbon\nMimiqui",
-  "md_species_candies_narrow_name_778_plu": "Bonbons\nMimiqui"
+  "md_species_candies_narrow_name_778_plu": "Bonbons\nMimiqui",
+  "md_species_candies_narrow_name_921": "Bonbon\nPohm",
+  "md_species_candies_narrow_name_921_plu": "Bonbons\nPohm"
 }

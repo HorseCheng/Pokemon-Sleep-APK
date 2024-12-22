@@ -95,6 +95,7 @@
   "item_name_94": "Hyperkeks",
   "item_name_95": "Suicune-Keks",
   "item_name_96": "Suicune-Mähne",
+  "item_name_97": "Scharfklaue",
   "item_desc_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte. Wird\nnach einer Anwendung aufgebraucht.",
   "item_desc_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter. Wird nach\neiner Anwendung aufgebraucht.",
   "item_desc_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.\nWird nach einer Anwendung\naufgebraucht.",
@@ -138,6 +139,7 @@
   "item_desc_92": "Ein spezieller Snack für Entei, der\nes erheblich freundlicher stimmt.\nDieser Keks erhöht Enteis\nFreundespunkte um 6.\n\n\u000e\n\u0000\u0002촀Hinweis: Wenn der Zeitraum für den\nEvent-Tausch abgelaufen ist, wird\ndieses Item automatisch in einen\nSuperkeks umgewandelt. Die genauen\nDaten für den Tauschzeitraum findest\ndu in den Event-Neuigkeiten.\u000f\n\u0000",
   "item_desc_94": "Ein leckerer Snack, der ein Pokémon\nenorm freundlicher stimmt. Dieser\nKeks verleiht 5 Freundespunkte.",
   "item_desc_95": "Ein spezieller Snack für Suicune, der\nes erheblich freundlicher stimmt.\nDieser Keks erhöht Suicunes\nFreundespunkte um 6.\n\n\u000e\n\u0000\u0002촀Hinweis: Wenn der Zeitraum für den\nEvent-Tausch abgelaufen ist, wird\ndieses Item automatisch in einen\nSuperkeks umgewandelt. Die genauen\nDaten für den Tauschzeitraum findest\ndu in den Event-Neuigkeiten.\u000f\n\u0000",
+  "item_desc_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die Entwicklung\naus.",
   "item_desc_short_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte.",
   "item_desc_short_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter.",
   "item_desc_short_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.",
@@ -179,5 +181,6 @@
   "item_desc_short_74_to_91": "Großes Bonbon, das in 125 Bonbons\nfür jedes Pokémon vom Typ \u000e\u0003\u0002\u0002촀\nverwandelt werden kann.",
   "item_desc_short_92": "Ein spezieller Snack nur für Entei.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher.",
   "item_desc_short_94": "Ein leckerer Snack, der ein Pokémon\nenorm freundlicher stimmt.\nVerleiht 5 Freundespunkte.",
-  "item_desc_short_95": "Ein spezieller Snack für Suicune.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher."
+  "item_desc_short_95": "Ein spezieller Snack für Suicune.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher.",
+  "item_desc_short_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die\nEntwicklung aus."
 }

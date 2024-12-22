@@ -14,6 +14,10 @@
   "SkillEffect_Disguise": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 obtained!",
   "SkillEffect_Disguise_GreatSuccess": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 obtained!\n\u000e\u0003\n\u0002촁’s disguise was busted!",
   "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 recovered \u000e\u0002\u0002\u0002\u0001 Energy!\n\u000e\u0003\n\u0002촂 recovered \u000e\u0002\u0002\u0002\u0003 Energy!",
+  "SkillEffect_Transform": "Transformed into\n\u000e\u0003\n\u0002촀!",
+  "SkillEffect_Transform_Miss": "Transform failed...",
+  "SkillEffect_Mimic": "Mimicked \u000e\u0003\n\u0002촀!",
+  "SkillEffect_Mimic_Miss": "Mimic failed...",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Extra Tasty rate raised by \u000e\u0002\u0002\u0002\u0000%!"
 }

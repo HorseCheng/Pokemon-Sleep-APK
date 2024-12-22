@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001匹",
   "SleepResearchSkipConfirmPopup_Header_Title": "まとめてリサーチ",
   "SleepResearchSkipConfirmPopup_Content_Desc": "すでに発見済みのポケモンの寝顔を\nまとめてリサーチします\nよろしいですか？",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "一括でリサーチ",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "すでに発見済みのポケモンの寝顔を\n一括でリサーチします\nよろしいですか？",
   "SleepResearchScene_AllScoreWrapper_All": "ALL",
   "SleepResearchScene_BaitBall_Header_Title": "おやつタイム",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "ポケモンをタップしてポケサブレをあげよう",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "\u000e\u0003\u0003\u0004Ā촀をつかいます\nよろしいですか？",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "マスターサブレの確認",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "\u000e\u0003\u0001\u0002\u0000にマスターサブレをあげます\nよろしいですか？",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "\u000e\u0003\u0001\u0002Āに\nマスターサブレをあげます\nよろしいですか？",
   "SleepResearchScene_ResearchFinishCutin_Message": "すべてのポケモンのリサーチが\n完了しました",
   "SleepResearchScene_BaitBallInforPopup_Title": "おやつタイムについて",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "おやつタイム",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "このポケモンには\u000e\u0003\u0003\u0004Ā촀を\nあげることは出来ません",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "イベントアイテム",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "まとめて\nリサーチ",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "一括で\nリサーチ",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "つぎの\nポケモンへ"
 }

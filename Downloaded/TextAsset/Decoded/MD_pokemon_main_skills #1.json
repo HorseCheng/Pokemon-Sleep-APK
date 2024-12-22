@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "Velocizza di \u000e\t\u0000\f\bmmmm\u0001 l'aiuto dei Pokémon\ndi tipo \u000e\u0003\u0002\u0002촀 in squadra.",
   "md_pokemon_main_skills_name_13": "Metronomo",
   "md_pokemon_main_skills_desc_13": "Permette di usare una delle abilità\nprincipali esistenti scelta a caso.",
+  "md_pokemon_main_skills_desc_13_v230": "Permette di usare una delle abilità\nprincipali esistenti scelta a caso\ntra una grande selezione.",
   "md_pokemon_main_skills_name_14": "Bontà sopraffina S",
   "md_pokemon_main_skills_desc_14": "Vera bontà \u000e\u0002\u0002\u0002\u0000% più probabile finché\nnon ne prepari una o cambi punto.",
   "md_pokemon_main_skills_name_15": "Potenzia aiutanti",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "Si attiva Accumulo o Sfoghenergia.\nPiù volte si attiva Accumulo, maggiore\nè l'effetto del prossimo Sfoghenergia.",
   "md_pokemon_main_skills_name_17": "Fantasmanto (Bacche a iosa)",
   "md_pokemon_main_skills_desc_17": "Fa raccogliere \u000e\u0002\u0002\u0002\u0000 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀, nonché \u000e\u0002\u0002\u0002\u0001\nciascuna delle bacche ottenibili dagli\naltri Pokémon della squadra.",
+  "md_pokemon_main_skills_desc_17_v220": "Fa raccogliere \u000e\u0002\u0002\u0002\u0000 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀, nonché \u000e\u0002\u0002\u0002\u0001\nciascuna delle bacche ottenibili dagli\naltri Pokémon della squadra.",
   "md_pokemon_main_skills_name_18": "Lucelunare (Carica energia S)",
-  "md_pokemon_main_skills_desc_18": "Fa recuperare energie al Pokémon (+\u000e\u0002\u0006\u0004\u0000촁).\nA volte fa anche recuperare energie\na un Pokémon della squadra (+\u000e\u0002\u0006\u0004\u0001촁)."
+  "md_pokemon_main_skills_desc_18": "Fa recuperare energie al Pokémon (+\u000e\u0002\u0006\u0004\u0000촁).\nA volte fa anche recuperare energie\na un Pokémon della squadra (+\u000e\u0002\u0006\u0004\u0001촁).",
+  "md_pokemon_main_skills_name_19": "Trasformazione (Copia abilità)",
+  "md_pokemon_main_skills_desc_19": "Fa copiare e utilizzare l'abilità\nprincipale di un Pokémon a caso\ntra quelli della squadra.",
+  "md_pokemon_main_skills_name_20": "Mimica (Copia abilità)",
+  "md_pokemon_main_skills_desc_20": "Fa copiare e utilizzare l'abilità\nprincipale di un Pokémon a caso\ntra quelli della squadra."
 }

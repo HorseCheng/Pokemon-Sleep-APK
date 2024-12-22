@@ -54,6 +54,7 @@
   "PokemonBoxLevelupPopup_Header": "レベルアップ",
   "PokemonBoxLevelupPopup_Header_Button": "アメブースト",
   "PokemonBoxLevelupPopup_Header_LimitNum": "今日のアメブースト 残り\u000e\u0002\u0002\u0002\u0000個",
+  "PokemonBoxLevelupPopup_Header_LimitNum_v230": "今日のアメブースト 残り\u000e\u0002\u0004\u0004\u0000촁個",
   "PokemonBoxLevelupPopup_Button_LeftUp": "アメブースト",
   "PokemonBoxLevelup_BoostConfirmPopup_Title": "確認",
   "PokemonBoxLevelup_BoostConfirmPopup_Title_Button": "説明",

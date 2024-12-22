@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchSkipConfirmPopup_Header_Title": "모두 리서치",
   "SleepResearchSkipConfirmPopup_Content_Desc": "이미 발견한 포켓몬의 잠자는 모습을\n모두 리서치합니다\n계속하겠습니까?",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "일괄 리서치",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "이미 발견한 포켓몬의 잠자는 모습을\n일괄 리서치합니다\n계속하겠습니까?",
   "SleepResearchScene_AllScoreWrapper_All": "ALL",
   "SleepResearchScene_BaitBall_Header_Title": "간식 타임",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "포켓몬을 탭해서 포켓사블레를 주자",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촂 사용합니다\n계속하겠습니까?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "마스터 사블레 확인",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "\u000e\u0003\u0001\u0002\u0000에게\n마스터 사블레를 주겠습니까?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "\u000e\u0003\u0001\u0002Ā에게\n마스터 사블레를 주겠습니까?",
   "SleepResearchScene_ResearchFinishCutin_Message": "모든 포켓몬의 리서치가\n완료되었습니다",
   "SleepResearchScene_BaitBallInforPopup_Title": "간식 타임에 대하여",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "간식 타임",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "이 포켓몬에게는 \u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촂\n줄 수 없습니다",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "이벤트 아이템",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "모두 리서치",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "일괄 리서치",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "다음 포켓몬으로"
 }

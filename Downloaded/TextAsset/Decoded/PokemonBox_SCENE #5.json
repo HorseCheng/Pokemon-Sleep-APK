@@ -54,6 +54,7 @@
   "PokemonBoxLevelupPopup_Header": "Niveau supérieur",
   "PokemonBoxLevelupPopup_Header_Button": "Boost Bonbon",
   "PokemonBoxLevelupPopup_Header_LimitNum": "Utilisations du Boost Bonbon\nrestantes aujourd'hui : \u000e\u0002\u0002\u0002\u0000",
+  "PokemonBoxLevelupPopup_Header_LimitNum_v230": "Utilisations du Boost Bonbon\nrestantes aujourd'hui : \u000e\u0002\u0004\u0004\u0000촁",
   "PokemonBoxLevelupPopup_Button_LeftUp": "Boost Bonbon",
   "PokemonBoxLevelup_BoostConfirmPopup_Title": "Confirmation",
   "PokemonBoxLevelup_BoostConfirmPopup_Title_Button": "Description",

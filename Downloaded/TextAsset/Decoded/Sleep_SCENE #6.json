@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "Ces données datent de plus de 14 jours\net sont donc inexploitables.",
   "HomeStartSleepPopup_HeaderTitle": "Aller se coucher",
   "HomeStartSleepPopup_Title": "Souhaitez-vous aller dormir ?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "Préparation au sommeil...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(Veuillez patienter.)",
   "SleepConsumableItemSelectPopup_Title": "Choix d'Encens",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "Choisissez les Encens que vous souhaitez utiliser\npour cette session de sommeil.",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

@@ -14,6 +14,10 @@
   "SkillEffect_Disguise": "獲得\u000e\u0002\u0003\u0004\u0000촁個樹果！",
   "SkillEffect_Disguise_GreatSuccess": "獲得\u000e\u0002\u0003\u0004\u0000촁個樹果！！\n\u000e\u0003\n\u0002촁的畫皮脫落了！",
   "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀的活力回復\u000e\u0002\u0002\u0002\u0001！\n\u000e\u0003\n\u0002촂的活力回復\u000e\u0002\u0002\u0002\u0003！",
+  "SkillEffect_Transform": "變身成了\u000e\u0003\n\u0002촀！",
+  "SkillEffect_Transform_Miss": "變身沒有成功。",
+  "SkillEffect_Mimic": "模仿了\u000e\u0003\n\u0002촀！",
+  "SkillEffect_Mimic_Miss": "模仿沒有成功。",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "料理漂亮成功的機率提升\u000e\u0002\u0002\u0002\u0000％了！"
 }

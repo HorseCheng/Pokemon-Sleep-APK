@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "This data is from 14 or more days ago,\nso it can’t be used for sleep research.",
   "HomeStartSleepPopup_HeaderTitle": "Sleep Preparations",
   "HomeStartSleepPopup_Title": "All ready to sleep?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "Preparing for sleep...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(Please wait.)",
   "SleepConsumableItemSelectPopup_Title": "Select Incense",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "Choose an incense you’d like to use for this\nsleep session.",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

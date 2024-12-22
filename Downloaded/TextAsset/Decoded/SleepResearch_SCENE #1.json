@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchSkipConfirmPopup_Header_Title": "Schneller Überblick",
   "SleepResearchSkipConfirmPopup_Content_Desc": "Möchtest du alle Pokémon mit\nSchlafposen, die du bereits entdeckt\nhast, automatisch erforschen lassen?",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "Schneller Überblick",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "Möchtest du alle Pokémon mit\nSchlafposen, die du bereits entdeckt\nhast, automatisch erforschen lassen?",
   "SleepResearchScene_AllScoreWrapper_All": "Gesamt",
   "SleepResearchScene_BaitBall_Header_Title": "Snackzeit",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "Tippe Pokémon an, um sie zu füttern!",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "Möchtest du diesem Pokémon einen\n\u000e\u0003\u0003\u0004Ā촀 geben?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Meisterkeks geben?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Möchtest du\n\u000e\u0003\u0001\u0002\u0000\nwirklich einen Meisterkeks geben?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "Möchtest du \u000e\u0003\u0001\u0002Ā\nwirklich einen Meisterkeks geben?",
   "SleepResearchScene_ResearchFinishCutin_Message": "Du hast alle versammelten \nPokémon erforscht!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Snackzeit",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "Was passiert eigentlich in der Snackzeit?",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "Schneller\nÜberblick",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Schneller\nÜberblick",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "Zum nächsten\nPokémon"
 }

@@ -14,6 +14,10 @@
   "SkillEffect_Disguise": "\u000e\u0002\u0003\u0004\u0000촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촀 obtenue\u000e\u0004\u0000\b\u0000\u0002s촀 !",
   "SkillEffect_Disguise_GreatSuccess": "\u000e\u0002\u0003\u0004\u0000촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촀 obtenue\u000e\u0004\u0000\b\u0000\u0002s촀 !\nLe déguisement de \u000e\u0003\n\u0002촁\ntombe !",
   "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 a récupéré \u000e\u0002\u0002\u0002\u0001 point\u000e\u0004\u0000\b\u0000\u0002s촁 d'énergie !\n\u000e\u0003\n\u0002촂 a récupéré \u000e\u0002\u0002\u0002\u0003 point\u000e\u0004\u0000\b\u0000\u0002s촃 d'énergie !",
+  "SkillEffect_Transform": "Se transforme\nen \u000e\u0003\n\u0002촀 !",
+  "SkillEffect_Transform_Miss": "Morphing a échoué...",
+  "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀 est copié !",
+  "SkillEffect_Mimic_Miss": "Copie a échoué...",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Vos chances de cuisiner un plat super bon ont augmenté de \u000e\u0002\u0002\u0002\u0000 % !"
 }

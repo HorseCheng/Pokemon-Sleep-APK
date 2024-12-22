@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchSkipConfirmPopup_Header_Title": "Speed Review",
   "SleepResearchSkipConfirmPopup_Content_Desc": "Pokémon sleeping in styles you’ve already\ndiscovered for that species will be\nstudied automatically. Is that OK?",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "Speed Review",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "Pokémon sleep styles you’ve already\ndiscovered for that species will be\nstudied automatically. Is that OK?",
   "SleepResearchScene_AllScoreWrapper_All": "TOTAL",
   "SleepResearchScene_BaitBall_Header_Title": "Snack Time",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "Tap Pokémon to feed them biscuits!",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "Feed this Pokémon a \u000e\u0003\u0003\u0004Ā촀?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Master Biscuit Confirmation",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Are you sure you want to\ngive a Master Biscuit to\n\u000e\u0003\u0001\u0002\u0000?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "Are you sure you want to\ngive a Master Biscuit to\n\u000e\u0003\u0001\u0002Ā?",
   "SleepResearchScene_ResearchFinishCutin_Message": "You studied all the\ngathered Pokémon!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Snack Time",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "What’s Snack Time All About?",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "You can’t give the following item\nto this Pokémon: \u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event Items",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "Speed Review",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Speed Review",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "To next\nPokémon"
 }

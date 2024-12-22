@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001隻",
   "SleepResearchSkipConfirmPopup_Header_Title": "一併研究",
   "SleepResearchSkipConfirmPopup_Content_Desc": "即將一併研究所有\n曾經發現過的寶可夢睡姿。\n確定要繼續嗎？",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "快速研究",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "即將快速研究所有\n曾經發現過的寶可夢睡姿。\n確定要繼續嗎？",
   "SleepResearchScene_AllScoreWrapper_All": "ALL",
   "SleepResearchScene_BaitBall_Header_Title": "點心時間",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "點擊寶可夢，給牠吃寶可沙布蕾吧！",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "確定要給牠\u000e\u0003\u0003\u0004Ā촀嗎？",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "大師沙布蕾使用確認",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "確定要把大師沙布蕾\n給\u000e\u0003\u0001\u0002\u0000吃嗎？",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "確定要把大師沙布蕾\n給\u000e\u0003\u0001\u0002Ā吃嗎？",
   "SleepResearchScene_ResearchFinishCutin_Message": "完成所有寶可夢的研究了！",
   "SleepResearchScene_BaitBallInforPopup_Title": "關於點心時間",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "點心時間",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "無法給這隻寶可夢吃\n\u000e\u0003\u0003\u0004Ā촀。",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "活動道具",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "一併研究",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "快速研究",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "下一隻寶可夢"
 }

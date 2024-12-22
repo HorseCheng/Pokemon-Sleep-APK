@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "此為14天以前的資料，\n所以沒有進行睡眠研究。",
   "HomeStartSleepPopup_HeaderTitle": "睡覺",
   "HomeStartSleepPopup_Title": "您準備要睡覺了嗎？",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "睡前準備中……",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "（請稍候片刻。）",
   "SleepConsumableItemSelectPopup_Title": "設置薰香",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "請選擇要在睡覺時使用的薰香。",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

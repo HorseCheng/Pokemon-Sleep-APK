@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "チーム内の\u000e\u0003\u0002\u0002촀タイプの\nポケモンのおてつだいが\u000e\t\u0000\n\u0006mmm\u0001進む",
   "md_pokemon_main_skills_name_13": "ゆびをふる",
   "md_pokemon_main_skills_desc_13": "すべてのメインスキルの中から\nどれか1つをくりだす",
+  "md_pokemon_main_skills_desc_13_v230": "たくさんのメインスキルの中から\nどれか1つをくりだす",
   "md_pokemon_main_skills_name_14": "料理チャンスS",
   "md_pokemon_main_skills_desc_14": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000%上がる\n効果は料理が大成功するか、\nフィールドを移動するまで持続する",
   "md_pokemon_main_skills_name_15": "おてつだいブースト",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "たくわえる、はきだす、どちらかが選ばれ\nはきだす発生時、たくわえた回数に応じて\nカビゴンのエナジーを増やす",
   "md_pokemon_main_skills_name_17": "ばけのかわ(きのみバースト)",
   "md_pokemon_main_skills_desc_17": "きのみを\u000e\u0002\u0002\u0002\u0000 個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する",
+  "md_pokemon_main_skills_desc_17_v220": "きのみを\u000e\u0002\u0002\u0002\u0000個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する",
   "md_pokemon_main_skills_name_18": "つきのひかり(げんきチャージS)",
-  "md_pokemon_main_skills_desc_18": "自分のげんきを\u000e\u0002\u0006\u0004\u0000촁回復する\nときどき、さらにチームのポケモン\n1匹のげんきを\u000e\u0002\u0006\u0004\u0001촁回復する"
+  "md_pokemon_main_skills_desc_18": "自分のげんきを\u000e\u0002\u0006\u0004\u0000촁回復する\nときどき、さらにチームのポケモン\n1匹のげんきを\u000e\u0002\u0006\u0004\u0001촁回復する",
+  "md_pokemon_main_skills_name_19": "へんしん(スキルコピー)",
+  "md_pokemon_main_skills_desc_19": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす",
+  "md_pokemon_main_skills_name_20": "ものまね(スキルコピー)",
+  "md_pokemon_main_skills_desc_20": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす"
 }

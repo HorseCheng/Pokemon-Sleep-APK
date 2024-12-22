@@ -12,7 +12,7 @@
   "md_pokemon_main_skills_name_6": "Imán fragmentos S",
   "md_pokemon_main_skills_desc_6": "Otorga entre \u000e\u0002\u0006\u0004\u0000촁 y \u000e\u0002\u0006\u0004\u0001촁\n\u000e\u0007\u0000,\u0012fragmento\u0014fragmentos촁 de sueños.",
   "md_pokemon_main_skills_name_7": "Carga energía S",
-  "md_pokemon_main_skills_desc_7": "Restaura \u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 de energía a este Pokémon.",
+  "md_pokemon_main_skills_desc_7": "Restaura \u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 de energía\na este Pokémon.",
   "md_pokemon_main_skills_name_8": "Energía para todos S",
   "md_pokemon_main_skills_desc_8": "Todos los ayudantes recuperan\n\u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 de energía.",
   "md_pokemon_main_skills_name_9": "Superútil S",
@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "Acelera la ayuda de los Pokémon\nde tipo \u000e\u0003\u0002\u0002촀 \u000e\t\u0000\f\bmmmm\u0001.",
   "md_pokemon_main_skills_name_13": "Metrónomo",
   "md_pokemon_main_skills_desc_13": "Utiliza una habilidad principal al azar.",
+  "md_pokemon_main_skills_desc_13_v230": "Utiliza una habilidad principal al\nazar de entre una gran selección.",
   "md_pokemon_main_skills_name_14": "Cocinitas S",
   "md_pokemon_main_skills_desc_14": "Aumenta un \u000e\u0002\u0002\u0002\u0000 % la probabilidad\nde preparar un plato riquísimo hasta\nconseguirlo o cambiar de ubicación.",
   "md_pokemon_main_skills_name_15": "Mejora de ayuda",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "Activa Reserva o Escupir. Al activar\nEscupir, el vigor aumenta según las\nveces que se haya activado Reserva.",
   "md_pokemon_main_skills_name_17": "Disfraz (Bayamanía)",
   "md_pokemon_main_skills_desc_17": "Otorga \u000e\u0002\u0002\u0002\u0000 \u000e\u0007\u0000\u0018\bbaya\nbayas촀 además de \u000e\u0002\u0002\u0002\u0001 de\ncada baya que recolecte el resto de\nPokémon del equipo.",
+  "md_pokemon_main_skills_desc_17_v220": "Otorga \u000e\u0002\u0002\u0002\u0000 \u000e\u0007\u0000\u0018\bbaya\nbayas촀 además de \u000e\u0002\u0002\u0002\u0001 de\ncada baya que recolecte el resto de\nPokémon del equipo.",
   "md_pokemon_main_skills_name_18": "Luz Lunar (Carga energía S)",
-  "md_pokemon_main_skills_desc_18": "Restaura a este Pokémon \u000e\u0002\u0006\u0004\u0000촂\npunto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía. A veces también\n\u000e\u0002\u0006\u0004\u0001촁 a un Pokémon al azar."
+  "md_pokemon_main_skills_desc_18": "Restaura a este Pokémon \u000e\u0002\u0006\u0004\u0000촂\npunto\u000e\u0007\u0000\b\u0000\u0002s촀 de energía. A veces también\n\u000e\u0002\u0006\u0004\u0001촁 a un Pokémon al azar.",
+  "md_pokemon_main_skills_name_19": "Transformación (Copia habilid.)",
+  "md_pokemon_main_skills_desc_19": "Copia y utiliza la habilidad\nprincipal de un Pokémon de tu\nequipo al azar.",
+  "md_pokemon_main_skills_name_20": "Mimético (Copia habilidades)",
+  "md_pokemon_main_skills_desc_20": "Copia y utiliza la habilidad\nprincipal de un Pokémon de tu\nequipo al azar."
 }

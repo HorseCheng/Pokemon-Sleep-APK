@@ -14,6 +14,10 @@
   "SkillEffect_Disguise": "Ottenut\u000e\u0005\u0000\n\u0002a\u0002e촀 \u000e\u0002\u0003\u0004\u0000촁 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀!",
   "SkillEffect_Disguise_GreatSuccess": "Ottenut\u000e\u0005\u0000\n\u0002a\u0002e촀 \u000e\u0002\u0003\u0004\u0000촁 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀!\n\u000e\u0003\n\u0002촁 è stato smascherato!",
   "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 recupera energie (+\u000e\u0002\u0002\u0002\u0001)!\n\u000e\u0003\n\u0002촂 recupera energie (+\u000e\u0002\u0002\u0002\u0003)!",
+  "SkillEffect_Transform": "Si è trasformato\nin \u000e\u0003\n\u0002촀!",
+  "SkillEffect_Transform_Miss": "Trasformazione fallita.",
+  "SkillEffect_Mimic": "Assunte le sembianze\ndi \u000e\u0003\n\u0002촀!",
+  "SkillEffect_Mimic_Miss": "Mimica fallita.",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Vera bontà più probabile! (\u000e\u0002\u0002\u0002\u0000%)"
 }

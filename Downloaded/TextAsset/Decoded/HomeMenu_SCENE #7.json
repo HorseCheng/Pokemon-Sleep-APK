@@ -245,7 +245,7 @@
   "ManualReportRegisterPopup_Desc": "You can enter data for times you\nslept within the past 30 hours.",
   "ManualReportRegisterPopup_SleepStartTime_Title": "Time You Went to Sleep",
   "ManualReportRegisterPopup_SleepTimeValue": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000 \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă",
-  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000 \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002촃",
+  "ManualReportRegisterPopup_SleepTimeValue_AMPM": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000 \u000e\u0002\u0001\u0002\u0001:\u000e\u0002\u0001\u0002Ă \u000e\t\u0003\u0002\u0003",
   "ManualReportRegisterPopup_SleepEndTime_Title": "Time You Woke Up",
   "ManualReportDescPopup_Section_Desc_RegisterButton": "Add Data",
   "ManualReportRegisterPopup_RegisterButton": "Save",

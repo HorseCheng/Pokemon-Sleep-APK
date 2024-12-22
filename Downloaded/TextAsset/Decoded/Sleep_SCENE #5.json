@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "14일 이상 지난 데이터이므로\n수면 리서치가 진행되지 않았습니다",
   "HomeStartSleepPopup_HeaderTitle": "잠자기",
   "HomeStartSleepPopup_Title": "오늘은 이만 잠들겠습니까?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "잠들 준비를\n하고 있습니다...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(끝날 때까지 기다려 주십시오)",
   "SleepConsumableItemSelectPopup_Title": "향로 세팅",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "잠잘 때 사용할 향로를 선택해 주십시오",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

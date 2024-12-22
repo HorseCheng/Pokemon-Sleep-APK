@@ -54,6 +54,7 @@
   "PokemonBoxLevelupPopup_Header": "Nuovo livello",
   "PokemonBoxLevelupPopup_Header_Button": "Caramelle ↑",
   "PokemonBoxLevelupPopup_Header_LimitNum": "Caramelle ↑ oggi: ancora \u000e\u0002\u0002\u0002\u0000",
+  "PokemonBoxLevelupPopup_Header_LimitNum_v230": "Caramelle ↑ oggi: ancora \u000e\u0002\u0004\u0004\u0000촁",
   "PokemonBoxLevelupPopup_Button_LeftUp": "Caramelle ↑",
   "PokemonBoxLevelup_BoostConfirmPopup_Title": "Conferma",
   "PokemonBoxLevelup_BoostConfirmPopup_Title_Button": "Info",

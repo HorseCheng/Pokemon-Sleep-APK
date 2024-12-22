@@ -14,6 +14,10 @@
   "SkillEffect_Disguise": "나무열매 \u000e\u0002\u0003\u0004\u0000촁개 획득!",
   "SkillEffect_Disguise_GreatSuccess": "나무열매 \u000e\u0002\u0003\u0004\u0000촁개 획득!!\n\u000e\u0003\n\u0002촁의 정체가 드러났다!",
   "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀의 기력 \u000e\u0002\u0002\u0002\u0001 회복!\n\u000e\u0003\n\u0002촂의 기력 \u000e\u0002\u0002\u0002\u0003 회복!",
+  "SkillEffect_Transform": "\u000e\u0003\n\u0002촀\u000e\b\u0000\u0002촅로 변신했다!",
+  "SkillEffect_Transform_Miss": "변신은 실패하고 말았다",
+  "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀\u000e\b\u0000\u0002촂 흉내 냈다!",
+  "SkillEffect_Mimic_Miss": "흉내내기는 실패하고 말았다",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 올랐다!"
 }

@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchSkipConfirmPopup_Header_Title": "Revisión rápida",
   "SleepResearchSkipConfirmPopup_Content_Desc": "¿Quieres que se analice automáticamente\na los Pokémon que duerman en posturas\nque ya has descubierto para su especie?",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "Revisión rápida",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "¿Quieres que se analice automáticamente\na los Pokémon que duerman en posturas\nque ya has descubierto para su especie?",
   "SleepResearchScene_AllScoreWrapper_All": "Total",
   "SleepResearchScene_BaitBall_Header_Title": "Hora del picoteo",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "¡Toca a los Pokémon y dales galletas!",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "¿Quieres darle una \u000e\u0003\u0003\u0004Ā촀?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Confirmación",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "¿Seguro que quieres darle una\nMegagalleta a\n\u000e\u0003\u0001\u0002\u0000?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "¿Seguro que quieres darle una\nMegagalleta a\n\u000e\u0003\u0001\u0002Ā?",
   "SleepResearchScene_ResearchFinishCutin_Message": "¡Ya has estudiado a todos\nlos Pokémon presentes!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Hora del picoteo",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "¿Qué es la hora del picoteo?",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "No puedes dar una \u000e\u0003\u0003\u0004Ā촀\na este Pokémon.",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "Revisión rápida",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Revisión rápida",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "Siguiente\nPokémon"
 }

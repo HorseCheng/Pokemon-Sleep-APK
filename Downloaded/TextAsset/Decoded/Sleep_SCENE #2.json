@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "14日以上前のデータになるため、\n睡眠リサーチが行われませんでした",
   "HomeStartSleepPopup_HeaderTitle": "ねむる",
   "HomeStartSleepPopup_Title": "今日はもう寝ますか？",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "ねむる前の準備を\nしています...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(終わるまでお待ちください)",
   "SleepConsumableItemSelectPopup_Title": "おこうのセット",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "睡眠時に使用するおこうを選択してください",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

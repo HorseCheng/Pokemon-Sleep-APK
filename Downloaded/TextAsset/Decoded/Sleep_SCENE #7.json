@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "Diese Daten sind älter als 14 Tage und\nkönnen daher nicht zur Schlafforschung\nverwendet werden.",
   "HomeStartSleepPopup_HeaderTitle": "Schlafvorbereitung",
   "HomeStartSleepPopup_Title": "Bereit fürs Bett?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "Schlafvorbereitungen\nwerden getroffen...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(Bitte warte, bis diese\nabgeschlossen sind.)",
   "SleepConsumableItemSelectPopup_Title": "Rauch auswählen",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "Wähle einen Rauch, den du während dieser\nSchlafaufzeichnung einsetzen möchtest.",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

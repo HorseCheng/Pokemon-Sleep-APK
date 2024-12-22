@@ -6,6 +6,8 @@
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
   "SleepResearchSkipConfirmPopup_Header_Title": "Studio rapido",
   "SleepResearchSkipConfirmPopup_Content_Desc": "Vuoi studiare automaticamente i Pokémon\ncon stili di sonno già scoperti per la\nrelativa specie?",
+  "SleepResearchSkipConfirmPopup_Header_Title_v220": "Studio rapido",
+  "SleepResearchSkipConfirmPopup_Content_Desc_v220": "Vuoi studiare automaticamente i Pokémon\ncon stili di sonno già scoperti\nper la relativa specie?",
   "SleepResearchScene_AllScoreWrapper_All": "Totale",
   "SleepResearchScene_BaitBall_Header_Title": "Spuntino",
   "SleepResearchScene_BaitBall_HeaderInfo_InfoMessage": "Tocca i Pokémon per dargli i biscotti!",
@@ -64,6 +66,7 @@
   "SleepResearchSceneController_Text_9": "Vuoi davvero dare un \u000e\u0003\u0003\u0004Ā촀\na questo Pokémon?",
   "SleepResearchScene_UseMasterBaitBall_Popup_Title": "Conferma Masterbiscotto",
   "SleepResearchScene_UseMasterBaitBall_Popup_Message": "Vuoi davvero dare un Masterbiscotto\na \u000e\u0003\u0001\u0002\u0000?",
+  "SleepResearchScene_UseMasterBaitBall_Popup_Message_v230": "Vuoi davvero dare un Masterbiscotto\na \u000e\u0003\u0001\u0002Ā?",
   "SleepResearchScene_ResearchFinishCutin_Message": "Hai studiato tutti i\nPokémon nei dintorni!",
   "SleepResearchScene_BaitBallInforPopup_Title": "Lo spuntino",
   "SleepResearchScene_BaitBallInforPopup_BaitBallPhase_Title": "Cosa succede durante lo spuntino?",
@@ -100,5 +103,6 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Non puoi dare lo strumento\n\u000e\u0003\u0003\u0004Ā촀\na questo Pokémon.",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Strumenti evento",
   "SleepResearch_SCENE_ResearchButtonBalloon_1": "Studio rapido",
+  "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Studio rapido",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "Pokémon\nsuccessivo"
 }

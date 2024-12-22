@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "Fait progresser le soutien des Pokémon\n\u000e\u0003\u0002\u0002촀 de votre équipe de \u000e\t\u0000\n\u0006mmm\u0001.",
   "md_pokemon_main_skills_name_13": "Métronome",
   "md_pokemon_main_skills_desc_13": "Permet d'utiliser une Compétence\nPrincipale au hasard.",
+  "md_pokemon_main_skills_desc_13_v230": "Permet d'utiliser une compétence\nprincipale au hasard parmi une large\nsélection de compétences principales.",
   "md_pokemon_main_skills_name_14": "Plat Super Bon S",
   "md_pokemon_main_skills_desc_14": "Augmente de \u000e\u0002\u0002\u0002\u0000 % les chances\nde cuisiner un plat super bon jusqu'à\ny parvenir ou changer de zone.",
   "md_pokemon_main_skills_name_15": "Super Soutien",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "Active Stockage ou Relâche.\nAprès Relâche, Ronflex obtient la\npuissance accumulée avec Stockage.",
   "md_pokemon_main_skills_name_17": "Fantômasque (Baies à gogo)",
   "md_pokemon_main_skills_desc_17": "Octroie \u000e\u0002\u0002\u0002\u0000 \u000e\u0004\u0000\u0018\bBaie\nBaies촀, ainsi que \u000e\u0002\u0002\u0002\u0001\nde chaque Baie collectée par les\nautres Pokémon de l'équipe.",
+  "md_pokemon_main_skills_desc_17_v220": "Octroie \u000e\u0002\u0002\u0002\u0000 \u000e\u0004\u0000\u0018\bBaie\nBaies촀, ainsi que \u000e\u0002\u0002\u0002\u0001\nde chaque Baie collectée par les\nautres Pokémon de l'équipe.",
   "md_pokemon_main_skills_name_18": "Rayon Lune (Char. Énergie S)",
-  "md_pokemon_main_skills_desc_18": "Restaure l'énergie du Pokémon de\n\u000e\u0002\u0006\u0004\u0000촁 points. Restaure parfois\nl'énergie d'un Pokémon aléatoire\nde l'équipe de \u000e\u0002\u0006\u0004\u0001촁 points."
+  "md_pokemon_main_skills_desc_18": "Restaure l'énergie du Pokémon de\n\u000e\u0002\u0006\u0004\u0000촁 points. Restaure parfois\nl'énergie d'un Pokémon aléatoire\nde l'équipe de \u000e\u0002\u0006\u0004\u0001촁 points.",
+  "md_pokemon_main_skills_name_19": "Morphing (Copiage de Comp.)",
+  "md_pokemon_main_skills_desc_19": "Copie et utilise la compétence\nprincipale d'un Pokémon aléatoire\nde l'équipe.",
+  "md_pokemon_main_skills_name_20": "Copie (Copiage de Comp.)",
+  "md_pokemon_main_skills_desc_20": "Copie et utilise la compétence\nprincipale d'un Pokémon aléatoire\nde l'équipe."
 }

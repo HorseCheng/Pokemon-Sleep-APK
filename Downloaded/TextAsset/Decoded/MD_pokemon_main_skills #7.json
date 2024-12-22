@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "Beschleunigt die Hilfe von Pokémon\nvom Typ \u000e\u0003\u0002\u0002촀 um \u000e\t\u0000\f\bmmmm\u0001",
   "md_pokemon_main_skills_name_13": "Metronom",
   "md_pokemon_main_skills_desc_13": "Setzt ein zufälliges Haupttalent ein.",
+  "md_pokemon_main_skills_desc_13_v230": "Setzt ein zufälliges Haupttalent\naus einer großen Auswahl an\nHaupttalenten ein.",
   "md_pokemon_main_skills_name_14": "Köstlichkeitsrate S",
   "md_pokemon_main_skills_desc_14": "Erhöht die Häufigkeit für köstliche\nGerichte um \u000e\u0002\u0002\u0002\u0000 %, bis eines gekocht\nwird oder ein Gebietswechsel erfolgt.",
   "md_pokemon_main_skills_name_15": "Helfer-Boost",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "Horter oder Entfessler wird gewählt.\nEntfessler: Relaxo-Stärke steigt je\nnach Anzahl der Horter-Auslösungen.",
   "md_pokemon_main_skills_name_17": "Kostümspuk (Beerenregen)",
   "md_pokemon_main_skills_desc_17": "Du erhältst \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀, sowie\njeweils \u000e\u0002\u0002\u0002\u0001 der Beeren, die andere\nPokémon im Team sammeln.",
+  "md_pokemon_main_skills_desc_17_v220": "Du erhältst \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 sowie\njeweils \u000e\u0002\u0002\u0002\u0001 der Beeren, die andere\nPokémon im Team sammeln.",
   "md_pokemon_main_skills_name_18": "Mondschein (Energiezufuhr S)",
-  "md_pokemon_main_skills_desc_18": "Füllt die eigene Energie um \u000e\u0002\u0006\u0004\u0000촂 auf. Füllt\nmanchmal zusätzlich die Energie eines\nzufälligen Pokémon des Teams um \u000e\u0002\u0006\u0004\u0001촁 auf."
+  "md_pokemon_main_skills_desc_18": "Füllt die eigene Energie um \u000e\u0002\u0006\u0004\u0000촂 auf. Füllt\nmanchmal zusätzlich die Energie eines\nzufälligen Pokémon des Teams um \u000e\u0002\u0006\u0004\u0001촁 auf.",
+  "md_pokemon_main_skills_name_19": "Wandler (Fähigkeitsimitation)",
+  "md_pokemon_main_skills_desc_19": "Kopiert das Haupttalent eines\nzufällig ausgewählten Pokémon im\nTeam und setzt es ein.",
+  "md_pokemon_main_skills_name_20": "Mimikry (Fähigkeitsimitation)",
+  "md_pokemon_main_skills_desc_20": "Kopiert das Haupttalent eines\nzufällig ausgewählten Pokémon im\nTeam und setzt es ein."
 }

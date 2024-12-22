@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "Speeds up help from \u000e\u0003\u0002\u0002촀-type\nhelper Pokémon on your team by \u000e\t\u0000\f\bmmmm\u0001.",
   "md_pokemon_main_skills_name_13": "Metronome",
   "md_pokemon_main_skills_desc_13": "Uses one randomly chosen main skill.",
+  "md_pokemon_main_skills_desc_13_v230": "Uses one main skill chosen\nrandomly from a large selection\nof main skills.",
   "md_pokemon_main_skills_name_14": "Tasty Chance S",
   "md_pokemon_main_skills_desc_14": "Raises your Extra Tasty rate by\n\u000e\u0002\u0002\u0002\u0000%. The effect lasts until you cook\nan Extra Tasty dish or change sites.",
   "md_pokemon_main_skills_name_15": "Helper Boost",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "Stockpile or Spit Up is selected.\nWhen Spit Up triggers, Snorlax gains\nStrength from Stockpile’s number.",
   "md_pokemon_main_skills_name_17": "Disguise (Berry Burst)",
   "md_pokemon_main_skills_desc_17": "Gets \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 plus \u000e\u0002\u0002\u0002\u0001 of each\nof the Berries other Pokémon on\nyour team collect.",
+  "md_pokemon_main_skills_desc_17_v220": "Gets \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 plus \u000e\u0002\u0002\u0002\u0001 of each\nof the Berries other Pokémon on\nyour team collect.",
   "md_pokemon_main_skills_name_18": "Moonlight (Charge Energy S)",
-  "md_pokemon_main_skills_desc_18": "Restores \u000e\u0002\u0006\u0004\u0000촂 Energy to the user.\nSometimes also restores \u000e\u0002\u0006\u0004\u0001촁 Energy\nto a random Pokémon on your team."
+  "md_pokemon_main_skills_desc_18": "Restores \u000e\u0002\u0006\u0004\u0000촂 Energy to the user.\nSometimes also restores \u000e\u0002\u0006\u0004\u0001촁 Energy\nto a random Pokémon on your team.",
+  "md_pokemon_main_skills_name_19": "Transform (Skill Copy)",
+  "md_pokemon_main_skills_desc_19": "Copies and performs the main skill\nof one randomly selected Pokémon\non the team.",
+  "md_pokemon_main_skills_name_20": "Mimic (Skill Copy)",
+  "md_pokemon_main_skills_desc_20": "Copies and performs the main skill\nof one randomly selected Pokémon\non the team."
 }

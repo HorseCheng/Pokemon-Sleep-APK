@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "Estos datos no son válidos para el estudio\nporque tienen más de 14 días.",
   "HomeStartSleepPopup_HeaderTitle": "Preparativos para dormir",
   "HomeStartSleepPopup_Title": "¿Quieres acostarte ya?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "Preparándolo todo para\ndormir...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "Espera a que esté todo\nlisto.",
   "SleepConsumableItemSelectPopup_Title": "Selección de incienso",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "Elige un incienso para esta sesión.",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",

@@ -54,6 +54,7 @@
   "PokemonBoxLevelupPopup_Header": "레벨업",
   "PokemonBoxLevelupPopup_Header_Button": "사탕 부스트",
   "PokemonBoxLevelupPopup_Header_LimitNum": "오늘의 사탕 부스트 앞으로 \u000e\u0002\u0002\u0002\u0000개",
+  "PokemonBoxLevelupPopup_Header_LimitNum_v230": "오늘의 사탕 부스트 앞으로 \u000e\u0002\u0004\u0004\u0000촁개",
   "PokemonBoxLevelupPopup_Button_LeftUp": "사탕 부스트",
   "PokemonBoxLevelup_BoostConfirmPopup_Title": "확인",
   "PokemonBoxLevelup_BoostConfirmPopup_Title_Button": "설명",

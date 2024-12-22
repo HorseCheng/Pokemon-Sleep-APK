@@ -25,6 +25,7 @@
   "md_pokemon_main_skills_desc_12": "팀 내의 \u000e\u0003\u0002\u0002촀타입 포켓몬이\n\u000e\t\u0000\n\u0006mmm\u0001 도와준다",
   "md_pokemon_main_skills_name_13": "손가락흔들기",
   "md_pokemon_main_skills_desc_13": "모든 메인 스킬 중\n어느 하나를 날린다",
+  "md_pokemon_main_skills_desc_13_v230": "다양한 메인 스킬 중\n어느 하나를 날린다",
   "md_pokemon_main_skills_name_14": "요리 찬스S",
   "md_pokemon_main_skills_desc_14": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 오른다\n효과는 요리를 대성공하거나\n필드를 이동할 때까지 지속된다",
   "md_pokemon_main_skills_name_15": "도우미 부스트",
@@ -33,6 +34,11 @@
   "md_pokemon_main_skills_desc_16": "비축하기, 토해내기 중 한쪽이 선택된다\n토해내기를 사용할 때 비축된 횟수에 따라\n잠만보의 에너지를 증가시킨다",
   "md_pokemon_main_skills_name_17": "탈(나무열매 버스트)",
   "md_pokemon_main_skills_desc_17": "나무열매를 \u000e\u0002\u0002\u0002\u0000개 획득하고\n팀 내 포켓몬의 나무열매도\n\u000e\u0002\u0002\u0002\u0001개씩 획득한다",
+  "md_pokemon_main_skills_desc_17_v220": "나무열매를 \u000e\u0002\u0002\u0002\u0000개 획득하고\n팀 내 포켓몬의 나무열매도\n\u000e\u0002\u0002\u0002\u0001개씩 획득한다",
   "md_pokemon_main_skills_name_18": "달빛(기력 차지S)",
-  "md_pokemon_main_skills_desc_18": "자신의 기력을 \u000e\u0002\u0006\u0004\u0000촁 회복한다\n때때로 팀 내 포켓몬 1마리의 기력을\n\u000e\u0002\u0006\u0004\u0001촁 회복한다"
+  "md_pokemon_main_skills_desc_18": "자신의 기력을 \u000e\u0002\u0006\u0004\u0000촁 회복한다\n때때로 팀 내 포켓몬 1마리의 기력을\n\u000e\u0002\u0006\u0004\u0001촁 회복한다",
+  "md_pokemon_main_skills_name_19": "변신(스킬 복사)",
+  "md_pokemon_main_skills_desc_19": "랜덤으로 팀 포켓몬 1마리의\n메인 스킬을 복사해서 날린다",
+  "md_pokemon_main_skills_name_20": "흉내내기(스킬 복사)",
+  "md_pokemon_main_skills_desc_20": "랜덤으로 팀 포켓몬 1마리의\n메인 스킬을 복사해서 날린다"
 }

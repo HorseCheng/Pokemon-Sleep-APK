@@ -120,14 +120,18 @@
   "pokemon_weight_460": "298.7 lbs.",
   "pokemon_weight_353": "5.1 lbs.",
   "pokemon_weight_354": "27.6 lbs.",
+  "pokemon_weight_215": "61.7 lbs.",
   "pokemon_weight_280": "14.6 lbs.",
   "pokemon_weight_281": "44.5 lbs.",
   "pokemon_weight_282": "106.7 lbs.",
+  "pokemon_weight_461": "75 lbs.",
   "pokemon_weight_475": "114.6 lbs.",
   "pokemon_weight_736": "9.7 lbs.",
   "pokemon_weight_737": "23.1 lbs.",
   "pokemon_weight_37": "21.8 lbs.",
+  "pokemon_weight_7006": "21.8 lbs.",
   "pokemon_weight_38": "43.9 lbs.",
+  "pokemon_weight_7007": "43.9 lbs.",
   "pokemon_weight_403": "20.9 lbs.",
   "pokemon_weight_404": "67.2 lbs.",
   "pokemon_weight_405": "92.6 lbs.",
@@ -154,5 +158,8 @@
   "pokemon_weight_304": "132.3 lbs.",
   "pokemon_weight_305": "264.6 lbs.",
   "pokemon_weight_306": "793.7 lbs.",
-  "pokemon_weight_778": "1.5 lbs."
+  "pokemon_weight_778": "1.5 lbs.",
+  "pokemon_weight_921": "5.5 lbs.",
+  "pokemon_weight_922": "14.3 lbs.",
+  "pokemon_weight_923": "90.4 lbs."
 }

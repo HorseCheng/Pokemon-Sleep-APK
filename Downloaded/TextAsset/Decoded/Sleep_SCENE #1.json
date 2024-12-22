@@ -132,6 +132,8 @@
   "MutipleSleepResultExpireDataCell_Desc": "Questi dati risalgono ad almeno 14 giorni\nfa e non possono essere usati per la\nricerca sul sonno.",
   "HomeStartSleepPopup_HeaderTitle": "Preparativi per dormire",
   "HomeStartSleepPopup_Title": "Tutto pronto per dormire?",
+  "HomeStartSleepPopup_SleepGettingReady_Text_1": "Preparativi in corso...",
+  "HomeStartSleepPopup_SleepGettingReady_Text_2": "(Attendi...)",
   "SleepConsumableItemSelectPopup_Title": "Seleziona aromi",
   "SleepConsumableItemSelectPopup_HeadlineTitle": "Scegli che aromi usare per questa sessione.",
   "SleepConsumableItemSelectPopup_Num": "\u000e\u0002\u0002\u0002\u0000",
