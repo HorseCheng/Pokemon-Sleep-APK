@@ -1,0 +1,16 @@
+{
+  "EvolutionCondictionDesc_SpeciesCandy": "\u000e\u0003\u0003\u0004Ā촀が\n\u000e\u0002\u0002\u0002\u0002個必要",
+  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002\u0000のレベルが\n\u000e\u0002\u0002\u0002\u0001になる",
+  "EvolutionCondictionDesc_Rank_v230": "\u000e\u0003\u0001\u0002Ȁのレベルが\n\u000e\u0002\u0002\u0002\u0001になる",
+  "EvolutionCondictionDesc_ItemNum": "\u000e\u0003\u0003\u0004Ā촀が\n\u000e\u0002\u0002\u0002\u0002個必要",
+  "EvolutionCondictionDesc_TotalSleepTime": "\u000e\u0003\u0001\u0002\u0000との睡眠時間が\n\u000e\t\u0000\f\bhhhh\u0001になる",
+  "EvolutionCondictionDesc_TotalSleepTime_v230": "\u000e\u0003\u0001\u0002Ȁとの睡眠時間が\n\u000e\t\u0000\f\bhhhh\u0001になる",
+  "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "日中の時間帯（6:00〜17:59）\nで進化させる",
+  "EvolutionCondictionDesc_PeriodOfTime_4": "夜の時間帯（18:00〜05:59）\nで進化させる",
+  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002\u0000のせいかくが\n\u000e\u0003\u0011\u0002\u0001",
+  "EvolutionCondictionDesc_Nature_v230": "\u000e\u0003\u0001\u0002Ȁのせいかくが\n\u000e\u0003\u0011\u0002\u0001",
+  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002\u0000のせいべつが♂",
+  "EvolutionCondictionDesc_Gender_Male_v230": "\u000e\u0003\u0001\u0002Ȁのせいべつが♂",
+  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002\u0000のせいべつが♀",
+  "EvolutionCondictionDesc_Gender_Female_v230": "\u000e\u0003\u0001\u0002Ȁのせいべつが♀"
+}

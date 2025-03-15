@@ -1,6 +1,6 @@
 {
-  "PokemonTeamFormationSelectSceneController_Text_1": "表示順 - \u000e\u0003\u0005\u0002\u0000",
-  "PokemonTeamFormationSelectScene_Header_Title": "ポケモン入れかえ",
-  "PokemonTeamFormationSelectScene_Note_Button": "注意点",
-  "PokemonTeamFormationSelectScene_Footer_OrderButton": "降順"
+  "PokemonTeamFormationSelectSceneController_Text_1": "표시 순서: \u000e\u0003\u0005\u0002\u0000",
+  "PokemonTeamFormationSelectScene_Header_Title": "교체",
+  "PokemonTeamFormationSelectScene_Note_Button": "주의점",
+  "PokemonTeamFormationSelectScene_Footer_OrderButton": "내림차순"
 }

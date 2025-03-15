@@ -1,7 +1,7 @@
 {
-  "TutorialSleepAnalyzeFinishSceneController_Text_1": "첫 수면 계측에 성공한 모양이구나!\n그럼 이제 수면 리서치에 대해 가르쳐 줄게.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "튜토리얼 대기 중",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "수면 리서치 튜토리얼",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "준비가 되면 수면 리서치를\n다시 시작해 봅시다.\n먼저, 계측한 수면 데이터를\n확인하는 것부터 시작합니다.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "수면 리서치를 재개한다"
+  "TutorialSleepAnalyzeFinishSceneController_Text_1": "¡Veo que ya has registrado tus\nprimeros datos! ¡Fantástico!\nEs hora de enseñarte cómo\nfunciona el estudio del sueño.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial en espera",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Tutorial de estudio del sueño",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Cuando lo tengas todo listo, retomaremos\nnuestro estudio del sueño, empezando\npor ver los datos que has registrado.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Retomar tutorial"
 }

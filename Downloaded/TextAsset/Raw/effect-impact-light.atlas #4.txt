@@ -1,0 +1,6 @@
+effect-impact-light.png
+size:512,512
+filter:Linear,Linear
+light_3
+bounds:2,2,255,261
+offsets:127,131,512,512

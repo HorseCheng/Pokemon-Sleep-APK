@@ -1,8 +1,8 @@
 {
   "MD_health_data_sources_name_1": "Fitbit",
   "MD_health_data_sources_name_2": "Samsung Health",
-  "MD_health_data_sources_name_3": "Standardmäßige Schlafaufzeichnung\nder Apple Watch",
-  "MD_health_data_sources_name_short_3": "Apple Watch (Standard)",
-  "MD_health_data_sources_ModelName_1": "(Fitbit, Google Pixel Watch usw.)",
-  "MD_health_data_sources_ModelName_2": "(Galaxy Watch usw.)"
+  "MD_health_data_sources_name_3": "Apple Watch內建的睡眠測量",
+  "MD_health_data_sources_name_short_3": "Apple Watch內建",
+  "MD_health_data_sources_ModelName_1": "（Fitbit、Google Pixel Watch等）",
+  "MD_health_data_sources_ModelName_2": "（Galaxy Watch等）"
 }

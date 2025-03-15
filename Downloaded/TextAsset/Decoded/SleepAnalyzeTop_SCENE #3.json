@@ -1,7 +1,7 @@
 {
-  "SleepAnalyzeTop_HeadTitle": "睡眠分析",
-  "SleepAnalyzeTop_ContentTitle": "睡眠分析",
-  "SleepAnalyzeTop_ContentDesc": "從各種角度來查看睡眠資料吧。",
-  "SleepAnalyzeTop_RegularityButton": "睡眠節奏",
-  "SleepAnalyzeTop_StatisticButton": "睡眠統計"
+  "SleepAnalyzeTop_HeadTitle": "Andamento sonno",
+  "SleepAnalyzeTop_ContentTitle": "Andamento del sonno",
+  "SleepAnalyzeTop_ContentDesc": "Vedi i risultati dettagliati dei dati del tuo sonno.",
+  "SleepAnalyzeTop_RegularityButton": "Regolarità sonno",
+  "SleepAnalyzeTop_StatisticButton": "Statistiche sonno"
 }

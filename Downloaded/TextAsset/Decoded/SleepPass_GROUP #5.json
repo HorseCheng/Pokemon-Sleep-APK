@@ -1,13 +1,13 @@
 {
   "PointHistoryListCell_Score": "\u000e\u0002\u0002\u0002\u0000",
   "PointHistoryListCell_Date": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
-  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁포인트",
-  "PointHistoryListCell_PassType_Normal": "노멀",
-  "PointHistoryListCell_PassType_Premium": "프리미엄",
-  "PointHistoryListCell_PassType_Bonus": "보너스",
-  "PointHistoryListCell_PassType_Event": "이벤트",
-  "PremiumPassCannotUsePopup_Title": "프리미엄 패스",
-  "PremiumPassInfoPopup_Title": "주의 사항",
-  "PremiumPassPopup_Title": "프리미엄 패스에 대하여",
-  "PremiumPassPopup_Title_2": "프리미엄 패스"
+  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁 punt\u000e\u0005\u0000\n\u0002o\u0002i촀",
+  "PointHistoryListCell_PassType_Normal": "Base",
+  "PointHistoryListCell_PassType_Premium": "Premium",
+  "PointHistoryListCell_PassType_Bonus": "Bonus",
+  "PointHistoryListCell_PassType_Event": "Evento",
+  "PremiumPassCannotUsePopup_Title": "Pass premium",
+  "PremiumPassInfoPopup_Title": "Avvertenze",
+  "PremiumPassPopup_Title": "Il pass premium",
+  "PremiumPassPopup_Title_2": "Pass premium"
 }

@@ -1,0 +1,11 @@
+{
+  "SleepDataListScene_Content_Title": "Datos de sueño",
+  "SleepDataListScene_Content_Desc": "Consulta tus datos de sueño y de estudio.",
+  "SleepDataListScene_Content_LimitButton": "30 días (máx.)",
+  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁 día\u000e\u0007\u0000\b\u0000\u0002s촀 (máx.)",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁 día\u000e\u0007\u0000\b\u0000\u0002s촀",
+  "SleepDataListScene_Header_Title": "Datos de sueño",
+  "SleepDataListScene_Header_CalendarButton": "Calendario",
+  "SleepDataListScene_Header_ListButton": "Lista",
+  "SleepDataListScene_NoDataDesc": "Aún no dispones de datos de sueño."
+}

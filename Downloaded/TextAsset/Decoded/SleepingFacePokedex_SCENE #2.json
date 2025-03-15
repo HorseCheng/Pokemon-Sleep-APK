@@ -1,15 +1,15 @@
 {
-  "SleepingFacePokedexScene_Content_Title": "Sleep Style Dex",
+  "SleepingFacePokedexScene_Content_Title": "포켓몬 잠자는 모습 도감",
   "SleepingFacePokedexScene_Content_Countum": "\u000e\u0002\u0002\u0002\u0000%",
-  "SleepingFacePokedexScene_Content_Desc": "Check out the Pokémon you’ve studied so far!",
-  "SleepingFacePokedexScene_Header_TitleText": "Sleep Style Dex",
-  "SleepingFacePokedexScene_Header_Title": "View Sleep Styles",
-  "SleepingFacePokedexScene_Footer_Title_2": "Clear Filters",
-  "SleepingFacePokedexScene_Footer_Title_3": "Sleep Type",
-  "SleepingFacePokedexScene_Order_Heading": "Sorted by: \u000e\u0003\u0013\u0002\u0000",
+  "SleepingFacePokedexScene_Content_Desc": "리서치한 포켓몬들을 확인할 수 있습니다",
+  "SleepingFacePokedexScene_Header_TitleText": "포켓몬 잠자는 모습 도감",
+  "SleepingFacePokedexScene_Header_Title": "잠자는 모습 표시",
+  "SleepingFacePokedexScene_Footer_Title_2": "필터 OFF",
+  "SleepingFacePokedexScene_Footer_Title_3": "수면 타입",
+  "SleepingFacePokedexScene_Order_Heading": "표시 순서: \u000e\u0003\u0013\u0002\u0000",
   "SleepingFacePokedexScene_Secret": "???",
-  "SleepingFacePokedexScene_FaceChange_Popup_Title": "Change Appearance",
-  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "List",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "Select",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "Selected"
+  "SleepingFacePokedexScene_FaceChange_Popup_Title": "모습 바꾸기",
+  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "일람",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "선택",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "선택 중"
 }

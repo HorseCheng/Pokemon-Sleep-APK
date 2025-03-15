@@ -1,0 +1,18 @@
+{
+  "PokemonTopScene_Content_Title": "Pokémon",
+  "PokemonTopScene_Content_Desc": "Wähle Pokémon für dein Helferteam aus\nund verwalte deine Pokémon-Box.",
+  "PokemonTopScene_Content_Name": "Teams ändern",
+  "PokemonTopScene_Content_Name_2": "Pokémon-Box",
+  "PokemonTopScene_Header_TitleText": "Pokémon",
+  "PokemonTopScene_EXPBonus_Button": "EP-Bonusleiste",
+  "PokemonTopScene_EXPBonusPopup_Title": "Bonus für max. Level eines Pokémon",
+  "PokemonTopScene_EXPBonusPopup_Content": "Schlaf-EP-Bonusleiste",
+  "PokemonTopScene_EXPBonusPopup_Value_1": "bis Universalbonbon S:",
+  "PokemonTopScene_EXPBonusPopup_Value_2": "EP",
+  "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "Wenn ein Helfer-Pokémon den maximalen\nLevel erreicht hat, werden überschüssige\nSchlaf-EP zur Bonusleiste hinzugefügt,\nstatt dem Pokémon selbst.",
+  "PokemonTopScene_EXPBonusPopup_Text_2": "Immer, wenn die Leiste voll ist, erhältst du\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002.",
+  "PokemonTopScene_EXPBonusPopup_ExplainButton": "Details",
+  "PokemonTopScene_EXPBonusExplainPopup_Text": "Durch überschüssige Schlaf-EP\nkannst du Items erhalten.",
+  "PokemonTopScene_EXPBonusRewardGetPopup_Text": "Bonus für den max. Level eines Pokémon!\n\u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0001\u0002\u0002"
+}

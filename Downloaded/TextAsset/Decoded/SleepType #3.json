@@ -1,6 +1,6 @@
 {
-  "SleepType_99": "沒有特徵",
-  "SleepType_4": "淺淺入夢",
-  "SleepType_1": "安然入睡",
-  "SleepType_0": "深深入眠"
+  "SleepType_99": "Balanced",
+  "SleepType_4": "Dozing",
+  "SleepType_1": "Snoozing",
+  "SleepType_0": "Slumbering"
 }

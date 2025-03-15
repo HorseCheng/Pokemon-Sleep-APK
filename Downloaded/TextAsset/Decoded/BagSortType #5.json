@@ -1,8 +1,8 @@
 {
-  "BagSortType_1": "預設",
-  "BagSortType_2": "獲得日期",
-  "BagSortType_3": "持有數",
-  "BagSortType_4": "名稱",
-  "BagSortType_5": "圖鑑編號",
-  "BagSortType_6": "屬性"
+  "BagSortType_1": "Default",
+  "BagSortType_2": "Date found",
+  "BagSortType_3": "No. held",
+  "BagSortType_4": "Name",
+  "BagSortType_5": "Pokédex No.",
+  "BagSortType_6": "Type"
 }

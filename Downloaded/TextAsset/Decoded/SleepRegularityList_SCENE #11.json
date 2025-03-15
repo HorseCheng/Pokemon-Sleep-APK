@@ -1,0 +1,11 @@
+{
+  "SleepRegularityList_HeadTile": "睡眠リズム",
+  "SleepRegularityList_ContentTitle": "睡眠リズム",
+  "SleepRegularityList_LimitLabel": "4週間 （制限）",
+  "SleepRegularityList_ContentDesc": "1週間ごとの睡眠リズムについての記録です",
+  "SleepRegularityList_SectionHeader": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
+  "SleepRegularityList_ItemPeriod": "\u000e\t\u0000\u0010\fMMMddd\u0000~\u000e\t\u0000\u0010\fMMMddd\u0001",
+  "SleepRegularityList_ItemSleepTime": "睡眠時間",
+  "SleepRegularityList_ItemMidTimeSleep": "ミッドスリープタイム",
+  "SleepRegularityListScene_NoDataDesc": "睡眠リズムデータがまだありません"
+}

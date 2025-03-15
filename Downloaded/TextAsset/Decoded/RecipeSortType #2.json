@@ -1,5 +1,5 @@
 {
-  "RecipeSortType_1": "Predeterminado",
-  "RecipeSortType_2": "Vigor",
-  "RecipeSortType_3": "Nivel"
+  "RecipeSortType_1": "ID",
+  "RecipeSortType_2": "エナジー",
+  "RecipeSortType_3": "レシピレベル"
 }

@@ -1,0 +1,22 @@
+{
+  "SleepRegularityDetail_GraphOverlay_PopupTitle": "Dati del sonno incompleti",
+  "SleepRegularityDetail_GraphOverlay_PopupText": "Questi dati sono relativi a una\nmisurazione che per qualche\nmotivo si è interrotta prima del\ntermine della sessione di sonno.\nNon saranno quindi presi in\nconsiderazione nella valutazione\ndella regolarità del sonno.",
+  "SleepRegularityDetail_ContentDesc_InvalidData": "Non hai abbastanza dati del sonno.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana.",
+  "SleepRegularityDetail_ContentDesc_NoData": "Non ci sono dati del sonno per questo periodo.\nPer valutare la regolarità del sonno occorrono\ndati di almeno quattro giorni in una settimana.",
+  "SleepRegularityDetail_Label_NoData": "Non ci sono dati",
+  "SleepRegularityDetail_GraphOverlay_Date": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_GraphOverlay_Duration": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphOverlay_Time": "\u000e\t\u0000\u0010\fhhhmmm\u0000 - \u000e\t\u0000\u0010\fhhhmmm\u0001",
+  "SleepRegularityDetail_HeadTile": "Regolarità del sonno",
+  "SleepRegularityDetail_HeadPeriod": "\u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0000 - \u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0001",
+  "SleepRegularityDetail_ContentDesc_1": "Il tuo sonno è stato piuttosto regolare la\nscorsa settimana. Cerca di mantenere un\nsonno regolare anche questa settimana!",
+  "SleepRegularityDetail_DataTitle": "Riepilogo della settimana",
+  "SleepRegularityDetail_SleepTimeLabel": "Durata del sonno",
+  "SleepRegularityDetail_MidTimeSleepLabel": "Punto medio del sonno",
+  "SleepRegularityDetail_WeekTitle": "\u000e\u0002\u0000\u0002촁ª settimana di \u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
+  "SleepRegularityDetail_WeekItemDateNum": "\u000e\u0002\u0000\u0002촀",
+  "SleepRegularityDetail_WeekItemDate": "\u000e\t\u0000\u0018\u0014MMMddd_aaa\u0000",
+  "SleepRegularityDetail_WeekItemSleepTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
+  "SleepRegularityDetail_GraphDayOfWeek": "\u000e\t\u0001\u0004Ā촁",
+  "SleepRegularityDetail_GraphTimeScale": "\u000e\t\u0000\f\bh:mm\u0000"
+}

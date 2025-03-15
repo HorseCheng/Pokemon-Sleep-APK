@@ -1,11 +1,11 @@
 {
-  "SleepingFacePokedexDetailScene_Content_Title": "睡姿圖鑑",
-  "SleepingFacePokedexDetailScene_Content_Weight": "體重：",
-  "SleepingFacePokedexDetailScene_Content_Height": "身高：",
-  "SleepingFacePokedexDetailScene_Content_Type": "屬性：\u000e\u0003\u0002\u0002촀",
-  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "ID：\u000e\u0002\u0002\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Content_Title": "寝顔図鑑",
+  "SleepingFacePokedexDetailScene_Content_Weight": "重さ：",
+  "SleepingFacePokedexDetailScene_Content_Height": "高さ：",
+  "SleepingFacePokedexDetailScene_Content_Type": "タイプ - \u000e\u0003\u0002\u0002촀",
+  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "ID - \u000e\u0002\u0002\u0002\u0000",
   "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촁",
-  "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000型",
-  "SleepingFacePokedexDetailScene_Header_ResearchCount": "研究次數：\u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "成為夥伴總數：\u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000タイプ",
+  "SleepingFacePokedexDetailScene_Header_ResearchCount": "リサーチした数：\u000e\u0002\u0001\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_GetCount": "仲間にした数：\u000e\u0002\u0003\u0004\u0000촁"
 }

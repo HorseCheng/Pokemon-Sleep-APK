@@ -1,10 +1,10 @@
 {
-  "PokemonBoxSortType_1": "図鑑番号",
-  "PokemonBoxSortType_2": "レベル",
-  "PokemonBoxSortType_3": "名前",
-  "PokemonBoxSortType_4": "登録日",
-  "PokemonBoxSortType_5": "げんき",
+  "PokemonBoxSortType_1": "圖鑑編號",
+  "PokemonBoxSortType_2": "等級",
+  "PokemonBoxSortType_3": "名字",
+  "PokemonBoxSortType_4": "登錄日期",
+  "PokemonBoxSortType_5": "活力",
   "PokemonBoxSortType_6": "睡眠時間",
   "PokemonBoxSortType_7": "SP",
-  "PokemonBoxSortType_8": "睡眠タイプ"
+  "PokemonBoxSortType_8": "睡眠類型"
 }

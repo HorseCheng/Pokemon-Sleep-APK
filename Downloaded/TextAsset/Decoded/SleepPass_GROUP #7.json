@@ -1,13 +1,13 @@
 {
   "PointHistoryListCell_Score": "\u000e\u0002\u0002\u0002\u0000",
   "PointHistoryListCell_Date": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000",
-  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁 punto\u000e\u0007\u0000\b\u0000\u0002s촀",
-  "PointHistoryListCell_PassType_Normal": "Estándar",
-  "PointHistoryListCell_PassType_Premium": "Prémium",
-  "PointHistoryListCell_PassType_Bonus": "Extra",
-  "PointHistoryListCell_PassType_Event": "Evento",
-  "PremiumPassCannotUsePopup_Title": "Pase prémium",
-  "PremiumPassInfoPopup_Title": "Aviso importante",
-  "PremiumPassPopup_Title": "El pase prémium",
-  "PremiumPassPopup_Title_2": "Pase prémium"
+  "PointHistoryListCell_Point": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u001c\nPunkt\fPunkte촀",
+  "PointHistoryListCell_PassType_Normal": "Standard",
+  "PointHistoryListCell_PassType_Premium": "Premium",
+  "PointHistoryListCell_PassType_Bonus": "Bonus",
+  "PointHistoryListCell_PassType_Event": "Event",
+  "PremiumPassCannotUsePopup_Title": "Premiumpass",
+  "PremiumPassInfoPopup_Title": "Hinweis",
+  "PremiumPassPopup_Title": "Dein Premiumpass",
+  "PremiumPassPopup_Title_2": "Premiumpass"
 }

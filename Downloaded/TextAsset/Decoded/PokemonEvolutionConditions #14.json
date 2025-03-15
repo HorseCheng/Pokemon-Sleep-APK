@@ -1,0 +1,16 @@
+{
+  "EvolutionCondictionDesc_SpeciesCandy": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃\n\u000e\u0002\u0002\u0002\u0002개 필요",
+  "EvolutionCondictionDesc_Rank": "\u000e\u0003\u0001\u0002\u0000의 레벨이\n\u000e\u0002\u0002\u0002\u0001\u000e\b\u0000\u0002촃 된다",
+  "EvolutionCondictionDesc_Rank_v230": "\u000e\u0003\u0001\u0002Ȁ의 레벨이\n\u000e\u0002\u0002\u0002\u0001\u000e\b\u0000\u0002촃 된다",
+  "EvolutionCondictionDesc_ItemNum": "\u000e\u0003\u0003\u0004Ā촀\u000e\b\u0000\u0002촃\n\u000e\u0002\u0002\u0002\u0002개 필요",
+  "EvolutionCondictionDesc_TotalSleepTime": "\u000e\u0003\u0001\u0002\u0000\u000e\b\u0000\u0002촄\n\u000e\t\u0000\f\bhhhh\u0001 잠을 잔다",
+  "EvolutionCondictionDesc_TotalSleepTime_v230": "\u000e\u0003\u0001\u0002Ȁ\u000e\b\u0000\u0002촄\n\u000e\t\u0000\f\bhhhh\u0001 잠을 잔다",
+  "EvolutionCondictionDesc_PeriodOfTime_1_2_3": "낮 시간대(6:00~17:59)에\n진화시킨다",
+  "EvolutionCondictionDesc_PeriodOfTime_4": "밤 시간대(18:00~05:59)에\n진화시킨다",
+  "EvolutionCondictionDesc_Nature": "\u000e\u0003\u0001\u0002\u0000의 성격이\n\u000e\u0003\u0011\u0002\u0001",
+  "EvolutionCondictionDesc_Nature_v230": "\u000e\u0003\u0001\u0002Ȁ의 성격이\n\u000e\u0003\u0011\u0002\u0001",
+  "EvolutionCondictionDesc_Gender_Male": "\u000e\u0003\u0001\u0002\u0000의 성별이 ♂",
+  "EvolutionCondictionDesc_Gender_Male_v230": "\u000e\u0003\u0001\u0002Ȁ의 성별이 ♂",
+  "EvolutionCondictionDesc_Gender_Female": "\u000e\u0003\u0001\u0002\u0000의 성별이 ♀",
+  "EvolutionCondictionDesc_Gender_Female_v230": "\u000e\u0003\u0001\u0002Ȁ의 성별이 ♀"
+}

@@ -1,10 +1,10 @@
 {
-  "MD_health_faq_List_1": "Is sleep data being tracked\nautomatically through your\nApple Watch?",
-  "MD_health_faq_List_2": "Is your sleep data registered in Apple\nHealth?",
-  "MD_health_faq_List_3": "Does your sleep data meet the\nrequirements to be used in Pokémon\nSleep?",
-  "MD_health_faq_List_5": "Is your sleep data registered in Samsung\nHealth or the Fitbit app?",
-  "MD_health_faq_List_6": "Is your sleep data registered in Health\nConnect?",
-  "MD_health_faq_List_7": "Does your sleep data meet the\nrequirements to be used in Pokémon\nSleep?",
-  "MD_health_faq_List_8": "Are reading permissions turned ON for\nApple Health?",
-  "MD_health_faq_List_9": "Are reading permissions turned ON for\nHealth Connect?"
+  "MD_health_faq_List_1": "Apple Watchで自動的に\n睡眠計測が行われていますか？",
+  "MD_health_faq_List_2": "ヘルスケアに睡眠データは\n登録されていますか？",
+  "MD_health_faq_List_3": "睡眠データはPokémon Sleepに\n取り込める条件を満たしていますか？",
+  "MD_health_faq_List_5": "Samsung HealthやFitbitのアプリに\n睡眠データは登録されていますか？",
+  "MD_health_faq_List_6": "ヘルスコネクトに睡眠データは\n登録されていますか？",
+  "MD_health_faq_List_7": "睡眠データはPokémon Sleepに\n取り込める条件を満たしていますか？",
+  "MD_health_faq_List_8": "ヘルスケアの読み取り権限をONにしていますか？",
+  "MD_health_faq_List_9": "ヘルスコネクトの読み取り権限をONにしていますか？"
 }

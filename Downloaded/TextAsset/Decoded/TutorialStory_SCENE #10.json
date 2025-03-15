@@ -1,0 +1,10 @@
+{
+  "TutorialStoryScene_Header_HeaderBg": "새로운 출발",
+  "TutorialStoryScene_PokemonGet_Header_Title": "새로운 동료",
+  "TutorialStoryScene_PokemonGet_Content_Title": "새로 동료가 되었습니다!",
+  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "피카츄",
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "앞으로 함께 연구를 진행할\n피카츄야. 친하게 지내 주렴!\n우선 닉네임을 지어 주자",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "잠자기 약속",
+  "TutorialSetupSceneController_Text_7": "앞으로 함께 수면 리서치를 하기 위해서\n피카츄와 취침 시각 목표를 설정하자.\n목표 시각에 맞춰 잠을 자면 선물을 줄게.",
+  "TutorialStoryScene_NameView_Name": "네롤리박사"
+}

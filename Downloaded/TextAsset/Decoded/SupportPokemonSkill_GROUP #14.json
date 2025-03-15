@@ -1,0 +1,23 @@
+{
+  "Message_ActivatePokemonSkill": "Compétence principale activée !",
+  "SkillEffect_FoodPowerUp": "Ronflex gagne une puissance de \u000e\u0002\u0004\u0004\u0000촁 !",
+  "SkillEffect_CoinGet": "\u000e\u0002\u0004\u0004\u0000촁 Fragment\u000e\u0004\u0000\b\u0000\u0002s촀 de Rêve obtenu\u000e\u0004\u0000\b\u0000\u0002s촀 !",
+  "SkillEffect_SelfPokemonPowerUp": "Récupération de \u000e\u0002\u0002\u0002\u0000 point\u000e\u0004\u0000\b\u0000\u0002s촀 d'énergie !",
+  "SkillEffect_OtherPokemonPowerUp": "\u000e\u0003\n\u0002촀 a récupéré \u000e\u0002\u0002\u0002\u0001 point\u000e\u0004\u0000\b\u0000\u0002s촁 d'énergie !",
+  "SkillEffect_AllActivePokemonPowerUp": "L'équipe a récupéré \u000e\u0002\u0002\u0002\u0000 point\u000e\u0004\u0000\b\u0000\u0002s촀 d'énergie !",
+  "SkillEffect_PickupFinishRandom": "Aide supplémentaire de la part de \u000e\u0003\n\u0002촀 (× \u000e\u0002\u0004\u0004\u0001촁) !",
+  "SkillEffect_PokemonTypePickupFinishRandom": "Vous avez obtenu \u000e\u0002\u0001\u0002\u0000 fois le soutien de toute votre équipe !",
+  "SkillEffect_PickupIngredientRandom": "\u000e\u0002\u0002\u0002\u0000 ingrédient\u000e\u0004\u0000\b\u0000\u0002s촀 obtenu\u000e\u0004\u0000\b\u0000\u0002s촀 !",
+  "SkillEffect_CookingIngredientNumLimitUp": "La marmite peut contenir \u000e\u0002\u0002\u0002\u0000 ingrédient\u000e\u0004\u0000\b\u0000\u0002s촀 supplémentaire\u000e\u0004\u0000\b\u0000\u0002s촀 !",
+  "SkillEffect_Stockpile_Energy": "De la puissance équivalente à \u000e\u0002\u0001\u0002\u0000 activation\u000e\u0004\u0000\b\u0000\u0002s촀 de Stockage est accumulée !",
+  "SkillEffect_SpitUp_Energy": "La puissance accumulée avec Stockage est relâchée ! Ronflex gagne une puissance de \u000e\u0002\t\u0004\u0001촁 !\n",
+  "SkillEffect_Disguise": "\u000e\u0002\u0003\u0004\u0000촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촀 obtenue\u000e\u0004\u0000\b\u0000\u0002s촀 !",
+  "SkillEffect_Disguise_GreatSuccess": "\u000e\u0002\u0003\u0004\u0000촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촀 obtenue\u000e\u0004\u0000\b\u0000\u0002s촀 !\nLe déguisement de \u000e\u0003\n\u0002촁\ntombe !",
+  "SkillEffect_Moonlight_GreatSuccess": "\u000e\u0003\n\u0002촀 a récupéré \u000e\u0002\u0002\u0002\u0001 point\u000e\u0004\u0000\b\u0000\u0002s촁 d'énergie !\n\u000e\u0003\n\u0002촂 a récupéré \u000e\u0002\u0002\u0002\u0003 point\u000e\u0004\u0000\b\u0000\u0002s촃 d'énergie !",
+  "SkillEffect_Transform": "Se transforme\nen \u000e\u0003\n\u0002촀 !",
+  "SkillEffect_Transform_Miss": "Morphing a échoué...",
+  "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀 est copié !",
+  "SkillEffect_Mimic_Miss": "Copie a échoué...",
+  "SkillAction_SelectSkillRandom": "",
+  "SkillEffect_CookingSuccessPerUp": "Vos chances de cuisiner un plat super bon ont augmenté de \u000e\u0002\u0002\u0002\u0000 % !"
+}

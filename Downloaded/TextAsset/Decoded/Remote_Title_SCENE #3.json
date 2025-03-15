@@ -1,11 +1,11 @@
 {
-  "Remote_Title_MassagePopupTitle_1": "Mise à jour de l'Avis sur la confidentialité",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupTitle": "Tout analyser",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupHead_1": "La fonctionnalité « Tout analyser »",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_1": "La fonctionnalité « Tout analyser » permet de\nsynchroniser les données de plusieurs sessions\nde recherches sur le sommeil effectuées via\nun autre appareil, tel que le Pokémon GO Plus +.\nVous pouvez ainsi consulter tous les résultats\nde vos recherches sur le sommeil en une seule\nfois. Veuillez également noter que si vous\nsynchronisez trois sessions ou plus en même\ntemps, la fonctionnalité « Tout analyser »\nest utilisée automatiquement pour toutes\nces sessions à l'exception de la plus récente.",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_2": "\u000e\u0000\u0003\u0004毿ＷToutes\u000e\u0000\u0003\u0004\u0000＀ les recherches sur le sommeil\nprécédemment effectuées vont\nêtre \u000e\u0000\u0003\u0004毿Ｗpassées\u000e\u0000\u0003\u0004\u0000＀.",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_3": "Les \u000e\u0000\u0003\u0004毿ＷBiscuits Bonus\u000e\u0000\u0003\u0004\u0000＀ de l'heure du goûter\nseront distribués aux Pokémon\n\u000e\u0000\u0003\u0004毿Ｗde manière aléatoire\u000e\u0000\u0003\u0004\u0000＀.",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_4": "Les photos de sessions seront\n\u000e\u0000\u0003\u0004毿Ｗchoisies automatiquement\u000e\u0000\u0003\u0004\u0000＀.",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_5": "La récupération d'énergie sera calculée\ngrâce aux \u000e\u0000\u0003\u0004毿Ｗdonnées \u000e\u0000\u0003\u0004\u0000＀de votre session de\nrecherches sur le sommeil \u000e\u0000\u0003\u0004毿Ｗla plus récente\u000e\u0000\u0003\u0004\u0000＀.",
-  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_6": "\u000e\u0000\u0003\u0004毿ＷLes recherches de sommeil ne prendront\npas en compte\u000e\u0000\u0003\u0004\u0000＀ les données datant\nd'il y a 14 jours ou plus."
+  "Remote_Title_MassagePopupTitle_1": "Aggiornamento informativa privacy",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupTitle": "Esamina tutti",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupHead_1": "La funzione \"Esamina tutti\"",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_1": "La funzione \"Esamina tutti\" si può usare quando\nsi sincronizzano più dati del sonno nello stesso\nmomento da un dispositivo come Pokémon GO\nPlus +. Si possono vedere i risultati di più\nricerche del sonno insieme, senza doverle fare\nuna per una. Attenzione: sincronizzando tre\no più voci di dati del sonno insieme, la funzione\n\"Esamina tutti\" verrà usata automaticamente\nper tutte le voci tranne la più recente.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_2": "L'\u000e\u0000\u0003\u0004毿Ｗintera\u000e\u0000\u0003\u0004\u0000＀ ricerca sul sonno verrà \u000e\u0000\u0003\u0004毿Ｗsaltata\u000e\u0000\u0003\u0004\u0000＀.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_3": "Durante lo spuntino, i \u000e\u0000\u0003\u0004毿ＷBiscotti bonus\u000e\u0000\u0003\u0004\u0000＀\nverranno distribuiti \u000e\u0000\u0003\u0004毿Ｗa caso\u000e\u0000\u0003\u0004\u0000＀.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_4": "Le foto delle sessioni verranno \u000e\u0000\u0003\u0004毿Ｗscelte\u000e\u0000\u0003\u0004\u0000＀\n\u000e\u0000\u0003\u0004毿Ｗautomaticamente\u000e\u0000\u0003\u0004\u0000＀.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_5": "Il recupero di energie sarà basato solo\nsulla \u000e\u0000\u0003\u0004毿Ｗvoce più recente\u000e\u0000\u0003\u0004\u0000＀ di dati del sonno.",
+  "Remote_Title_ReviewAllatOnce_Tutorial_PopupText_6": "\u000e\u0000\u0003\u0004毿ＷLa ricerca sul sonno non si svolgerà\u000e\u0000\u0003\u0004\u0000＀ su dati\nche risalgono a 14 giorni fa o più."
 }

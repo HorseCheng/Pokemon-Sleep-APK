@@ -1,11 +1,11 @@
 {
-  "SleepDataListScene_Content_Title": "수면 데이터 일람",
-  "SleepDataListScene_Content_Desc": "지금까지의 수면 데이터와 리서치 내용을 확인할 수 있습니다",
-  "SleepDataListScene_Content_LimitButton": "30일간(최대)",
-  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁일간(최대)",
-  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁일간",
-  "SleepDataListScene_Header_Title": "수면 데이터",
-  "SleepDataListScene_Header_CalendarButton": "캘린더",
-  "SleepDataListScene_Header_ListButton": "리스트",
-  "SleepDataListScene_NoDataDesc": "아직 수면 데이터가 없습니다"
+  "SleepDataListScene_Content_Title": "Schlafdaten",
+  "SleepDataListScene_Content_Desc": "Sieh dir deine Schlafdaten und Forschungsergebnisse an.",
+  "SleepDataListScene_Content_LimitButton": "30 Tage (max.)",
+  "SleepDataListScene_Content_LimitButton_locked": "\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u0014\u0006Tag\bTage촀 (max.)",
+  "SleepDataListScene_Content_LimitButton_Unlocked": "\u000e\u0002\u0003\u0004\u0000촁 Tage",
+  "SleepDataListScene_Header_Title": "Schlafdaten",
+  "SleepDataListScene_Header_CalendarButton": "Kalender",
+  "SleepDataListScene_Header_ListButton": "Liste",
+  "SleepDataListScene_NoDataDesc": "Du hast noch keine Schlafdaten gesammelt."
 }
