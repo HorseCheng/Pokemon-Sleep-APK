@@ -1,11 +1,11 @@
 {
-  "SleepingFacePokedexDetailScene_Content_Title": "Sleep Style Dex",
-  "SleepingFacePokedexDetailScene_Content_Weight": "Weight:",
-  "SleepingFacePokedexDetailScene_Content_Height": "Height:",
-  "SleepingFacePokedexDetailScene_Content_Type": "Type: \u000e\u0003\u0002\u0002촀",
-  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "#\u000e\u0002\u0002\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촀",
-  "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000 Type",
-  "SleepingFacePokedexDetailScene_Header_ResearchCount": "Studied: \u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "Befriended: \u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Content_Title": "잠자는 모습 도감",
+  "SleepingFacePokedexDetailScene_Content_Weight": "몸무게:",
+  "SleepingFacePokedexDetailScene_Content_Height": "키:",
+  "SleepingFacePokedexDetailScene_Content_Type": "타입: \u000e\u0003\u0002\u0002촀",
+  "SleepingFacePokedexDetailScene_Content_PokedexSubId": "ID: \u000e\u0002\u0002\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촁",
+  "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000 타입",
+  "SleepingFacePokedexDetailScene_Header_ResearchCount": "리서치 수: \u000e\u0002\u0001\u0002\u0000",
+  "SleepingFacePokedexDetailScene_Header_GetCount": "동료가 된 수: \u000e\u0002\u0003\u0004\u0000촁"
 }

@@ -1,17 +1,17 @@
 {
-  "HeadTitle": "수면 통계",
-  "ContentTitle": "수면 통계",
-  "ContentDesc": "지금까지의 수면 데이터와 리서치 내용을 확인할 수 있습니다",
-  "DaysLimitedButton": "30일간 (최대)",
+  "HeadTitle": "Estadísticas del sueño",
+  "ContentTitle": "Estadísticas",
+  "ContentDesc": "Consulta datos y evaluaciones de tus sesiones.",
+  "DaysLimitedButton": "30 días (máx.)",
   "SectionHeader": "\u000e\t\u0000\u000e\nyyyyy\u0000",
   "ItemDataNum": "\u000e\u0002\u0002\u0002\u0000",
-  "ItemPeriod": "\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0000~\u000e\t\u0000\u001a\u0016yyyyyMMMddd\u0001",
+  "ItemPeriod": "\u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0000-\u000e\t\u0000\u0018\u0014yyyy-MM-dd\u0001",
   "ItemTotalTime": "\u000e\t\u0000\u0012\u000ehhhhmmm\u0000",
   "PeriodType_Years_WithLabel": "\u000e\t\u0000\u0010\fyyyyyy\u0000",
   "PeriodType_Days_WithLabel": "\u000e\t\u0000\f\bdddd\u0000",
   "PeriodType_Years": "\u000e\t\u0000\u0010\fyyyyyy\u0000 (\u000e\t\u0000\f\bdddd\u0001)",
   "PeriodType_Days": "\u000e\t\u0000\f\bdddd\u0000",
-  "SleepStatisticsList_Nodata": "아직 수면 데이터가 없습니다",
-  "SleepStatisticsList_PeriodDialog_Title": "통계 기간",
-  "SleepStatisticsList_PeriodDialog_Heading": "항목"
+  "SleepStatisticsList_Nodata": "Aún no dispones de datos de sueño.",
+  "SleepStatisticsList_PeriodDialog_Title": "Período de estudio",
+  "SleepStatisticsList_PeriodDialog_Heading": "Duración"
 }

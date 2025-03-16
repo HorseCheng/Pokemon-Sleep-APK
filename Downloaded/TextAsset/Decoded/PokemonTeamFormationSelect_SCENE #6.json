@@ -1,6 +1,6 @@
 {
-  "PokemonTeamFormationSelectSceneController_Text_1": "Sorted by: \u000e\u0003\u0005\u0002\u0000",
-  "PokemonTeamFormationSelectScene_Header_Title": "Select Member",
-  "PokemonTeamFormationSelectScene_Note_Button": "Note",
-  "PokemonTeamFormationSelectScene_Footer_OrderButton": "Descending"
+  "PokemonTeamFormationSelectSceneController_Text_1": "排序：按\u000e\u0003\u0005\u0002\u0000",
+  "PokemonTeamFormationSelectScene_Header_Title": "替換寶可夢",
+  "PokemonTeamFormationSelectScene_Note_Button": "注意事項",
+  "PokemonTeamFormationSelectScene_Footer_OrderButton": "筆畫遞減"
 }

@@ -1,8 +1,0 @@
-{
-  "TutorialSleepReminderPopup_Title": "リマインドの設定",
-  "TutorialSleepReminderPopup_Headline": "就寝のお知らせ時刻",
-  "TutorialSleepReminderPopup_TimeSettingButton": "21:00",
-  "TutorialSleepReminderPopup_Desc": "今日だけ設定した時刻に\nプッシュ通知を送信します",
-  "TutorialSleepReminderPopup_Title_2": "就寝リマインド通知",
-  "TutorialSleepReminderPopup_Desc_2": "設定すると、その時刻にプッシュ通知を送信します"
-}

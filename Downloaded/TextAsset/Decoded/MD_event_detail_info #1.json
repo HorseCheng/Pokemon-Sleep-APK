@@ -5,6 +5,8 @@
   "md_event_detail_short_name_6": "伊布",
   "md_event_detail_name_7": "佳節",
   "md_event_detail_name_8": "新年",
+  "md_event_detail_short_name_8_1": "新年1",
+  "md_event_detail_short_name_8_2": "新年2",
   "md_event_detail_name_9": "寶藍湖畔",
   "md_event_detail_short_name_9_1": "湖畔1",
   "md_event_detail_short_name_9_2": "湖畔2",
@@ -36,5 +38,7 @@
   "md_event_detail_name_21": "發現寶可夢睡姿週",
   "md_event_detail_name_22": "黃金舊發電廠",
   "md_event_detail_short_name_22_1": "舊發電廠1",
-  "md_event_detail_short_name_22_2": "舊發電廠2"
+  "md_event_detail_short_name_22_2": "舊發電廠2",
+  "md_event_detail_name_23": "強化發動！技能週",
+  "md_event_detail_short_name_23": "技能週"
 }

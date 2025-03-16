@@ -40,5 +40,7 @@
   "md_pokemon_main_skills_name_19": "へんしん(スキルコピー)",
   "md_pokemon_main_skills_desc_19": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす",
   "md_pokemon_main_skills_name_20": "ものまね(スキルコピー)",
-  "md_pokemon_main_skills_desc_20": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす"
+  "md_pokemon_main_skills_desc_20": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす",
+  "md_pokemon_main_skills_name_21": "きのみバースト",
+  "md_pokemon_main_skills_desc_21": "きのみを\u000e\u0002\u0002\u0002\u0000個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する"
 }

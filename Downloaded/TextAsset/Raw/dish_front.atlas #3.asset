@@ -2,7 +2,7 @@ dish_front.png
 size:1024,1024
 filter:Linear,Linear
 dish-shadow_1
-bounds:418,321,351,244
+bounds:418,308,351,244
 offsets:423,446,1200,1200
 dish-under_1
 bounds:2,537,414,244
@@ -11,5 +11,5 @@ dish_1
 bounds:2,277,348,258
 offsets:424,461,1200,1200
 dish_2
-bounds:418,567,363,214
+bounds:418,554,363,227
 offsets:418,514,1200,1200

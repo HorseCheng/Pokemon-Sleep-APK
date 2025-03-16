@@ -1,8 +1,8 @@
 {
-  "BagSortType_1": "Estándar",
-  "BagSortType_2": "Fecha",
-  "BagSortType_3": "Cantidad",
-  "BagSortType_4": "Nombre",
-  "BagSortType_5": "N.º Pokédex",
-  "BagSortType_6": "Tipo"
+  "BagSortType_1": "Défaut",
+  "BagSortType_2": "Date",
+  "BagSortType_3": "Quantité",
+  "BagSortType_4": "Nom",
+  "BagSortType_5": "Nº Pokédex",
+  "BagSortType_6": "Type"
 }

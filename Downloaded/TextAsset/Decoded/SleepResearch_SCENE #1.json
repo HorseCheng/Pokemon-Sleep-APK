@@ -4,8 +4,6 @@
   "SleepResearchScene_SleepResearchUI_Header_Coin_Value": "\u000e\u0002\u0006\u0004\u0000촁",
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Title": "Erforschte Pokémon",
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
-  "SleepResearchSkipConfirmPopup_Header_Title": "Schneller Überblick",
-  "SleepResearchSkipConfirmPopup_Content_Desc": "Möchtest du alle Pokémon mit\nSchlafposen, die du bereits entdeckt\nhast, automatisch erforschen lassen?",
   "SleepResearchSkipConfirmPopup_Header_Title_v220": "Schneller Überblick",
   "SleepResearchSkipConfirmPopup_Content_Desc_v220": "Möchtest du alle Pokémon mit\nSchlafposen, die du bereits entdeckt\nhast, automatisch erforschen lassen?",
   "SleepResearchScene_AllScoreWrapper_All": "Gesamt",
@@ -102,7 +100,6 @@
   "SleepResearchScene_EventPopup_Text_12": "Ein Mal pro Tag kannst du bei der\nSchlafforschung Folgendes erhalten:\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u0003\u0004Ā촀\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items",
-  "SleepResearch_SCENE_ResearchButtonBalloon_1": "Schneller\nÜberblick",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Schneller\nÜberblick",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "Zum nächsten\nPokémon"
 }

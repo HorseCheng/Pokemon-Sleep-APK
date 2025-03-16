@@ -1,10 +1,10 @@
 {
-  "WeeklyReportSceneController_RewardPopup_Title": "睡眠リズム報酬",
-  "WeeklyReportSceneController_RewardPopup_Message": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\t\u0004\u0002촁を\n獲得しました",
-  "WeeklyReportSceneController_Text_6": "睡眠データが不足しています",
-  "WeeklyReportSceneController_Text_7": "睡眠リズムを見るためには、\n1週間に\u000e\u0002\u0000\u0002촀日分以上の睡眠データが必要です",
-  "WeeklyReportScene_Title_TitleText": "先週の睡眠 ( \u000e\t\u0000\u000e\nMM/dd\u0000~\u000e\t\u0000\u000e\nMM/dd\u0001 )",
-  "WeeklyReportScene_Description_Title": "睡眠リズムの評価",
-  "WeeklyReportScene_Description_SleepTimeTitle": "睡眠時間",
-  "WeeklyReportScene_Description_MSTTitle": "ミッドスリープ\nタイム"
+  "WeeklyReportSceneController_RewardPopup_Title": "수면 리듬 보상",
+  "WeeklyReportSceneController_RewardPopup_Message": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\t\u0004\u0002촁개를\n획득했습니다",
+  "WeeklyReportSceneController_Text_6": "수면 데이터가 부족합니다",
+  "WeeklyReportSceneController_Text_7": "수면 리듬을 보기 위해서는\n일주일에 \u000e\u0002\u0000\u0002촀일 이상의 수면 데이터가 필요합니다",
+  "WeeklyReportScene_Title_TitleText": "지난주의 수면 (\u000e\t\u0000\u000e\nMM/dd\u0000~\u000e\t\u0000\u000e\nMM/dd\u0001)",
+  "WeeklyReportScene_Description_Title": "수면 리듬 평가",
+  "WeeklyReportScene_Description_SleepTimeTitle": "수면 시간",
+  "WeeklyReportScene_Description_MSTTitle": "미드 슬립 타임"
 }

@@ -1,10 +1,10 @@
 {
-  "TutorialStoryScene_Header_HeaderBg": "開始",
-  "TutorialStoryScene_PokemonGet_Header_Title": "新夥伴",
-  "TutorialStoryScene_PokemonGet_Content_Title": "有新夥伴了！",
-  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "皮卡丘",
-  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "這隻皮卡丘接下來會和你一起進行研究。\n你們要好好相處喔！\n何不先為牠取個暱稱呢？",
-  "TutorialStoryScene_SetupSleepTime_Header_Title": "就寢約定",
-  "TutorialSetupSceneController_Text_7": "為了今後一起進行睡眠研究，\n和皮卡丘設定就寢的目標時間吧。\n要是能在目標時間上床睡覺，\n就能得到獎勵喔。",
-  "TutorialStoryScene_NameView_Name": "橙夢博士"
+  "TutorialStoryScene_Header_HeaderBg": "はじめに",
+  "TutorialStoryScene_PokemonGet_Header_Title": "新しい仲間",
+  "TutorialStoryScene_PokemonGet_Content_Title": "新しく仲間になりました！",
+  "TutorialStoryScene_PokemonGet_Dialog_Header_Title": "ピカチュウ",
+  "TutorialStoryScene_PokemonGet_Dialog_Content_Message": "これから一緒に研究していく\nピカチュウだよ。よろしくね！\nまずはニックネームをつけてあげよう",
+  "TutorialStoryScene_SetupSleepTime_Header_Title": "ねむりの約束",
+  "TutorialSetupSceneController_Text_7": "これから一緒に睡眠リサーチをするために\nピカチュウと\n就寝時刻の目標を設定しよう。\n目標の時刻にねむりにつくことができれば\nごほうびをプレゼントするよ。",
+  "TutorialStoryScene_NameView_Name": "ネロリ博士"
 }

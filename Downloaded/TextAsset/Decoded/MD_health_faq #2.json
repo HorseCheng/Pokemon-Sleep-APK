@@ -1,10 +1,10 @@
 {
-  "MD_health_faq_List_1": "Apple Watch에서 자동으로\n수면이 계측되고 있나요?",
-  "MD_health_faq_List_2": "Apple 건강에 수면 데이터가\n등록되어 있나요?",
-  "MD_health_faq_List_3": "수면 데이터를 Pokémon Sleep으로\n불러오기 위한 조건을 만족하고 있나요?",
-  "MD_health_faq_List_5": "Samsung Health나 Fitbit 앱에\n수면 데이터가 등록되어 있나요?",
-  "MD_health_faq_List_6": "헬스 커넥트에 수면 데이터가\n등록되어 있나요?",
-  "MD_health_faq_List_7": "수면 데이터를 Pokémon Sleep으로\n불러오기 위한 조건을 만족하고 있나요?",
-  "MD_health_faq_List_8": "Apple 건강의 읽기 권한을 ON으로 설정했나요?",
-  "MD_health_faq_List_9": "헬스 커넥트의 읽기 권한을 ON으로 설정했나요?"
+  "MD_health_faq_List_1": "Apple Watch misura i dati del sonno\nin modo automatico?",
+  "MD_health_faq_List_2": "I tuoi dati del sonno sono registrati\nin Apple Salute?",
+  "MD_health_faq_List_3": "I tuoi dati del sonno hanno i requisiti\nper essere usati in Pokémon Sleep?",
+  "MD_health_faq_List_5": "I tuoi dati del sonno sono registrati\nin Samsung Health o nell'app di Fitbit?",
+  "MD_health_faq_List_6": "I tuoi dati del sonno sono registrati\nin Connessione Salute?",
+  "MD_health_faq_List_7": "I tuoi dati del sonno hanno i requisiti\nper essere usati in Pokémon Sleep?",
+  "MD_health_faq_List_8": "Hai concesso l'accesso per la lettura\ndei dati presenti in Apple Salute?",
+  "MD_health_faq_List_9": "Hai concesso l'accesso in lettura\nai dati presenti in Connessione Salute?"
 }

@@ -1,15 +1,15 @@
 {
-  "SleepingFacePokedexScene_Content_Title": "Sleep Style Dex",
+  "SleepingFacePokedexScene_Content_Title": "ポケモン寝顔図鑑",
   "SleepingFacePokedexScene_Content_Countum": "\u000e\u0002\u0002\u0002\u0000%",
-  "SleepingFacePokedexScene_Content_Desc": "Check out the Pokémon you’ve studied so far!",
-  "SleepingFacePokedexScene_Header_TitleText": "Sleep Style Dex",
-  "SleepingFacePokedexScene_Header_Title": "View Sleep Styles",
-  "SleepingFacePokedexScene_Footer_Title_2": "Clear Filters",
-  "SleepingFacePokedexScene_Footer_Title_3": "Sleep Type",
-  "SleepingFacePokedexScene_Order_Heading": "Sorted by: \u000e\u0003\u0013\u0002\u0000",
+  "SleepingFacePokedexScene_Content_Desc": "リサーチしたポケモンたちを見ることができます",
+  "SleepingFacePokedexScene_Header_TitleText": "ポケモン寝顔図鑑",
+  "SleepingFacePokedexScene_Header_Title": "寝顔の表示",
+  "SleepingFacePokedexScene_Footer_Title_2": "フィルタ OFF",
+  "SleepingFacePokedexScene_Footer_Title_3": "睡眠タイプ",
+  "SleepingFacePokedexScene_Order_Heading": "表示順 - \u000e\u0003\u0013\u0002\u0000",
   "SleepingFacePokedexScene_Secret": "???",
-  "SleepingFacePokedexScene_FaceChange_Popup_Title": "Change Appearance",
-  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "List",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "Select",
-  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "Selected"
+  "SleepingFacePokedexScene_FaceChange_Popup_Title": "姿の切り替え",
+  "SleepingFacePokedexScene_FaceChange_Popup_Head_1": "一覧",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_1": "選択",
+  "SleepingFacePokedexScene_FaceChange_Popup_Button_Text_2": "選択中"
 }

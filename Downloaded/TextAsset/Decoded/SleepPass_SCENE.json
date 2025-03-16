@@ -100,5 +100,10 @@
   "SleepPassScene_ContinuingBenefitsPopup_Next_Text_1": "지속 특전은 프리미엄 패스를 계약한 후\n\u000e\u0000\u0003\u0004旾ｷ3개월마다\u000e\u0000\u0003\u0004\u0000＀ 주어집니다",
   "SleepPassScene_ContinuingBenefitsPopup_Next_Text_3": "무료 체험 기간은 지속 기간에 포함되지 않습니다",
   "SleepPassScene_ContinuingBenefitsPopup_Next_Text_2": "해지 및 갱신 시 결제 실패 등으로 한 번이라도\n노멀 패스로 전환되면 \u000e\u0000\u0003\u0004旾ｷ지속 상태가 리셋\u000e\u0000\u0003\u0004\u0000＀됩니다",
+  "SleepPassScene_PremiumPassPopup_1": "프리미엄 패스",
+  "SleepPassScene_PremiumPassPopup_2": "7가지 특전이 포함된 특별한 패스를\n\u000e\u0000\u0003\u0004毿Ｗ첫 회 2주간 무료로\u000e\u0000\u0003\u0004\u0000＀ 체험해 봅시다!",
+  "SleepPassScene_PremiumPassPopup_3": "1가지 특전을 바로 획득 가능!",
+  "SleepPassScene_PremiumPassPopup_4": "월간 특전을 선물\n\u000e\u0000\u0003\u0004毿Ｗ좋은캠프티켓 x1\n슬립 포인트 x1000\u000e\u0000\u0003\u0004\u0000＀",
+  "SleepPassScene_PremiumPassPopup_5": "모든 특전을 본다",
   "SleepPointEffectCutinWindow_Title": "슬립 포인트를 획득했습니다"
 }

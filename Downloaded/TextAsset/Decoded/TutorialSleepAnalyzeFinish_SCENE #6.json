@@ -1,7 +1,7 @@
 {
-  "TutorialSleepAnalyzeFinishSceneController_Text_1": "¡Veo que ya has registrado tus\nprimeros datos! ¡Fantástico!\nEs hora de enseñarte cómo\nfunciona el estudio del sueño.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial en espera",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Tutorial de estudio del sueño",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Cuando lo tengas todo listo, retomaremos\nnuestro estudio del sueño, empezando\npor ver los datos que has registrado.",
-  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Retomar tutorial"
+  "TutorialSleepAnalyzeFinishSceneController_Text_1": "Looks like you succeeded in\ncollecting your first sleep data!\nThat means it’s time to learn\nhow we conduct sleep research.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title": "Tutorial Pending",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Title_2": "Sleep Research Tutorial",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_Message": "Let’s get back to that sleep research as\nsoon as you’re ready. We’ll begin by\nreviewing the sleep you tracked.",
+  "TutorialSleepAnalyzeFinishScene_WaitingView_ResumeButton": "Resume Tutorial"
 }

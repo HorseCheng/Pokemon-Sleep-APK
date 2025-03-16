@@ -1,11 +1,11 @@
 {
-  "SleepRegularityList_HeadTile": "수면 리듬",
-  "SleepRegularityList_ContentTitle": "수면 리듬",
-  "SleepRegularityList_LimitLabel": "4주간 (최대)",
-  "SleepRegularityList_ContentDesc": "일주일 단위의 수면 리듬에 대한 기록입니다",
+  "SleepRegularityList_HeadTile": "睡眠節奏",
+  "SleepRegularityList_ContentTitle": "睡眠節奏",
+  "SleepRegularityList_LimitLabel": "上限為4週",
+  "SleepRegularityList_ContentDesc": "可以查看每週的睡眠節奏紀錄。",
   "SleepRegularityList_SectionHeader": "\u000e\t\u0000\u0014\u0010yyyyyMMM\u0000",
-  "SleepRegularityList_ItemPeriod": "\u000e\t\u0000\u0010\fMMMddd\u0000~\u000e\t\u0000\u0010\fMMMddd\u0001",
-  "SleepRegularityList_ItemSleepTime": "수면 시간",
-  "SleepRegularityList_ItemMidTimeSleep": "미드 슬립 타임",
-  "SleepRegularityListScene_NoDataDesc": "아직 수면 리듬 데이터가 없습니다"
+  "SleepRegularityList_ItemPeriod": "\u000e\t\u0000\u0010\fMMMddd\u0000～\u000e\t\u0000\u0010\fMMMddd\u0001",
+  "SleepRegularityList_ItemSleepTime": "睡眠時間",
+  "SleepRegularityList_ItemMidTimeSleep": "睡眠中央時刻",
+  "SleepRegularityListScene_NoDataDesc": "尚無睡眠節奏資料。"
 }

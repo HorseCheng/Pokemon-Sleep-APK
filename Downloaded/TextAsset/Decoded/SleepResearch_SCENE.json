@@ -4,8 +4,6 @@
   "SleepResearchScene_SleepResearchUI_Header_Coin_Value": "\u000e\u0002\u0006\u0004\u0000촁",
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Title": "Pokémon estudiados",
   "SleepResearchScene_SleepResearchUI_LeftNumWindow_Value": "\u000e\u0002\u0001\u0002\u0000/\u000e\u0002\u0001\u0002\u0001",
-  "SleepResearchSkipConfirmPopup_Header_Title": "Revisión rápida",
-  "SleepResearchSkipConfirmPopup_Content_Desc": "¿Quieres que se analice automáticamente\na los Pokémon que duerman en posturas\nque ya has descubierto para su especie?",
   "SleepResearchSkipConfirmPopup_Header_Title_v220": "Revisión rápida",
   "SleepResearchSkipConfirmPopup_Content_Desc_v220": "¿Quieres que se analice automáticamente\na los Pokémon que duerman en posturas\nque ya has descubierto para su especie?",
   "SleepResearchScene_AllScoreWrapper_All": "Total",
@@ -102,7 +100,6 @@
   "SleepResearchScene_EventPopup_Text_12": "Puedes obtener este objeto una vez\nal día tras el estudio del sueño:\n\u000e\u0000\u0003\u0004毿Ｗ\u000e\u0003\u0003\u0004Ā촀\u000e\u0000\u0003\u0004\u0000＀",
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "No puedes dar una \u000e\u0003\u0003\u0004Ā촀\na este Pokémon.",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento",
-  "SleepResearch_SCENE_ResearchButtonBalloon_1": "Revisión rápida",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Revisión rápida",
   "SleepResearch_SCENE_ResearchButtonBalloon_2": "Siguiente\nPokémon"
 }
