@@ -248,7 +248,7 @@
   "md_pokedex_data_category_name_354": "Marionette Pokémon",
   "md_pokedex_data_desc_354": "A Pokémon born of a grudge that took up residence\nin an abandoned stuffed toy. Sometimes it appears\nto laugh happily while it sleeps. Perhaps it’s\nremembering a time when it was loved and cared for.",
   "md_pokedex_data_category_name_215": "Sharp Claw Pokémon",
-  "md_pokedex_data_desc_215": "Through known for its savage disposition, Sneasel\ncan be seen sleeping peacefully on very rare\noccasions. It’s been spotted with its belly out,\nlanguidly washing its face in its sleep.",
+  "md_pokedex_data_desc_215": "Though known for its savage disposition, Sneasel\ncan be seen sleeping peacefully on very rare\noccasions. It’s been spotted with its belly out,\nlanguidly washing its face in its sleep.",
   "md_pokedex_data_category_name_280": "Feeling Pokémon",
   "md_pokedex_data_desc_280": "It is highly attuned to the emotions of people and\nPokémon, and it’s said that Ralts appears before\npeople who are in a cheerful mood. On a day when\nsomething good has happened, you may be able to\nsee Ralts sleeping with a happy smile on its face.",
   "md_pokedex_data_category_name_281": "Emotion Pokémon",
@@ -332,5 +332,9 @@
   "md_pokedex_data_category_name_923": "Hands-On Pokémon",
   "md_pokedex_data_desc_923": "Pawmot has a peaceful personality and sometimes\nheals injured Pokémon by discharging electricity\nfrom its forepaws. If you see it raising its paws\nwhile it sleeps, it may be tending to other Pokémon\nin its dreams.",
   "md_pokedex_data_category_name_980": "Spiny Fish Pokémon",
-  "md_pokedex_data_desc_980": "Clodsire lives in ponds and swamps. It will carry\nWooper on its back and ferry them from one shore to\nthe other. On rare occasions, it can be seen sleeping\nin the mud; this may be because it got sleepy\nwhile ferrying Wooper."
+  "md_pokedex_data_desc_980": "Clodsire lives in ponds and swamps. It will carry\nWooper on its back and ferry them from one shore to\nthe other. On rare occasions, it can be seen sleeping\nin the mud; this may be because it got sleepy\nwhile ferrying Wooper.",
+  "md_pokedex_data_category_name_517": "Dream Eater Pokémon",
+  "md_pokedex_data_desc_517": "Munna eats the dreams of people and Pokémon.\nWhen it’s eating a good dream, it releases pink\nmist. It has been seen eating surrounding\nPokémon’s and people’s dreams in its sleep,\nmaking the patterns on its body glow\nwith happiness.",
+  "md_pokedex_data_category_name_518": "Drowsing Pokémon",
+  "md_pokedex_data_desc_518": "It may seem like it’s awake when its eyes are\nopen but it’s actually asleep. It has the power to\nmake the dreams it eats into mist, and some\nscientists say they have seen that mist transform\ninto the shape of the dreams it ate."
 }

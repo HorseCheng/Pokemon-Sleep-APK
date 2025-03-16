@@ -139,6 +139,8 @@
   "md_species_candies_name_778_plu": "Mimigma-Bonbons",
   "md_species_candies_name_921": "Pamo-Bonbon",
   "md_species_candies_name_921_plu": "Pamo-Bonbons",
+  "md_species_candies_name_517": "Somniam-Bonbon",
+  "md_species_candies_name_517_plu": "Somniam-Bonbons",
   "md_species_candies_narrow_name_25": "Pikachu-\nBonbon",
   "md_species_candies_narrow_name_25_plu": "Pikachu-\nBonbons",
   "md_species_candies_narrow_name_133": "Evoli-\nBonbon",
@@ -278,5 +280,7 @@
   "md_species_candies_narrow_name_778": "Mimigma-\nBonbon",
   "md_species_candies_narrow_name_778_plu": "Mimigma-\nBonbons",
   "md_species_candies_narrow_name_921": "Pamo-\nBonbon",
-  "md_species_candies_narrow_name_921_plu": "Pamo-\nBonbons"
+  "md_species_candies_narrow_name_921_plu": "Pamo-\nBonbons",
+  "md_species_candies_narrow_name_517": "Somniam-\nBonbon",
+  "md_species_candies_narrow_name_517_plu": "Somniam-\nBonbons"
 }

@@ -10,7 +10,7 @@
   "PokemonTopScene_EXPBonusPopup_Value_1": "距離獲得萬能糖果S還需",
   "PokemonTopScene_EXPBonusPopup_Value_2": "EXP",
   "PokemonTopScene_EXPBonusPopup_Value_3": "\u000e\u0002\u0002\u0002\u0000",
-  "PokemonTopScene_EXPBonusPopup_Text_1": "當隊伍裡的幫手寶可夢等級達到上限時，\n寶可夢不會獲得溢出的睡眠EXP。\n溢出的睡眠EXP會被計入獎勵計量槽。",
+  "PokemonTopScene_EXPBonusPopup_Text_1": "當隊伍裡的幫手寶可夢等級已達到上限時，\n寶可夢不會獲得溢出的睡眠EXP。\n溢出的睡眠EXP會被計入獎勵計量槽。",
   "PokemonTopScene_EXPBonusPopup_Text_2": "每次獎勵計量槽達到MAX時，\n皆可獲得\u000e\u0002\u0001\u0002\u0002個\u000e\u0003\u0003\u0004Ā촀。",
   "PokemonTopScene_EXPBonusPopup_ExplainButton": "說明",
   "PokemonTopScene_EXPBonusExplainPopup_Text": "累積溢出的睡眠EXP\n即可獲得道具！",

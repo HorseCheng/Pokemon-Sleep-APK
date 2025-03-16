@@ -139,6 +139,8 @@
   "md_species_candies_name_778_plu": "Bonbons Mimiqui",
   "md_species_candies_name_921": "Bonbon Pohm",
   "md_species_candies_name_921_plu": "Bonbons Pohm",
+  "md_species_candies_name_517": "Bonbon Munna",
+  "md_species_candies_name_517_plu": "Bonbons Munna",
   "md_species_candies_narrow_name_25": "Bonbon\nPikachu",
   "md_species_candies_narrow_name_25_plu": "Bonbons\nPikachu",
   "md_species_candies_narrow_name_133": "Bonbon\nÉvoli",
@@ -278,5 +280,7 @@
   "md_species_candies_narrow_name_778": "Bonbon\nMimiqui",
   "md_species_candies_narrow_name_778_plu": "Bonbons\nMimiqui",
   "md_species_candies_narrow_name_921": "Bonbon\nPohm",
-  "md_species_candies_narrow_name_921_plu": "Bonbons\nPohm"
+  "md_species_candies_narrow_name_921_plu": "Bonbons\nPohm",
+  "md_species_candies_narrow_name_517": "Bonbon\nMunna",
+  "md_species_candies_narrow_name_517_plu": "Bonbons\nMunna"
 }
