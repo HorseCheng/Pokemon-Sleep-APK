@@ -309,6 +309,8 @@
   "md_pokedex_data_desc_914": "Sa danse insolite est captivante. Même endormi,\nil balance son corps à la moindre occasion, et on\npeut parfois l'apercevoir prendre des poses\nélégantes pendant son sommeil.",
   "md_pokedex_data_category_name_194": "Pokémon Poisson",
   "md_pokedex_data_desc_194": "Axoloto vit généralement dans l'eau et a pour\nhabitude de dormir à moitié enseveli dans les\nprofondeurs de la boue. Même quand il dort hors\nde l'eau, il s'enfonce entièrement dans la vase\npour protéger son corps de la déshydratation.",
+  "md_pokedex_data_category_name_7054": "Pokémon Poizzon",
+  "md_pokedex_data_desc_7054": "Il vivait autrefois dans l'eau mais vit désormais\naussi sur la terre ferme. Il protège son corps\nen le recouvrant d'un fluide toxique et s'établit\ngénéralement dans les marais. On peut parfois\nl'apercevoir couvert de boue, en train de se reposer.",
   "md_pokedex_data_category_name_195": "Pokémon Poisson",
   "md_pokedex_data_desc_195": "Maraiste est un Pokémon décontracté qui trouve\nsa nourriture en laissant sa bouche ouverte dans\nl'eau, et en attendant que ses proies y pénètrent\nsans faire attention. Si vous en rencontrez un\ndormant la bouche béante, c'est peut-être qu'il\nattend une proie, même au beau milieu d'un rêve.",
   "md_pokedex_data_category_name_304": "Pokémon Armurfer",
@@ -328,5 +330,7 @@
   "md_pokedex_data_category_name_922": "Pokémon Souris",
   "md_pokedex_data_desc_922": "Pohmotte utilise un style de combat unique qui\nconsiste à frapper ses adversaires avec ses paumes,\ntout en les électrocutant avec ses coussinets.\nIl s'endort parfois dans sa posture de combat\ncaractéristique. Peut-être qu'il travaille sur\nses techniques martiales pendant son sommeil.",
   "md_pokedex_data_category_name_923": "Pokémon Pose Paume",
-  "md_pokedex_data_desc_923": "D'ordinaire, ce Pokémon est plutôt calme. Il soigne\nparfois des Pokémon blessés en émettant des\ndécharges électriques depuis ses pattes avant.\nOn peut parfois l'apercevoir levant les pattes dans\nson sommeil, comme s'il soignait des Pokémon\ndans ses rêves."
+  "md_pokedex_data_desc_923": "D'ordinaire, ce Pokémon est plutôt calme. Il soigne\nparfois des Pokémon blessés en émettant des\ndécharges électriques depuis ses pattes avant.\nOn peut parfois l'apercevoir levant les pattes dans\nson sommeil, comme s'il soignait des Pokémon\ndans ses rêves.",
+  "md_pokedex_data_category_name_980": "Pokémon Poissépine",
+  "md_pokedex_data_desc_980": "Terraiste vit dans les étangs et les marais. Il porte\ndes Axoloto sur son dos et nage jusqu'à la rive\nopposée pour les aider à traverser. En de rares\noccasions, on peut le voir endormi dans la boue.\nSans doute qu'il s'est assoupi au beau milieu\nde ses fonctions de batelier."
 }

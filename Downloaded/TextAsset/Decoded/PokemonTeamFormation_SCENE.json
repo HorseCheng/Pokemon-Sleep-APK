@@ -2,6 +2,7 @@
   "PokemonTeamFormationSceneController_Text_6": "Vuoi cambiare?",
   "PokemonTeamFormationSceneController_Text_4": "Errore",
   "PokemonTeamFormationSceneController_Text_5": "Devi avere degli aiutanti in squadra!",
+  "PokemonTeamFormationSceneController_Text_5_v250": "Non puoi rimuovere questo Pokémon\nperché una squadra deve avere\nalmeno un Pokémon.",
   "PokemonTeamFormationSceneController_Text_1": "Fatto",
   "PokemonTeamFormationSceneController_Text_2": "La squadra è stata formata!",
   "PokemonTeamFormationSceneController_Text_3": "Cambia il nome della squadra",

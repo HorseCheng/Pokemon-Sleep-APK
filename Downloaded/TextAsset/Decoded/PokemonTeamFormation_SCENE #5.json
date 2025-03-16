@@ -2,6 +2,7 @@
   "PokemonTeamFormationSceneController_Text_6": "팀 변경 확인",
   "PokemonTeamFormationSceneController_Text_4": "에러",
   "PokemonTeamFormationSceneController_Text_5": "팀에 멤버를 설정해 주십시오",
+  "PokemonTeamFormationSceneController_Text_5_v250": "팀에는 포켓몬을 1마리 이상\n편성해야 하므로\n해제할 수 없습니다",
   "PokemonTeamFormationSceneController_Text_1": "완료",
   "PokemonTeamFormationSceneController_Text_2": "자동 편성이 완료되었습니다!",
   "PokemonTeamFormationSceneController_Text_3": "팀 이름 변경",

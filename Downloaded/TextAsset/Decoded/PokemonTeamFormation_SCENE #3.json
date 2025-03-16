@@ -2,6 +2,7 @@
   "PokemonTeamFormationSceneController_Text_6": "チーム変更の確認",
   "PokemonTeamFormationSceneController_Text_4": "エラー",
   "PokemonTeamFormationSceneController_Text_5": "チームにメンバーを設定してください",
+  "PokemonTeamFormationSceneController_Text_5_v250": "チームにはポケモンを1匹以上\n編成する必要があります\nそのため、外すことができません",
   "PokemonTeamFormationSceneController_Text_1": "完了",
   "PokemonTeamFormationSceneController_Text_2": "おまかせ編成しました！",
   "PokemonTeamFormationSceneController_Text_3": "チーム名の変更",

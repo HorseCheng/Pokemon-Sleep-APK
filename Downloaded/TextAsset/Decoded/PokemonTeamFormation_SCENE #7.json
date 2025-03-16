@@ -2,6 +2,7 @@
   "PokemonTeamFormationSceneController_Text_6": "¿Te apetece un cambio?",
   "PokemonTeamFormationSceneController_Text_4": "Error",
   "PokemonTeamFormationSceneController_Text_5": "Necesitas ayudantes en tu equipo.",
+  "PokemonTeamFormationSceneController_Text_5_v250": "No puedes retirar a este Pokémon\nporque tiene que haber al menos\nun Pokémon en el equipo.",
   "PokemonTeamFormationSceneController_Text_1": "Hecho",
   "PokemonTeamFormationSceneController_Text_2": "¡Se ha formado un equipo para ti!",
   "PokemonTeamFormationSceneController_Text_3": "Cambiar el nombre de equipo",

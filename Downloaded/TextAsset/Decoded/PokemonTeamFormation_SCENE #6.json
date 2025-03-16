@@ -2,6 +2,7 @@
   "PokemonTeamFormationSceneController_Text_6": "Confirmer le changement ?",
   "PokemonTeamFormationSceneController_Text_4": "Erreur",
   "PokemonTeamFormationSceneController_Text_5": "Veuillez inclure au moins un Pokémon\ndans votre équipe.",
+  "PokemonTeamFormationSceneController_Text_5_v250": "Vous ne pouvez pas retirer\nce Pokémon. Chaque équipe doit\ncompter au moins un Pokémon.",
   "PokemonTeamFormationSceneController_Text_1": "Formation terminée",
   "PokemonTeamFormationSceneController_Text_2": "Une équipe a été formée pour vous !",
   "PokemonTeamFormationSceneController_Text_3": "Renommer l'équipe",

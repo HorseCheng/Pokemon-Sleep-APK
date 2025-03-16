@@ -309,6 +309,8 @@
   "md_pokedex_data_desc_914": "Con la sua danza esotica, cattura lo sguardo di\nchiunque lo veda. Anche mentre dorme, muove\ntutto il corpo ad ogni occasione e a volte lo si\npuò vedere assumere pose eleganti.",
   "md_pokedex_data_category_name_194": "Pokémon Acquapesce",
   "md_pokedex_data_desc_194": "Di solito vive in acqua e quando vuole\ndormire si seppellisce a metà nei fondali\nmelmosi. Quando dorme sulla terraferma\nsi immerge nel fango, che lo mantiene idratato.",
+  "md_pokedex_data_category_name_7054": "Pokémon Velenpesce",
+  "md_pokedex_data_desc_7054": "Originariamente acquatico, ora vive anche\nsulla terraferma, avendo sviluppato\nuna membrana mucosa tossica per\nproteggere il corpo. Fa la tana in\npaludi fangose, perciò a volte si può\nvedere mentre dorme ricoperto di fango.",
   "md_pokedex_data_category_name_195": "Pokémon Acquapesce",
   "md_pokedex_data_desc_195": "Ha un carattere tranquillo e in acqua attende\nla preda tenendo sempre la bocca spalancata\nper catturare qualche ignaro malcapitato.\nSe lo si vede dormire a bocca aperta, forse\nè in attesa della preda anche in sogno.",
   "md_pokedex_data_category_name_304": "Pokémon Corazza",
@@ -328,5 +330,7 @@
   "md_pokedex_data_category_name_922": "Pokémon Topo",
   "md_pokedex_data_desc_922": "Utilizza una tecnica speciale di lotta corpo a corpo:\ncolpisce il nemico con le zampe anteriori rilasciando\nal contempo elettricità dai cuscinetti. A volte dorme\nnella sua posizione di lotta caratteristica, forse\nperché anche in sogno si allena nelle sue mosse.",
   "md_pokedex_data_category_name_923": "Pokémon Toccasana",
-  "md_pokedex_data_desc_923": "Di indole pacifica, a volte guarisce i Pokémon\nferiti emettendo elettricità dalle zampe anteriori.\nSe lo si vede sollevare le zampe mentre dorme,\nforse sta sognando di prendersi cura di un Pokémon."
+  "md_pokedex_data_desc_923": "Di indole pacifica, a volte guarisce i Pokémon\nferiti emettendo elettricità dalle zampe anteriori.\nSe lo si vede sollevare le zampe mentre dorme,\nforse sta sognando di prendersi cura di un Pokémon.",
+  "md_pokedex_data_category_name_980": "Pokémon Pescespine",
+  "md_pokedex_data_desc_980": "Vive in stagni e paludi. Si carica i Wooper\nsulla schiena e li traghetta da una sponda\nall’altra. Raramente si può vedere mentre\ndorme nel fango, forse perché gli è venuto\nsonno mentre trasportava dei Wooper."
 }

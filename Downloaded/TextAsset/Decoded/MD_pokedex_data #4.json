@@ -309,6 +309,8 @@
   "md_pokedex_data_desc_914": "Embelesa a quien lo ve con una danza que rebosa de\nexotismo. Incluso dormido, se contonea a la menor\noportunidad, y a veces hasta se lo ha visto posar con\nelegancia.",
   "md_pokedex_data_category_name_194": "Pokémon Pez Agua",
   "md_pokedex_data_desc_194": "Suele vivir en el agua y acostumbra a semienterrarse\nen el cieno del lecho para dormir. Cuando duerme en\ntierra firme, se entierra por completo en el fango\npara evitar deshidratarse.",
+  "md_pokedex_data_category_name_7054": "Pokémon Pez Veneno",
+  "md_pokedex_data_desc_7054": "Antes vivía en el agua, pero ahora también lo hace\nen tierra firme. Una membrana mucosa tóxica que\nle protege el cuerpo. Suele asentarse en pantanos,\npor lo que a menudo se lo ve durmiendo con el cuerpo\ntotalmente cubierto de fango.",
   "md_pokedex_data_category_name_195": "Pokémon Pez Agua",
   "md_pokedex_data_desc_195": "De naturaleza tranquila, caza dejando las fauces\nabiertas en el agua y esperando a que su presa entre\nsin darse cuenta. Si ves alguno durmiendo con la\nboca abierta, quizás esté aguardando alguna presa\nincluso dormido. ",
   "md_pokedex_data_category_name_304": "Pokémon Coraza Férrea",
@@ -328,5 +330,7 @@
   "md_pokedex_data_category_name_922": "Pokémon Ratón",
   "md_pokedex_data_desc_922": "Usa un arte marcial caracterizado por emplear las\npatas delanteras para asestar golpes y liberar\ndescargas eléctricas al mismo tiempo. A veces\nduerme en su postura de combate característica.\nQuizás esté practicando en sueños sus movimientos\nde combate.",
   "md_pokedex_data_category_name_923": "Pokémon Palmada",
-  "md_pokedex_data_desc_923": "Es bastante calmado y a veces cura a Pokémon\nheridos descargando electricidad por las patas\ndelanteras. Si lo ves durmiendo con las patas en\nalto, tal vez esté cuidando en sueños de algún\nPokémon."
+  "md_pokedex_data_desc_923": "Es bastante calmado y a veces cura a Pokémon\nheridos descargando electricidad por las patas\ndelanteras. Si lo ves durmiendo con las patas en\nalto, tal vez esté cuidando en sueños de algún\nPokémon.",
+  "md_pokedex_data_category_name_980": "Pokémon Pez Púas",
+  "md_pokedex_data_desc_980": "Vive en estanques y pantanos. Nada con Wooper\nsobre el lomo para ayudarlos a cruzar de una orilla\na otra. En raras ocasiones, se lo puede ver durmiendo\nen el barro. Tal vez se quedara dormido mientras\ntransportaba algún Wooper."
 }
