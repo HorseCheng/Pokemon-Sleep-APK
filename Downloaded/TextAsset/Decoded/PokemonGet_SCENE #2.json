@@ -1,10 +1,13 @@
 {
   "PokemonGetScene_Header_Title": "포켓몬 GET",
+  "PokemonGetScene_Header_Title_2": "도구 GET",
   "PokemonGetScene_Content_Title": "프렌드 레벨 \u000e\u0002\u0002\u0002\u0000 달성!",
   "PokemonGetScene_Content_Title_2": "프렌드 포인트 MAX 달성!",
   "PokemonGetScene_Content_Desc": "새로 동료가 되었습니다",
+  "PokemonGetScene_Content_Desc_2": "새로운 도구를 획득했습니다",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002\u0000",
   "PokemonGetScene_Content_Detail_Rank": "Lv.\u000e\u0002\u0002\u0002\u0000",
   "PokemonGetScene_Content_Detail_Nature_Title": "성격",
-  "PokemonGetScene_Content_StatusButton_Text": "스테이터스"
+  "PokemonGetScene_Content_StatusButton_Text": "스테이터스",
+  "PokemonGetScene_Content_Detail_Num": "x\u000e\u0002\u0003\u0004\u0000촁"
 }

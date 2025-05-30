@@ -21,5 +21,7 @@
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Köstliche Gerichte \u000e\u0002\u0002\u0002\u0000 % häufiger!",
   "SkillEffect_LunarBlessing": "Die Energie deines Teams wurde um\n\u000e\u0002\u0004\u0004\u0000촁 aufgefüllt!\n\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 erhalten!",
-  "SkillEffect_skill_20": "Relaxos Stärke wird um \u000e\u0002\u0004\u0004\u0000촁\nerhöht!\nDie Energie von Pokémon, die nicht\ndem Typ Unlicht angehören, wurde\num \u000e\u0002\u0002\u0002\u0001 gesenkt!"
+  "SkillEffect_skill_20": "Relaxos Stärke wird um \u000e\u0002\u0004\u0004\u0000촁\nerhöht!\nDie Energie von Pokémon, die nicht\ndem Typ Unlicht angehören, wurde\num \u000e\u0002\u0002\u0002\u0001 gesenkt!",
+  "SkillEffect_skill_24_1": "\u000e\u0003\u0003\u0004Ā촀\n×\u000e\u0002\u0003\u0004\u0002촁 erhalten!",
+  "SkillEffect_skill_24_2": "\u000e\u0003\u0003\u0004Ā촀\n×\u000e\u0002\t\u0004\u0002촁 erhalten!"
 }

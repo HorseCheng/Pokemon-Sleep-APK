@@ -116,6 +116,7 @@
   "item_baitball_name_99": "Cresselia-Keks",
   "item_exchange_name_100": "Cresselia-Flaum",
   "item_name_101": "Heurekasamen (\u000e\u0003\u0001\u0002\u0000)",
+  "item_name_102": "Finsterstein",
   "item_desc_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte. Wird\nnach einer Anwendung aufgebraucht.",
   "item_desc_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter. Wird nach\neiner Anwendung aufgebraucht.",
   "item_desc_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.\nWird nach einer Anwendung\naufgebraucht.",
@@ -165,6 +166,7 @@
   "item_desc_101": "Ein mysteriöser Samen, der die\nwahre Macht von \u000e\u0003\u0001\u0002\u0000\nerwecken kann.\nEr war ein Geschenk von\n\u000e\u0003\u0001\u0002\u0000 als Zeichen\neurer Freundschaft.",
   "item_desc_101_ex_1": "Du kannst eine Zutat oder ein\nNebentalent aus den Helferdaten\nvon \u000e\u0003\u0001\u0002\u0000 zum\nFreischalten oder Ändern auswählen.\nWozu sie geändert werden, wird\nallerdings zufällig entschieden.",
   "item_desc_101_ex_2": "Wenn du dies in Bonbons umwandelst,\nerhältst du \u000e\u0002\u0003\u0004\u0001촁 \u000e\u0006\u0000 \fBonbon\u000eBonbons촁 für\n\u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_102": "Dieser besondere, düstere Stein\nhilft manchen Pokémon bei ihrer\nEntwicklung.",
   "item_desc_short_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte.",
   "item_desc_short_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter.",
   "item_desc_short_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.",
@@ -211,5 +213,6 @@
   "item_desc_short_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die\nEntwicklung aus.",
   "item_desc_short_99": "Ein spezieller Snack für Cresselia.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher.",
   "item_desc_short_101": "Ein mysteriöser Samen, der die\nMacht von \u000e\u0003\u0001\u0002\u0000\nerwecken kann.",
+  "item_desc_short_102": "Dieser besondere, düstere Stein\nhilft manchen Pokémon bei ihrer\nEntwicklung.",
   "item_Name_narrow_name_101": "Heurekasamen\n(\u000e\u0003\u0001\u0002\u0000)"
 }

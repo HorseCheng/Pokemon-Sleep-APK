@@ -21,5 +21,7 @@
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 올랐다!",
   "SkillEffect_LunarBlessing": "팀의 기력 \u000e\u0002\u0004\u0004\u0000촁 회복!\n나무열매 \u000e\u0002\u0003\u0004\u0001촁개 획득!",
-  "SkillEffect_skill_20": "에너지 \u000e\u0002\u0004\u0004\u0000촁 획득!\n악타입 이외의 포켓몬의\n기력이 \u000e\u0002\u0002\u0002\u0001 떨어졌다"
+  "SkillEffect_skill_20": "에너지 \u000e\u0002\u0004\u0004\u0000촁 획득!\n악타입 이외의 포켓몬의\n기력이 \u000e\u0002\u0002\u0002\u0001 떨어졌다",
+  "SkillEffect_skill_24_1": "\u000e\u0003\u0003\u0004Ā촀 \u000e\u0002\u0003\u0004\u0002촁개 획득!",
+  "SkillEffect_skill_24_2": "\u000e\u0003\u0003\u0004Ā촀 x\u000e\u0002\t\u0004\u0002촁 획득!"
 }

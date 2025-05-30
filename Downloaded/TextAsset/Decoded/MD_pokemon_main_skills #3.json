@@ -46,5 +46,7 @@
   "md_pokemon_main_skills_name_22": "초승달의기도(기력 올S)",
   "md_pokemon_main_skills_desc_22": "도우미 팀 포켓몬의\n기력을 \u000e\u0002\u0006\u0004\u0000촁 회복하고\n자신과 팀의 나무열매도 획득한다",
   "md_pokemon_main_skills_name_23": "나이트메어(에너지 차지M)",
-  "md_pokemon_main_skills_desc_23": "잠만보의 에너지를 \u000e\u0002\u0006\u0004\u0000촁 늘린다\n동시에 도우미 팀의\n악타입 이외의 포켓몬의 기력이 \u000e\u0002\u0002\u0002\u0001 떨어진다"
+  "md_pokemon_main_skills_desc_23": "잠만보의 에너지를 \u000e\u0002\u0006\u0004\u0000촁 늘린다\n동시에 도우미 팀의\n악타입 이외의 포켓몬의 기력이 \u000e\u0002\u0002\u0002\u0001 떨어진다",
+  "md_pokemon_main_skills_name_24": "대운(식재료 셀렉트S)",
+  "md_pokemon_main_skills_desc_24": "특정 식재료 중에서 랜덤으로 1가지 식재료를\n\u000e\u0002\u0003\u0004\u0000촁개 획득한다\n드물게 식재료 대신 대량의 꿈의조각을 획득한다"
 }

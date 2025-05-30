@@ -21,5 +21,7 @@
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "料理漂亮成功的機率提升\u000e\u0002\u0002\u0002\u0000％了！",
   "SkillEffect_LunarBlessing": "隊伍的活力回復\u000e\u0002\u0004\u0004\u0000촁！\n獲得\u000e\u0002\u0003\u0004\u0001촁個樹果！",
-  "SkillEffect_skill_20": "獲得能量\u000e\u0002\u0004\u0004\u0000촁！\n惡屬性以外的寶可夢的活力下降\u000e\u0002\u0002\u0002\u0001。"
+  "SkillEffect_skill_20": "獲得能量\u000e\u0002\u0004\u0004\u0000촁！\n惡屬性以外的寶可夢的活力下降\u000e\u0002\u0002\u0002\u0001。",
+  "SkillEffect_skill_24_1": "獲得\u000e\u0002\u0003\u0004\u0002촁個\u000e\u0003\u0003\u0004Ā촀！",
+  "SkillEffect_skill_24_2": "獲得\u000e\u0003\u0003\u0004Ā촀×\u000e\u0002\t\u0004\u0002촁！"
 }

@@ -1,10 +1,13 @@
 {
   "PokemonGetScene_Header_Title": "ポケモンGET",
+  "PokemonGetScene_Header_Title_2": "どうぐGET",
   "PokemonGetScene_Content_Title": "フレンドレベル \u000e\u0002\u0002\u0002\u0000 達成！",
   "PokemonGetScene_Content_Title_2": "フレンドポイント MAX 達成！",
   "PokemonGetScene_Content_Desc": "新しく仲間になりました",
+  "PokemonGetScene_Content_Desc_2": "新しいどうぐを手に入れました",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002\u0000",
   "PokemonGetScene_Content_Detail_Rank": "Lv.\u000e\u0002\u0002\u0002\u0000",
   "PokemonGetScene_Content_Detail_Nature_Title": "せいかく",
-  "PokemonGetScene_Content_StatusButton_Text": "ステータス"
+  "PokemonGetScene_Content_StatusButton_Text": "ステータス",
+  "PokemonGetScene_Content_Detail_Num": "x\u000e\u0002\u0003\u0004\u0000촁"
 }

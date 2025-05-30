@@ -21,5 +21,7 @@
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Extra Tasty rate raised by \u000e\u0002\u0002\u0002\u0000%!",
   "SkillEffect_LunarBlessing": "The team recovered \u000e\u0002\u0004\u0004\u0000촁 Energy!\n\u000e\u0002\u0003\u0004\u0001촁 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촁 obtained!",
-  "SkillEffect_skill_20": "Snorlax got \u000e\u0002\u0004\u0004\u0000촁 Strength!\nEnergy of Pokémon who aren’t Dark\ntype fell by \u000e\u0002\u0002\u0002\u0001!"
+  "SkillEffect_skill_20": "Snorlax got \u000e\u0002\u0004\u0004\u0000촁 Strength!\nEnergy of Pokémon who aren’t Dark\ntype fell by \u000e\u0002\u0002\u0002\u0001!",
+  "SkillEffect_skill_24_1": "Obtained \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\u0003\u0004\u0002촁!",
+  "SkillEffect_skill_24_2": "Obtained \u000e\u0003\u0003\u0004Ā촀 ×\u000e\u0002\t\u0004\u0002촁!"
 }

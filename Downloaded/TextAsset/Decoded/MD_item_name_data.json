@@ -116,6 +116,7 @@
   "item_baitball_name_99": "Biscuit Cresselia",
   "item_exchange_name_100": "Duvet de Cresselia",
   "item_name_101": "Graine Eurêka (\u000e\u0003\u0001\u0002\u0000)",
+  "item_name_102": "Pierre Nuit",
   "item_desc_1": "Un encens qui double les points\nde recherche obtenus pendant une\nsession de recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
   "item_desc_2": "Un encens qui double les Fragments\nde Rêve obtenus pendant une session\nde recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
   "item_desc_3": "Un encens qui double les points\nd'expérience obtenus par les Pokémon\nde soutien pendant une session\nde recherche sur le sommeil.\nValable pour une seule session\naprès utilisation.",
@@ -165,6 +166,7 @@
   "item_desc_101": "Une graine mystérieuse qui peut\nrévéler le vrai pouvoir\nde \u000e\u0003\u0001\u0002\u0000.\nElle vous a été offerte en gage\nd'amitié par \u000e\u0003\u0001\u0002\u0000.",
   "item_desc_101_ex_1": "Vous pouvez choisir un ingrédient ou\nune compétence secondaire à changer\nou à débloquer pour \u000e\u0003\u0001\u0002\u0000\nparmi ses stats de soutien.\nCependant, la nouvelle stat sera\ndéterminée au hasard.",
   "item_desc_101_ex_2": "Si vous la convertissez en bonbons,\nvous recevrez \u000e\u0002\u0003\u0004\u0001촁 Bonbon\u000e\u0004\u0000\b\u0000\u0002s촁\n\u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_102": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon.\nElle est sombre comme une nuit\nsans lune.",
   "item_desc_short_1": "Double les points de recherche\nobtenus pendant les recherches.",
   "item_desc_short_2": "Double les Fragments de Rêve\nobtenus pendant les recherches.",
   "item_desc_short_3": "Double les Points d'Expérience\nobtenus par les Pokémon de soutien\npendant les recherches.",
@@ -211,5 +213,6 @@
   "item_desc_short_97": "Fait évoluer certaines espèces\nde Pokémon. Elle est crochue\net pointue.",
   "item_desc_short_99": "Une friandise spéciale réservée\nà Cresselia. Renforce vos liens\navec lui de 6 points d'amitié.",
   "item_desc_short_101": "Une graine mystérieuse qui peut\nrévéler le vrai pouvoir\nde \u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_short_102": "Une pierre étrange qui fait évoluer\ncertaines espèces de Pokémon. Elle\nest sombre comme une nuit sans lune.",
   "item_Name_narrow_name_101": "Graine Eurêka\n(\u000e\u0003\u0001\u0002\u0000)"
 }

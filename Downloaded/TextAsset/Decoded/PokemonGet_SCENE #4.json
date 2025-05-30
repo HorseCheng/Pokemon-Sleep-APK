@@ -1,10 +1,13 @@
 {
   "PokemonGetScene_Header_Title": "Nuovo amico!",
+  "PokemonGetScene_Header_Title_2": "Strumenti ottenuti!",
   "PokemonGetScene_Content_Title": "Livello amicizia \u000e\u0002\u0002\u0002\u0000",
   "PokemonGetScene_Content_Title_2": "Punti amicizia al massimo!",
   "PokemonGetScene_Content_Desc": "Hai trovato un nuovo compagno!",
+  "PokemonGetScene_Content_Desc_2": "Hai ricevuto degli strumenti.",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002\u0000",
   "PokemonGetScene_Content_Detail_Rank": "L. \u000e\u0002\u0002\u0002\u0000",
   "PokemonGetScene_Content_Detail_Nature_Title": "Natura",
-  "PokemonGetScene_Content_StatusButton_Text": "Info"
+  "PokemonGetScene_Content_StatusButton_Text": "Info",
+  "PokemonGetScene_Content_Detail_Num": "×\u000e\u0002\u0003\u0004\u0000촁"
 }

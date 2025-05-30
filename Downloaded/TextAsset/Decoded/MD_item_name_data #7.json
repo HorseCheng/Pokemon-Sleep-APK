@@ -116,6 +116,7 @@
   "item_baitball_name_99": "Biscotto Cresselia",
   "item_exchange_name_100": "Piume di Cresselia",
   "item_name_101": "Seme eureka (\u000e\u0003\u0001\u0002\u0000)",
+  "item_name_102": "Neropietra",
   "item_desc_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
   "item_desc_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
   "item_desc_3": "Raddoppia i PE ottenuti dagli aiutanti\ndopo la ricerca sul sonno.\nDura una sola sessione di sonno\ne poi sparisce.",
@@ -165,6 +166,7 @@
   "item_desc_101": "Seme misterioso che può\nrisvegliare il vero potere\ndi \u000e\u0003\u0001\u0002\u0000.\nTi è stato donato come pegno di\namicizia da \u000e\u0003\u0001\u0002\u0000.",
   "item_desc_101_ex_1": "Puoi scegliere un ingrediente\no un'abilità secondaria da sbloccare\no cambiare tra le statistiche aiuto\ndi \u000e\u0003\u0001\u0002\u0000.\nNon sarà possibile scegliere\nla nuova statistica, che verrà\nassegnata a caso.",
   "item_desc_101_ex_2": "Se lo converti in caramelle, otterrai\n\u000e\u0002\u0003\u0004\u0001촁 \u000e\u0005\u0000*\u0012caramella\u0012caramelle촁 \u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_102": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ scura come le tenebre.",
   "item_desc_short_1": "Raddoppia i PE ricerca ottenuti\ndopo la ricerca sul sonno.",
   "item_desc_short_2": "Raddoppia i frammenti di sogno\nricevuti dopo la ricerca sul sonno.",
   "item_desc_short_3": "Raddoppia i PE ottenuti dagli\naiutanti dopo la ricerca sul sonno.",
@@ -211,5 +213,6 @@
   "item_desc_short_97": "Artiglio appuntito e tagliente che\nfa evolvere una determinata specie\ndi Pokémon.",
   "item_desc_short_99": "Dolcetto speciale che rende\nmolto più amico Cresselia.\nAumenta i punti amicizia di 6.",
   "item_desc_short_101": "Seme misterioso che può\nrisvegliare il vero potere\ndi \u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_short_102": "Pietra particolare che fa evolvere\ndeterminate specie di Pokémon.\nÈ scura come le tenebre.",
   "item_Name_narrow_name_101": "Seme eureka\n(\u000e\u0003\u0001\u0002\u0000)"
 }
