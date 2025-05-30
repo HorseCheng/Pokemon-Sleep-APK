@@ -24,6 +24,8 @@
   "BagSceneCookingFoodSellResultPopup_Desc": "出售食材，\n獲得了夢之碎片。",
   "BagSceneCookingFoodSellResultPopup_ResultNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_Header_Title": "道具詳情",
+  "BagSceneConsumableItemDetailPopup_Button1": "轉換成糖果",
+  "BagSceneConsumableItemDetailPopup_Button2": "丟棄",
   "BagSceneConsumableItemDetailPopup_Icon_OwnNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_ItemLimitNum": "持有上限：\u000e\u0002\u0001\u0002\u0000個",
   "BagSceneConsumableItemDetailPopup_SectionHeader_Title": "說明",

@@ -24,6 +24,8 @@
   "BagSceneCookingFoodSellResultPopup_Desc": "Vente terminée !\nVous recevez des Fragments de Rêve.",
   "BagSceneCookingFoodSellResultPopup_ResultNum": "× \u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_Header_Title": "Informations sur l'objet",
+  "BagSceneConsumableItemDetailPopup_Button1": "Convertir en bonbons",
+  "BagSceneConsumableItemDetailPopup_Button2": "Jeter",
   "BagSceneConsumableItemDetailPopup_Icon_OwnNum": "× \u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_ItemLimitNum": "Capacité max. : \u000e\u0002\u0001\u0002\u0000",
   "BagSceneConsumableItemDetailPopup_SectionHeader_Title": "Description",

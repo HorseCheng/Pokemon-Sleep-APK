@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "팀 전원의 도우미 시간이\n\u000e\u0002\u0001\u0002\u0000% 짧아진다",
   "md_pokemon_rankup_bonus_name_3": "기력 회복 보너스",
   "md_pokemon_rankup_bonus_desc_3": "팀 전원이 수면으로 회복하는 기력이\n\u000e\u0002\u0003\u0004\u0000촁배가 된다",
+  "md_pokemon_rankup_bonus_desc_3_270": "팀 전원이 수면으로 회복하는 기력이\n\u000e\u0002\u0003\u0004\u0000촁배가 된다\n자신은 수면으로 기력을 최대\n\u000e\u0002\u0003\u0004\u0001촁까지 회복할 수 있다",
   "md_pokemon_rankup_bonus_name_4": "꿈의조각 보너스",
   "md_pokemon_rankup_bonus_desc_4": "수면 리서치로 받는 꿈의조각이\n\u000e\u0002\u0001\u0002\u0000% 늘어난다",
   "md_pokemon_rankup_bonus_name_5": "리서치 EXP 보너스",

@@ -2988,5 +2988,8 @@
             },
             "scale": 1.0
         }
+    },
+    "pokemon_sleep_face_icon_transform": {
+        "shadow_alpha": 0.5596051812171936
     }
 }

@@ -24,6 +24,8 @@
   "BagSceneCookingFoodSellResultPopup_Desc": "食材を売って\nゆめのかけらを獲得しました",
   "BagSceneCookingFoodSellResultPopup_ResultNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_Header_Title": "どうぐ詳細",
+  "BagSceneConsumableItemDetailPopup_Button1": "アメに変換する",
+  "BagSceneConsumableItemDetailPopup_Button2": "捨てる",
   "BagSceneConsumableItemDetailPopup_Icon_OwnNum": "x\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_ItemLimitNum": "所持制限 \u000e\u0002\u0001\u0002\u0000個",
   "BagSceneConsumableItemDetailPopup_SectionHeader_Title": "説明",

@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "チーム全員のおてつだい時間が\n\u000e\u0002\u0001\u0002\u0000%短くなる",
   "md_pokemon_rankup_bonus_name_3": "げんき回復ボーナス",
   "md_pokemon_rankup_bonus_desc_3": "チーム全員の睡眠で回復するげんきが\n\u000e\u0002\u0003\u0004\u0000촁倍になる",
+  "md_pokemon_rankup_bonus_desc_3_270": "チーム全員の睡眠で回復するげんきが\n\u000e\u0002\u0003\u0004\u0000촁倍になる\n自分のみ、睡眠で回復するげんきの上限が\n\u000e\u0002\u0003\u0004\u0001촁になる",
   "md_pokemon_rankup_bonus_name_4": "ゆめのかけらボーナス",
   "md_pokemon_rankup_bonus_desc_4": "睡眠リサーチでもらえるゆめのかけらが\n\u000e\u0002\u0001\u0002\u0000%増える",
   "md_pokemon_rankup_bonus_name_5": "リサーチEXPボーナス",

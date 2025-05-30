@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "Reduziert die Zeit, die Teammitglieder\nzum Aushelfen benötigen, um \u000e\u0002\u0001\u0002\u0000 %.",
   "md_pokemon_rankup_bonus_name_3": "Energie-Erholungsbonus",
   "md_pokemon_rankup_bonus_desc_3": "Die Energie, die das Team im Schlaf\nauffüllt, wird mit \u000e\u0002\u0003\u0004\u0000촁 multipliziert.",
+  "md_pokemon_rankup_bonus_desc_3_270": "Die Energie, die das Team im\nSchlaf auffüllt, wird mit \u000e\u0002\u0003\u0004\u0000촁\nmultipliziert. Nur bei diesem\nPokémon wird die maximale Menge\nan Energie, die im Schlaf aufgefüllt\nwird, auf \u000e\u0002\u0003\u0004\u0001촁 erhöht.",
   "md_pokemon_rankup_bonus_name_4": "Traumsplitter-Bonus",
   "md_pokemon_rankup_bonus_desc_4": "Erhöht die Anzahl der Traumsplitter,\ndie du durch Schlafforschung erhältst,\num \u000e\u0002\u0001\u0002\u0000 %.",
   "md_pokemon_rankup_bonus_name_5": "Forschungspunkte-Bonus",

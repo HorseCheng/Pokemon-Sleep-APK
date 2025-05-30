@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "Reduce un \u000e\u0002\u0001\u0002\u0000 % el tiempo que tardan\nen ayudar los miembros del equipo.",
   "md_pokemon_rankup_bonus_name_3": "Bonus recupera energía",
   "md_pokemon_rankup_bonus_desc_3": "Multiplica por \u000e\u0002\u0003\u0004\u0000촁 la energía\nque recupera el equipo al dormir.",
+  "md_pokemon_rankup_bonus_desc_3_270": "Multiplica por \u000e\u0002\u0003\u0004\u0000촁 la energía\nque recupera el equipo al dormir.\nLa cantidad de energía máxima\nque puede recuperar este Pokémon\nal dormir aumenta a \u000e\u0002\u0003\u0004\u0001촁.",
   "md_pokemon_rankup_bonus_name_4": "Bonus fragmentos sueños",
   "md_pokemon_rankup_bonus_desc_4": "Aumenta un \u000e\u0002\u0001\u0002\u0000 % la cantidad\nde fragmentos de sueños obtenidos\ncon el estudio del sueño.",
   "md_pokemon_rankup_bonus_name_5": "Bonus EXP de estudio",

@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "잠자는 모습 표시",
   "PokedexHeaderToggleButton_Text_2": "포켓몬 표시",
-  "PokedexDetailSleepingFaceCell_Text_1": "리서치 수: \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "리서치 수: \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "이름",
+  "Pokedex_FilterPopup_Head_2": "입력해 주십시오",
+  "Pokedex_FilterPopup_Head_3": "타입",
+  "Pokedex_FilterPopup_Head_4": "특기",
+  "Pokedex_FilterPopup_Head_5": "현재의 프렌드 메달",
+  "Pokedex_FilterPopup_Text_5_1": "미획득",
+  "Pokedex_FilterPopup_Text_5_2": "동메달",
+  "Pokedex_FilterPopup_Text_5_3": "은메달",
+  "Pokedex_FilterPopup_Text_5_4": "금메달"
 }

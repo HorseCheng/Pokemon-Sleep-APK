@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "全隊成員的幫忙間隔\n都會縮短\u000e\u0002\u0001\u0002\u0000％。",
   "md_pokemon_rankup_bonus_name_3": "活力回復獎勵",
   "md_pokemon_rankup_bonus_desc_3": "全隊成員透過睡眠回復的活力\n都會變為\u000e\u0002\u0003\u0004\u0000촁倍。",
+  "md_pokemon_rankup_bonus_desc_3_270": "全隊成員透過睡眠回復的活力\n都會變為\u000e\u0002\u0003\u0004\u0000촁倍。\n僅限自己透過睡眠回復的活力上限會變為\u000e\u0002\u0003\u0004\u0001촁。",
   "md_pokemon_rankup_bonus_name_4": "夢之碎片獎勵",
   "md_pokemon_rankup_bonus_desc_4": "透過睡眠研究獲得的\n夢之碎片會增加\u000e\u0002\u0001\u0002\u0000％。",
   "md_pokemon_rankup_bonus_name_5": "研究EXP獎勵",

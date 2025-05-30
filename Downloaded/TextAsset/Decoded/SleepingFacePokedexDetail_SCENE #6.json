@@ -7,5 +7,6 @@
   "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촁",
   "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000 타입",
   "SleepingFacePokedexDetailScene_Header_ResearchCount": "리서치 수: \u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "동료가 된 수: \u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Header_GetCount": "동료가 된 수: \u000e\u0002\u0003\u0004\u0000촁",
+  "SleepingFacePokedexDetailScene_Content_BonusSetting": "보너스 설정"
 }

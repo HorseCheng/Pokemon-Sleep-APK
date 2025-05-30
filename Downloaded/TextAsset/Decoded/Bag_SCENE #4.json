@@ -24,6 +24,8 @@
   "BagSceneCookingFoodSellResultPopup_Desc": "Verkauf durchgeführt!\nDu erhältst Traumsplitter.",
   "BagSceneCookingFoodSellResultPopup_ResultNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_Header_Title": "Details",
+  "BagSceneConsumableItemDetailPopup_Button1": "In Bonbons umwandeln",
+  "BagSceneConsumableItemDetailPopup_Button2": "Wegwerfen",
   "BagSceneConsumableItemDetailPopup_Icon_OwnNum": "×\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_ItemLimitNum": "Max. Anzahl: \u000e\u0002\u0001\u0002\u0000",
   "BagSceneConsumableItemDetailPopup_SectionHeader_Title": "Beschreibung",

@@ -5,6 +5,7 @@
   "md_pokemon_rankup_bonus_desc_2": "Réduit de \u000e\u0002\u0001\u0002\u0000 % le temps nécessaire\nau soutien des Pokémon de l'équipe.",
   "md_pokemon_rankup_bonus_name_3": "Bonus Récup. énergie",
   "md_pokemon_rankup_bonus_desc_3": "Multiplie par \u000e\u0002\u0003\u0004\u0000촁 l'énergie récupérée\npar l'équipe pendant une session\nde sommeil.",
+  "md_pokemon_rankup_bonus_desc_3_270": "Multiplie par \u000e\u0002\u0003\u0004\u0000촁 l'énergie\nrécupérée par l'équipe pendant\nune session de sommeil.\nLa quantité maximale d'énergie\npouvant être récupérée par\nce Pokémon pendant une session\nde sommeil passe à \u000e\u0002\u0003\u0004\u0001촁.",
   "md_pokemon_rankup_bonus_name_4": "Bonus Fragment de Rêve",
   "md_pokemon_rankup_bonus_desc_4": "Augmente de \u000e\u0002\u0001\u0002\u0000 % le nombre\nde Fragments de Rêve obtenus\npendant une session de recherche.",
   "md_pokemon_rankup_bonus_name_5": "Bonus Point de recherche",

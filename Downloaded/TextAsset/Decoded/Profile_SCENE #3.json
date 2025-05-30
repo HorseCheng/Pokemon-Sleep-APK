@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "Bonus",
   "ProfileIconSettingPopup_ChangeButton": "Changer",
   "ProfileIconChangeFinishPopup_Title": "Terminé",
-  "ProfileIconChangeFinishPopup_Text": "Votre icône de profil a changé."
+  "ProfileIconChangeFinishPopup_Text": "Votre icône de profil a changé.",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "Médaille Amitié"
 }

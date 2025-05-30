@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "Sleep Styles",
   "PokedexHeaderToggleButton_Text_2": "Pokémon",
-  "PokedexDetailSleepingFaceCell_Text_1": "Number studied: \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "Number studied: \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "Name",
+  "Pokedex_FilterPopup_Head_2": "Enter a name to search for",
+  "Pokedex_FilterPopup_Head_3": "Types",
+  "Pokedex_FilterPopup_Head_4": "Specialty",
+  "Pokedex_FilterPopup_Head_5": "Current Befriending Badge",
+  "Pokedex_FilterPopup_Text_5_1": "Not yet received",
+  "Pokedex_FilterPopup_Text_5_2": "Bronze Badge",
+  "Pokedex_FilterPopup_Text_5_3": "Silver Badge",
+  "Pokedex_FilterPopup_Text_5_4": "Gold Badge"
 }

@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "Styles de dodo",
   "PokedexHeaderToggleButton_Text_2": "Pokémon",
-  "PokedexDetailSleepingFaceCell_Text_1": "Étudié\u000e\u0004\u0000\b\u0000\u0002s촀 : \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "Étudié\u000e\u0004\u0000\b\u0000\u0002s촀 : \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "Nom",
+  "Pokedex_FilterPopup_Head_2": "Entrez un nom à rechercher.",
+  "Pokedex_FilterPopup_Head_3": "Types",
+  "Pokedex_FilterPopup_Head_4": "Spécialité",
+  "Pokedex_FilterPopup_Head_5": "Médaille Amitié actuelle",
+  "Pokedex_FilterPopup_Text_5_1": "Pas encore\nobtenue",
+  "Pokedex_FilterPopup_Text_5_2": "Médaille\nde bronze",
+  "Pokedex_FilterPopup_Text_5_3": "Médaille\nd'argent",
+  "Pokedex_FilterPopup_Text_5_4": "Médaille\nd'or"
 }

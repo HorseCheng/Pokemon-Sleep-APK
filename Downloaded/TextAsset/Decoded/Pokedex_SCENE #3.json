@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "Posturas",
   "PokedexHeaderToggleButton_Text_2": "Pokémon",
-  "PokedexDetailSleepingFaceCell_Text_1": "Has estudiado: \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "Has estudiado: \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "Nombre",
+  "Pokedex_FilterPopup_Head_2": "Introduce el nombre que quieres buscar",
+  "Pokedex_FilterPopup_Head_3": "Tipos",
+  "Pokedex_FilterPopup_Head_4": "Especialidad",
+  "Pokedex_FilterPopup_Head_5": "Medalla de la amistad actual",
+  "Pokedex_FilterPopup_Text_5_1": "Sin obtener",
+  "Pokedex_FilterPopup_Text_5_2": "Medalla\nde bronce",
+  "Pokedex_FilterPopup_Text_5_3": "Medalla\nde plata",
+  "Pokedex_FilterPopup_Text_5_4": "Medalla\nde oro"
 }

@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "Bonuses",
   "ProfileIconSettingPopup_ChangeButton": "Change",
   "ProfileIconChangeFinishPopup_Title": "Done",
-  "ProfileIconChangeFinishPopup_Text": "Your profile icon has been changed."
+  "ProfileIconChangeFinishPopup_Text": "Your profile icon has been changed.",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "Befriending Badge"
 }

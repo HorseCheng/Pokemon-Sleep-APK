@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "ボーナス",
   "ProfileIconSettingPopup_ChangeButton": "変更する",
   "ProfileIconChangeFinishPopup_Title": "完了",
-  "ProfileIconChangeFinishPopup_Text": "プロフィールアイコンを変更しました"
+  "ProfileIconChangeFinishPopup_Text": "プロフィールアイコンを変更しました",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "フレンドメダル"
 }

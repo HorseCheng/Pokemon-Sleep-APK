@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "Schlafposen",
   "PokedexHeaderToggleButton_Text_2": "Pokémon",
-  "PokedexDetailSleepingFaceCell_Text_1": "Anzahl erforscht: \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "Anzahl erforscht: \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "Name",
+  "Pokedex_FilterPopup_Head_2": "Gib einen Namen ein, nach dem du\nsuchen willst.",
+  "Pokedex_FilterPopup_Head_3": "Typ",
+  "Pokedex_FilterPopup_Head_4": "Spezialität",
+  "Pokedex_FilterPopup_Head_5": "Aktuelles Freundschaftsabzeichen",
+  "Pokedex_FilterPopup_Text_5_1": "Noch nicht\nerhalten",
+  "Pokedex_FilterPopup_Text_5_2": "Bronze-\nAbzeichen",
+  "Pokedex_FilterPopup_Text_5_3": "Silber-\nAbzeichen",
+  "Pokedex_FilterPopup_Text_5_4": "Gold-\nAbzeichen"
 }

@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "보너스",
   "ProfileIconSettingPopup_ChangeButton": "변경한다",
   "ProfileIconChangeFinishPopup_Title": "완료",
-  "ProfileIconChangeFinishPopup_Text": "프로필 아이콘을 변경했습니다"
+  "ProfileIconChangeFinishPopup_Text": "프로필 아이콘을 변경했습니다",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "프렌드 메달"
 }

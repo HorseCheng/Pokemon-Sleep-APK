@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "Stili",
   "PokedexHeaderToggleButton_Text_2": "Pokémon",
-  "PokedexDetailSleepingFaceCell_Text_1": "Studiati: \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "Studiati: \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "Nome",
+  "Pokedex_FilterPopup_Head_2": "Inserisci un nome o un soprannome",
+  "Pokedex_FilterPopup_Head_3": "Tipi",
+  "Pokedex_FilterPopup_Head_4": "Specialità",
+  "Pokedex_FilterPopup_Head_5": "Medaglia amicizia attuale",
+  "Pokedex_FilterPopup_Text_5_1": "Non ancora\nottenuta",
+  "Pokedex_FilterPopup_Text_5_2": "Medaglia\ndi bronzo",
+  "Pokedex_FilterPopup_Text_5_3": "Medaglia\nd'argento",
+  "Pokedex_FilterPopup_Text_5_4": "Medaglia\nd'oro"
 }

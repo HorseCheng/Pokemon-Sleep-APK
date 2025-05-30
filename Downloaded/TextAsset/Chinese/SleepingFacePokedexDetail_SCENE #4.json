@@ -7,5 +7,6 @@
   "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004Ā촁",
   "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000型",
   "SleepingFacePokedexDetailScene_Header_ResearchCount": "研究次數：\u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "成為夥伴總數：\u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Header_GetCount": "成為夥伴總數：\u000e\u0002\u0003\u0004\u0000촁",
+  "SleepingFacePokedexDetailScene_Content_BonusSetting": "獎勵設定"
 }

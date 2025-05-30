@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "獎勵",
   "ProfileIconSettingPopup_ChangeButton": "變更",
   "ProfileIconChangeFinishPopup_Title": "完成",
-  "ProfileIconChangeFinishPopup_Text": "已變更個人頭像。"
+  "ProfileIconChangeFinishPopup_Text": "已變更個人頭像。",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "友情徽章"
 }

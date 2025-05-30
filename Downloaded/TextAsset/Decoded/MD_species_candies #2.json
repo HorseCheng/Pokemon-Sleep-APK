@@ -290,5 +290,9 @@
   "md_species_candies_narrow_name_491": "Darkrai\nCandy",
   "md_species_candies_narrow_name_491_plu": "Darkrai\nCandies",
   "md_species_candies_narrow_name_517": "Munna\nCandy",
-  "md_species_candies_narrow_name_517_plu": "Munna\nCandies"
+  "md_species_candies_narrow_name_517_plu": "Munna\nCandies",
+  "md_species_candies_name": "\u000e\u0003\u0001\u0002\u0000 Candy",
+  "md_species_candies_name_plu": "\u000e\u0003\u0001\u0002\u0000 Candies",
+  "md_species_candies_narrow_name": "\u000e\u0003\u0001\u0002\u0000\nCandy",
+  "md_species_candies_narrow_name_plu": "\u000e\u0003\u0001\u0002\u0000\nCandies"
 }

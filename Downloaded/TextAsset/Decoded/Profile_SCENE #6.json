@@ -38,5 +38,6 @@
   "ProfileIconSettingPopup_SubTitle_Bonus": "Boni",
   "ProfileIconSettingPopup_ChangeButton": "Ändern",
   "ProfileIconChangeFinishPopup_Title": "Fertig",
-  "ProfileIconChangeFinishPopup_Text": "Dein Profilbild wurde geändert."
+  "ProfileIconChangeFinishPopup_Text": "Dein Profilbild wurde geändert.",
+  "ProfileIconSettingPopup_SubTitle_Friendmedal": "Freundschaftsabzeichen"
 }

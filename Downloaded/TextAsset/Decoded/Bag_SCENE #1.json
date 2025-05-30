@@ -24,6 +24,8 @@
   "BagSceneCookingFoodSellResultPopup_Desc": "식재료를 팔고\n꿈의조각을 획득했습니다",
   "BagSceneCookingFoodSellResultPopup_ResultNum": "\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_Header_Title": "도구 상세",
+  "BagSceneConsumableItemDetailPopup_Button1": "사탕으로 변환한다",
+  "BagSceneConsumableItemDetailPopup_Button2": "버린다",
   "BagSceneConsumableItemDetailPopup_Icon_OwnNum": "x\u000e\u0002\u0003\u0004\u0000촁",
   "BagSceneConsumableItemDetailPopup_ItemLimitNum": "소지 제한 \u000e\u0002\u0001\u0002\u0000개",
   "BagSceneConsumableItemDetailPopup_SectionHeader_Title": "설명",

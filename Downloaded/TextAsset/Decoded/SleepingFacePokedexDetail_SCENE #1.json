@@ -7,5 +7,6 @@
   "SleepingFacePokedexDetailScene_Header_PokedexNumber": "\u000e\u0002\u0003\u0004\u0000촀",
   "SleepingFacePokedexDetailScene_Header_SleepType": "Sonno \u000e\u0003\u0004\u0002Ȁ",
   "SleepingFacePokedexDetailScene_Header_ResearchCount": "Studiati: \u000e\u0002\u0001\u0002\u0000",
-  "SleepingFacePokedexDetailScene_Header_GetCount": "Amici: \u000e\u0002\u0003\u0004\u0000촁"
+  "SleepingFacePokedexDetailScene_Header_GetCount": "Amici: \u000e\u0002\u0003\u0004\u0000촁",
+  "SleepingFacePokedexDetailScene_Content_BonusSetting": "Impostazioni bonus"
 }

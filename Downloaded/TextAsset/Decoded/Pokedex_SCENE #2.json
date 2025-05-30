@@ -1,5 +1,14 @@
 {
   "PokedexHeaderToggleButton_Text_1": "寝顔の表示",
   "PokedexHeaderToggleButton_Text_2": "ポケモン表示",
-  "PokedexDetailSleepingFaceCell_Text_1": "リサーチした数 - \u000e\u0002\u0002\u0002\u0000"
+  "PokedexDetailSleepingFaceCell_Text_1": "リサーチした数 - \u000e\u0002\u0002\u0002\u0000",
+  "Pokedex_FilterPopup_Head_1": "名前",
+  "Pokedex_FilterPopup_Head_2": "入力してください",
+  "Pokedex_FilterPopup_Head_3": "タイプ",
+  "Pokedex_FilterPopup_Head_4": "とくいなもの",
+  "Pokedex_FilterPopup_Head_5": "現在のフレンドメダル",
+  "Pokedex_FilterPopup_Text_5_1": "未獲得",
+  "Pokedex_FilterPopup_Text_5_2": "銅メダル",
+  "Pokedex_FilterPopup_Text_5_3": "銀メダル",
+  "Pokedex_FilterPopup_Text_5_4": "金メダル"
 }
