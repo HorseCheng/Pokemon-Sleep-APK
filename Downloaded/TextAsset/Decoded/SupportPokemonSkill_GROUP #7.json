@@ -20,5 +20,6 @@
   "SkillEffect_Mimic_Miss": "Copie a échoué...",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Vos chances de cuisiner un plat super bon ont augmenté de \u000e\u0002\u0002\u0002\u0000 % !",
-  "SkillEffect_LunarBlessing": "L'équipe a récupéré \u000e\u0002\u0004\u0004\u0000촁 point\u000e\u0004\u0000\b\u0000\u0002s촀\nd'énergie !\n\u000e\u0002\u0003\u0004\u0001촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촁 obtenue\u000e\u0004\u0000\b\u0000\u0002s촁 !"
+  "SkillEffect_LunarBlessing": "L'équipe a récupéré \u000e\u0002\u0004\u0004\u0000촁 point\u000e\u0004\u0000\b\u0000\u0002s촀\nd'énergie !\n\u000e\u0002\u0003\u0004\u0001촁 Baie\u000e\u0004\u0000\b\u0000\u0002s촁 obtenue\u000e\u0004\u0000\b\u0000\u0002s촁 !",
+  "SkillEffect_skill_20": "Ronflex gagne une puissance\nde \u000e\u0002\u0004\u0004\u0000촁 !\nL'énergie des Pokémon qui ne sont\npas de type Ténèbres est réduite\nde \u000e\u0002\u0002\u0002\u0001 !"
 }

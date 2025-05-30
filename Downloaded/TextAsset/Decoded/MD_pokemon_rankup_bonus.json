@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "Nivel habilidad M",
   "md_pokemon_rankup_bonus_desc_18": "Aumenta \u000e\u0002\u0001\u0002\u0000 nivel\u000e\u0007\u0000\n\u0000\u0004es촀 la habilidad\nprincipal de este Pokémon.",
   "md_pokemon_rankup_bonus_name_19": "Inventario L",
-  "md_pokemon_rankup_bonus_desc_19": "Aumenta en \u000e\u0002\u0001\u0002\u0000 el número máximo de\nbayas e ingredientes que puede tener\nel Pokémon."
+  "md_pokemon_rankup_bonus_desc_19": "Aumenta en \u000e\u0002\u0001\u0002\u0000 el número máximo de\nbayas e ingredientes que puede tener\nel Pokémon.",
+  "md_pokemon_rankup_bonus_name_0": "—",
+  "md_pokemon_rankup_bonus_desc_0": "No tiene habilidad secundaria."
 }

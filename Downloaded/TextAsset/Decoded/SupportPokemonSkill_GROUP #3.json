@@ -20,5 +20,6 @@
   "SkillEffect_Mimic_Miss": "La imitación ha fallado.",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "¡La probabilidad de elaborar un plato riquísimo ha aumentado un \u000e\u0002\u0002\u0002\u0000 %!",
-  "SkillEffect_LunarBlessing": "¡El equipo ha recuperado \u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀\nde energía!\n¡Has obtenido \u000e\u0002\u0003\u0004\u0001촁 baya\u000e\u0007\u0000\b\u0000\u0002s촁!"
+  "SkillEffect_LunarBlessing": "¡El equipo ha recuperado \u000e\u0002\u0002\u0002\u0000 punto\u000e\u0007\u0000\b\u0000\u0002s촀\nde energía!\n¡Has obtenido \u000e\u0002\u0003\u0004\u0001촁 baya\u000e\u0007\u0000\b\u0000\u0002s촁!",
+  "SkillEffect_skill_20": "¡El vigor de Snorlax ha aumentado\n\u000e\u0002\u0004\u0004\u0000촁 punto\u000e\u0007\u0000\b\u0000\u0002s촀!\n¡Los ayudantes que no son de tipo\nSiniestro han perdido \u000e\u0002\u0002\u0002\u0001 punto\u000e\u0007\u0000\b\u0000\u0002s촁\nde energía!"
 }

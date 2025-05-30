@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "스킬 레벨 업M",
   "md_pokemon_rankup_bonus_desc_18": "메인 스킬 레벨이 \u000e\u0002\u0001\u0002\u0000 오른다",
   "md_pokemon_rankup_bonus_name_19": "최대 소지 수 업L",
-  "md_pokemon_rankup_bonus_desc_19": "나무열매와 식재료의 최대 소지 수가\n\u000e\u0002\u0001\u0002\u0000개 늘어난다"
+  "md_pokemon_rankup_bonus_desc_19": "나무열매와 식재료의 최대 소지 수가\n\u000e\u0002\u0001\u0002\u0000개 늘어난다",
+  "md_pokemon_rankup_bonus_name_0": "-",
+  "md_pokemon_rankup_bonus_desc_0": "서브 스킬이 없습니다"
 }

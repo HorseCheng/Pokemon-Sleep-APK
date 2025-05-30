@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "Niveau Compétence + M",
   "md_pokemon_rankup_bonus_desc_18": "Augmente de \u000e\u0002\u0001\u0002\u0000 le niveau de la\ncompétence principale du Pokémon.",
   "md_pokemon_rankup_bonus_name_19": "Inventaire + L",
-  "md_pokemon_rankup_bonus_desc_19": "Augmente de \u000e\u0002\u0001\u0002\u0000 le nombre maximal\nde Baies et d'ingrédients que peut\nporter le Pokémon."
+  "md_pokemon_rankup_bonus_desc_19": "Augmente de \u000e\u0002\u0001\u0002\u0000 le nombre maximal\nde Baies et d'ingrédients que peut\nporter le Pokémon.",
+  "md_pokemon_rankup_bonus_name_0": "—",
+  "md_pokemon_rankup_bonus_desc_0": "Pas de compétence secondaire."
 }

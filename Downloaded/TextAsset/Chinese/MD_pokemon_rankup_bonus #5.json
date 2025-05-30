@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "技能等級提升M",
   "md_pokemon_rankup_bonus_desc_18": "主技能等級會提高\u000e\u0002\u0001\u0002\u0000。",
   "md_pokemon_rankup_bonus_name_19": "持有上限提升L",
-  "md_pokemon_rankup_bonus_desc_19": "樹果、食材的持有上限會增加\u000e\u0002\u0001\u0002\u0000個。"
+  "md_pokemon_rankup_bonus_desc_19": "樹果、食材的持有上限會增加\u000e\u0002\u0001\u0002\u0000個。",
+  "md_pokemon_rankup_bonus_name_0": "-",
+  "md_pokemon_rankup_bonus_desc_0": "沒有副技能。"
 }

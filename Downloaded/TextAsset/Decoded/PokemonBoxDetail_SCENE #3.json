@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5 Pokémon répondant aux critères",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "Ce Pokémon : \u000e\u0002\u0002\u0002\u0000 Baie\u000e\u0004\u0000\b\u0000\u0002s촀",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "Pokémon de l'équipe : \u000e\u0002\u0002\u0002\u0000 Baie\u000e\u0004\u0000\b\u0000\u0002s촀",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "Augmente la puissance de Ronflex\nde \u000e\u0002\u0006\u0004\u0000촁, mais réduit simultanément\nl'énergie des Pokémon de soutien qui\nne sont pas de type Ténèbres de \u000e\u0002\u0002\u0002\u0001.",
   "PokemonBoxDetailScene_SleepRibbon": "Ruban",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "Ruban Dodo",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁 heures de dodo",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "Ingrédients",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "Les Pokémon spécialistes des ingrédients\npeuvent entre autres récolter davantage\nd'ingrédients que d'autres Pokémon.",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "Baies",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Les Pokémon spécialistes des Baies\npeuvent entre autres récolter davantage\nde Baies que d'autres Pokémon."
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Les Pokémon spécialistes des Baies\npeuvent entre autres récolter davantage\nde Baies que d'autres Pokémon.",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "Toutes",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "Les spécialités de ce Pokémon sont\nles Baies, les ingrédients et\nles compétences."
 }

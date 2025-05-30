@@ -44,5 +44,7 @@
   "md_pokemon_main_skills_name_21": "Bayamanía",
   "md_pokemon_main_skills_desc_21": "Otorga \u000e\u0002\u0002\u0002\u0000 \u000e\u0007\u0000\u0018\bbaya\nbayas촀 además de \u000e\u0002\u0002\u0002\u0001 de\ncada baya que recolecte el resto de\nPokémon del equipo.",
   "md_pokemon_main_skills_name_22": "Plegaria Lunar (Energía para todos S)",
-  "md_pokemon_main_skills_desc_22": "Todos los ayudantes recuperan\n\u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 de energía. También otorga\nbayas que recolecten los Pokémon del equipo."
+  "md_pokemon_main_skills_desc_22": "Todos los ayudantes recuperan\n\u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 de energía. También otorga\nbayas que recolecten los Pokémon del equipo.",
+  "md_pokemon_main_skills_name_23": "Mal Sueño (Carga vigor M)",
+  "md_pokemon_main_skills_desc_23": "Aumenta \u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 el vigor de\nSnorlax, pero también reduce \u000e\u0002\u0002\u0002\u0001 \u000e\u0007\u0000\u001c\npunto\fpuntos촁\nla energía de los ayudantes que no sean de\ntipo Siniestro."
 }

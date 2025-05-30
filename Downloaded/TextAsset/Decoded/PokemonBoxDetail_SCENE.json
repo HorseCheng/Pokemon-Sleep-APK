@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5匹の場合",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "自分：\u000e\u0002\u0002\u0002\u0000個",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "チーム内のポケモン：\u000e\u0002\u0002\u0002\u0000個",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "カビゴンのエナジーを\u000e\u0002\u0006\u0004\u0000촁増やす\n同時に、おてつだいチームの\nあくタイプ以外のポケモンのげんきが\u000e\u0002\u0002\u0002\u0001さがる",
   "PokemonBoxDetailScene_SleepRibbon": "リボン",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "おやすみリボン",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁時間の証",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "食材",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "1度のおてつだいで入手できる\n食材の数が多いなど、\n食材集めが得意なポケモンです",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "きのみ",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "1度のおてつだいで入手できる\nきのみの数が多いなど、\nきのみ集めが得意なポケモンです"
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "1度のおてつだいで入手できる\nきのみの数が多いなど、\nきのみ集めが得意なポケモンです",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "オール",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "とくいなもの：きのみ・食材・スキル\nそのすべての特徴を併せ持つポケモンです"
 }

@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "Vous ne pouvez pas utiliser cet objet\nsur ce Pokémon, car il ne possède pas\nde compétence secondaire pouvant\nêtre améliorée.",
   "BagSceneConsumableItemView_Text_22": "La qualité de la Compétence\nSecondaire augmente !",
   "BagSceneConsumableItemView_Text_24": "La qualité des Compétences\nSecondaires de \u000e\u0003\u0001\u0002\u0000\nest déjà au maximum !",
+  "BagSceneConsumableItemView_Text_27": "Vous ne pouvez pas utiliser une\nGraine de Compétence Secondaire\nsur ce Pokémon car il ne possède\npas de compétences secondaires.",
   "BagSceneConsumableItemView_Text_25": "Vous avez reçu l'aide de votre équipe\npendant \u000e\u0002\u0001\u0002\u0000 heure\u000e\u0004\u0000\b\u0000\u0002s촀.",
   "BagSceneConsumableItemView_Text_26": "Vous ne pouvez pas vous servir\ndu Sifflet de Soutien à nouveau\ncar la boîte contient encore des Baies\net/ou des ingrédients.\nTouchez la boîte sur l'écran d'accueil\npour récupérer ce qui reste.",
   "BagScene_FoodMaxOverPopup_Title": "Utilisation impossible",

@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5마리인 경우",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "나: \u000e\u0002\u0002\u0002\u0000개",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "팀 내의 포켓몬: \u000e\u0002\u0002\u0002\u0000개",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "잠만보의 에너지를 \u000e\u0002\u0006\u0004\u0000촁 늘린다\n동시에 도우미 팀의\n악타입 이외의 포켓몬의 기력이 \u000e\u0002\u0002\u0002\u0001 떨어진다",
   "PokemonBoxDetailScene_SleepRibbon": "리본",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "굿나잇리본",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁시간의 증표",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "식재료",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "1번의 도움으로 얻을 수 있는\n식재료의 수가 많은 등\n식재료 모으기가 특기인 포켓몬입니다",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "나무열매",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "1번의 도움으로 얻을 수 있는\n나무열매의 수가 많은 등\n나무열매 모으기가 특기인 포켓몬입니다"
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "1번의 도움으로 얻을 수 있는\n나무열매의 수가 많은 등\n나무열매 모으기가 특기인 포켓몬입니다",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "올",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "특기: 나무열매, 식재료, 스킬\n모든 특징을 겸비한 포켓몬입니다"
 }

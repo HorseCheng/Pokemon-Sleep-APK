@@ -44,5 +44,7 @@
   "md_pokemon_main_skills_name_21": "Berry Burst",
   "md_pokemon_main_skills_desc_21": "Gets \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀 plus \u000e\u0002\u0002\u0002\u0001 of each\nof the Berries other Pokémon on\nyour team collect.",
   "md_pokemon_main_skills_name_22": "Lunar Blessing (Energy for Everyone S)",
-  "md_pokemon_main_skills_desc_22": "Restores \u000e\u0002\u0006\u0004\u0000촁 Energy to each helper\nPokémon on your team and gets Berries\nthe Pokémon on your team (including\nitself) collect."
+  "md_pokemon_main_skills_desc_22": "Restores \u000e\u0002\u0006\u0004\u0000촁 Energy to each helper\nPokémon on your team and gets Berries\nthe Pokémon on your team (including\nitself) collect.",
+  "md_pokemon_main_skills_name_23": "Bad Dreams (Charge Strength M)",
+  "md_pokemon_main_skills_desc_23": "Increases Snorlax’s Strength by \u000e\u0002\u0006\u0004\u0000촁,\nbut at the same time, reduces the Energy of\nhelper Pokémon on your team that aren’t Dark\ntype by \u000e\u0002\u0002\u0002\u0001."
 }

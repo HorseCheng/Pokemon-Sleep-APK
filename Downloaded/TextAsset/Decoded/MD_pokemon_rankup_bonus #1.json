@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "Aumento livello abilità M",
   "md_pokemon_rankup_bonus_desc_18": "Aumenta di \u000e\u0002\u0001\u0002\u0000 il livello dell'abilità\nprincipale del Pokémon.",
   "md_pokemon_rankup_bonus_name_19": "Espansione inventario L",
-  "md_pokemon_rankup_bonus_desc_19": "Aumenta di \u000e\u0002\u0001\u0002\u0000 il numero massimo\ndi bacche e ingredienti che il Pokémon\npuò avere."
+  "md_pokemon_rankup_bonus_desc_19": "Aumenta di \u000e\u0002\u0001\u0002\u0000 il numero massimo\ndi bacche e ingredienti che il Pokémon\npuò avere.",
+  "md_pokemon_rankup_bonus_name_0": "-",
+  "md_pokemon_rankup_bonus_desc_0": "Nessuna abilità secondaria."
 }

@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "アップグレードできる\nサブスキルがないため\n使用することができません",
   "BagSceneConsumableItemView_Text_22": "\u000e\u0003\u0001\u0002\u0000のサブスキルのレア度が上がりました",
   "BagSceneConsumableItemView_Text_24": "\u000e\u0003\u0001\u0002\u0000のサブスキルのレア度は\nすでに上限に達しています",
+  "BagSceneConsumableItemView_Text_27": "サブスキルを持っていないため\nサブスキルのたねを使えません",
   "BagSceneConsumableItemView_Text_25": "ポケモンたちが\n\u000e\u0002\u0001\u0002\u0000時間分のおてつだいをしてくれた！",
   "BagSceneConsumableItemView_Text_26": "前回のおてつだいホイッスルの箱に\nきのみ・食材が残っているため使用できません\nホームの箱をタップしてすべて回収してください",
   "BagScene_FoodMaxOverPopup_Title": "使用できません",

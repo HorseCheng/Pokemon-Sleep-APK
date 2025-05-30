@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "Cinque Pokémon idonei",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "Se stesso: \u000e\u0002\u0002\u0002\u0000 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "Pokémon in squadra: \u000e\u0002\u0002\u0002\u0000 bacc\u000e\u0005\u0000\f\u0002a\u0004he촀",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "Fa aumentare la potenza di Snorlax di\n\u000e\u0002\u0006\u0004\u0000촁, ma fa diminuire di \u000e\u0002\u0002\u0002\u0001 l'energia\ndi tutti i Pokémon aiutanti non di tipo Buio.",
   "PokemonBoxDetailScene_SleepRibbon": "Fiocco",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "Fiocco Buonanotte",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁 or\u000e\u0005\u0000\n\u0002a\u0002e촀 di sonno condiviso",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "Ingredienti",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "Una specialità legata agli ingredienti,\ncome la possibilità di raccoglierne più\ndegli altri Pokémon.",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "Bacche",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Una specialità legata alle bacche, come\nla possibilità di raccoglierne più\ndegli altri Pokémon."
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Una specialità legata alle bacche, come\nla possibilità di raccoglierne più\ndegli altri Pokémon.",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "Tutte",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "Tutte le specialità, legate\nalle bacche, agli ingredienti\ne alle abilità."
 }

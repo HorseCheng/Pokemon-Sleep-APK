@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "That Pokémon doesn’t have any sub\nskills that can be upgraded, so you\ncan’t use this item on it.",
   "BagSceneConsumableItemView_Text_22": "The quality of the sub skill went up!",
   "BagSceneConsumableItemView_Text_24": "\u000e\u0003\u0001\u0002\u0000’s sub skills are already\nthe highest quality they can be!",
+  "BagSceneConsumableItemView_Text_27": "You can’t use a Sub Skill Seed with\nthis Pokémon because it doesn’t\nhave sub skills.",
   "BagSceneConsumableItemView_Text_25": "Your team gave you \u000e\u0002\u0001\u0002\u0000 \u000e\u0001\u0000\u001e\fhour's\fhours'촀 worth\nof help!",
   "BagSceneConsumableItemView_Text_26": "There are still some Berries and/or\ningredients left in the box from last\ntime you used a Helper Whistle, so\nyou can’t use another one yet.\nTap the box on your home screen to\ncollect what’s left.",
   "BagScene_FoodMaxOverPopup_Title": "Cannot Use Item",

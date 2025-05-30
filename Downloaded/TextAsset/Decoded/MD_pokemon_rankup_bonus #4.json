@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "Talent-Levelaufstieg M",
   "md_pokemon_rankup_bonus_desc_18": "Erhöht den Level des Haupttalents\ndieses Pokémon um \u000e\u0002\u0001\u0002\u0000.",
   "md_pokemon_rankup_bonus_name_19": "Inventar-Ausbau L",
-  "md_pokemon_rankup_bonus_desc_19": "Erhöht die maximale Anzahl der\nBeeren und Zutaten, die dieses\nPokémon tragen kann, um \u000e\u0002\u0001\u0002\u0000."
+  "md_pokemon_rankup_bonus_desc_19": "Erhöht die maximale Anzahl der\nBeeren und Zutaten, die dieses\nPokémon tragen kann, um \u000e\u0002\u0001\u0002\u0000.",
+  "md_pokemon_rankup_bonus_name_0": "—",
+  "md_pokemon_rankup_bonus_desc_0": "Kein Nebentalent."
 }

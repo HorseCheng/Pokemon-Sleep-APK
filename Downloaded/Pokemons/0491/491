@@ -1,0 +1,2992 @@
+{
+    "transform_data": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "scale": 1.0
+        },
+        "sleep_drowse": {
+            "scale": 1.0
+        },
+        "sleep_rare": {
+            "scale": 1.0
+        },
+        "move": {
+            "scale": 1.0
+        },
+        "stand": {
+            "scale": 1.0
+        },
+        "move_PH_2": {
+            "scale": 1.0
+        },
+        "stand_PH_2": {
+            "scale": 1.0
+        },
+        "move_PH_3": {
+            "scale": 1.0
+        },
+        "stand_PH_3": {
+            "scale": 1.0
+        },
+        "move_PH_4": {
+            "scale": 1.0
+        },
+        "stand_PH_4": {
+            "scale": 1.0
+        },
+        "move_PH_5": {
+            "scale": 1.0
+        },
+        "stand_PH_5": {
+            "scale": 1.0
+        },
+        "move_PH_6": {
+            "scale": 1.0
+        },
+        "stand_PH_6": {
+            "scale": 1.0
+        },
+        "move_PH_7": {
+            "scale": 1.0
+        },
+        "stand_PH_7": {
+            "scale": 1.0
+        },
+        "move_PH_8": {
+            "scale": 1.0
+        },
+        "stand_PH_8": {
+            "scale": 1.0
+        },
+        "move_PH_9": {
+            "scale": 1.0
+        },
+        "stand_PH_9": {
+            "scale": 1.0
+        },
+        "move_PH_10": {
+            "scale": 1.0
+        },
+        "stand_PH_10": {
+            "scale": 1.0
+        },
+        "additional_1": {
+            "scale": 1.0
+        },
+        "additional_2": {
+            "scale": 1.0
+        },
+        "additional_3": {
+            "scale": 1.0
+        },
+        "additional_4": {
+            "scale": 1.0
+        },
+        "additional_5": {
+            "scale": 1.0
+        },
+        "additional_6": {
+            "scale": 1.0
+        },
+        "additional_7": {
+            "scale": 1.0
+        },
+        "additional_8": {
+            "scale": 1.0
+        },
+        "additional_9": {
+            "scale": 1.0
+        },
+        "additional_10": {
+            "scale": 1.0
+        }
+    },
+    "sleep_object_single_ui_position": {
+        "pokemon_id": 0,
+        "normal": {
+            "notif_icon_position": {
+                "x": -241.642578125,
+                "y": 391.8284912109375,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 12.89921760559082,
+                "y": 484.928955078125,
+                "z": 0.0
+            }
+        },
+        "drowse": {
+            "notif_icon_position": {
+                "x": -224.88864135742188,
+                "y": 454.3109130859375,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 8.71098518371582,
+                "y": 651.4305419921875,
+                "z": 0.0
+            }
+        },
+        "rare": {
+            "notif_icon_position": {
+                "x": -219.1197509765625,
+                "y": 486.61822509765627,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 9.72105598449707,
+                "y": 648.7103271484375,
+                "z": 0.0
+            }
+        },
+        "stand": {
+            "stand_upper_position": {
+                "x": -2.603076934814453,
+                "y": 673.15185546875,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 262.2174072265625,
+                "y": 445.24493408203127,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 9.843761444091797,
+                "y": -159.35623168945313,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": -249.25631713867188,
+                "y": 519.982666015625,
+                "z": 0.0
+            }
+        },
+        "move": {
+            "stand_upper_position": {
+                "x": -23.884506225585939,
+                "y": 639.9072265625,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 202.66265869140626,
+                "y": 334.290771484375,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": -15.148914337158204,
+                "y": -154.62850952148438,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": -220.47665405273438,
+                "y": 424.9046630859375,
+                "z": 0.0
+            }
+        },
+        "stand_PH_2": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_2": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_3": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_3": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_4": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_4": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_5": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_5": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_6": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_6": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_7": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_7": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_8": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_8": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_9": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_9": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_10": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_10": {
+            "stand_upper_position": {
+                "x": -1.2000000476837159,
+                "y": 354.0,
+                "z": 0.0
+            },
+            "stand_chance_position": {
+                "x": 110.0,
+                "y": 62.0,
+                "z": 0.0
+            },
+            "stand_bottom_position": {
+                "x": 14.948399543762207,
+                "y": -136.0,
+                "z": 0.0
+            },
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "additional_1": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_2": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_3": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_4": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_5": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_6": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_7": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_8": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_9": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        },
+        "additional_10": {
+            "notif_icon_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "sleep_upper_position": {
+                "x": 4.756700038909912,
+                "y": 309.20001220703127,
+                "z": 0.0
+            }
+        }
+    },
+    "home_ui_position": {
+        "move": {
+            "position": {
+                "x": 0.0,
+                "y": -1.4600000381469727,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -2.6614017486572267,
+                "y": 6.05091667175293,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": -0.2854185104370117,
+                "y": 6.406800270080566,
+                "z": 0.0
+            }
+        },
+        "stand": {
+            "position": {
+                "x": -0.11999999731779099,
+                "y": -0.05000000074505806,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.12018620967865,
+                "y": 4.736230373382568,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.045534729957580569,
+                "y": 5.420056343078613,
+                "z": 0.0
+            }
+        },
+        "move_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "move_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        "stand_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "condition_icon_position": {
+                "x": -1.649999976158142,
+                "y": 2.4100000858306886,
+                "z": 0.0
+            },
+            "exp_gage_and_notification_position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    },
+    "shadow_data": {
+        "pokemon_id": 23,
+        "sleep_normal": {
+            "position": {
+                "x": -0.06063435971736908,
+                "y": -0.5658444166183472,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0596674680709839,
+                "y": 0.40770044922828677,
+                "z": 0.4257631003856659
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": -0.22260543704032899,
+                "y": -0.7830853462219238,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0637577772140504,
+                "y": 0.3191700577735901,
+                "z": 0.36042121052742007
+            },
+            "shear": {
+                "x": 0.09000754356384278,
+                "y": 0.0
+            }
+        },
+        "sleep_rare": {
+            "position": {
+                "x": -0.16492313146591187,
+                "y": -0.7076887488365173,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0804773569107056,
+                "y": 0.26439112424850466,
+                "z": 0.2807863652706146
+            },
+            "shear": {
+                "x": 0.07769215106964112,
+                "y": 0.0
+            }
+        },
+        "move": {
+            "position": {
+                "x": 0.008209705352783203,
+                "y": -0.7123561501502991,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.28158244490623476,
+                "z": 0.424133837223053
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand": {
+            "position": {
+                "x": 0.03665474057197571,
+                "y": -0.8441780805587769,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.091346025466919,
+                "y": 0.26355236768722536,
+                "z": 0.2881476879119873
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "move_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "stand_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.10000000149011612
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 0.5,
+                "z": 1.0
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    },
+    "collider_data": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "offset": {
+                "x": 0.5889378786087036,
+                "y": 2.6856627464294435
+            },
+            "size": {
+                "x": 7.121349334716797,
+                "y": 7.096632957458496
+            }
+        },
+        "sleep_drowse": {
+            "offset": {
+                "x": 0.3097977042198181,
+                "y": 4.02234411239624
+            },
+            "size": {
+                "x": 6.488848686218262,
+                "y": 9.063355445861817
+            }
+        },
+        "sleep_rare": {
+            "offset": {
+                "x": 0.44176697731018069,
+                "y": 4.904819965362549
+            },
+            "size": {
+                "x": 6.96506929397583,
+                "y": 11.046021461486817
+            }
+        },
+        "move": {
+            "offset": {
+                "x": 1.294175624847412,
+                "y": 3.6056509017944338
+            },
+            "size": {
+                "x": 7.94340181350708,
+                "y": 8.439188957214356
+            }
+        },
+        "stand": {
+            "offset": {
+                "x": 0.46326279640197756,
+                "y": 3.7025325298309328
+            },
+            "size": {
+                "x": 7.424233436584473,
+                "y": 8.971912384033204
+            }
+        },
+        "move_PH_2": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_2": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_3": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_3": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_4": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_4": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_5": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_5": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_6": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_6": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_7": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_7": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_8": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_8": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_9": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_9": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "move_PH_10": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "stand_PH_10": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_1": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_2": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_3": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_4": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_5": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_6": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_7": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_8": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_9": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        },
+        "additional_10": {
+            "offset": {
+                "x": 0.22834999859333039,
+                "y": 0.7911332249641419
+            },
+            "size": {
+                "x": 3.627518892288208,
+                "y": 3.383929967880249
+            }
+        }
+    },
+    "spine_size": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "size": {
+                "x": 2.742600202560425,
+                "y": 3.4054529666900636
+            },
+            "actionType": 2,
+            "faceType": 1
+        },
+        "sleep_drowse": {
+            "size": {
+                "x": 3.0870282649993898,
+                "y": 2.5381827354431154
+            },
+            "actionType": 2,
+            "faceType": 2
+        },
+        "sleep_rare": {
+            "size": {
+                "x": 3.559940814971924,
+                "y": 2.6067466735839845
+            },
+            "actionType": 2,
+            "faceType": 3
+        },
+        "move": {
+            "size": {
+                "x": 9.990551948547364,
+                "y": 1.0318886041641236
+            },
+            "actionType": 1,
+            "faceType": 0
+        },
+        "stand": {
+            "size": {
+                "x": 3.0733439922332765,
+                "y": 2.5382089614868166
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_2": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_2": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_3": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_3": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_4": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_4": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_5": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_5": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_6": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_6": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_7": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_7": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_8": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_8": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_9": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_9": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "move_PH_10": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "stand_PH_10": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_1": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_2": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_3": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_4": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_5": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_6": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_7": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_8": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_9": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        },
+        "additional_10": {
+            "size": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "actionType": 0,
+            "faceType": 0
+        }
+    },
+    "shiny_effect_data": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": -0.10301315784454346,
+                "y": 1.8577625751495362,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": -0.26337623596191409,
+                "y": 3.5092456340789797,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "sleep_rare": {
+            "position": {
+                "x": -0.29401981830596926,
+                "y": 3.372224807739258,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move": {
+            "position": {
+                "x": -0.9896726608276367,
+                "y": 3.4162328243255617,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand": {
+            "position": {
+                "x": -0.10350203514099121,
+                "y": 3.4512441158294679,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "move_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "stand_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        }
+    },
+    "snorlax_sleep": {
+        "sleeping_face_id": 1,
+        "snorlax_size": 2,
+        "size_params": {
+            "snorlax_size_1": {
+                "offset": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "snorlax_size_2": {
+                "offset": {
+                    "x": -0.010502010583877564,
+                    "y": 0.0815824568271637
+                }
+            },
+            "snorlax_size_3": {
+                "offset": {
+                    "x": -0.03986796736717224,
+                    "y": 0.21420645713806153
+                }
+            },
+            "snorlax_size_4": {
+                "offset": {
+                    "x": -0.025184988975524904,
+                    "y": 0.6987504959106445
+                }
+            }
+        },
+        "shadow": {
+            "x": 0.014237135648727417,
+            "y": -0.32899826765060427,
+            "scale": {
+                "x": 1.064001441001892,
+                "y": 0.8880162239074707
+            },
+            "shear": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    },
+    "offset_transform": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": -5,
+                "y": -15
+            },
+            "scale": 1.0,
+            "exact_scale": 0.85
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": 10,
+                "y": -45
+            },
+            "scale": 1.0,
+            "exact_scale": 0.8
+        },
+        "sleep_rare": {
+            "position": {
+                "x": 0,
+                "y": -60
+            },
+            "scale": 1.0,
+            "exact_scale": 0.75
+        },
+        "move": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand": {
+            "position": {
+                "x": -6.475698471069336,
+                "y": -46.81195068359375
+            },
+            "scale": 1.0,
+            "exact_scale": 0.7099124789237976
+        },
+        "move_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "move_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "stand_PH_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0,
+            "exact_scale": 1.0
+        }
+    },
+    "pokemon_box_offset_transform": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 1.0
+    },
+    "pokemon_sleep_popup_offset_transform": {
+        "pokemon_id": 0,
+        "sleep_normal": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_drowse": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "sleep_rare": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "on_snorlax": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_1": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_2": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_3": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_4": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_5": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_6": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_7": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_8": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_9": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        },
+        "additional_10": {
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "scale": 1.0
+        }
+    }
+}

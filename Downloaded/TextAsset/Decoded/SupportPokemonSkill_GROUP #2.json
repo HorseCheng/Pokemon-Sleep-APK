@@ -20,5 +20,6 @@
   "SkillEffect_Mimic_Miss": "Mimica fallita.",
   "SkillAction_SelectSkillRandom": "",
   "SkillEffect_CookingSuccessPerUp": "Vera bontà più probabile! (\u000e\u0002\u0002\u0002\u0000%)",
-  "SkillEffect_LunarBlessing": "La squadra recupera energie\n(+\u000e\u0002\u0004\u0004\u0000촁)! Ottenut\u000e\u0005\u0000\n\u0002a\u0002e촁 \u000e\u0002\u0003\u0004\u0001촁 bacc\u000e\u0005\u0000\f\u0002a\u0004he촁!"
+  "SkillEffect_LunarBlessing": "La squadra recupera energie\n(+\u000e\u0002\u0004\u0004\u0000촁)! Ottenut\u000e\u0005\u0000\n\u0002a\u0002e촁 \u000e\u0002\u0003\u0004\u0001촁 bacc\u000e\u0005\u0000\f\u0002a\u0004he촁!",
+  "SkillEffect_skill_20": "Snorlax ottiene una potenza di\n\u000e\u0002\u0004\u0004\u0000촁! L'energia dei Pokémon che\nnon sono di tipo Buio diminuisce\n(-\u000e\u0002\u0002\u0002\u0001)!"
 }

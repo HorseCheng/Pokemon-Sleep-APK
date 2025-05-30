@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "Este Pokémon no tiene ninguna\nhabilidad secundaria que pueda\nmejorarse, por lo que no puedes\nusar este objeto.",
   "BagSceneConsumableItemView_Text_22": "¡Habilidad secundaria mejorada!",
   "BagSceneConsumableItemView_Text_24": "Las habilidades secundarias de\n\u000e\u0003\u0001\u0002\u0000 no se pueden mejorar más.",
+  "BagSceneConsumableItemView_Text_27": "No puedes usar una Semilla Habilidad\nSecundaria en este Pokémon porque\nno tiene habilidades secundarias.",
   "BagSceneConsumableItemView_Text_25": "¡Tu equipo te ha proporcionado la\nayuda equivalente a \u000e\u0002\u0001\u0002\u0000 hora\u000e\u0007\u0000\b\u0000\u0002s촀!",
   "BagSceneConsumableItemView_Text_26": "No puedes volver a usar el Silbato de\nApoyo porque aún te quedan bayas o\ningredientes en la caja desde la última\nvez que lo usaste. Ve a la pantalla\nprincipal y toca la caja para recoger\nsu contenido.",
   "BagScene_FoodMaxOverPopup_Title": "No se puede usar",

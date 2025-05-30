@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5種寶可夢時",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "自己：\u000e\u0002\u0002\u0002\u0000個",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "隊伍中的寶可夢：\u000e\u0002\u0002\u0002\u0000個",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "卡比獸的能量增加\u000e\u0002\u0006\u0004\u0000촁，\n且讓幫手隊伍中惡屬性以外的寶可夢活力下降\u000e\u0002\u0002\u0002\u0001。",
   "PokemonBoxDetailScene_SleepRibbon": "獎章",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "睡飽飽獎章",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁小時之證",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "食材",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "擅長收集食材的寶可夢。\n能夠在1次幫忙中撿來較多的食材。",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "樹果",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "擅長收集樹果的寶可夢。\n能夠在1次幫忙中撿來較多的樹果。"
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "擅長收集樹果的寶可夢。\n能夠在1次幫忙中撿來較多的樹果。",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "全部",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "這隻寶可夢同時擁有專長為\n樹果、食材、技能時的所有特徵。"
 }

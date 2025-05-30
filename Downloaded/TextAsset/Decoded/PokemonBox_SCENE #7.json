@@ -118,6 +118,7 @@
   "PokemonBoxCannotReleasePopup_Desc_Sub_1": "Si quieres enviarlo, antes deberás \u000e\u0000\u0003\u0004毿Ｗquitarlo\nde tu lista de favoritos\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxCannotReleasePopup_Desc_Sub_2": "Si quieres enviarlo, antes deberás\n\u000e\u0000\u0003\u0004毿Ｗquitarlo de tus equipos de ayudantes\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxCannotReleasePopup_Desc_Sub_3": "No puedes enviar al profesor \u000e\u0000\u0003\u0004毿ＷPokémon\nespecialmente raros\u000e\u0000\u0003\u0004\u0000＀.",
+  "PokemonBoxCannotReleasePopup_Desc_Sub_4": "No puedes enviar \u000e\u0000\u0003\u0004毿ＷPokémon\nsingulares\u000e\u0000\u0003\u0004\u0000＀.",
   "PokemonBoxItemPopupCell_UseButton": "Usar",
   "PokemonBoxFilterPopup_LikeBerryButton": "Bayas favoritas de Snorlax",
   "PokemonBoxFilter_NoApplyPokemon": "No tienes ningún Pokémon que cumpla\nestos requisitos.",

@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "업그레이드할 수 있는\n서브 스킬이 없어\n사용할 수 없습니다",
   "BagSceneConsumableItemView_Text_22": "\u000e\u0003\u0001\u0002\u0000의 서브 스킬 레어도가 올랐습니다",
   "BagSceneConsumableItemView_Text_24": "\u000e\u0003\u0001\u0002\u0000의 서브 스킬 레어도는\n이미 상한에 도달했습니다",
+  "BagSceneConsumableItemView_Text_27": "서브 스킬이 없으므로\n서브 스킬 씨앗을 사용할 수 없습니다",
   "BagSceneConsumableItemView_Text_25": "포켓몬들이\n\u000e\u0002\u0001\u0002\u0000시간만큼 도와주었다!",
   "BagSceneConsumableItemView_Text_26": "전에 도우미 휘슬로 받은 상자 안에 나무열매 및\n식재료가 남아 있어 사용할 수 없습니다\n홈의 상자를 탭해서 모두 회수해 주십시오",
   "BagScene_FoodMaxOverPopup_Title": "사용할 수 없습니다",

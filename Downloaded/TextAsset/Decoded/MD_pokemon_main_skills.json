@@ -44,5 +44,7 @@
   "md_pokemon_main_skills_name_21": "きのみバースト",
   "md_pokemon_main_skills_desc_21": "きのみを\u000e\u0002\u0002\u0002\u0000個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する",
   "md_pokemon_main_skills_name_22": "みかづきのいのり(げんきオールS)",
-  "md_pokemon_main_skills_desc_22": "おてつだいチームのポケモンの\nげんきを\u000e\u0002\u0006\u0004\u0000촁回復し、\n自分とチームのきのみも獲得する"
+  "md_pokemon_main_skills_desc_22": "おてつだいチームのポケモンの\nげんきを\u000e\u0002\u0006\u0004\u0000촁回復し、\n自分とチームのきのみも獲得する",
+  "md_pokemon_main_skills_name_23": "ナイトメア(エナジーチャージM)",
+  "md_pokemon_main_skills_desc_23": "カビゴンのエナジーを\u000e\u0002\u0006\u0004\u0000촁増やす\n同時に、おてつだいチームの\nあくタイプ以外のポケモンのげんきが\u000e\u0002\u0002\u0002\u0001さがる"
 }

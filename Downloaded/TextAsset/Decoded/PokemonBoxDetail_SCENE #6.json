@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5 Pokémon que cumplan los requisitos",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "Este Pokémon: \u000e\u0002\u0002\u0002\u0000 baya\u000e\u0007\u0000\b\u0000\u0002s촀",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "Pokémon del equipo: \u000e\u0002\u0002\u0002\u0000 baya\u000e\u0007\u0000\b\u0000\u0002s촀",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "Aumenta \u000e\u0002\u0006\u0004\u0000촁 \u000e\u0007\u0000\u001c\npunto\fpuntos촀 el vigor de\nSnorlax, pero también reduce \u000e\u0002\u0002\u0002\u0001 \u000e\u0007\u0000\u001c\npunto\fpuntos촁\nla energía de los ayudantes que no sean de\ntipo Siniesto.",
   "PokemonBoxDetailScene_SleepRibbon": "Cinta",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "Cinta Buenas Noches",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁 hora\u000e\u0007\u0000\b\u0000\u0002s촀 de sueño compartido",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "Ingredientes",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "Pokémon especializado en recolectar\ningredientes, capaz por ejemplo de\nreunir cantidades mayores.",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "Bayas",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Pokémon especializado en recolectar\nbayas, capaz por ejemplo de reunir\ncantidades mayores."
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "Pokémon especializado en recolectar\nbayas, capaz por ejemplo de reunir\ncantidades mayores.",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "Todo",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "Las especialidades de este Pokémon\nson \"Bayas\", \"Ingredientes\" y\n\"Habilidades\"."
 }

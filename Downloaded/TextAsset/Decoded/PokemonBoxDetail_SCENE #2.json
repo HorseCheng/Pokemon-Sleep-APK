@@ -81,6 +81,7 @@
   "PokemonBoxDetailScene_main_skills_name_22_Text_7": "5 qualifying Pokémon",
   "PokemonBoxDetailScene_main_skills_name_22_Text_8": "Itself: \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀",
   "PokemonBoxDetailScene_main_skills_name_22_Text_9": "Pokémon on your team: \u000e\u0002\u0002\u0002\u0000 \u000e\u0001\u0000\u001e\nBerry\u000eBerries촀",
+  "PokemonBoxDetailScene_main_skills_name_23_Text_1": "Increases Snorlax’s Strength by \u000e\u0002\u0006\u0004\u0000촁,\nbut at the same time, reduces the Energy of\nhelper Pokémon on your team that aren’t\nDark type by \u000e\u0002\u0002\u0002\u0001.",
   "PokemonBoxDetailScene_SleepRibbon": "Ribbon",
   "PokemonBoxDetailScene_SleepRibbonPopup_Title": "Good-Night Ribbon",
   "PokemonBoxDetailScene_SleepRibbonPopup_RibbonName": "\u000e\u0002\u0005\u0004\u0000촁 sleep hours shared",
@@ -111,5 +112,7 @@
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Header": "Ingredients",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Ingredients_Text_1": "This Pokémon has a specialty related\nto ingredients, such as gathering \nmore than other Pokémon.",
   "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Header": "Berries",
-  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "This Pokémon has a specialty related\nto Berries, such as gathering more\nBerries than other Pokémon."
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_Berry_Text_1": "This Pokémon has a specialty related\nto Berries, such as gathering more\nBerries than other Pokémon.",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Header": "All",
+  "PokemonBoxDetailScene_SpecialtyDetailPopup_All_Text_1": "This Pokémon has specialties related\nto Berries, ingredients, and skills."
 }

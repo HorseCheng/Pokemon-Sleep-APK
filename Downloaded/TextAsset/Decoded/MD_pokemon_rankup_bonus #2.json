@@ -36,5 +36,7 @@
   "md_pokemon_rankup_bonus_name_18": "Skill Level Up M",
   "md_pokemon_rankup_bonus_desc_18": "Boosts the level of this Pokémon’s\nmain skill by \u000e\u0002\u0001\u0002\u0000.",
   "md_pokemon_rankup_bonus_name_19": "Inventory Up L",
-  "md_pokemon_rankup_bonus_desc_19": "Increases the max number of Berries\nand ingredients this Pokémon can have\nby \u000e\u0002\u0001\u0002\u0000."
+  "md_pokemon_rankup_bonus_desc_19": "Increases the max number of Berries\nand ingredients this Pokémon can have\nby \u000e\u0002\u0001\u0002\u0000.",
+  "md_pokemon_rankup_bonus_name_0": "—",
+  "md_pokemon_rankup_bonus_desc_0": "No sub skill."
 }

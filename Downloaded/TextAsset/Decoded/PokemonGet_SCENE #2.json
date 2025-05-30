@@ -1,6 +1,7 @@
 {
   "PokemonGetScene_Header_Title": "포켓몬 GET",
   "PokemonGetScene_Content_Title": "프렌드 레벨 \u000e\u0002\u0002\u0002\u0000 달성!",
+  "PokemonGetScene_Content_Title_2": "프렌드 포인트 MAX 달성!",
   "PokemonGetScene_Content_Desc": "새로 동료가 되었습니다",
   "PokemonGetScene_Content_Detail_Name": "\u000e\u0003\u0001\u0002\u0000",
   "PokemonGetScene_Content_Detail_Rank": "Lv.\u000e\u0002\u0002\u0002\u0000",

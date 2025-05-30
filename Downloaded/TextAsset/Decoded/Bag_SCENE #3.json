@@ -67,6 +67,7 @@
   "BagScene_CannotUseSubSkillItem_PopupMessage": "Il Pokémon non ha abilità secondarie\nda potenziare, perciò non puoi usare\nquesto strumento.",
   "BagSceneConsumableItemView_Text_22": "Ora l'abilità secondaria ha\nuna qualità superiore!",
   "BagSceneConsumableItemView_Text_24": "Le abilità secondarie di \u000e\u0003\u0001\u0002\u0000\nsono già della qualità più alta.",
+  "BagSceneConsumableItemView_Text_27": "Non puoi usare un Seme abilità\nsecondaria su questo Pokémon\nperché non ha abilità secondarie.",
   "BagSceneConsumableItemView_Text_25": "La tua squadra ti ha dato subito\nl'aiuto di \u000e\u0002\u0001\u0002\u0000 h!",
   "BagSceneConsumableItemView_Text_26": "Ti sono rimaste delle bacche o degli\ningredienti dall'ultima volta che hai\nusato un Fischietto aiutanti, perciò\nnon puoi ancora usarne un altro.\nTocca il riquadro nella schermata\nprincipale per raccogliere quelli\nrimasti dall'ultima volta.",
   "BagScene_FoodMaxOverPopup_Title": "Strumento non utilizzabile",
