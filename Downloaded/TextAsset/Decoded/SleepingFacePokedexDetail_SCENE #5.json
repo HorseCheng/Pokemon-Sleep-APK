@@ -8,5 +8,8 @@
   "SleepingFacePokedexDetailScene_Header_SleepType": "\u000e\u0003\u0004\u0002\u0000-Typ",
   "SleepingFacePokedexDetailScene_Header_ResearchCount": "Erforscht: \u000e\u0002\u0001\u0002\u0000",
   "SleepingFacePokedexDetailScene_Header_GetCount": "Befreundet: \u000e\u0002\u0003\u0004\u0000촁",
-  "SleepingFacePokedexDetailScene_Content_BonusSetting": "Bonuseinstellungen"
+  "SleepingFacePokedexDetailScene_Content_BonusSetting": "Bonuseinstellungen",
+  "021_00_0_head": "Detaillierte Informationen",
+  "021_02(101)_0_Text_1": "Max. Freundespunkte",
+  "021_02(101)_0_Num_1": "\u000e\u0002\t\u0004\u0000촁 Mal"
 }

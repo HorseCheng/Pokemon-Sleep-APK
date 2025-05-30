@@ -79,6 +79,7 @@
   "ShopScene_Dia_Detail_0": "Diamond Balance",
   "ShopScene_Dia_Detail_1": "Paid diamonds: \u000e\u0002\u0007\u0004\u0000촁\nNon-paid diamonds: \u000e\u0002\u0007\u0004\u0001촁\n\n(Paid diamonds will be used first.)",
   "ShopScene_Item_Detail_0": "Transaction",
+  "ShopScene_Item_Detail_100": "In Stock",
   "ShopScene_Item_Detail_1": "Number Held: \u000e\u0002\u0006\u0004\u0000촁",
   "ShopScene_Item_Detail_1_NoDiaVer": "Number Held: \u000e\u0002\u0006\u0004\u0000촁",
   "ShopScene_Item_Detail_2": "Description",

@@ -115,6 +115,7 @@
   "item_exchange_name_98": "Moneda Modorra",
   "item_baitball_name_99": "Galleta Cresselia",
   "item_exchange_name_100": "Pluma de Cresselia",
+  "item_name_101": "Semilla Eureka (\u000e\u0003\u0001\u0002\u0000)",
   "item_desc_1": "Duplica la EXP de estudio obtenida\ntras una sesión de estudio del sueño.\nSe consume al usarlo.",
   "item_desc_2": "Duplica la cantidad de fragmentos de\nsueños obtenidos tras una sesión de\nestudio. Se consume al usarlo.",
   "item_desc_3": "Duplica la EXP de los Pokémon\nayudantes tras una sesión de estudio.\nSe consume al usarlo.",
@@ -161,6 +162,9 @@
   "item_desc_95": "Dulce especial que aumenta mucho el\nnivel de amistad de Suicune.\nProporciona seis puntos de amistad.\n\n\u000e\n\u0000\u0002촀Una vez finalizado el período de\nintercambio en el rincón de\nintercambio del evento, se convertirá\nautomáticamente en una Supergalleta.\nConsulta la sección Noticias para\nconocer más detalles.\u000f\n\u0000",
   "item_desc_97": "Afilada garra que hace evolucionar\na determinadas especies de Pokémon.",
   "item_desc_99": "Dulce especial que aumenta mucho el\nnivel de amistad de Cresselia.\nProporciona seis puntos de amistad.\n\n\u000e\n\u0000\u0002촀Una vez finalizado el período de\nintercambio en el rincón de\nintercambio del evento, se convertirá\nautomáticamente en una Supergalleta.\nConsulta la sección Noticias para\nconocer más detalles.\u000f\n\u0000",
+  "item_desc_101": "Semilla misteriosa que puede extraer\nel poder de \u000e\u0003\u0001\u0002\u0000.\nObtenido como regalo conmemorativo\nde tu amistad con \u000e\u0003\u0001\u0002\u0000.",
+  "item_desc_101_ex_1": "Te permitirá elegir un ingrediente\no una habilidad secundaria que\ndesbloquear o cambiar de entre\nlos recursos de ayuda de\n\u000e\u0003\u0001\u0002\u0000.\nSe asignará un nuevo recurso de ayuda\nal azar.",
+  "item_desc_101_ex_2": "Si la conviertes en caramelos,\nobtendrás \u000e\u0002\u0003\u0004\u0001촁 Caramelo\u000e\u0007\u0000\b\u0000\u0002s촀 \u000e\u0003\u0001\u0002\u0000.",
   "item_desc_short_1": "Duplica la EXP de estudio recibida\ntras un estudio del sueño.",
   "item_desc_short_2": "Duplica los fragmentos de sueños\nrecibidos tras un estudio del sueño.",
   "item_desc_short_3": "Duplica la EXP que reciben los\nPokémon ayudantes tras un estudio\ndel sueño.",
@@ -205,5 +209,7 @@
   "item_desc_short_94": "Dulce que aumenta mucho el nivel\nde amistad de un Pokémon.\nOtorga cinco puntos de amistad.",
   "item_desc_short_95": "Dulce especial que aumenta mucho\nel nivel de amistad de Suicune.\nProporciona seis puntos de amistad.",
   "item_desc_short_97": "Afilada garra que hace evolucionar\na determinadas especies de\nPokémon.",
-  "item_desc_short_99": "Dulce especial que aumenta mucho\nel nivel de amistad de Cresselia.\nProporciona seis puntos de amistad."
+  "item_desc_short_99": "Dulce especial que aumenta mucho\nel nivel de amistad de Cresselia.\nProporciona seis puntos de amistad.",
+  "item_desc_short_101": "Semilla misteriosa que puede extraer\nel poder de \u000e\u0003\u0001\u0002\u0000.",
+  "item_Name_narrow_name_101": "Semilla Eureka\n(\u000e\u0003\u0001\u0002\u0000)"
 }
