@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "No puedes dar una \u000e\u0003\u0003\u0004Ā촀\na este Pokémon.",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Objetos de evento",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Revisión rápida",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Siguiente\nPokémon"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Siguiente\nPokémon",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "¡Se ha acumulado poder Zzz global!",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "Tu poder Zzz ha surtido efecto.",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "Poder Zzz personal: ",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "Poder Zzz global: ",
+  "SleepResearch_SCENE_EventSleepPower_Title": "Poder Zzz de evento",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "Rango \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "Rango",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "Objetivo de poder Zzz:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "Sig. rango disponible:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000 a las \u000e\t\u0000\f\bh:mm\u0001 ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "El poder Zzz acumulado por todo\nel mundo ha debilitado un poco\nel poder de Darkrai.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "El poder Zzz que has acumulado\nha debilitado un poco el poder\nde Darkrai.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "¡El poder Zzz acumulado por\ntodo el mundo ha debilitado\nbastante el poder de Darkrai!",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "¡El poder Zzz que has acumulado\nha debilitado bastante el poder\nde Darkrai!",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "Premios recibidos",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "Premios por rango del evento"
 }

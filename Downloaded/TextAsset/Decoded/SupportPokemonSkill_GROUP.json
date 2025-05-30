@@ -19,5 +19,6 @@
   "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀 imitiert!",
   "SkillEffect_Mimic_Miss": "Mimikry ist fehlgeschlagen...",
   "SkillAction_SelectSkillRandom": "",
-  "SkillEffect_CookingSuccessPerUp": "Köstliche Gerichte \u000e\u0002\u0002\u0002\u0000 % häufiger!"
+  "SkillEffect_CookingSuccessPerUp": "Köstliche Gerichte \u000e\u0002\u0002\u0002\u0000 % häufiger!",
+  "SkillEffect_LunarBlessing": "Die Energie deines Teams wurde um\n\u000e\u0002\u0004\u0004\u0000촁 aufgefüllt!\n\u000e\u0002\u0003\u0004\u0000촁 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 erhalten!"
 }

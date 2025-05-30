@@ -19,5 +19,6 @@
   "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀\u000e\b\u0000\u0002촂 흉내 냈다!",
   "SkillEffect_Mimic_Miss": "흉내내기는 실패하고 말았다",
   "SkillAction_SelectSkillRandom": "",
-  "SkillEffect_CookingSuccessPerUp": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 올랐다!"
+  "SkillEffect_CookingSuccessPerUp": "요리의 대성공 확률이 \u000e\u0002\u0002\u0002\u0000% 올랐다!",
+  "SkillEffect_LunarBlessing": "팀의 기력 \u000e\u0002\u0004\u0004\u0000촁 회복!\n나무열매 \u000e\u0002\u0003\u0004\u0001촁개 획득!"
 }

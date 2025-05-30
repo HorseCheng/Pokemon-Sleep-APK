@@ -19,5 +19,6 @@
   "SkillEffect_Mimic": "\u000e\u0003\n\u0002촀のものまねをした！",
   "SkillEffect_Mimic_Miss": "ものまねは うまく決まらなかった",
   "SkillAction_SelectSkillRandom": "",
-  "SkillEffect_CookingSuccessPerUp": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000％上がった！"
+  "SkillEffect_CookingSuccessPerUp": "料理の大成功確率が\u000e\u0002\u0002\u0002\u0000％上がった！",
+  "SkillEffect_LunarBlessing": "チームのげんきが\u000e\u0002\u0004\u0004\u0000촁回復！\nきのみを\u000e\u0002\u0003\u0004\u0001촁個ゲット！"
 }

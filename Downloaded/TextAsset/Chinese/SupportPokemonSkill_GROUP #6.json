@@ -19,5 +19,6 @@
   "SkillEffect_Mimic": "模仿了\u000e\u0003\n\u0002촀！",
   "SkillEffect_Mimic_Miss": "模仿沒有成功。",
   "SkillAction_SelectSkillRandom": "",
-  "SkillEffect_CookingSuccessPerUp": "料理漂亮成功的機率提升\u000e\u0002\u0002\u0002\u0000％了！"
+  "SkillEffect_CookingSuccessPerUp": "料理漂亮成功的機率提升\u000e\u0002\u0002\u0002\u0000％了！",
+  "SkillEffect_LunarBlessing": "隊伍的活力回復\u000e\u0002\u0004\u0004\u0000촁！\n獲得\u000e\u0002\u0003\u0004\u0001촁個樹果！"
 }

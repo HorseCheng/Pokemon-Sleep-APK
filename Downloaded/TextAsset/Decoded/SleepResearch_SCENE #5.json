@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "このポケモンには\u000e\u0003\u0003\u0004Ā촀を\nあげることは出来ません",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "イベントアイテム",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "一括で\nリサーチ",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "つぎの\nポケモンへ"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "つぎの\nポケモンへ",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "みんなのねむけパワーも集まってきた！",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "ねむけパワーが影響を与える",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "じぶんのねむけパワー：",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "みんなのねむけパワー：",
+  "SleepResearch_SCENE_EventSleepPower_Title": "イベントねむけパワー",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "ランク \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "ランク",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "次の目標ねむけパワー",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "次のイベントランク開放：",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000 \u000e\t\u0000\f\bh:mm\u0001 ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "みんなのねむけパワーが集まり\nダークライの力が少し弱まったようだ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "ねむけパワーが集まり\nダークライの力が少し弱まったようだ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "みんなのねむけパワーが集まり\nダークライの力がかなり弱まった！",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "ねむけパワーが集まり\nダークライの力がかなり弱まった！",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "報酬を受け取りました",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "イベントランク達成報酬"
 }

@@ -42,5 +42,7 @@
   "md_pokemon_main_skills_name_20": "ものまね(スキルコピー)",
   "md_pokemon_main_skills_desc_20": "ランダムでチームのポケモン1匹の\nメインスキルをコピーしてくりだす",
   "md_pokemon_main_skills_name_21": "きのみバースト",
-  "md_pokemon_main_skills_desc_21": "きのみを\u000e\u0002\u0002\u0002\u0000個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する"
+  "md_pokemon_main_skills_desc_21": "きのみを\u000e\u0002\u0002\u0002\u0000個獲得し、\nさらにチーム内のポケモンのきのみも\n\u000e\u0002\u0002\u0002\u0001個ずつ獲得する",
+  "md_pokemon_main_skills_name_22": "みかづきのいのり(げんきオールS)",
+  "md_pokemon_main_skills_desc_22": "おてつだいチームのポケモンの\nげんきを\u000e\u0002\u0006\u0004\u0000촁回復し、\n自分とチームのきのみも獲得する"
 }

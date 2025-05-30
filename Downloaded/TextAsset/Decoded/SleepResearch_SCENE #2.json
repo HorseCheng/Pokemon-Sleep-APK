@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Non puoi dare lo strumento\n\u000e\u0003\u0003\u0004Ā촀\na questo Pokémon.",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Strumenti evento",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Studio rapido",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Pokémon\nsuccessivo"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Pokémon\nsuccessivo",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "Potere sonno globale accumulato!",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "Il tuo potere sonno ha avuto effetto!",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "Potere sonno personale: ",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "Potere sonno globale: ",
+  "SleepResearch_SCENE_EventSleepPower_Title": "Potere sonno evento",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "Grado \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "Grado",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "Prossimo obiettivo:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "Sblocco grado evento:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000 ore \u000e\t\u0000\f\bh:mm\u0001",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "Si è accumulato potere sonno\nglobale e i poteri di Darkrai\nsi sono indeboliti un po'.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "Il potere sonno personale che\nhai accumulato ha indebolito\nun po' i poteri di Darkrai.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "Si è accumulato potere sonno\nglobale e i poteri di Darkrai\nsi sono indeboliti di molto!",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "Il potere sonno personale che\nhai accumulato ha indebolito\ndi molto i poteri di Darkrai!",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "Ricompense ricevute",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "Ricompense grado evento"
 }

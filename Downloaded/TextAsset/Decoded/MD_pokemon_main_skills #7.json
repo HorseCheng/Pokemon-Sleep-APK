@@ -42,5 +42,7 @@
   "md_pokemon_main_skills_name_20": "Mimikry (Fähigkeitsimitation)",
   "md_pokemon_main_skills_desc_20": "Kopiert das Haupttalent eines\nzufällig ausgewählten Pokémon im\nTeam und setzt es ein.",
   "md_pokemon_main_skills_name_21": "Beerenregen",
-  "md_pokemon_main_skills_desc_21": "Du erhältst \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 sowie\njeweils \u000e\u0002\u0002\u0002\u0001 der Beeren, die andere\nPokémon im Team sammeln."
+  "md_pokemon_main_skills_desc_21": "Du erhältst \u000e\u0002\u0002\u0002\u0000 \u000e\u0006\u0000\u001c\nBeere\fBeeren촀 sowie\njeweils \u000e\u0002\u0002\u0002\u0001 der Beeren, die andere\nPokémon im Team sammeln.",
+  "md_pokemon_main_skills_name_22": "Lunargebet (Rundum-Energie S)",
+  "md_pokemon_main_skills_desc_22": "Füllt die Energie aller Pokémon deines Teams\num \u000e\u0002\u0006\u0004\u0000촁 auf und du erhältst Beeren, die es\nselbst und die Pokémon des Teams sammeln."
 }

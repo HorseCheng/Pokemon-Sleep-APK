@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "Diesem Pokémon kannst du das\nfolgende Item nicht geben:\n\u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event-Items",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Schneller\nÜberblick",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Zum nächsten\nPokémon"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "Zum nächsten\nPokémon",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "Schlafkraft von allen gesammelt!",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "Deine Schlafkraft wirkt.",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "Eigene Schlafkraft: ",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "Globale Schlafkraft: ",
+  "SleepResearch_SCENE_EventSleepPower_Title": "Event-Schlafkraft",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "Rang \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "Rang",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "Nächstes Ziel:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "Nächster Event-Rang:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000, \u000e\t\u0000\f\bh:mm\u0001 Uhr",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "Die vereinte Schlafkraft von\nallen hat Darkrais Kraft leicht\ngeschwächt.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "Deine gesammelte Schlafkraft\nhat Darkrais Kraft leicht\ngeschwächt.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "Die vereinte Schlafkraft von\nallen hat Darkrais Kraft stark\ngeschwächt!",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "Deine gesammelte Schlafkraft\nhat Darkrais Kraft stark\ngeschwächt!",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "Erhaltene Belohnungen",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "Eventrang-Belohnungen"
 }

@@ -1,0 +1,6 @@
+effect-moon-particle.png
+size:256,256
+filter:Linear,Linear
+effect-moon
+bounds:2,10,225,217
+offsets:393,401,1020,1020

@@ -74,5 +74,9 @@
   "Tutorial_NewComerBonusPopup_Text_3_2": "- Puntos de sueño adicionales \u000e\u0000\u0003\u0004ꈝ￿×\u000e\u0002\u0002\u0002\u0000\u000e\u0000\u0003\u0004\u0000＀.\n- Se sumará a tu estudio del sueño \u000e\u0000\u0003\u0004ꈝ￿un Pokémon\nque estará hambriento\u000e\u0000\u0003\u0004\u0000＀ a la hora del picoteo.",
   "Tutorial_NewComerBonusPopup_Text_4_1": "• Ventaja 2",
   "Tutorial_NewComerBonusPopup_Text_4_2": "- Tras completar una semana de estudio, tu\nbonus de zona aumentará un \u000e\u0000\u0003\u0004ꈝ￿\u000e\u0002\u0001\u0002\u0000 %\u000e\u0000\u0003\u0004\u0000＀ (hasta que\nla suma total de todos tus bonus de zona\nalcance el \u000e\u0002\u0002\u0002\u0001 %).",
-  "Tutorial_Illust_Desc_Cramomatic": "El Cramobot de\nCaramelos"
+  "Tutorial_Illust_Desc_Cramomatic": "El Cramobot de\nCaramelos",
+  "Tutorial_AboutEventSleepBonus_1": "Bonus por poder Zzz",
+  "Tutorial_AboutEventSleepBonus_1_Text_1": "Añade a Cresselia a tu equipo.",
+  "Tutorial_AboutEventSleepBonus_1_Text_2": "Durante el evento Cresselia contra Darkrai,\nsi \u000e\u0000\u0003\u0004毿ＷCresselia \u000e\u0000\u0003\u0004\u0000＀está en tu equipo mientras\nduermes, el \u000e\u0000\u0003\u0004毿Ｗpoder Zzz se multiplicará por 1,2\u000e\u0000\u0003\u0004\u0000＀.",
+  "Tutorial_AboutEventSleepBonus_1_Text_3": "¡Acumula poder Zzz con ayuda de Cresselia\ny mantén a raya el poder de Darkrai!"
 }

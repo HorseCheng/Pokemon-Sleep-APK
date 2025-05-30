@@ -1,0 +1,10 @@
+effect-particle-B.png
+size:256,256
+filter:Linear,Linear
+particle-cross
+bounds:2,99,90,69
+offsets:460,475,1020,1020
+particle-green
+bounds:94,97,71,74
+offsets:477,471,1020,1020
+rotate:90

@@ -1,0 +1,10 @@
+effect-light-ray.png
+size:512,512
+filter:Linear,Linear
+effect-light-ray
+bounds:2,174,199,191
+offsets:412,395,1020,1020
+effect-light-ray-blue
+bounds:203,190,175,162
+offsets:418,429,1020,1020
+rotate:90

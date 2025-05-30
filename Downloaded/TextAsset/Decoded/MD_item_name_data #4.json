@@ -113,6 +113,8 @@
   "item_name_97": "Scharfklaue",
   "item_name_98": "Traummünze",
   "item_exchange_name_98": "Traummünze",
+  "item_baitball_name_99": "Cresselia-Keks",
+  "item_exchange_name_100": "Cresselia-Flaum",
   "item_desc_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte. Wird\nnach einer Anwendung aufgebraucht.",
   "item_desc_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter. Wird nach\neiner Anwendung aufgebraucht.",
   "item_desc_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.\nWird nach einer Anwendung\naufgebraucht.",
@@ -157,6 +159,7 @@
   "item_desc_94": "Ein leckerer Snack, der ein Pokémon\nenorm freundlicher stimmt. Dieser\nKeks verleiht 5 Freundespunkte.",
   "item_desc_95": "Ein spezieller Snack für Suicune, der\nes erheblich freundlicher stimmt.\nDieser Keks erhöht Suicunes\nFreundespunkte um 6.\n\n\u000e\n\u0000\u0002촀Hinweis: Wenn der Zeitraum für den\nEvent-Tausch abgelaufen ist, wird\ndieses Item automatisch in einen\nSuperkeks umgewandelt. Die genauen\nDaten für den Tauschzeitraum findest\ndu in den Event-Neuigkeiten.\u000f\n\u0000",
   "item_desc_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die Entwicklung\naus.",
+  "item_desc_99": "Ein spezieller Snack für Cresselia, der\nes erheblich freundlicher stimmt.\nDieser Keks erhöht Cresselias\nFreundespunkte um 6.\n\n\u000e\n\u0000\u0002촀Hinweis: Wenn der Tauschzeitraum\ndes Event-Tauschs endet, wird dieses\nItem automatisch in einen Superkeks\numgewandelt. Bitte überprüfe den\ngenauen Tauschzeitraum in den\nNeuigkeiten im Spiel.\u000f\n\u0000",
   "item_desc_short_1": "Verdoppelt die bei Schlafforschung\nerhaltenen Forschungspunkte.",
   "item_desc_short_2": "Verdoppelt die bei Schlafforschung\nerhaltenen Traumsplitter.",
   "item_desc_short_3": "Verdoppelt die von Helfer-Pokémon\nbei Schlafforschung erhaltenen EP.",
@@ -199,5 +202,6 @@
   "item_desc_short_92": "Ein spezieller Snack nur für Entei.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher.",
   "item_desc_short_94": "Ein leckerer Snack, der ein Pokémon\nenorm freundlicher stimmt.\nVerleiht 5 Freundespunkte.",
   "item_desc_short_95": "Ein spezieller Snack für Suicune.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher.",
-  "item_desc_short_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die\nEntwicklung aus."
+  "item_desc_short_97": "Diese scharfe Klaue löst bei\nbestimmten Pokémon die\nEntwicklung aus.",
+  "item_desc_short_99": "Ein spezieller Snack für Cresselia.\nVerleiht 6 Freundespunkte und\nstimmt es erheblich freundlicher."
 }

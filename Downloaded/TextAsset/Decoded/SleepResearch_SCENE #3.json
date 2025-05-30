@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "You can’t give the following item\nto this Pokémon: \u000e\u0003\u0003\u0004Ā촀",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "Event Items",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "Speed Review",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "To next\nPokémon"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "To next\nPokémon",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "Everyone’s Drowsy Power accumulated!",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "Your Drowsy Power has an impact.",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "Personal Drowsy Power: ",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "Global Drowsy Power: ",
+  "SleepResearch_SCENE_EventSleepPower_Title": "Event Drowsy Power",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "Rank \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "Rank",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "Next Drowsy Power Goal: ",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "Next rank unlock:",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000 \u000e\t\u0000\f\bh:mm\u0001 ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "Everyone’s Drowsy Power has\ncombined and weakened\nDarkrai’s power slightly.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "Your own accumulated Drowsy\nPower has weakened Darkrai’s\npower slightly.",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "Everyone’s Drowsy Power has\ncombined and weakened\nDarkrai’s power significantly!",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "Your own accumulated Drowsy\nPower has weakened Darkrai’s\npower significantly!",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "Rewards Received",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "Event Rank Rewards"
 }

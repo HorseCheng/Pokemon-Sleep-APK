@@ -101,5 +101,22 @@
   "SleepResearch_Scene_UniqueBaitBall_Unusable": "無法給這隻寶可夢吃\n\u000e\u0003\u0003\u0004Ā촀。",
   "SleepResearch_SCENE_EventItemGet_Popup_Title": "活動道具",
   "SleepResearch_SCENE_ResearchButtonBalloon_1_v220": "快速研究",
-  "SleepResearch_SCENE_ResearchButtonBalloon_2": "下一隻寶可夢"
+  "SleepResearch_SCENE_ResearchButtonBalloon_2": "下一隻寶可夢",
+  "SleepResearch_SCENE_EventSleepPower_Num": "+\u000e\u0002\t\u0004\u0000촁",
+  "SleepResearch_SCENE_EventSleepPower_Text_1": "大家的睡意之力也匯聚過來了！",
+  "SleepResearch_SCENE_EventSleepPower_Text_2": "睡意之力帶來了影響……",
+  "SleepResearch_SCENE_EventSleepPower_MyPower": "自己的睡意之力：",
+  "SleepResearch_SCENE_EventSleepPower_OurPower": "大家的睡意之力：",
+  "SleepResearch_SCENE_EventSleepPower_Title": "活動睡意之力",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank": "級別 \u000e\u0002\u0001\u0002\u0000",
+  "SleepResearch_SCENE_EventSleepPower_CurrentEventRank_Ingame": "級別",
+  "SleepResearch_SCENE_EventSleepPower_Text3_1": "下一個目標",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2": "後續活動級別開放日：",
+  "SleepResearch_SCENE_EventSleepPower_Text3_2_1": "\u000e\t\u0000\"\u001eyyyyyMMMddd_aaa\u0000 \u000e\t\u0000\f\bh:mm\u0001 ",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1": "大家的睡意之力匯聚後，\n達克萊伊的力量似乎稍微減弱了。",
+  "SleepResearch_SCENE_EventSleepPower_Text4_1_1": "睡意之力匯聚後，\n達克萊伊的力量似乎稍微減弱了。",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2": "大家的睡意之力匯聚後，\n達克萊伊的力量似乎減弱許多了！",
+  "SleepResearch_SCENE_EventSleepPower_Text4_2_1": "睡意之力匯聚後，\n達克萊伊的力量似乎減弱許多了！",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupTitle": "已領取報酬",
+  "SleepResearch_SCENE_EventSleepPower_RewardPopupText": "活動級別報酬"
 }
