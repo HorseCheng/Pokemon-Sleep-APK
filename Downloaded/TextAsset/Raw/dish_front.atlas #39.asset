@@ -9,8 +9,9 @@ dish-under_1
 bounds:2,418,414,244
 offsets:397,445,1200,1200
 dish_1
-bounds:170,189,162,227
-offsets:517,529,1200,1200
+bounds:2,105,311,243
+offsets:446,461,1200,1200
+rotate:90
 dish_2
-bounds:2,184,166,232
-offsets:514,563,1200,1200
+bounds:247,100,302,209
+offsets:454,514,1200,1200
